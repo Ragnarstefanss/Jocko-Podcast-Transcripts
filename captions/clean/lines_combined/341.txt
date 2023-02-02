@@ -1,0 +1,2240 @@
+00:00:00.000 --> 00:00:07.000 This is Jockel Podcast number 341 with Carrie Helton and me, Jockel Willink. Good evening, Carrie.
+00:00:07.000 --> 00:00:13.000 Good evening. Also joining us tonight, Dave Burke, good evening, Dave. Good evening.
+00:00:13.000 --> 00:00:21.80 To Steve Prasanka, who showed us how to soldier to Henry DeBouer, who showed us how to die, to
+00:00:21.80 --> 00:00:35.80 clever John's who showed us how to lead, and to all the doughboys, the ground pounders, the grunts, the American infantryman, past, present, and especially future.
+00:00:35.80 --> 00:00:41.80 To them, this book is dedicated.
+00:00:41.80 --> 00:00:48.80 And that, of course, is the opening dedication of the book about face by Colonel David Hackworth.
+00:00:48.80 --> 00:00:56.80 I guess it's been a steady sort of just constant in my life to be reading this book over and over again.
+00:00:56.80 --> 00:01:04.80 And I was thinking about that line the other day to Glover Johns, who showed us how to lead.
+00:01:04.80 --> 00:01:07.80 And that's a bold statement, right?
+00:01:07.80 --> 00:01:13.80 For him to put in the beginning of the book to talk about Glover Johns, who showed us how to lead.
+00:01:13.80 --> 00:01:25.80 And I started thinking about, I don't think I'd really given the attention that I needed to, or that I've, that I've needed to, to Glover Johns.
+00:01:25.80 --> 00:01:29.80 Now look, we've talked Glover Johns, we've covered Glover Johns on this podcast.
+00:01:29.80 --> 00:01:35.80 He wrote the book, The Clay Pigeon, some say, low, we covered on podcast 87.
+00:01:35.80 --> 00:01:41.80 But in this book, Hackworth kind of breaks down some of the stuff that he said.
+00:01:41.80 --> 00:01:49.80 Some of his, some of Glover Johns leadership philosophy in a simple straightforward and powerful way.
+00:01:49.80 --> 00:01:54.80 That is, well worth studying, definitely some things that we can get into.
+00:01:54.80 --> 00:01:58.80 So, yeah, if you want to go listen to podcast 87, go back and do that.
+00:01:58.80 --> 00:02:04.80 This is going to be about the leadership principles, not about the battle of St. Low at the, the Clay Pigeons.
+00:02:04.80 --> 00:02:10.80 So, before we get into that, let me give you the, a little bit of background in case you're just going to jump into this podcast about Glover Johns.
+00:02:10.80 --> 00:02:14.80 About Glover Johns is from about face. Here's a little intro.
+00:02:14.80 --> 00:02:18.80 To who Glover Johns is?
+00:02:18.80 --> 00:02:23.80 Hackworth says, I was to report to eighth division, first battle group, 18th Infantry.
+00:02:23.80 --> 00:02:35.80 It was a nice twist to fate. The unit was a direct descendant of the US 18th, which my great, great grandfather, Jeremiah, and his eldest son, George Washington Hackworth,
+00:02:35.80 --> 00:02:46.80 belonged to when they fought their Hackworth cousin Billy, who was with the Bedford's Forest Tennis E.C. calf during this of a war.
+00:02:46.80 --> 00:02:49.80 So, he's good to do has a connect.
+00:02:49.80 --> 00:02:55.80 Can you imagine having your relative, be fighting for the union army and you're in the same unit?
+00:02:55.80 --> 00:03:14.80 The 18th was military perfection. Men stepped smartly across meticulously kept grounds, starched uniforms, blue infantry scarves, dazzling, shined brass and boots, snappy salutes, and cheerful, good afternoon, sirs, marked my journey to the HQ where I'd sign in.
+00:03:14.80 --> 00:03:23.80 The spirit of this fine unit was already infecting me. The hot, stifling, windless day, the ragweed pollen that blew in from the adjacent fields,
+00:03:23.80 --> 00:03:30.80 covering the camp and immediately activating my hay fever, the run down boring camp itself, none of it mattered.
+00:03:30.80 --> 00:03:38.80 I was inwardly, as inwardly I was transported to an island oasis untouched by turbulent seas.
+00:03:38.80 --> 00:03:50.80 And it was all thanks to one man. The Battle Group commanding officer, who would forever, after be my model, mentor and friend.
+00:03:50.80 --> 00:04:00.80 Colonel Glover S. Johns was the finest senior infantry commander I'd ever seen or would ever see again.
+00:04:00.80 --> 00:04:08.80 We shared a mutual abiding respect, almost from the moment we met. He was my kind of soldier and I was his. He was a warrior.
+00:04:08.80 --> 00:04:17.80 Patent's aide before World War II. Then during the war he'd hit the beaches of Normandy as part of the 29th Division and fought from those bloody beaches.
+00:04:17.80 --> 00:04:28.80 From those bloody shores all across Europe until victory was achieved. As a battalion commanding officer, he'd headed the task force that captured the critical French town of St. Low,
+00:04:28.80 --> 00:04:33.80 Chronicle, his own hard-hitting book, the clay pigeons of St. Low.
+00:04:33.80 --> 00:04:42.80 And Korea he'd served as exo. Then regimental commander in my own 40th Division. His reputation there was awesome.
+00:04:42.80 --> 00:05:00.80 One story that made its way through the division was that a wild new exo had come to the 224th gotten down on his belly in the mud to check the units machine gun fields of fire and promptly move two thirds of the machine gun bunkers that had sat there for two years.
+00:05:00.80 --> 00:05:11.80 We thought of my own fighter company renovations and wish to hell that this savvy character had been assigned to the 223rd.
+00:05:11.80 --> 00:05:21.80 I noticed that his blue eyes sparkled like those of a wise and truly tested man who'd long since realized that humor could be found in just about anything.
+00:05:21.80 --> 00:05:34.80 He'd seen his share of horror. His cheeks were rosy and the dueling scar that crossed one of them in no way detracted from his rugged yet gentle old soldier face.
+00:05:34.80 --> 00:05:42.80 The scar, maybe the scar even enhanced it. I don't know, but it sure gave him more character and provided a good yarn to boot.
+00:05:42.80 --> 00:05:50.80 In any event, Colonel Glover Johns was a 49 year old stud.
+00:05:50.80 --> 00:05:59.80 So there you go. I think stud, if you don't know anything about hack worth, stud is the highest category of a human that you can give.
+00:05:59.80 --> 00:06:05.80 That's the pinnacle of respect coming from him.
+00:06:05.80 --> 00:06:07.80 Stud.
+00:06:07.80 --> 00:06:15.80 And in fact he has studs or duds. He says that a bunch in the book. There's two kinds of people. Studs, duds.
+00:06:15.80 --> 00:06:25.80 Some basic info. Some more info. Let me give you some more info and you'll have your John's born in 1912 in Austin, Texas grew up in Corpus Christi, Texas.
+00:06:25.80 --> 00:06:31.80 His father went to VMI, class in 1908, but got kicked out for hell raising.
+00:06:31.80 --> 00:06:42.80 I mean, what does that even mean? Is that in your record? Does it go in your record? Are they like, oh yeah. Dave Burke was kicked out of the school for hell raising.
+00:06:42.80 --> 00:06:47.80 So his dad gets kicked out, but his uncles got two uncles. They go to VMI, 1915 and 1921.
+00:06:47.80 --> 00:06:56.80 He Glover Johns ends up going to VMI. He's rifle, pistol, marksman, good at cross country.
+00:06:56.80 --> 00:07:02.80 Graduates with a degree in chemistry, class in 1931, goes over to Germany.
+00:07:02.80 --> 00:07:09.80 A studies first semester, he gets married. He has a son. He gets divorced. And he's a civilian, by the way.
+00:07:09.80 --> 00:07:17.80 You know, and I couldn't quite forget, I think he's a national guard guy, but he's working at a bunch of just normal, normal work life.
+00:07:17.80 --> 00:07:23.80 Some alcoholic company works at the chamber of commerce. He writes for the local newspaper.
+00:07:23.80 --> 00:07:28.80 But as part of the Texas National Guard, he gets called the active duty in 1940.
+00:07:28.80 --> 00:07:37.80 And he pretty much begs and maneuvers to get a job going into combat, which he ends up getting and going to Omaha Beach.
+00:07:37.80 --> 00:07:40.80 She goes on, goes in Omaha Beach on D-Day.
+00:07:40.80 --> 00:07:52.80 And D-Day plus one. So one day deep in the D-Day, he takes over the battalion, because apparently his, the person that was the battalion commander was not getting after it.
+00:07:52.80 --> 00:07:55.80 So he replaces this weak commander.
+00:07:55.80 --> 00:07:59.80 And it goes right into the, the headrow fighting, which,
+00:07:59.80 --> 00:08:07.80 Banda Brothers, you know, if you know anything about D-Day, that headrow fighting was insane, they take crazy casualties.
+00:08:07.80 --> 00:08:12.80 And his first day as battalion commander, he loses two radio operators and three of his battalion staff.
+00:08:12.80 --> 00:08:16.80 Battalion staff, you're losing battalion staff.
+00:08:16.80 --> 00:08:21.80 This is not a battalion staff that's sitting in the rear when you lose two radio operators.
+00:08:21.80 --> 00:08:24.80 And three of your battalion staff.
+00:08:24.80 --> 00:08:30.80 Constant combat, he's, he's in a leadership position in the battle of St. Lowe.
+00:08:30.80 --> 00:08:38.80 And just to refresh your memory on that, the 29th Division lost more soldiers in the battle of St. Lowe than they did on Omaha Beach.
+00:08:38.80 --> 00:08:44.80 So he ends up 11 months in command.
+00:08:44.80 --> 00:08:49.80 He's awarded three silver stars, two bronze stars in purple heart.
+00:08:49.80 --> 00:08:58.80 By the end of the war, John's unit, clubber John's unit had lost 2,400 men casualties.
+00:08:58.80 --> 00:09:04.80 That's two and a half times bigger than the number of people in his unit, right?
+00:09:04.80 --> 00:09:10.80 You know, your battalion size is what? 600 people, 700 people, 500 people, something like that.
+00:09:10.80 --> 00:09:19.80 And they had had 2,400 casualties.
+00:09:19.80 --> 00:09:22.80 He's married, it gets married again after the war.
+00:09:22.80 --> 00:09:27.80 It does some, it has another couple of sons. He does peace time tours in Bulgaria and Turkey.
+00:09:27.80 --> 00:09:31.80 Korean War kicks off. He maneuvers again to try and get to go over there.
+00:09:31.80 --> 00:09:36.80 He does commands the 224th Infantry Regiment, the 40th Infantry Division.
+00:09:36.80 --> 00:09:41.80 Fought in the punch bowl in Korea. Get down with Korea, go see Army War College.
+00:09:41.80 --> 00:09:48.80 Goes to VMI. As the ROTC leader eventually becomes the VMI commandant.
+00:09:48.80 --> 00:09:55.80 And in 1960, he becomes commander of the first battle group, 18th Infantry 8th Infantry Division.
+00:09:55.80 --> 00:10:03.80 And he goes into this whole Berlin standoff when they were building the wall, when there's all these tensions.
+00:10:03.80 --> 00:10:13.80 And he has to march, or, yeah, pretty much marching, 1500 soldiers right into Berlin, right through East Germany.
+00:10:13.80 --> 00:10:17.80 They kind of face down the Soviet Union.
+00:10:17.80 --> 00:10:27.80 There's a little anecdote in here that there was some guard, some Russian guard, or some East German guard, that wasn't opening a gate when they showed up.
+00:10:27.80 --> 00:10:36.80 They need to get through and he was a bridge or something like this. And the guy says something, you know, like we're not opening this gate.
+00:10:36.80 --> 00:10:40.80 And he says, well, you have to open this gate. He's like, no.
+00:10:40.80 --> 00:10:48.80 And he says, this will start World War III if you come here. And then Glover John pulls out his 45 and says, you're going to be the first catch that the World War III and that's what opens the gate.
+00:10:48.80 --> 00:10:51.80 It sounds too good to be true, right?
+00:10:51.80 --> 00:10:52.80 It almost does.
+00:10:52.80 --> 00:10:53.80 Right.
+00:10:53.80 --> 00:10:54.80 But I don't know.
+00:10:54.80 --> 00:10:56.80 It sounds like legend.
+00:10:56.80 --> 00:11:00.80 Yeah, it could be. It could be, oh, by the way, the scar on his face.
+00:11:00.80 --> 00:11:05.80 Everyone said he got it in a duel, but actually there's a footnote about it here.
+00:11:05.80 --> 00:11:14.80 John's received the scar on an auto-mobile accident in Taipei. He was drunk at the time and barely missed receiving a general court martial upon his recovery.
+00:11:14.80 --> 00:11:16.80 Yeah.
+00:11:16.80 --> 00:11:20.80 Because they call it a dueling, so everyone thought it. So legends, man.
+00:11:20.80 --> 00:11:21.80 Legends.
+00:11:21.80 --> 00:11:22.80 There's some word that can come out.
+00:11:22.80 --> 00:11:23.80 It's not true.
+00:11:23.80 --> 00:11:27.80 I really want to believe the one about the first casualty of World War III.
+00:11:27.80 --> 00:11:28.80 Yeah.
+00:11:28.80 --> 00:11:30.80 You're going to be the first casualty there.
+00:11:30.80 --> 00:11:31.80 Private.
+00:11:31.80 --> 00:11:33.80 But it was a big deal.
+00:11:33.80 --> 00:11:36.80 And this was a huge event in the early 60s.
+00:11:36.80 --> 00:11:40.80 That whole standoff with the Soviets.
+00:11:40.80 --> 00:11:45.80 And after that, he took a job as an attache in Spain.
+00:11:45.80 --> 00:11:47.80 That was his last army job.
+00:11:47.80 --> 00:11:51.80 Retired in Austin, Texas. He was a technical advisor on the movie Patent.
+00:11:51.80 --> 00:11:52.80 Pretty good, Jit.
+00:11:52.80 --> 00:11:55.80 Dietic cancer in 1976.
+00:11:55.80 --> 00:11:58.80 His ashes are spread at VMI.
+00:11:58.80 --> 00:12:02.80 So, there you go.
+00:12:02.80 --> 00:12:04.80 Now, hackworth worked for him.
+00:12:04.80 --> 00:12:08.80 And he worked for him during that march for Indiburlin.
+00:12:08.80 --> 00:12:10.80 And there's great account of all that stuff.
+00:12:10.80 --> 00:12:12.80 And what they thought was going to happen.
+00:12:12.80 --> 00:12:14.80 I mean, World War III was on the line.
+00:12:14.80 --> 00:12:18.80 This was a standoff between two giant nuclear superpowers.
+00:12:18.80 --> 00:12:23.80 And the word was, if World War III starts all these,
+00:12:23.80 --> 00:12:25.80 that entire regiment's going to wipe out immediately.
+00:12:25.80 --> 00:12:28.80 Because they're just, no one's going to be able to help him.
+00:12:28.80 --> 00:12:33.80 There's a quote in here that's from Colonel John.
+00:12:33.80 --> 00:12:34.80 In the book about face, he says,
+00:12:34.80 --> 00:12:37.80 I drove hard and raised hell when I didn't get what I wanted.
+00:12:37.80 --> 00:12:38.80 I made waves.
+00:12:38.80 --> 00:12:40.80 I bitched about supply procedures.
+00:12:40.80 --> 00:12:45.80 I fought for my men if I fought them unjustly accused by a higher HQ.
+00:12:45.80 --> 00:12:50.80 I fought problems too hard from a love of my men.
+00:12:50.80 --> 00:12:54.80 As opposed to someone else's men or my own bosses interest.
+00:12:54.80 --> 00:13:00.80 Because I had identified too closely with them due to my World War II experiences.
+00:13:00.80 --> 00:13:04.80 I think I saw too many men killed and blood too deeply inside
+00:13:04.80 --> 00:13:09.80 with the result that I was overprotective.
+00:13:09.80 --> 00:13:11.80 And hackworth goes on to say,
+00:13:11.80 --> 00:13:16.80 overprotective he may well have been, but Colonel John's translated his love for his men
+00:13:16.80 --> 00:13:21.80 into one thing that would save them when he was not there.
+00:13:21.80 --> 00:13:28.80 To wield the sword himself, good, realistic training, a spree to core, and high morale.
+00:13:28.80 --> 00:13:35.80 Or on a bashed cockiness, some might say, within the units in his command.
+00:13:35.80 --> 00:13:47.80 So, the last thing is, John's eventually got orders out of the battle group in Berlin.
+00:13:47.80 --> 00:13:50.80 So hackworth is there with him in Berlin.
+00:13:50.80 --> 00:13:52.80 And he gets orders to go do something else.
+00:13:52.80 --> 00:13:54.80 And he gives a farewell speech.
+00:13:54.80 --> 00:13:57.80 And during this farewell speech, according to hackworth,
+00:13:57.80 --> 00:14:03.80 he, John's broke down the basic philosophy of soldering which he had,
+00:14:03.80 --> 00:14:09.80 which hack said was like being let in on the secret ingredients of some magical formula.
+00:14:09.80 --> 00:14:12.80 That's the thing about that.
+00:14:12.80 --> 00:14:16.80 This is hackworth saying he gets this list of things.
+00:14:16.80 --> 00:14:17.80 And it's in the book.
+00:14:17.80 --> 00:14:22.80 And you read it in a page and you're like, okay, cool.
+00:14:22.80 --> 00:14:26.80 And hack says it's like a secret ingredients of a magical formula.
+00:14:26.80 --> 00:14:29.80 This is obviously something we should be paying attention to.
+00:14:29.80 --> 00:14:31.80 And this is why I kind of got drawn back into it.
+00:14:31.80 --> 00:14:38.80 So, here is leading and soldering according to Colonel Glober Johns,
+00:14:38.80 --> 00:14:40.80 who taught us how to lead.
+00:14:40.80 --> 00:14:50.80 The first one is strive to do the small things well.
+00:14:50.80 --> 00:14:52.80 Strive to do the small things well.
+00:14:52.80 --> 00:14:55.80 There's a quote how you do anything is how you do everything.
+00:14:55.80 --> 00:14:57.80 Is this similar idea, right?
+00:14:57.80 --> 00:15:03.80 Because if you let the little things go, then what happens to the big things?
+00:15:03.80 --> 00:15:09.80 You guys had to be super anal in the fighter pilot community.
+00:15:09.80 --> 00:15:12.80 Yeah, there are things you gotta be anal about.
+00:15:12.80 --> 00:15:18.80 And I think you certainly have to have a philosophy of it's the little things that will kill you.
+00:15:18.80 --> 00:15:21.80 If you don't do the little things well, it's really hard to do the big things well.
+00:15:21.80 --> 00:15:24.80 Obviously there's a balance inside there, but yes.
+00:15:24.80 --> 00:15:28.80 How do you, so you know some people are really detail oriented.
+00:15:28.80 --> 00:15:29.80 Some people are not detail oriented.
+00:15:29.80 --> 00:15:31.80 You got every spectrum in between, right?
+00:15:31.80 --> 00:15:31.80 Yep.
+00:15:31.80 --> 00:15:35.80 How do you get like who's who's in charge of the planes maintenance?
+00:15:35.80 --> 00:15:36.80 Your planes maintenance.
+00:15:36.80 --> 00:15:38.80 So Dave Burke, you have your plane.
+00:15:38.80 --> 00:15:39.80 What do you have a tail number on your planes?
+00:15:39.80 --> 00:15:40.80 Do you identify your plane?
+00:15:40.80 --> 00:15:43.80 Yeah, you have a number on your name on your names.
+00:15:43.80 --> 00:15:45.80 So Dave Burke's plane.
+00:15:45.80 --> 00:15:48.80 But I don't always, I don't fly that plane all the time, but yes, I've got a plane.
+00:15:48.80 --> 00:15:50.80 Okay, you have a plane like my plane.
+00:15:50.80 --> 00:15:53.80 Is there someone that's in charge of that plane?
+00:15:53.80 --> 00:15:54.80 Yes.
+00:15:54.80 --> 00:15:56.80 And is he owned that plane more than you do kind of?
+00:15:56.80 --> 00:15:57.80 Yes.
+00:15:57.80 --> 00:15:59.80 And what's his job?
+00:15:59.80 --> 00:16:02.80 He's a, what we would call a power line mechanic.
+00:16:02.80 --> 00:16:09.80 And that means the aircraft itself, he's assigned to that aircraft and he is responsible for that aircraft being airworthy.
+00:16:09.80 --> 00:16:11.80 Meaning it's legit to fly.
+00:16:11.80 --> 00:16:12.80 How many aircraft is your responsible for?
+00:16:12.80 --> 00:16:13.80 Usually one.
+00:16:13.80 --> 00:16:14.80 Yes.
+00:16:14.80 --> 00:16:16.80 So this is your, this is your guy.
+00:16:16.80 --> 00:16:21.80 Yeah, if you're going to have a relationship inside the squadron and you're flying an airplane,
+00:16:21.80 --> 00:16:23.80 the plane captain of that plane, you should have a good relationship.
+00:16:23.80 --> 00:16:25.80 So he's called the plane captain.
+00:16:25.80 --> 00:16:26.80 Yeah.
+00:16:26.80 --> 00:16:27.80 What rank is he?
+00:16:27.80 --> 00:16:29.80 Probably a Lance Corporal or a Corporal?
+00:16:29.80 --> 00:16:31.80 Be a young kid.
+00:16:31.80 --> 00:16:32.80 Like huge responsible.
+00:16:32.80 --> 00:16:33.80 He's 22 years old.
+00:16:33.80 --> 00:16:34.80 22 year old, Corporal.
+00:16:34.80 --> 00:16:37.80 22 year old, Corporal and he's the plane captain.
+00:16:37.80 --> 00:16:38.80 Yes.
+00:16:38.80 --> 00:16:44.80 Okay, so with the question I was going to ask is, and then I thought that guy was going to be an E7.
+00:16:44.80 --> 00:16:45.80 No.
+00:16:45.80 --> 00:16:47.80 Marine Corps don't lie.
+00:16:47.80 --> 00:16:48.80 They're like you all response.
+00:16:48.80 --> 00:16:49.80 I'm a percent.
+00:16:49.80 --> 00:16:55.80 So the question I was going to ask is, you got people that are naturally very detailed
+00:16:55.80 --> 00:16:56.80 ones.
+00:16:56.80 --> 00:16:58.80 You got people that aren't.
+00:16:58.80 --> 00:17:00.80 Do they are they screening people out when they go to a school?
+00:17:00.80 --> 00:17:03.80 Are they going to a school where they're like, oh yeah, slip them out over here.
+00:17:03.80 --> 00:17:05.80 He ain't going to be in charge of a plane.
+00:17:05.80 --> 00:17:07.80 We're going to put him in charge of, you know, something else.
+00:17:07.80 --> 00:17:12.80 Yeah, I would imagine the criteria to make sure those people get to where they're supposed to be.
+00:17:12.80 --> 00:17:14.80 And eventually be responsible for an aircraft.
+00:17:14.80 --> 00:17:16.80 There are some things along the way that they've had to screen for.
+00:17:16.80 --> 00:17:19.80 But I mean, this dude's only been in the Marine Corps for like three years.
+00:17:19.80 --> 00:17:20.80 Well, that's the Marine Corps.
+00:17:20.80 --> 00:17:22.80 Oh, yeah.
+00:17:22.80 --> 00:17:27.80 Yeah, I mean, even getting into aviation, I think there's probably some attributes that they screen for initially,
+00:17:27.80 --> 00:17:32.80 you know, even which basic MOS or what basic part of the Marine Corps you go to.
+00:17:32.80 --> 00:17:37.80 And then inside that certainly, even though it's, I think it really will be fast screening process,
+00:17:37.80 --> 00:17:41.80 the process to be qualified to be a plane captain is no joke.
+00:17:41.80 --> 00:17:44.80 And then how many people do you have on his team?
+00:17:44.80 --> 00:17:46.80 He'll probably have one or two other guys.
+00:17:46.80 --> 00:17:52.80 So, you know, a guy who's responsible for an aircraft, he'll have probably one other person who's in like the training pipeline,
+00:17:52.80 --> 00:17:54.80 you know, getting, getting certified and getting evaluated.
+00:17:54.80 --> 00:18:00.80 So when I walk out to a jet and I'm going to go man up that jet and go fly it, the plane captain is there and you'll have somebody with him.
+00:18:00.80 --> 00:18:03.80 And he's watching observing and then he'll be doing more.
+00:18:03.80 --> 00:18:07.80 And then at some point, he'll go out a couple months later and like, hey, sir, you know,
+00:18:07.80 --> 00:18:10.80 this other Marine is going to take the lead on on today's mission.
+00:18:10.80 --> 00:18:15.80 Or whatever that might be and he's kind of doing what we call left seat, right seat, or sort of a training run.
+00:18:15.80 --> 00:18:20.80 So you're saying that the, the, the plane captain he's doing work or he's not doing.
+00:18:20.80 --> 00:18:22.80 Is he, is he turning wrenches?
+00:18:22.80 --> 00:18:25.80 Absolutely. Well, the other key responsibility that the plane captain has.
+00:18:25.80 --> 00:18:29.80 And this is different in other services, but in the Marine Corps it's very specific.
+00:18:29.80 --> 00:18:34.80 The plane captain, they call it power line because you're responsible for the line that aircraft flying all the jets.
+00:18:34.80 --> 00:18:36.80 You're also responsible for the power plants.
+00:18:36.80 --> 00:18:40.80 So these are your engine mechanics. So when the Marine Corps, the engine mechanic,
+00:18:40.80 --> 00:18:45.80 his other responsibility is the nose to tail responsibility of that aircraft.
+00:18:45.80 --> 00:18:49.80 So not only is he the guy literally from the nose to the tail of that jet,
+00:18:49.80 --> 00:18:54.80 make sure that thing is ready to go. He's also the one that is responsible for the engines.
+00:18:54.80 --> 00:18:56.80 Corp.
+00:18:56.80 --> 00:18:57.80 Corporals in the Marine Corps.
+00:18:57.80 --> 00:19:04.80 And as you might have imagined, I had a very, very good relationship with every single plane captain in the squadron.
+00:19:04.80 --> 00:19:09.80 And in fact, my first real leadership job when I first got into the Marine Corps into a fighter squadron,
+00:19:09.80 --> 00:19:11.80 you know, you spend some time in operations.
+00:19:11.80 --> 00:19:14.80 You're going to have to write this schedule. Then they give you a real job.
+00:19:14.80 --> 00:19:17.80 And my first real job was called the power line OIC.
+00:19:17.80 --> 00:19:22.80 So I was the officer in charge of the power line division, the engine mechs and the plane captains.
+00:19:22.80 --> 00:19:25.80 And to this day, probably the best job I had.
+00:19:25.80 --> 00:19:28.80 And what are the 18 planes in the squadron?
+00:19:28.80 --> 00:19:31.80 12, 12, 12.
+00:19:31.80 --> 00:19:34.80 And there's one officer in charge of all these landsquiz.
+00:19:34.80 --> 00:19:35.80 There are senior and listed guys.
+00:19:35.80 --> 00:19:38.80 Yeah, there's a guy who's like the most square to win the squadron.
+00:19:38.80 --> 00:19:41.80 We've got to have ever known, you know, rich pilgrim with your other listen.
+00:19:41.80 --> 00:19:44.80 And the goes who he is, huge, huge impact on my life.
+00:19:44.80 --> 00:19:47.80 Massively influential Marine.
+00:19:47.80 --> 00:19:50.80 And 30 plus young Marines.
+00:19:50.80 --> 00:19:52.80 You know, there's sergeants, there's a staff sergeant.
+00:19:52.80 --> 00:19:55.80 But it's almost all land corpals and corpals.
+00:19:55.80 --> 00:19:57.80 Making it happen.
+00:19:57.80 --> 00:19:59.80 It's the best job ever for a can legit.
+00:19:59.80 --> 00:20:06.80 So obviously in that scenario that doing the small things right is a mandatory.
+00:20:06.80 --> 00:20:12.80 It's, I mean, I remember going through the certification process myself because I wanted to.
+00:20:12.80 --> 00:20:15.80 I wanted to know what it was like to be certified as a plane captain.
+00:20:15.80 --> 00:20:20.80 So I was young enough in my career that I had the time to be able to do that.
+00:20:20.80 --> 00:20:25.80 And even just the questions that get asked on these boards to certify these Marines,
+00:20:25.80 --> 00:20:35.80 the level of detail inside that was indicative that the message was, they wanted the Marines understand how important these little details were.
+00:20:35.80 --> 00:20:46.80 Because of what, what was it risk if those small details get missed, especially in, you know, a really expensive, really fast machine that has this huge amount of responsibility and says massive asset you can't just replace.
+00:20:46.80 --> 00:20:54.80 And that philosophy of the little things will kill you was embedded from the very, very beginning.
+00:20:54.80 --> 00:20:58.80 So I read a book a long time ago. It's about desert one.
+00:20:58.80 --> 00:21:05.80 And one of the reasons that desert one failed was aircraft.
+00:21:05.80 --> 00:21:08.80 Couldn't complete the mission and I'll do a podcast about it at some point.
+00:21:08.80 --> 00:21:16.80 But so so they want to get the best pilots for desert one to go there flying to Iran and do the refueling and rescue the hostages, right?
+00:21:16.80 --> 00:21:19.80 Some of the pilots were at least one set of the pilots.
+00:21:19.80 --> 00:21:26.80 The helicopter pilots came from flying Air Force 2. What's the helicopter? What's the president helicopter?
+00:21:26.80 --> 00:21:28.80 The Marine Corps, it's HMX1.
+00:21:28.80 --> 00:21:31.80 Okay. That's the Marine Corps helicopters. That's the presidential helicopter.
+00:21:31.80 --> 00:21:33.80 Okay. So maybe it was those guys.
+00:21:33.80 --> 00:21:39.80 And those guys, they're not playing around any issue with any of that bird at all and it's not flying.
+00:21:39.80 --> 00:21:40.80 Yeah.
+00:21:40.80 --> 00:21:44.80 And so there's in the main rotors on a helicopter.
+00:21:44.80 --> 00:21:49.80 There's hydrogen inside. There's like a tube that has a hydrogen in it.
+00:21:49.80 --> 00:21:57.80 And then there's a hydrogen sensor that will tell you if there's something wrong, if there's a crack, if there's something wrong with those blades,
+00:21:57.80 --> 00:22:01.80 this hydrogen sensor goes up. Oh, we got a problem with our blades. We need to land.
+00:22:01.80 --> 00:22:08.80 And that's the way that they keep those things safe because you can have, you know, some kind of a stress fracture or something in your, in your rotor blade.
+00:22:08.80 --> 00:22:11.80 And if that thing comes apart, you know, you got major issues.
+00:22:11.80 --> 00:22:21.80 Well, the, like the Navy pilots in, in the sea wolves, they just flew with the freaking hydrogen thing.
+00:22:21.80 --> 00:22:23.80 Just they would just like take it out.
+00:22:23.80 --> 00:22:26.80 They didn't want to hear about it. Like they're flying this thing.
+00:22:26.80 --> 00:22:27.80 The army pilots were like that.
+00:22:27.80 --> 00:22:33.80 So there was a lot of pilots that were just saying, hey, dude, you know, like whatever, pretty much whatever.
+00:22:33.80 --> 00:22:35.80 Hey, get it fixed later.
+00:22:35.80 --> 00:22:44.80 And, but they had this, this attentiveness to details that will say, nope, hydrogen, we got a hydrogen. We got something wrong with our blade. We got a land.
+00:22:44.80 --> 00:22:47.80 And they left an office on now, they're short and aircrafted.
+00:22:47.80 --> 00:22:53.80 It's one of the things that led to it was we didn't have these kind of combat experience pilots.
+00:22:53.80 --> 00:22:58.80 Like if that would have been a sea wolf pilot, bro, this guy would have been like, what?
+00:22:58.80 --> 00:23:07.80 So just like anything else, if you go overboard with the small things, you're going to miss some big things, including executing a mission.
+00:23:07.80 --> 00:23:08.80 Yeah.
+00:23:08.80 --> 00:23:16.80 What's cool about understanding how important the small things are rather than overlooking them is that actually gives you some insight about what you can and can't tolerate.
+00:23:16.80 --> 00:23:21.80 Meaning, if I don't pay attention to any of the little things because I'm a big picture guy, I don't care.
+00:23:21.80 --> 00:23:25.80 There's some little things that are going to kill me and I might not know about it.
+00:23:25.80 --> 00:23:35.80 But if I'm sort of obsessive about knowing all those things, what actually gives me an airplane and really anything, it gives me an understanding of that, that little thing, that is a little thing.
+00:23:35.80 --> 00:23:39.80 We're going to ignore that and we're going to press or that little thing.
+00:23:39.80 --> 00:23:46.80 It's fine now, but if it leads to this and this, then we got a problem that could get worse or that little thing will get us killed.
+00:23:46.80 --> 00:23:54.80 You got to know what those little things are and know whether to ignore them, pay attention to them or respond to them.
+00:23:54.80 --> 00:23:58.80 Those are three different kind of key criteria, but if you don't know what those things are, you can't make those small decisions.
+00:23:58.80 --> 00:24:02.80 So you got to know those things. You don't have to react to all of them, but you got to know them.
+00:24:02.80 --> 00:24:08.80 How long did it take to study to get your certification and how, like, did you have to put in some work?
+00:24:08.80 --> 00:24:11.80 Oh yeah, I mean, I ended the whole thing.
+00:24:11.80 --> 00:24:18.80 It was a several month thing and I had a blast doing it because it was a great way to get to know my Marines and really for me more than anything.
+00:24:18.80 --> 00:24:23.80 It was to get to know what the challenge is or why it was a big deal for me is we are getting ready to go in a carrier.
+00:24:23.80 --> 00:24:29.80 And they called him brown shirts. They were brown jerseys on the carrier. Those are your plane captain. Those are your crew chiefs.
+00:24:29.80 --> 00:24:35.80 And they have the most unappreciated, unforgiving job. They're the ones out there.
+00:24:35.80 --> 00:24:40.80 Two o'clock in the morning trying to fix an engine hanging over the side of an aircraft carrier.
+00:24:40.80 --> 00:24:43.80 So that jet is on the flat, it's good to the next day.
+00:24:43.80 --> 00:24:47.80 Really underappreciated the amount of work and how important that work was.
+00:24:47.80 --> 00:24:51.80 And I wanted to understand that. So I could help advocate to get them the things I needed to be successful.
+00:24:51.80 --> 00:24:58.80 And the only way to do that is to know what they're going through. So I went through the entire process to get certified to learn about that.
+00:24:58.80 --> 00:25:01.80 It also is a great way to get to know the Marines extremely well.
+00:25:01.80 --> 00:25:05.80 But being a brown shirt, being a crew chief, a plane captain, on a carrier.
+00:25:05.80 --> 00:25:11.80 Man, those young kids are putting in just the most ridiculous hours doing the hardest job in the world.
+00:25:11.80 --> 00:25:18.80 With almost no thanks, no appreciation at all because what they need is to get a jet to make the flat schedule.
+00:25:18.80 --> 00:25:25.80 And then, you know, Dave Burke, man's up the jet and gets all the glory because he launches off the carriers out for a 45 minute air condition flight.
+00:25:25.80 --> 00:25:29.80 So it all comes back, lands it, turns the keys over and say, here's my rental.
+00:25:29.80 --> 00:25:33.80 Yeah, I mean, that's the joke. It's like, hey, I took the jet, I come back and I go, hey, this thing's busted.
+00:25:33.80 --> 00:25:35.80 And I didn't the keys, I leave.
+00:25:35.80 --> 00:25:39.80 And obviously, I didn't want to be one of those pilots. And those pilots exist.
+00:25:39.80 --> 00:25:40.80 Yeah.
+00:25:40.80 --> 00:25:49.80 Right now, just so you know, there are thousands of power line Marines listening to this conversation that are stoked that you're talking about.
+00:25:49.80 --> 00:25:53.80 How many parts do you know, we're part of an F-18?
+00:25:53.80 --> 00:25:55.80 No, I could even guess.
+00:25:55.80 --> 00:26:00.80 Do they have to know every individual system or do they just know?
+00:26:00.80 --> 00:26:06.80 The engine, the engine, yes. I mean, we're talking every single thing in an engine from the front to the back.
+00:26:06.80 --> 00:26:14.80 Now, you have airframes, you have electric, you have high-jalk, you have other major subsystems that these plane captains have a general understanding of, but no one near the detail.
+00:26:14.80 --> 00:26:22.80 But when it comes to the engine, every single thing. And I'm sure it's true for all of them, but a Hornet engine is a complex piece of machinery.
+00:26:22.80 --> 00:26:24.80 Sure.
+00:26:24.80 --> 00:26:34.80 So from a leadership perspective, if you strive to do the small things, if you strive to do the small things well, it's going to help you.
+00:26:34.80 --> 00:26:42.80 You can't become obsessed with them. We have to be careful of that. That becomes OCD, right? You will work for OCD, person?
+00:26:42.80 --> 00:26:57.80 Yes. I work for OCD seal. And it was, you know, you know, we work through it, but it's just like any other sort of like mental health issue where the person just doesn't understand that they've got it.
+00:26:57.80 --> 00:27:10.80 You know, and you're like, sir, I do really want, yeah, yeah, we, I can, we, you know, whatever, whatever the case may be, whether it's all the fonts need to, you get those fonts straight no outer, you know, the drying cage needs to look like just whatever the thing is.
+00:27:10.80 --> 00:27:16.80 Then they're losing their minds about it, and it's not healthy, and you can't convince them of otherwise.
+00:27:16.80 --> 00:27:20.80 It's hard to even address it with them, because they just look at you like you're crazy.
+00:27:20.80 --> 00:27:23.80 So don't be that person.
+00:27:23.80 --> 00:27:32.80 Yes, do the small things well, yes, pay attention, but don't get obsessed with them because then you won't be paying attention to the things that you need to pay attention to.
+00:27:32.80 --> 00:27:34.80 So that's number one.
+00:27:34.80 --> 00:27:36.80 All right, next one.
+00:27:36.80 --> 00:27:40.80 Colonel Glover Johns to be a doer and a self-starter.
+00:27:40.80 --> 00:27:58.80 Aggressiveness and initiatives and initiative are two most admired qualities in a leader, but he throws the dichotomy in there, but you must also put your feet up and think.
+00:27:58.80 --> 00:28:02.80 This is interesting on 97 different levels, all right.
+00:28:02.80 --> 00:28:09.80 So we're talking about being default aggressive, and this is something that it is.
+00:28:09.80 --> 00:28:15.80 Clearly, he's talking about it as well, and clearly as a human, you got to make things happen.
+00:28:15.80 --> 00:28:19.80 And talking and planning and dreaming and all that stuff doesn't matter.
+00:28:19.80 --> 00:28:20.80 That's actually doesn't matter.
+00:28:20.80 --> 00:28:23.80 What matters is taking action, making things happen.
+00:28:23.80 --> 00:28:25.80 That's what's going to be good.
+00:28:25.80 --> 00:28:30.80 And the Marine Corps has an awesome mentality.
+00:28:30.80 --> 00:28:36.80 And they want their leaders to have a bias for action, which is exactly what is being said here.
+00:28:36.80 --> 00:28:39.80 Being a doer and being a self-starter.
+00:28:39.80 --> 00:28:44.80 That means having a bias for action, you're general move is I'm going to take action.
+00:28:44.80 --> 00:28:49.80 That's what the Marine Corps wants their Marines to have is a bias fraction.
+00:28:49.80 --> 00:28:57.80 Now, when I was teaching young seals, I told them they needed to be default aggressive, which is a little stronger.
+00:28:57.80 --> 00:29:00.80 It's actually probably quite a bit stronger than a bias fraction.
+00:29:00.80 --> 00:29:06.80 It's like, okay, yep, I'm going to make a decision. I'm going to take action. Okay, cool.
+00:29:06.80 --> 00:29:10.80 I need a guy's to be aggressive.
+00:29:10.80 --> 00:29:12.80 Make things happen.
+00:29:12.80 --> 00:29:20.80 And the reason is because the situations I was putting these young seals in was it needed more than just a bias for action to get them going in the right direction.
+00:29:20.80 --> 00:29:24.80 They needed to actually be like, oh, I'm not doing anything bad things are happening.
+00:29:24.80 --> 00:29:27.80 I need to get aggressive right now.
+00:29:27.80 --> 00:29:31.80 So that's where that comes from.
+00:29:31.80 --> 00:29:43.80 And like I said, if you're a person in life and you find yourself hesitating, you might need to program yourself to have a default aggressive attitude, not just a bias for action.
+00:29:43.80 --> 00:29:45.80 And not just, well, I'm going to be a doer.
+00:29:45.80 --> 00:29:47.80 Even be a doer is pretty soft.
+00:29:47.80 --> 00:29:55.80 That's not going to push you through some mayhem where things are blowing up and you're like, well, I'm not sure what I should do.
+00:29:55.80 --> 00:29:57.80 I'm going to sit here and wait to see what happens. No.
+00:29:57.80 --> 00:29:59.80 Need to go.
+00:30:01.80 --> 00:30:07.80 Now he sends this, but you also must put your feet up and think.
+00:30:07.80 --> 00:30:15.80 This is the most interesting, well, I guess one of the most interesting descriptions of detachment that I've heard and what a good one.
+00:30:15.80 --> 00:30:23.80 Let's face it. There's no possible way you can literally put your feet up and think unless you're a less you detach.
+00:30:23.80 --> 00:30:39.80 So he's saying, you gotta do more than just, you know, think you gotta put your feet up and think and he's saying that for a reason. He's saying that because, well, I guess I'm assuming he's saying that because he's told plenty guys, hey, you need to think about what's happening and they're like, oh, and they still make a bad decision.
+00:30:39.80 --> 00:30:43.80 You know, they're just like in brain imploding.
+00:30:43.80 --> 00:30:47.80 He's saying, hey, take a step back. Look, sit down.
+00:30:47.80 --> 00:30:53.80 Okay, I'm going on to put your feet up and think. That's what I need you to do.
+00:30:53.80 --> 00:31:01.80 Think of the literal sense of that, too. And you, you, once described talking about the idea of detachment of when you said you're writing, when you write things down.
+00:31:01.80 --> 00:31:05.80 Hmm. It's a good one. You, you're a, it's a literal form of detachment.
+00:31:05.80 --> 00:31:07.80 Yep.
+00:31:07.80 --> 00:31:13.80 And I'm thinking of, especially like a few days soldier, it's really hard to do anything when you're feet are up.
+00:31:13.80 --> 00:31:18.80 Literally, like, and I have this picture of this person who's at a desk is feet are up on the desk.
+00:31:18.80 --> 00:31:22.80 And you actually can't do or go or move anywhere when you're feet are up.
+00:31:22.80 --> 00:31:27.80 And even just the start contrasting your mind of what he means by that, which isn't just a stop and thing.
+00:31:27.80 --> 00:31:31.80 It's actually put yourself in a position where you're not doing anything while you're thinking.
+00:31:31.80 --> 00:31:38.80 And then, of course, the dichotomy inside there. And I just can't help but imagine the idea that he understands that.
+00:31:38.80 --> 00:31:44.80 And I think you did two in Test Union, Bruser is when you start correlating a little bit of risk of not doing something.
+00:31:44.80 --> 00:31:50.80 It's not like he would get a little behind on the project or we get a, we'll finish it money inside a Friday or we get a little over budget.
+00:31:50.80 --> 00:31:55.80 If you don't get this thing done in combat, the risk of that is astonishing.
+00:31:55.80 --> 00:32:01.80 And when you understand the natural human bias is not to do those things.
+00:32:01.80 --> 00:32:11.80 Sometimes pushing to the default aggressive is actually where you have to go to get them to get away from that natural state, which is to do nothing.
+00:32:11.80 --> 00:32:16.80 Yeah, I think I've got this somewhere else in this in the, in the main, my notes here, but
+00:32:16.80 --> 00:32:25.80 The power curve, which is a real thing in life. I don't know it's a real thing in the air, but we used to use that term that, oh, you don't get behind the power curve.
+00:32:25.80 --> 00:32:30.80 That means all the stuff that you have to get done, you get behind the power curve and you're done.
+00:32:30.80 --> 00:32:35.80 You can't catch up again. That's right. So that's what happens in an aircraft, right? How does it work?
+00:32:35.80 --> 00:32:49.80 So yeah, the power curve in aircraft is a place literally, it's a curve that they draw on its base on like factors like thrust and lift is if you get behind the power curve, it requires more power than you have.
+00:32:49.80 --> 00:32:58.80 Then you have, which, again, in that literal sense and the curve is like, once you get past that curve, you know, I think this thing is like more power to go slower.
+00:32:58.80 --> 00:33:05.80 Like, you don't have the power or the thrust to keep the aircraft doing what it's doing and if you get behind the power curve,
+00:33:05.80 --> 00:33:11.80 it is an unrecoverable thing and like, you know, unless you do some other things and give up some other things, which you don't want to do.
+00:33:11.80 --> 00:33:14.80 Well, if you're at altitude, you can put nose down, you can regain your speed.
+00:33:14.80 --> 00:33:15.80 Yes, that's what I would usually do.
+00:33:15.80 --> 00:33:17.80 Yes, that's what you're doing.
+00:33:17.80 --> 00:33:23.80 But to your point, like, there's, you can, if you do these other things, you don't have to get there.
+00:33:23.80 --> 00:33:32.80 Yeah, there was a stone who was getting in, talking to some like command historian or something like this.
+00:33:32.80 --> 00:33:37.80 And he told this command historian and the command historian showed it to me.
+00:33:37.80 --> 00:33:41.80 He was, he said something along the lines, yeah, well, in Ramadi,
+00:33:41.80 --> 00:33:46.80 Joko had to beat his head against the wall to get a mission done.
+00:33:46.80 --> 00:33:52.80 It was like every, every mission to make a mission happen, there was like so much stuff that you had to do to get it to go.
+00:33:52.80 --> 00:34:02.80 And that's what it feels like when you talk about, oh, these little things like this little documents that you got to get put out this, you got to go run to this brief.
+00:34:02.80 --> 00:34:03.80 You got to go talk to this person.
+00:34:03.80 --> 00:34:06.80 There's all these things that have to take place.
+00:34:06.80 --> 00:34:11.80 And not to mention the weapons have to be prep the vehicles need to be ready to plan asthma.
+00:34:11.80 --> 00:34:12.80 All those things are going on.
+00:34:12.80 --> 00:34:16.80 And if you fall back behind that power curve, you're just not going to do it.
+00:34:16.80 --> 00:34:18.80 You know, I'm just going to happen.
+00:34:18.80 --> 00:34:22.80 You have to be just, just full thrust.
+00:34:22.80 --> 00:34:33.80 You have to just keep it there and sure after the op, you can be like, okay, I'm going to back off a little bit and save a little bit of gas right now, but it's not going to take more than a couple hours before you better put that.
+00:34:33.80 --> 00:34:36.80 You better put that throttle fully down again.
+00:34:36.80 --> 00:34:41.80 You better start making things happen because they're not going to happen on their own.
+00:34:41.80 --> 00:34:51.80 So that's good. Be a doer, be a self starter, be aggressive, take initiative, but just straight up.
+00:34:51.80 --> 00:34:53.80 Put your feet up and think about what you're doing.
+00:34:53.80 --> 00:34:55.80 So there you go. That's number two.
+00:34:55.80 --> 00:35:01.80 Number three, strive for self improvement through constant self evaluation.
+00:35:01.80 --> 00:35:11.80 This is a good rule for leadership and life.
+00:35:11.80 --> 00:35:17.80 And it's it's weird to think that number one, if you're not humble, you're not doing this, right?
+00:35:17.80 --> 00:35:19.80 If you're not, if you think you're doing everything right, you're not doing this.
+00:35:19.80 --> 00:35:20.80 This is just isn't happening.
+00:35:20.80 --> 00:35:24.80 You have to be looking, you have to be humble enough to say what kind do better.
+00:35:24.80 --> 00:35:27.80 And you have to start off by doing where you are.
+00:35:27.80 --> 00:35:34.80 And then trying to assess what you can get, what you can get better at.
+00:35:34.80 --> 00:35:37.80 And this is a difficult thing to do.
+00:35:37.80 --> 00:35:42.80 And this is, you know, to me, this is the aminally qualified human, you know,
+00:35:42.80 --> 00:35:49.80 the, the actual evaluation of yourself, which you and I wrote that book, the, the code evaluation, the protocol.
+00:35:49.80 --> 00:35:51.80 And then made the app.
+00:35:51.80 --> 00:35:52.80 There's an app for it.
+00:35:52.80 --> 00:35:55.80 But that's the kind of thing where you go, okay, I know what I'm at right now.
+00:35:55.80 --> 00:35:57.80 I know what I need to do today.
+00:35:57.80 --> 00:35:59.80 I know where I slacked off a little bit.
+00:35:59.80 --> 00:36:01.80 I know where I can improve tomorrow.
+00:36:01.80 --> 00:36:06.80 And if you're not doing that, that's what, that's how Rome fell apart, right?
+00:36:06.80 --> 00:36:08.80 Rome wasn't built in the day and it didn't fall apart in the day.
+00:36:08.80 --> 00:36:10.80 You didn't fall apart a little bit at a time.
+00:36:10.80 --> 00:36:12.80 It's a little bit at a time.
+00:36:12.80 --> 00:36:15.80 That's what happens.
+00:36:15.80 --> 00:36:19.80 That's the self evaluation comment.
+00:36:19.80 --> 00:36:24.80 And obviously immediately tethered that to the idea of humility is such an important piece of that,
+00:36:24.80 --> 00:36:30.80 because, and I would see this all the time is, I would work with the guys that were good at certain things
+00:36:30.80 --> 00:36:32.80 and not good at other things.
+00:36:32.80 --> 00:36:37.80 And where they would spend their focus would be doing the things they did well.
+00:36:37.80 --> 00:36:42.80 Which is important, and this is not to say that if you don't have a particular strength that you shouldn't focus on that strength.
+00:36:42.80 --> 00:36:47.80 But because they were comfortable doing the things they were good at, they spent all their time doing the things they were good at.
+00:36:47.80 --> 00:36:50.80 And you got more experience and more senior.
+00:36:50.80 --> 00:36:55.80 The more those other gaps became a big hindrance, because you have to be good at a lot of things,
+00:36:55.80 --> 00:36:57.80 especially in a leadership role.
+00:36:57.80 --> 00:37:02.80 As you see, if you play on elevating in that leadership role, the awareness of, hey, if I'm not good at this,
+00:37:02.80 --> 00:37:07.80 I have to spend time doing the things and getting better things I'm not as good at as I should be.
+00:37:07.80 --> 00:37:09.80 And how easy it is to go, well, I'm pretty good at this.
+00:37:09.80 --> 00:37:12.80 I'm just going to stay over here because this is so much easier for me,
+00:37:12.80 --> 00:37:16.80 and not being willing to acknowledge what you're not good at,
+00:37:16.80 --> 00:37:18.80 and actually spend some time working on that.
+00:37:18.80 --> 00:37:21.80 And how easy it is to fall in the trap of, well, I'm good at this.
+00:37:21.80 --> 00:37:22.80 I suck at this.
+00:37:22.80 --> 00:37:24.80 What's your one, should I be working on today?
+00:37:24.80 --> 00:37:26.80 I'll just keep doing this thing over here.
+00:37:26.80 --> 00:37:30.80 And that self, the self evaluation of what do I know, I'm not good at,
+00:37:30.80 --> 00:37:34.80 and how easily we can just ignore what we know we need to be working on.
+00:37:34.80 --> 00:37:38.80 I used to hate being on the bottom in due to, like someone on top.
+00:37:38.80 --> 00:37:40.80 It was just like smash, and I would hate the feeling, right?
+00:37:40.80 --> 00:37:44.80 And so for months, the only place I started was with people across the side of Mounted Army.
+00:37:44.80 --> 00:37:49.80 I was like, I have to take it, and then just got over it completely,
+00:37:49.80 --> 00:37:52.80 where it literally didn't matter anymore.
+00:37:52.80 --> 00:37:55.80 If you don't have that approach, you're going to have problems.
+00:37:55.80 --> 00:37:58.80 I'm going to have problems, watch out for that.
+00:37:58.80 --> 00:38:00.80 And this is tied into the next one number four,
+00:38:00.80 --> 00:38:02.80 which is never be satisfied.
+00:38:02.80 --> 00:38:04.80 Ask of any project, how can it be done better?
+00:38:04.80 --> 00:38:11.80 Now listen, you know, you could just, just to throw like a different perspective on this,
+00:38:11.80 --> 00:38:15.80 or a different angle, the never be satisfied thing, where all of a sudden,
+00:38:15.80 --> 00:38:20.80 you know, I've never satisfied, and I'm, you know, freaking out about and constantly.
+00:38:20.80 --> 00:38:26.80 There's people that that run into issues with that, where they can't, like chill out
+00:38:26.80 --> 00:38:30.80 and back off and detach and look around and see what's happening.
+00:38:30.80 --> 00:38:33.80 So never is kind of a strong word.
+00:38:33.80 --> 00:38:39.80 But at the same time, this is completely tied to humility, because if you are satisfied,
+00:38:39.80 --> 00:38:46.80 that's an indicator that maybe you think you're there and you're not, you're not.
+00:38:46.80 --> 00:38:53.80 This implies that the debriefs to me, you know, it's like not being satisfied with it,
+00:38:53.80 --> 00:38:57.80 by looking back at it and saying, hey, how could we do this better?
+00:38:57.80 --> 00:38:59.80 Did we miss anything?
+00:38:59.80 --> 00:39:02.80 Is there something we should add to this and then debriefing it,
+00:39:02.80 --> 00:39:05.80 and then trying to, you know, trying to get them to the next evolution?
+00:39:05.80 --> 00:39:06.80 Yeah, 100%.
+00:39:06.80 --> 00:39:09.80 If you're not debriefing what you're doing, and then, and look,
+00:39:09.80 --> 00:39:13.80 if you want to take that to a really good personal level,
+00:39:13.80 --> 00:39:17.80 if you look at your day, that's what's nice about the EQH app.
+00:39:17.80 --> 00:39:20.80 So if you look at your day and you're like, oh, I could have done this better.
+00:39:20.80 --> 00:39:22.80 It's just at the end of the day gone.
+00:39:22.80 --> 00:39:25.80 Hmm, did I really, I didn't really do that.
+00:39:25.80 --> 00:39:28.80 I, I, I got it on that donut or whatever,
+00:39:28.80 --> 00:39:31.80 tapped this, my, my daughters right now, they say tapped it,
+00:39:31.80 --> 00:39:34.80 like, we've talked about food, they're like, oh, can I tap into that?
+00:39:34.80 --> 00:39:37.80 So you might have accidentally tapped into a donut or whatever, right?
+00:39:37.80 --> 00:39:39.80 You're going to watch out.
+00:39:39.80 --> 00:39:42.80 So, which, by the way, I don't think I can ever eat a donut again,
+00:39:42.80 --> 00:39:45.80 because I've talked so much smack about donuts.
+00:39:45.80 --> 00:39:49.80 And I think there's someone with like a 600 millimeter lens stock in the way,
+00:39:49.80 --> 00:39:50.80 and then see that donut.
+00:39:50.80 --> 00:39:52.80 Go down that.
+00:39:52.80 --> 00:39:53.80 Ain't happening.
+00:39:53.80 --> 00:39:57.80 But doing a debrief with yourself at the end of the day,
+00:39:57.80 --> 00:40:01.80 what did I, and then, and then also creating what you're going to do tomorrow
+00:40:01.80 --> 00:40:03.80 to focus on the weaknesses a little bit.
+00:40:03.80 --> 00:40:05.80 And again, like you said, Dave,
+00:40:05.80 --> 00:40:10.80 Dave wasn't like, hey, you know, I'm going to focus on my piano skills,
+00:40:10.80 --> 00:40:14.80 because he's not that great at piano when he's supposed to be a jet fighter pilot, right?
+00:40:14.80 --> 00:40:15.80 Right, I get it.
+00:40:15.80 --> 00:40:19.80 But doesn't mean you shouldn't understand the music or something.
+00:40:19.80 --> 00:40:20.80 You know what I'm saying?
+00:40:20.80 --> 00:40:22.80 Doesn't mean you shouldn't go out and get that get box.
+00:40:22.80 --> 00:40:25.80 Oh, all right.
+00:40:25.80 --> 00:40:30.80 Number five, don't over inspect or oversupervised.
+00:40:30.80 --> 00:40:33.80 Just allow your leaders to make mistakes in training,
+00:40:33.80 --> 00:40:38.80 so they can profit from their errors and not make them in combat.
+00:40:38.80 --> 00:40:43.80 So decentralized command, clearly is what we're talking about here.
+00:40:43.80 --> 00:40:50.80 And it's incredible how annoying over inspection and over supervision is to humans.
+00:40:50.80 --> 00:40:52.80 That's psychological reactants, right?
+00:40:52.80 --> 00:40:55.80 It's like psychological reactants, which means we don't want to be told what to do,
+00:40:55.80 --> 00:40:56.80 because we're human beings.
+00:40:56.80 --> 00:40:59.80 We have a psychological rejection of people that are trying to control us.
+00:40:59.80 --> 00:41:00.80 That's normal.
+00:41:00.80 --> 00:41:01.80 That's common.
+00:41:01.80 --> 00:41:08.80 But over inspection and over supervision just triggers the psychological reactants all day long.
+00:41:08.80 --> 00:41:09.80 All day long.
+00:41:09.80 --> 00:41:10.80 Don't let it happen.
+00:41:10.80 --> 00:41:14.80 Don't be that leader, because that's not going to work out good for you.
+00:41:14.80 --> 00:41:16.80 It's not your team's not going to like it.
+00:41:16.80 --> 00:41:17.80 No one's going to like it.
+00:41:17.80 --> 00:41:22.80 Now, here's where people get a little bit wary about this, because they think,
+00:41:22.80 --> 00:41:25.80 well, you know, I'm in the business world.
+00:41:25.80 --> 00:41:31.80 And so I don't have the luxury of being able to train someone to in a training situation.
+00:41:31.80 --> 00:41:33.80 No, they got to go in front of a client.
+00:41:33.80 --> 00:41:37.80 I can't just let them fail in training, because there's no such thing.
+00:41:37.80 --> 00:41:38.80 We don't do that.
+00:41:38.80 --> 00:41:39.80 We don't have time.
+00:41:39.80 --> 00:41:42.80 I don't have six months getting ready to go on to pulling me to work with the client.
+00:41:42.80 --> 00:41:43.80 No, we're working the client today.
+00:41:43.80 --> 00:41:47.80 So there are multiple ways of doing this, right?
+00:41:47.80 --> 00:41:51.80 If Dave has got to eat Dave's not experience in a certain type of project.
+00:41:51.80 --> 00:41:55.80 And I go, okay, Dave, you're going to take lead on this project.
+00:41:55.80 --> 00:41:56.80 Want it.
+00:41:56.80 --> 00:42:01.80 You come up with, you know, your initial, your initial brief on the timeline you want to use.
+00:42:01.80 --> 00:42:02.80 And he puts together the timeline.
+00:42:02.80 --> 00:42:04.80 I don't send him to the client with it.
+00:42:04.80 --> 00:42:05.80 I say, okay, now brief me on it.
+00:42:05.80 --> 00:42:09.80 And he's like, I got 30 days to talk about cover move.
+00:42:09.80 --> 00:42:10.80 And I go, no, it says make me sense.
+00:42:10.80 --> 00:42:15.80 So you can actually train and educate someone just by putting in a little,
+00:42:15.80 --> 00:42:17.80 probably 20% extra effort.
+00:42:17.80 --> 00:42:20.80 And if you think about it, it's actually probably a break even because I didn't have to do
+00:42:20.80 --> 00:42:22.80 the bulk of the work myself.
+00:42:22.80 --> 00:42:26.80 I just said, hey, Dave, come up with a timeline for this training schedule for this client.
+00:42:26.80 --> 00:42:27.80 And he goes, oh, cool.
+00:42:27.80 --> 00:42:29.80 And he goes and does it.
+00:42:29.80 --> 00:42:31.80 Now, if I would have had to do it, I would have made couple phone calls.
+00:42:31.80 --> 00:42:33.80 No, I would have to do the pull out the word processor.
+00:42:33.80 --> 00:42:35.80 And I would have to sit down and do it.
+00:42:35.80 --> 00:42:36.80 And it would have been pain.
+00:42:36.80 --> 00:42:38.80 And plus I would have been in the weeds on it.
+00:42:38.80 --> 00:42:40.80 So I don't really see as much.
+00:42:40.80 --> 00:42:41.80 I'm not the attach from it.
+00:42:41.80 --> 00:42:43.80 Instead, I go, hey, Dave, come up with a timeline for this client.
+00:42:43.80 --> 00:42:44.80 What you want to do for a basic schedule.
+00:42:44.80 --> 00:42:45.80 And he goes, cool, got it.
+00:42:45.80 --> 00:42:46.80 He does it.
+00:42:46.80 --> 00:42:47.80 He's never done it before.
+00:42:47.80 --> 00:42:49.80 Or maybe just, I go, here's an old client.
+00:42:49.80 --> 00:42:50.80 Similar client.
+00:42:50.80 --> 00:42:52.80 You can use this as a, as a guide.
+00:42:52.80 --> 00:42:53.80 Cool.
+00:42:53.80 --> 00:42:54.80 He does it.
+00:42:54.80 --> 00:42:55.80 It's pretty close, right?
+00:42:55.80 --> 00:42:56.80 It doesn't.
+00:42:56.80 --> 00:42:58.80 I'm not wasting a bunch of time.
+00:42:58.80 --> 00:43:03.80 And if he was a total idiot, and you produce something that sucked, I'd be like, okay, cool, this is what this is horrible.
+00:43:03.80 --> 00:43:04.80 This is why.
+00:43:04.80 --> 00:43:05.80 Didn't cost us anything.
+00:43:05.80 --> 00:43:06.80 Didn't put any risk.
+00:43:06.80 --> 00:43:09.80 Didn't show the client some bad take on us.
+00:43:09.80 --> 00:43:11.80 No, it's all good.
+00:43:11.80 --> 00:43:16.80 So just because we use the, just because the term is used here.
+00:43:16.80 --> 00:43:19.80 You're making mistakes in training.
+00:43:19.80 --> 00:43:24.80 Don't consider training to be this official thing where you've been pulled away and you don't have any interaction in the real world.
+00:43:24.80 --> 00:43:28.80 No, training can happen every single day with everything that you do.
+00:43:28.80 --> 00:43:29.80 And that's what you should do.
+00:43:29.80 --> 00:43:31.80 And you should let people brush up against the guardrails of failure.
+00:43:31.80 --> 00:43:33.80 You should let people do that.
+00:43:33.80 --> 00:43:35.80 And then when they do, you don't jump down their throat.
+00:43:35.80 --> 00:43:37.80 And now you don't become a micromanager.
+00:43:37.80 --> 00:43:40.80 You make adjustments and you set another thing for.
+00:43:40.80 --> 00:43:42.80 Say, all right, here's, hey, Dave, this doesn't make any sense.
+00:43:42.80 --> 00:43:45.80 I just, this is, will never take this much time.
+00:43:45.80 --> 00:43:47.80 Go make some adjustments and bring it back to me.
+00:43:47.80 --> 00:43:48.80 Dave does it and cool.
+00:43:48.80 --> 00:43:49.80 That, yep, good to go.
+00:43:49.80 --> 00:43:51.80 My net investment at time is probably the same.
+00:43:51.80 --> 00:43:53.80 If not, I'm probably saving time.
+00:43:53.80 --> 00:43:57.80 And my product, my end product is actually better because I'm detached.
+00:43:57.80 --> 00:44:02.80 And I wasn't in the weeds on the initial assignment.
+00:44:02.80 --> 00:44:05.80 So don't over inspect.
+00:44:05.80 --> 00:44:08.80 Don't over supervise hard to do that.
+00:44:08.80 --> 00:44:10.80 Your ego wants you to over supervise.
+00:44:10.80 --> 00:44:12.80 By the way, your ego wants to over inspect.
+00:44:12.80 --> 00:44:16.80 Your ego actually wants to find problems you ever had those bosses.
+00:44:16.80 --> 00:44:19.80 They, you can't get through a, like in the seal teams.
+00:44:19.80 --> 00:44:20.80 You give a brief.
+00:44:20.80 --> 00:44:23.80 There's no way you're getting through the brief without getting
+00:44:23.80 --> 00:44:26.80 Dinged on seven different things.
+00:44:26.80 --> 00:44:29.80 I'd like some of the guys I used to critique their briefs on coming
+00:44:29.80 --> 00:44:32.80 Talk to me because I was freaking harsh on those briefs.
+00:44:32.80 --> 00:44:34.80 But here's the thing, man.
+00:44:34.80 --> 00:44:37.80 I'll have to review some of my notes because I would be harsh
+00:44:37.80 --> 00:44:40.80 because they would do dumb shit.
+00:44:40.80 --> 00:44:42.80 And I'd be like, bro, what are you doing over here?
+00:44:42.80 --> 00:44:43.80 What does this mean?
+00:44:43.80 --> 00:44:45.80 I can't even understand, look at your pictures here.
+00:44:45.80 --> 00:44:46.80 Like this doesn't make any sense.
+00:44:46.80 --> 00:44:47.80 What is this timeline?
+00:44:47.80 --> 00:44:49.80 How do you think you're going to patrol from here to here in that amount of time?
+00:44:49.80 --> 00:44:52.80 They were just legitimate things.
+00:44:52.80 --> 00:44:54.80 Because I actually didn't care.
+00:44:54.80 --> 00:44:57.80 I actually didn't care what the font was.
+00:44:57.80 --> 00:44:58.80 I didn't care about any of that.
+00:44:58.80 --> 00:44:59.80 I cared about.
+00:44:59.80 --> 00:45:01.80 And actually, I did, here's a good case in point.
+00:45:01.80 --> 00:45:03.80 I had a guy, good dude.
+00:45:03.80 --> 00:45:05.80 Tora's brief up.
+00:45:05.80 --> 00:45:08.80 And, you know, he gets done.
+00:45:08.80 --> 00:45:10.80 They do another brief next day.
+00:45:10.80 --> 00:45:11.80 Next stop.
+00:45:11.80 --> 00:45:12.80 Tora it up.
+00:45:12.80 --> 00:45:13.80 Terrible.
+00:45:13.80 --> 00:45:16.80 And he's like, after the first day, he added even more.
+00:45:16.80 --> 00:45:18.80 Like trying to satisfy me.
+00:45:18.80 --> 00:45:21.80 And he says, dude, what this is like a moving target.
+00:45:21.80 --> 00:45:23.80 What is that you're actually want from these briefs?
+00:45:23.80 --> 00:45:26.80 And I said, well, it's not a moving target.
+00:45:26.80 --> 00:45:31.80 I said, to me, a good brief is when you give a brief,
+00:45:31.80 --> 00:45:36.80 your men understand the mission and the execution.
+00:45:36.80 --> 00:45:42.80 And he was like, okay, fair enough.
+00:45:42.80 --> 00:45:47.80 And then he took that to heart of, okay, my audience is not
+00:45:47.80 --> 00:45:48.80 Jocco.
+00:45:48.80 --> 00:45:49.80 My audience is not the commanding officer.
+00:45:49.80 --> 00:45:51.80 My audience is my machine gunner.
+00:45:51.80 --> 00:45:52.80 My audience is my point man.
+00:45:52.80 --> 00:45:53.80 My audience is my preacher.
+00:45:53.80 --> 00:45:54.80 That's my audience.
+00:45:54.80 --> 00:45:56.80 That's who needs to understand this thing.
+00:45:56.80 --> 00:45:57.80 And that's the way it's supposed to be.
+00:45:57.80 --> 00:46:00.80 And that's the same, same thing, life, and I wrote about this.
+00:46:00.80 --> 00:46:01.80 Happen with life and stuff.
+00:46:01.80 --> 00:46:06.80 And so I've left and stuff we're doing the freaking most insane 150
+00:46:06.80 --> 00:46:11.80 Slide PowerPoint briefs for reconnaissance missions in training.
+00:46:11.80 --> 00:46:12.80 And they were so bad.
+00:46:12.80 --> 00:46:17.80 And I was like, hey, guys, no one knows what the hell you guys are talking about.
+00:46:17.80 --> 00:46:18.80 I said, let's do this.
+00:46:18.80 --> 00:46:22.80 I said, I just want you to brief to the lowest common denominator in your
+00:46:22.80 --> 00:46:23.80 Patoon, just do that.
+00:46:23.80 --> 00:46:24.80 Pull out a map.
+00:46:24.80 --> 00:46:26.80 Don't put a bunch of slides.
+00:46:26.80 --> 00:46:28.80 They don't need to have animation in the slides.
+00:46:28.80 --> 00:46:31.80 You know, much time it takes to do animation in the slide.
+00:46:31.80 --> 00:46:34.80 I mean, it's a total waste of time.
+00:46:34.80 --> 00:46:36.80 It's a total waste of time.
+00:46:36.80 --> 00:46:39.80 You should pull up the map and be like, hey, we're going to move from here to here.
+00:46:39.80 --> 00:46:40.80 That's the way it's going to work.
+00:46:40.80 --> 00:46:41.80 Follow my finger.
+00:46:41.80 --> 00:46:43.80 Follow my pointer on this map.
+00:46:43.80 --> 00:46:45.80 So you all know what's up.
+00:46:45.80 --> 00:46:49.80 And said, we spend an extra hour and 22 minutes making humvies.
+00:46:49.80 --> 00:46:52.80 Drive down a route in an animated way.
+00:46:52.80 --> 00:46:53.80 It's a bit strange.
+00:46:53.80 --> 00:46:55.80 And the cool thing was, and props to my audience.
+00:46:55.80 --> 00:47:00.80 Those guys, and you guys have heard the story like Seth was like, we're going to get fired.
+00:47:00.80 --> 00:47:03.80 And I said, hey, you will not get fired.
+00:47:03.80 --> 00:47:06.80 If anyone gets fired, I will say this was 100% on me.
+00:47:06.80 --> 00:47:07.80 I told him, brief this way.
+00:47:07.80 --> 00:47:08.80 Don't worry about it.
+00:47:08.80 --> 00:47:10.80 Brief to your lowest common denominator.
+00:47:10.80 --> 00:47:11.80 Brief to your machine gunners.
+00:47:11.80 --> 00:47:12.80 And they're like, okay.
+00:47:12.80 --> 00:47:14.80 And sure enough, the commanding officer came up.
+00:47:14.80 --> 00:47:15.80 He sat through the brief and tears credit.
+00:47:15.80 --> 00:47:18.80 He was like, that was the best briefs we've had.
+00:47:18.80 --> 00:47:20.80 I actually understand what's happening.
+00:47:20.80 --> 00:47:22.80 I'm like, that's the goal.
+00:47:22.80 --> 00:47:25.80 So that's what we need to do.
+00:47:25.80 --> 00:47:28.80 Don't over supervise.
+00:47:28.80 --> 00:47:29.80 Don't over inspect.
+00:47:29.80 --> 00:47:32.80 And with people make mistakes, just make some little adjustments.
+00:47:32.80 --> 00:47:33.80 Tell them what the goal is.
+00:47:33.80 --> 00:47:36.80 And we're going to be alright.
+00:47:36.80 --> 00:47:37.80 Yeah.
+00:47:37.80 --> 00:47:38.80 I'm just cracking out listening.
+00:47:38.80 --> 00:47:42.80 Do you tell these stories and just kind of put my version of that and my experience.
+00:47:42.80 --> 00:47:44.80 But I think also want to leadership role.
+00:47:44.80 --> 00:47:45.80 Doesn't matter if you're the military.
+00:47:45.80 --> 00:47:49.80 Doesn't matter if you're the private sector and whether you're trying to
+00:47:49.80 --> 00:47:53.80 a real world.
+00:47:53.80 --> 00:47:55.80 You also have to know what matters.
+00:47:55.80 --> 00:47:58.80 You got to know what really matters and what really doesn't.
+00:47:58.80 --> 00:48:03.80 And something we saw in the military that I know transfers over would drive people nuts
+00:48:03.80 --> 00:48:09.80 is if you're in a key leadership role and you're getting this brief and you make a comment about the font.
+00:48:09.80 --> 00:48:10.80 Guess what?
+00:48:10.80 --> 00:48:12.80 Those people all downstream you.
+00:48:12.80 --> 00:48:14.80 They're going to obsess over the font.
+00:48:14.80 --> 00:48:18.80 So if it really doesn't matter, don't say anything about it because what you're going to do is
+00:48:18.80 --> 00:48:19.80 make you happy.
+00:48:19.80 --> 00:48:21.80 They're trying to give you what they think you want.
+00:48:21.80 --> 00:48:25.80 And if you're the guy that wants to think out loud, go boy, you know,
+00:48:25.80 --> 00:48:27.80 courier is way better than times.
+00:48:27.80 --> 00:48:28.80 Isn't it?
+00:48:28.80 --> 00:48:31.80 Every single slide is not going to get reviewed.
+00:48:31.80 --> 00:48:35.80 Three layers downstream of someone trying to make sure, oh,
+00:48:35.80 --> 00:48:38.80 Dave's real obsessed about the font.
+00:48:38.80 --> 00:48:39.80 Even if you're not.
+00:48:39.80 --> 00:48:42.80 But if you want to make a point of that, if you decide to bring that up,
+00:48:42.80 --> 00:48:43.80 your people are going to try to satisfy you.
+00:48:43.80 --> 00:48:44.80 That's what I'm trying to do.
+00:48:44.80 --> 00:48:47.80 So be real careful about what matters and don't talk about the things that don't
+00:48:47.80 --> 00:48:50.80 matter because they're going to hear you and they're going to want to fix that
+00:48:50.80 --> 00:48:52.80 when in your mind.
+00:48:52.80 --> 00:48:54.80 It isn't even an important thing.
+00:48:54.80 --> 00:48:56.80 But once you say it, it's out there.
+00:48:56.80 --> 00:48:57.80 That's what people are going to get.
+00:48:57.80 --> 00:48:58.80 We saw that in the military all the time.
+00:48:58.80 --> 00:49:00.80 Oh, this, uh, we're breathing this general.
+00:49:00.80 --> 00:49:02.80 His real big on on spacing.
+00:49:02.80 --> 00:49:04.80 And I bet you if you grabbed that general,
+00:49:04.80 --> 00:49:06.80 hey, general, um, we have to spend three hours fixing this spacing on the
+00:49:06.80 --> 00:49:08.80 spree if you want us to do that.
+00:49:08.80 --> 00:49:09.80 He would say no.
+00:49:09.80 --> 00:49:10.80 We're giving get that.
+00:49:10.80 --> 00:49:10.80 Yeah.
+00:49:10.80 --> 00:49:12.80 But he made a comment or it came out.
+00:49:12.80 --> 00:49:13.80 Yeah.
+00:49:13.80 --> 00:49:16.80 And the worst thing is you got people that are focused on that instead of focusing on that.
+00:49:16.80 --> 00:49:21.80 And focusing on the content of a mission totally and a good plan and contingency plans.
+00:49:21.80 --> 00:49:24.80 So all the time.
+00:49:24.80 --> 00:49:27.80 So be careful that.
+00:49:27.80 --> 00:49:29.80 Number six.
+00:49:29.80 --> 00:49:32.80 Keep the troops informed.
+00:49:32.80 --> 00:49:36.80 Telling them what, how and why builds their confidence.
+00:49:36.80 --> 00:49:39.80 It was an interesting, an interesting little twist on that, right?
+00:49:39.80 --> 00:49:41.80 Builds their confidence.
+00:49:41.80 --> 00:49:45.80 First of all, let's us know the importance of people being confident, being confident
+00:49:45.80 --> 00:49:48.80 and and look when you when you know what you're doing,
+00:49:48.80 --> 00:49:51.80 but you don't know why that's a problem for your confidence.
+00:49:51.80 --> 00:49:53.80 You don't even know why you're doing it.
+00:49:53.80 --> 00:49:54.80 She's a fron.
+00:49:54.80 --> 00:49:59.80 If you know why you're doing something, but you don't know what you're doing it for, that's the same thing.
+00:49:59.80 --> 00:50:02.80 So keeping people informed.
+00:50:02.80 --> 00:50:03.80 Heh.
+00:50:03.80 --> 00:50:05.80 A lack of info.
+00:50:05.80 --> 00:50:09.80 And this was, this was one of the reasons why I was very happy.
+00:50:09.80 --> 00:50:11.80 Look, and I was very lucky in my career.
+00:50:11.80 --> 00:50:14.80 I was very lucky in my career that I did my career the way I did.
+00:50:14.80 --> 00:50:18.80 Then I'm not saying that there's a bunch of better ways to do it because there's certainly our but for me.
+00:50:18.80 --> 00:50:20.80 What, what was very nice for me.
+00:50:20.80 --> 00:50:28.80 One of the huge lessons that I learned was how horrible it feels not to know what's happening.
+00:50:28.80 --> 00:50:36.80 And the team normally doesn't know what you think they know.
+00:50:36.80 --> 00:50:38.80 They don't.
+00:50:38.80 --> 00:50:39.80 Do you think they know stuff?
+00:50:39.80 --> 00:50:40.80 They don't know it.
+00:50:40.80 --> 00:50:41.80 You think that they understand things.
+00:50:41.80 --> 00:50:42.80 They don't.
+00:50:42.80 --> 00:50:44.80 That's not because they're not stupid.
+00:50:44.80 --> 00:50:48.80 Because they don't have the visibility on the things that you have the visibility on.
+00:50:48.80 --> 00:50:54.80 So it's, it's very important to tell people what's going on.
+00:50:54.80 --> 00:51:00.80 And by the way, and this is, it's so crystal clear in this field teams, but it's crystal clear in the world.
+00:51:00.80 --> 00:51:05.80 But the seal teams was just so, so epic at doing this.
+00:51:05.80 --> 00:51:09.80 Anything that the two troops didn't know they were going to make up their own.
+00:51:09.80 --> 00:51:13.80 And it was going to be like the worst possible case scenario every single time.
+00:51:13.80 --> 00:51:17.80 You know, oh, the, what heading back early?
+00:51:17.80 --> 00:51:19.80 Oh, we're heading back from this trip early.
+00:51:19.80 --> 00:51:22.80 You know, you're probably going because the aircraft got rescheduled and so you're going to head back to the people like,
+00:51:22.80 --> 00:51:23.80 Oh, no.
+00:51:23.80 --> 00:51:26.80 See our platoon's getting disbanded.
+00:51:26.80 --> 00:51:28.80 You know, we, whatever.
+00:51:28.80 --> 00:51:29.80 They just go wild.
+00:51:29.80 --> 00:51:33.80 So when you don't tell people what's going on, they're going to make it up.
+00:51:33.80 --> 00:51:34.80 And that's going to be bad.
+00:51:34.80 --> 00:51:38.80 And it, and it, and it, and one of the worst feelings in the world is to not know what's happening.
+00:51:38.80 --> 00:51:43.80 And as part of a team, and it, look, this doesn't mean you have to submit a
+00:51:43.80 --> 00:51:49.80 19 page PowerPoint brief, especially if you can get people the context and the context.
+00:51:49.80 --> 00:51:55.80 You know, if every day or every couple days, you're giving the context of, or people have the context.
+00:51:55.80 --> 00:51:57.80 Now my brief doesn't have to be that long.
+00:51:57.80 --> 00:51:59.80 It's like, hey, carry, we're actually going to move to this position.
+00:51:59.80 --> 00:52:01.80 You're like, okay, cool, because I know that here's where we were.
+00:52:01.80 --> 00:52:02.80 Here's where we were going.
+00:52:02.80 --> 00:52:05.80 If I just, you don't know, have any context.
+00:52:05.80 --> 00:52:14.80 And I tell you, we're moving here. I have to actually take now 20 minutes to explain how we got to the point where we're going to go there.
+00:52:14.80 --> 00:52:17.80 To keep that in mind.
+00:52:17.80 --> 00:52:25.80 Number seven, the heart of the training, the more the troops will brag.
+00:52:25.80 --> 00:52:30.80 The harder the training, the more the troops will brag.
+00:52:30.80 --> 00:52:40.80 Clearly, this is seen in the military and almost to a detriment, of course, because people you can put people through so much training and they can start to brag so much.
+00:52:40.80 --> 00:52:42.80 That's not to believe it.
+00:52:42.80 --> 00:52:50.80 Lafoys talks about the fact when we started tasked a bruiser and we're working together and we were going to do an extra.
+00:52:50.80 --> 00:52:52.80 We were coming in early in the morning.
+00:52:52.80 --> 00:52:54.80 We were staying later at night.
+00:52:54.80 --> 00:52:57.80 We were doing extra iterations of the training that we were being told to do.
+00:52:57.80 --> 00:53:00.80 The training cadre would leave and we'd stay there and do more.
+00:53:00.80 --> 00:53:02.80 And the initial take was,
+00:53:02.80 --> 00:53:04.80 We were doing a pool, we were going to go, we're going to do this.
+00:53:04.80 --> 00:53:07.80 Sure, that was the kind of initial take.
+00:53:07.80 --> 00:53:21.80 And sure enough, as we got better, as we got more square to away, as we started getting huge compliments from the training cadre, all of a sudden that that.
+00:53:21.80 --> 00:53:26.80 Bitching turned to bragging, which was pretty cool.
+00:53:26.80 --> 00:53:31.80 And it's the thing is though, there's a speed bump that you have to get over.
+00:53:31.80 --> 00:53:34.80 Right? There's a speed bump. There's a point in time.
+00:53:34.80 --> 00:53:40.80 There's an intersection of time where you're working harder, but you're not seeing any benefits from it.
+00:53:40.80 --> 00:53:43.80 You're working harder, but no one really else can see it.
+00:53:43.80 --> 00:53:47.80 You're working hard, you're doing extra, but there's no real benefit.
+00:53:47.80 --> 00:53:51.80 And you've got to get to the speed bump, so you're going to get people being negative.
+00:53:51.80 --> 00:53:53.80 This bill will get to work extra, we're going to do it.
+00:53:53.80 --> 00:53:55.80 Coming early, well, good, stay late.
+00:53:55.80 --> 00:54:02.80 I've got that isn't thing that you're going to have to overcome and get to the point where all of a sudden, oh, we just crushed this block of training.
+00:54:02.80 --> 00:54:09.80 We just got huge compliments to our commanding officer about our performance in land warfare or whatever.
+00:54:09.80 --> 00:54:12.80 And so you've got to get over that speed bump.
+00:54:12.80 --> 00:54:17.80 So that the bragging can start and the pride can start.
+00:54:17.80 --> 00:54:23.80 And then what you've got to be careful of is you've got to be careful that that pride doesn't get so big that people will go, you know, we don't need to do any more.
+00:54:23.80 --> 00:54:25.80 We don't need to do this anymore.
+00:54:25.80 --> 00:54:29.80 So keep that in mind and keep yourselves in check.
+00:54:29.80 --> 00:54:41.80 You know, luckily we had friends in other task units because it got pretty, the kind of, the chest sticking out and task new pressure got a little bit much.
+00:54:41.80 --> 00:54:57.80 And you know, we'd get like some of our friends and other tasks units would be like, you know, oh, BTF, you know, we're like, okay, we need to back off of the heads to chill out everybody, you know, so just just keep it in check a little bit.
+00:54:57.80 --> 00:54:59.80 But there's this speed bump you got to get over.
+00:54:59.80 --> 00:55:01.80 That's a real thing.
+00:55:01.80 --> 00:55:07.80 Yeah, and I think there's a connection to the previous comment you made about the why is it that hard training,
+00:55:07.80 --> 00:55:11.80 especially when they start to make the connection why hard training is important.
+00:55:11.80 --> 00:55:18.80 If they know why they're doing it, their, your people will have so much more resilience and be able to tolerate so much more hard training.
+00:55:18.80 --> 00:55:21.80 And if you're just out for just training hard, because that's how you are.
+00:55:21.80 --> 00:55:26.80 And they can't make any connection to all this extra time, all this extra work that it doesn't lead to something.
+00:55:26.80 --> 00:55:31.80 You will run into a problem, but if you can connect that why and then go, oh.
+00:55:31.80 --> 00:55:35.80 This real little thing was so much easier.
+00:55:35.80 --> 00:55:42.80 Now the willingness to work hard and track this or work hard and training or put it in the next your time, because they know why they're doing it and makes it so much easier down the road.
+00:55:42.80 --> 00:55:48.80 Yeah, no doubt, like you said, going with the previous point keep the troops informed.
+00:55:48.80 --> 00:55:55.80 If you're not informed the troops and you're just kicking the crap out of one of normal basis, this is not there's not going to be any pride, there's just going to be negativity.
+00:55:55.80 --> 00:55:56.80 So.
+00:55:56.80 --> 00:56:04.80 Be careful that number eight, enthusiasm, fairness and moral and physical courage.
+00:56:04.80 --> 00:56:07.80 Four of the most important aspects of leadership.
+00:56:07.80 --> 00:56:21.80 It is interesting enthusiasm out of the gate enthusiasm man, well, you know why that is, in my opinion, because that is so infectious to everybody else.
+00:56:21.80 --> 00:56:30.80 And when you're enthusiastic about something, when someone on the team isn't enthusiastic, that can just, that can change the attitude of everyone on the team.
+00:56:30.80 --> 00:56:38.80 If you as the leader enthusiastic, it's definitely going to help if you will as the leader are not enthusiastic about something, it's a disaster.
+00:56:38.80 --> 00:56:41.80 And everyone's going to be.
+00:56:41.80 --> 00:56:47.80 Just bummed out to be doing whatever, having a good time with stuff, then being enthusiastic.
+00:56:47.80 --> 00:56:50.80 That's something and you know what's cool, you can fake that.
+00:56:50.80 --> 00:56:52.80 You can fake that all day long. I did.
+00:56:52.80 --> 00:56:56.80 I'd be like, this is some dumb shit. Hey, let's rock and roll. Like, you know what I mean?
+00:56:56.80 --> 00:57:00.80 You got to just sometimes call it man, I'm going to be fired up for this.
+00:57:00.80 --> 00:57:02.80 I'm going to take it to the next level. Watch. Let's go.
+00:57:02.80 --> 00:57:07.80 And you're just having fun and pretty much you, you fool everyone else. Then you fool yourself and you're having a good time.
+00:57:07.80 --> 00:57:10.80 Let's do it. Let's rock and roll.
+00:57:10.80 --> 00:57:12.80 Fairness.
+00:57:12.80 --> 00:57:16.80 Clearly, clearly, got to be fair about what you're doing.
+00:57:16.80 --> 00:57:18.80 And then moral and physical courage.
+00:57:18.80 --> 00:57:21.80 You know what's what's interesting on these two.
+00:57:21.80 --> 00:57:33.80 I was thinking about it. You would think that moral courage would be the easier thing to have because you're not under the threat of physical harm, right?
+00:57:33.80 --> 00:57:35.80 Because normally I think physical courage.
+00:57:35.80 --> 00:57:40.80 I think you're risking some sort of physical injury.
+00:57:40.80 --> 00:57:50.80 What's it want? But I think most of the time, we see I think we's more often see a failure of moral courage than physical courage.
+00:57:50.80 --> 00:57:56.80 Why is that? I think it basically boils down to most of the time with moral courage.
+00:57:56.80 --> 00:57:59.80 You have time to think about it.
+00:57:59.80 --> 00:58:03.80 And physical courage, like, oh, there's something going on. I'm going to go to this right now.
+00:58:03.80 --> 00:58:07.80 And even talking to guys that have done incredibly courageous thing.
+00:58:07.80 --> 00:58:13.80 I remember Mike Fortin was on the podcast, Medal of Honor recipient, Vietnam seal.
+00:58:13.80 --> 00:58:18.80 And I said, well, you know, were you scared when you didn't ready to, I forget what it was.
+00:58:18.80 --> 00:58:27.80 When you were getting ready to run across this beach that's being, you know, just darted with machine gun fire and grab your buddy that you fought was dead.
+00:58:27.80 --> 00:58:32.80 Were you scared? Did you hesitate? He's like, no, I didn't think about it. I just had to go.
+00:58:32.80 --> 00:58:34.80 So can you have time to think about it?
+00:58:34.80 --> 00:58:37.80 You know, it's just like, wow, that's what this is what I'm doing. I'm doing it now.
+00:58:37.80 --> 00:58:39.80 And there's no time to think about it.
+00:58:39.80 --> 00:58:48.80 The moral courage is like you have time to weigh out what's going to happen and what the consequence is going to be and what are people going to think and what are you going to think and how is it going to feel.
+00:58:48.80 --> 00:58:59.80 And I think that's why oftentimes the moral courage can be harder to muster up because you have time to think about it, which is generally not fun.
+00:58:59.80 --> 00:59:04.80 In the team dynamic, you know, moral courage in a team,
+00:59:04.80 --> 00:59:16.80 especially if there's like social proof against you, right, the rest of the team thinks one thing and you think, you know, you're being morally courageous and that's not what the team thinks.
+00:59:16.80 --> 00:59:23.80 That can put some some pressure on you as a individual now against the team and your views versus theirs.
+00:59:23.80 --> 00:59:27.80 That's a little different dynamic as opposed to moral courage as an individual.
+00:59:27.80 --> 00:59:31.80 I'm going to do the right thing because that's the right thing to do.
+00:59:31.80 --> 00:59:35.80 But you throw that in a team dynamic, it gets a little little more difficult.
+00:59:35.80 --> 00:59:42.80 Yeah, well, you better have and build really good relationships with people that way you don't get yourself into a predicament, right?
+00:59:42.80 --> 00:59:51.80 The predicament that you get yourself into is, you know, Dave does something that's a little bit wrong, but I don't really know him that well and I'm like, well, you know, I don't really want to say anything.
+00:59:51.80 --> 00:59:55.80 And then I basically now have said, hey, you're cool that what it what you did is cool.
+00:59:55.80 --> 01:00:05.80 And now he does something a little bit further outside the box of what he should be doing. And now I'm like, wait a second now, this is this is going outside the box, but I still don't can't say anything to Dave about it.
+01:00:05.80 --> 01:00:09.80 Haven't preempted anything and now Dave goes further outside the box.
+01:00:09.80 --> 01:00:15.80 So by the time I'm like, I'm going to say something, well, now I've known about the four things that he did that were outside the box.
+01:00:15.80 --> 01:00:22.80 I'm culpable as well now. So now all of a sudden, I got it, it's going to be, I totally screwed myself.
+01:00:22.80 --> 01:00:35.80 Whereas if I see Dave leaning outside the box, and he'll, hey, Dave, hey, bro, what are you doing? Well, what are you doing with this? He's like, well, you know, something we can get away with and I go, man, would you really like that to be on the cover of, you know, the newspaper?
+01:00:35.80 --> 01:00:43.80 He's like, well, maybe not. I mean, and look, I trust you and you trust me, but what about this guy over here and that guy over there and they're all going to know what's happening.
+01:00:43.80 --> 01:00:51.80 This doesn't seem like a smart movement. So just having a, it just like, just like I always say about hard conversations that earlier you have that conversation, the easier it's going to be.
+01:00:51.80 --> 01:00:58.80 You know, I, that's something that Dave talks about, you know, I said there's no coverups in Tasking Abuser. There's no coverups.
+01:00:58.80 --> 01:01:01.80 There's no coverups. There's not covering anything up. If something happens, we're going to tell everyone what happened.
+01:01:01.80 --> 01:01:06.80 If somebody gets shot, something, something goes down, there's no coverups. This is what we're doing.
+01:01:06.80 --> 01:01:11.80 And right there, everyone kind of goes, okay, like I guess that's the way it's going to be.
+01:01:11.80 --> 01:01:18.80 And there's no, there's no, you start stepping outside the box and it's like, hey, wait a second, I already told you this.
+01:01:18.80 --> 01:01:25.80 So it makes the hard conversation easier out of the gate because everybody kind of knows, oh,
+01:01:25.80 --> 01:01:31.80 John says there's no coverups. Okay, well, that we know where he stands, got it.
+01:01:31.80 --> 01:01:38.80 And we won't try and, you know, push the envelope. And when we do push the envelope a little bit, we're getting, we're getting pushed back in there real quick.
+01:01:38.80 --> 01:01:43.80 So I think that will help you with your moral courage.
+01:01:43.80 --> 01:01:45.80 Number one, having relationships with people.
+01:01:45.80 --> 01:01:51.80 Number two, having the hard conversations earlier. Because I'm way, you don't put yourself in that freaking terrible predicament.
+01:01:51.80 --> 01:01:59.80 We're like, uh, Dave's in bezel, freaking $380,000 from whatever, you know, you're like, bro, what are you doing?
+01:01:59.80 --> 01:02:03.80 And it's too late because I knew about it, but now I'm culpable.
+01:02:03.80 --> 01:02:05.80 So let's not get there.
+01:02:05.80 --> 01:02:08.80 Moral courage is easier earlier.
+01:02:08.80 --> 01:02:11.80 Let people know where you're stand.
+01:02:11.80 --> 01:02:19.80 Number nine, showmanship of vital technique of leadership.
+01:02:19.80 --> 01:02:30.80 One of the things that isn't about face, I guess Colonel Glover Johns was like a crack shot.
+01:02:30.80 --> 01:02:36.80 It's the super accurate shot and he'd walked down the range and like, let me see your rifle son.
+01:02:36.80 --> 01:02:41.80 He'd say you got a quarter on you and you'd have them throw a quarter up in the air and he'd shoot the quarter.
+01:02:41.80 --> 01:02:45.80 And he's like, prize possession to have a quarter that was shot by Glover Johns.
+01:02:45.80 --> 01:02:50.80 These are kind of things that he did.
+01:02:50.80 --> 01:02:58.80 So that's something that, you know, something that is good to be able to to show people.
+01:02:58.80 --> 01:03:01.80 He got somebody in the sealed teams being able to shoot moving communicate.
+01:03:01.80 --> 01:03:04.80 It's a good thing, you know, you got to be a good shot.
+01:03:04.80 --> 01:03:08.80 You don't want to be a loser shot.
+01:03:08.80 --> 01:03:10.80 You know, I was definitely never the best shot.
+01:03:10.80 --> 01:03:11.80 I was usually fast.
+01:03:11.80 --> 01:03:13.80 I was pretty fast out of the holster.
+01:03:13.80 --> 01:03:18.80 So I could do well in a speed shooting, but then, you know, you get out some.
+01:03:18.80 --> 01:03:21.80 The act, my accuracy wouldn't be as good as like our really good shooters.
+01:03:21.80 --> 01:03:25.80 Guys, we're freaking really good, but shoot moving communicate.
+01:03:25.80 --> 01:03:26.80 You know, are you in good shape?
+01:03:26.80 --> 01:03:31.80 Can you, do, hey, if you're lagging, if you're in a leadership position, you're lagging on a patrol.
+01:03:31.80 --> 01:03:34.80 Like you need your weight, you can't carry weight. That's a problem.
+01:03:34.80 --> 01:03:38.80 Right? That's a problem. If you don't know how to work your radio, that's a problem.
+01:03:38.80 --> 01:03:41.80 These are just like little things, right?
+01:03:41.80 --> 01:03:45.80 And honestly, GJT was pretty good little showmanship thing.
+01:03:45.80 --> 01:03:47.80 You know, you want to roll?
+01:03:47.80 --> 01:03:52.80 Hey, it's kind of an issue to work with, you know?
+01:03:52.80 --> 01:03:58.80 And I've, I've, I mean, when I talk about it, I was on the academy the other day.
+01:03:58.80 --> 01:04:02.80 And, and I brought this up, I brought this up, this idea of showmanship.
+01:04:02.80 --> 01:04:09.80 And when to actually say, let me show my boss how good my team is.
+01:04:09.80 --> 01:04:12.80 Like sometimes you've got to do things like that.
+01:04:12.80 --> 01:04:18.80 And it very counter to what I say 99% of the time, which is, hey, you work hard.
+01:04:18.80 --> 01:04:21.80 Don't worry about the, don't worry about who sees it.
+01:04:21.80 --> 01:04:25.80 But sometimes, all of a sudden, you're thinking, well, if we know, if the boss can't see what we're doing,
+01:04:25.80 --> 01:04:28.80 we're not going to get these extra funds, we're not going to get this extra person.
+01:04:28.80 --> 01:04:29.80 How do I set this up?
+01:04:29.80 --> 01:04:32.80 So my boss can actually see, so I can take care of the team better.
+01:04:32.80 --> 01:04:38.80 So there are times when showmanship is going to play a role in you being able to take care of your team better.
+01:04:38.80 --> 01:04:39.80 That happens.
+01:04:39.80 --> 01:04:46.80 How much of how much showmanship did you do flying in F-18 at the top gun school there?
+01:04:46.80 --> 01:04:52.80 Yeah, I mean, I think that ability to, to be a little bit of a showman is,
+01:04:52.80 --> 01:04:57.80 I mean, some port a bunch of ways, even you were just talking a minute ago, you're talking about enthusiasm.
+01:04:57.80 --> 01:05:00.80 And you're like, hey, what's cool about that is you can fake it.
+01:05:00.80 --> 01:05:06.80 And that even there's a little bit of showmanship of you were going to present yourself as if this situation that we're in,
+01:05:06.80 --> 01:05:08.80 no matter what it is, it's totally awesome.
+01:05:08.80 --> 01:05:09.80 This is going to be a blast.
+01:05:09.80 --> 01:05:11.80 We're going to, we're going to whatever.
+01:05:11.80 --> 01:05:18.80 And it's really not that hard to even pretend to be interested in something as opposed to walking in like,
+01:05:18.80 --> 01:05:24.80 okay, here we go. And how instantaneously you can set the tone.
+01:05:24.80 --> 01:05:28.80 And if you in the back of your mind recognize that part of being a showman is the people are going to follow.
+01:05:28.80 --> 01:05:31.80 They're going to, they're going to reflect that back to you.
+01:05:31.80 --> 01:05:38.80 They're going to guide off your behavior and whatever you show them, they're going to show them back that showmanship of how your attitude is going to be towards anything.
+01:05:38.80 --> 01:05:45.80 And how quickly you can come into your half your team's attitude just by showing that this is going to be fun or a good time.
+01:05:45.80 --> 01:05:49.80 And even if they know you're faking it, they get on board.
+01:05:49.80 --> 01:06:00.80 The idea that you have to kind of play the game a little bit and sort of act a little bit as an in a leadership role and how easy it is to do that is such an overlooked thing.
+01:06:00.80 --> 01:06:09.80 Yeah, and as you were saying that, I broke something down and I realized something about myself that is a tactic technique and procedure that's probably very important.
+01:06:09.80 --> 01:06:13.80 And it's something that I've probably done my whole career.
+01:06:13.80 --> 01:06:16.80 I'm not going to rely on being a good actor.
+01:06:16.80 --> 01:06:19.80 I'm not going to be re-event rely on faking it.
+01:06:19.80 --> 01:06:24.80 What I'm going to do is I'm going to figure out in my own head how this makes sense.
+01:06:24.80 --> 01:06:30.80 How how this makes sense for me to be able to do what I'm going to do to the end degree.
+01:06:30.80 --> 01:06:35.80 Like I can tell you, here's one, when I was going to college.
+01:06:35.80 --> 01:06:37.80 I didn't want to work.
+01:06:37.80 --> 01:06:40.80 I didn't want to do these read this book and write this paper.
+01:06:40.80 --> 01:06:44.80 I learned into a competition. I had against the teacher.
+01:06:44.80 --> 01:06:47.80 I was fighting against the teacher. I wanted to know more than teachers.
+01:06:47.80 --> 01:06:50.80 I made that in my head, while I was like, oh, I'm going to crush this teacher.
+01:06:50.80 --> 01:06:53.80 They're not going to ask me one question that I don't know the answer to.
+01:06:53.80 --> 01:06:54.80 That's not happening.
+01:06:54.80 --> 01:06:56.80 And so I turned into competition. My head that was fun.
+01:06:56.80 --> 01:06:57.80 But I do the same thing.
+01:06:57.80 --> 01:07:02.80 Like if my platoon got tasked with doing something stupid, I'd be like, oh, guess.
+01:07:02.80 --> 01:07:05.80 I turned into a game. My head that I really did want to win.
+01:07:05.80 --> 01:07:07.80 And I really wanted to platoon to win. So I'd be like, oh, guess what?
+01:07:07.80 --> 01:07:10.80 We got tasked with doing this stupid hydrographic reconnaissance.
+01:07:10.80 --> 01:07:15.80 We're going to take it so seriously that the command is going to be like, oh, my God.
+01:07:15.80 --> 01:07:19.80 We're going to leave an impression on them from doing a hydrographic reconnaissance.
+01:07:19.80 --> 01:07:22.80 They're going to think, we're the most square to away. Guys ever watch this.
+01:07:22.80 --> 01:07:26.80 And all of a sudden, instead of, I would truly believe that.
+01:07:26.80 --> 01:07:29.80 I would, I'd be like, hell yeah.
+01:07:29.80 --> 01:07:35.80 So I think that was my tactic and my technique was to truly find what was good about
+01:07:35.80 --> 01:07:39.80 some situation and completely focus on that 100%.
+01:07:39.80 --> 01:07:43.80 Because then I'm not trying to, because you know, I always say you can smell.
+01:07:43.80 --> 01:07:47.80 You can smell intent has a smell, right?
+01:07:47.80 --> 01:07:50.80 So if I'm like, well, this is stupid hydrographic reconnaissance,
+01:07:50.80 --> 01:07:52.80 but I'm going to pretend like it's good.
+01:07:52.80 --> 01:07:53.80 Guys, you're going to smell that.
+01:07:53.80 --> 01:07:56.80 But if I go, hey, they're making us do a hydrogro.
+01:07:56.80 --> 01:08:01.80 We're going to blow their minds when they get this chart that we give them.
+01:08:01.80 --> 01:08:02.80 And we're going to give it to them.
+01:08:02.80 --> 01:08:05.80 And we're going to give it to them. And now we'll send them, it's like, hey, well, yeah.
+01:08:05.80 --> 01:08:07.80 Yeah, like, they're going to want to test everyone else.
+01:08:07.80 --> 01:08:09.80 They're going to give all the other hydros to the other patrons.
+01:08:09.80 --> 01:08:11.80 Because they're going to know, we know what's up.
+01:08:11.80 --> 01:08:14.80 Where our goal is to make us never get tasked with the hydrographic.
+01:08:14.80 --> 01:08:17.80 Because they see that we know how to do it so well.
+01:08:17.80 --> 01:08:19.80 Boom. And all of a sudden, everyone's amped up.
+01:08:19.80 --> 01:08:23.80 And that's what I did probably more than anything else.
+01:08:23.80 --> 01:08:26.80 I remember I did that at an officer candidate school.
+01:08:26.80 --> 01:08:28.80 And officer candidate school.
+01:08:28.80 --> 01:08:30.80 You have to follow all these rules.
+01:08:30.80 --> 01:08:33.80 I want to vote on this speaking in a ballistic tone, which means you have to yell everything.
+01:08:33.80 --> 01:08:35.80 And how would just I told my whole class,
+01:08:35.80 --> 01:08:37.80 I'm like, when you, because you had to do it to the senior,
+01:08:37.80 --> 01:08:40.80 the classes above you, the senior classes.
+01:08:40.80 --> 01:08:43.80 You had to, you were supposed to talk in a ballistic tone to them.
+01:08:43.80 --> 01:08:45.80 And I said, and it was kind of annoying.
+01:08:45.80 --> 01:08:47.80 And I said, you should be so loud.
+01:08:47.80 --> 01:08:50.80 We're going to be so loud that it's going to annoy them.
+01:08:50.80 --> 01:08:53.80 And also just like, you can see Carrie smile.
+01:08:53.80 --> 01:08:54.80 And you're smiling like that.
+01:08:54.80 --> 01:08:56.80 That oversund became fun.
+01:08:56.80 --> 01:08:59.80 We were trying to be so loud when we were talking to the senior
+01:08:59.80 --> 01:09:01.80 classman that it was annoying.
+01:09:01.80 --> 01:09:02.80 It wasn't annoying to us.
+01:09:02.80 --> 01:09:04.80 It was annoying to them.
+01:09:04.80 --> 01:09:06.80 And that's exactly what we did as a matter of fact.
+01:09:06.80 --> 01:09:09.80 One time we were all lined up to buy they would sell us candy bars.
+01:09:09.80 --> 01:09:10.80 Right?
+01:09:10.80 --> 01:09:13.80 And so my class is lined up with the senior classes selling us coax and candy bars
+01:09:13.80 --> 01:09:16.80 to make money so they can make a teacher or something like this.
+01:09:16.80 --> 01:09:20.80 And you, and they're selling from this little closet thing.
+01:09:20.80 --> 01:09:23.80 And I had I said, hey, when you guys go in there,
+01:09:23.80 --> 01:09:25.80 you go ballistic.
+01:09:25.80 --> 01:09:28.80 And so sure enough, there's 50 or 60 people in my class.
+01:09:28.80 --> 01:09:33.80 By the 25th person, the upper classman like steps out of the hallway.
+01:09:33.80 --> 01:09:35.80 Attention candidates.
+01:09:35.80 --> 01:09:38.80 When you get in this office, you are not to sound off an ballistic token.
+01:09:38.80 --> 01:09:39.80 And what did I do?
+01:09:39.80 --> 01:09:41.80 I stepped out.
+01:09:41.80 --> 01:09:45.80 I was like, you know, uh, off-circuit and a willing request mission to speak.
+01:09:45.80 --> 01:09:46.80 Like what?
+01:09:46.80 --> 01:09:52.80 I'm like, you know, according to the freaking Robox7-9,
+01:09:52.80 --> 01:09:57.80 we are supposed to maintain ballistic tone at all times.
+01:09:57.80 --> 01:10:00.80 And they, they coward to it.
+01:10:00.80 --> 01:10:02.80 They're like, fine.
+01:10:02.80 --> 01:10:06.80 And so we just waited there as screaming around, I'll get my headaches.
+01:10:06.80 --> 01:10:09.80 So I'm going to take something like that.
+01:10:09.80 --> 01:10:12.80 I'm going to find a way to make this fun and good.
+01:10:12.80 --> 01:10:16.80 And I think that might be a more reliable tool.
+01:10:16.80 --> 01:10:20.80 Then my acting ability, which I can't really count on.
+01:10:20.80 --> 01:10:21.80 Yeah.
+01:10:21.80 --> 01:10:22.80 And it's not even that hard.
+01:10:22.80 --> 01:10:24.80 You've been set in the side that you're like, watch this.
+01:10:24.80 --> 01:10:25.80 That's showing show.
+01:10:25.80 --> 01:10:26.80 It's showing show.
+01:10:26.80 --> 01:10:28.80 It's like, hey, you want to give me that thing?
+01:10:28.80 --> 01:10:29.80 Watch this.
+01:10:29.80 --> 01:10:30.80 Yeah.
+01:10:30.80 --> 01:10:34.80 And yeah, I think, you know, obviously the semantics of the words you want to be careful with that.
+01:10:34.80 --> 01:10:38.80 You don't want to fake anything in terms of, hey, I don't really believe this, but
+01:10:38.80 --> 01:10:39.80 I'm going to do it.
+01:10:39.80 --> 01:10:41.80 You're going to find the truth that's inside there.
+01:10:41.80 --> 01:10:44.80 But if there's something, just like, hey, we're going to do this thing.
+01:10:44.80 --> 01:10:45.80 Watch this.
+01:10:45.80 --> 01:10:46.80 Yeah.
+01:10:46.80 --> 01:10:49.80 And that'll quickly people rally around that and get on board and it gets done.
+01:10:49.80 --> 01:10:50.80 It's good to go and move on.
+01:10:50.80 --> 01:10:51.80 Yeah.
+01:10:51.80 --> 01:10:52.80 And it's not that big of a deal.
+01:10:52.80 --> 01:10:54.80 Hell, I was going through Buds and third phase.
+01:10:54.80 --> 01:11:00.80 I would mean my swim buddy would voluntarily get wet and sandy.
+01:11:00.80 --> 01:11:03.80 And eventually they didn't know the instructions.
+01:11:03.80 --> 01:11:04.80 Why you didn't wet and sandy?
+01:11:04.80 --> 01:11:06.80 We'd like to get harder to be harder.
+01:11:06.80 --> 01:11:11.80 And they didn't want to see the wet and sandy on like the electric blasting range.
+01:11:11.80 --> 01:11:15.80 So you're doing demolition on a range and they want you to be dry and stuff.
+01:11:15.80 --> 01:11:21.80 And we ended up securing our class saying you guys are not allowed to get wet and sandy.
+01:11:21.80 --> 01:11:23.80 And then we got wet and sandy and slept outside.
+01:11:23.80 --> 01:11:25.80 And they were like, what are you doing?
+01:11:25.80 --> 01:11:27.80 And like, just trying to get harder.
+01:11:27.80 --> 01:11:29.80 So a little psychological game.
+01:11:29.80 --> 01:11:30.80 We're going to have fun with this.
+01:11:30.80 --> 01:11:31.80 That's what we're doing.
+01:11:31.80 --> 01:11:32.80 Rock and roll.
+01:11:32.80 --> 01:11:33.80 Showmanship.
+01:11:33.80 --> 01:11:35.80 Keep it in mind.
+01:11:35.80 --> 01:11:37.80 Number 10.
+01:11:37.80 --> 01:11:45.80 The ability to speak and write well to essential tools of leadership.
+01:11:45.80 --> 01:11:47.80 Here's the thing that I think people underestimate.
+01:11:47.80 --> 01:11:49.80 You can get better at both these things.
+01:11:49.80 --> 01:11:52.80 Writing for sure.
+01:11:52.80 --> 01:11:53.80 A one tip out of the gate.
+01:11:53.80 --> 01:11:55.80 If you're not much of a writer right now, right.
+01:11:55.80 --> 01:11:57.80 And then read what you wrote aloud.
+01:11:57.80 --> 01:11:58.80 See what it sounds like.
+01:11:58.80 --> 01:12:01.80 And you're going to see that you suck.
+01:12:01.80 --> 01:12:03.80 You suck it writing.
+01:12:03.80 --> 01:12:06.80 When you write something and you read it, I'll knew this sounds awful.
+01:12:06.80 --> 01:12:07.80 Yep.
+01:12:07.80 --> 01:12:09.80 That's a great first indicator.
+01:12:09.80 --> 01:12:10.80 And the more you practice.
+01:12:10.80 --> 01:12:13.80 And then find somebody to read it for you and critique it.
+01:12:13.80 --> 01:12:15.80 And you will get better at writing.
+01:12:15.80 --> 01:12:17.80 You will become more.
+01:12:17.80 --> 01:12:20.80 You'll become more concise.
+01:12:20.80 --> 01:12:23.80 You'll become a better writer over time.
+01:12:23.80 --> 01:12:28.80 And that will that will reflect in the way that you speak as well.
+01:12:28.80 --> 01:12:31.80 And also the more you speak to groups.
+01:12:31.80 --> 01:12:33.80 The more you speak aloud.
+01:12:33.80 --> 01:12:35.80 That's one of the reasons why they had you do that.
+01:12:35.80 --> 01:12:36.80 Oh, yes.
+01:12:36.80 --> 01:12:37.80 That's why you had to yell everything.
+01:12:37.80 --> 01:12:43.80 Because they wanted you to get confident in your voice and get confident in thinking and speaking quickly.
+01:12:43.80 --> 01:12:46.80 And the way the drill instructor told us.
+01:12:46.80 --> 01:12:51.80 He said, you know, you young officers are going to be on the bridge of a vessel of a
+01:12:51.80 --> 01:12:52.80 warship.
+01:12:52.80 --> 01:12:54.80 And it's going to be going on in the wrong direction.
+01:12:54.80 --> 01:12:57.80 And you need to confidently say, hey, we need to shift course right now.
+01:12:57.80 --> 01:12:58.80 You can't.
+01:12:58.80 --> 01:13:01.80 You can't be shy about it when you speak.
+01:13:01.80 --> 01:13:04.80 So those are things that you can definitely get better at.
+01:13:04.80 --> 01:13:06.80 Your ability to speak and write well.
+01:13:06.80 --> 01:13:08.80 And look, you're going to have some natural capability.
+01:13:08.80 --> 01:13:14.80 Some people are more articulate and good at speaking and public speaking.
+01:13:14.80 --> 01:13:16.80 Just naturally, they're just naturally good at it.
+01:13:16.80 --> 01:13:18.80 Just like some people have good hand eye coordination.
+01:13:18.80 --> 01:13:20.80 Some people have a good singing voice.
+01:13:20.80 --> 01:13:22.80 Some people can write well.
+01:13:22.80 --> 01:13:24.80 Some people can our better at writing out of the gate.
+01:13:24.80 --> 01:13:25.80 Then some other people.
+01:13:25.80 --> 01:13:27.80 It's just the way it is.
+01:13:27.80 --> 01:13:30.80 But you don't have to accept that that's where you need to be.
+01:13:30.80 --> 01:13:31.80 And that's where you're going to stay.
+01:13:31.80 --> 01:13:32.80 You don't have to.
+01:13:32.80 --> 01:13:35.80 You can truly get better at both of these things.
+01:13:35.80 --> 01:13:38.80 And these are essential tools of leadership.
+01:13:38.80 --> 01:13:39.80 Essential tools of leadership.
+01:13:39.80 --> 01:13:41.80 And really be a thing about it.
+01:13:41.80 --> 01:13:43.80 That's what leadership actually boils down to.
+01:13:43.80 --> 01:13:46.80 You're trying to get other humans to understand what you're saying.
+01:13:46.80 --> 01:13:48.80 That's that's what you're doing.
+01:13:48.80 --> 01:13:53.80 So if you can't articulate things well in both spoken word and written word,
+01:13:53.80 --> 01:13:57.80 you're going to have problems.
+01:13:57.80 --> 01:14:01.80 Did they train you guys actually in the Marine Corps to speak?
+01:14:01.80 --> 01:14:04.80 Or was it just OJT because you're briefing this and you're briefing that?
+01:14:04.80 --> 01:14:09.80 Yeah, my recollection for up until like top-gun level stuff.
+01:14:09.80 --> 01:14:12.80 They weren't giving you explicit stuff on speaking.
+01:14:12.80 --> 01:14:15.80 But there was a lot of work on writing.
+01:14:15.80 --> 01:14:17.80 And you know, in the writing there was I think they called it.
+01:14:17.80 --> 01:14:20.80 Was it like a standard naval letter format?
+01:14:20.80 --> 01:14:23.80 There was a technique of how to do that.
+01:14:23.80 --> 01:14:29.80 And there was a book or a publication or like a guide on how to do that.
+01:14:29.80 --> 01:14:33.80 And you know, that wasn't like the most or, you know, creative or unique way to do it.
+01:14:33.80 --> 01:14:38.80 But there was a technique to that, especially if you were trying to run some paper or go up to get in a approval of something.
+01:14:38.80 --> 01:14:39.80 There was a way to do it.
+01:14:39.80 --> 01:14:42.80 Yeah. And there's a lot of a lot of teaching on that.
+01:14:42.80 --> 01:14:48.80 The natural tendency thing that you you spoke to made me think of something is it was really obvious,
+01:14:48.80 --> 01:14:49.80 especially early in the career.
+01:14:49.80 --> 01:14:54.80 The people that had that speaking parts specifically, the ones that were just naturally good speakers.
+01:14:54.80 --> 01:14:56.80 And how draw you were to those guys.
+01:14:56.80 --> 01:14:58.80 You'd look at them like, damn, those are really good brief.
+01:14:58.80 --> 01:15:01.80 I don't even remember exactly what he's saying, but he said it really well.
+01:15:01.80 --> 01:15:05.80 And how powerful that capacity is.
+01:15:05.80 --> 01:15:11.80 And to your point that if you weren't good at it, if you're not careful, you'll convince yourself that, oh, I'm just not good at this.
+01:15:11.80 --> 01:15:16.80 But did you could get good at speaking by just practicing and wall playing, rehearsing and listening to yourself?
+01:15:16.80 --> 01:15:20.80 And how important, how important it is to sound good when you're talking.
+01:15:20.80 --> 01:15:24.80 And look, if you got that natural capacity, that's awesome. Congrats.
+01:15:24.80 --> 01:15:26.80 That's a good thing for you. It's going to help you.
+01:15:26.80 --> 01:15:29.80 But if you don't have that, you can improve on that like quickly.
+01:15:29.80 --> 01:15:31.80 If you if you spend some time on it.
+01:15:31.80 --> 01:15:35.80 Somebody sent me a clip the other day. It was one of my old bosses.
+01:15:35.80 --> 01:15:39.80 And he was getting interviewed and he was like, you know, the guy says, oh, you don't.
+01:15:39.80 --> 01:15:42.80 Did you have a work with Jaco and he's like, yeah, I'm on one.
+01:15:42.80 --> 01:15:45.80 He worked for me for whatever 18 months.
+01:15:45.80 --> 01:15:47.80 And he goes, oh, what do you have any good stories about Jaco?
+01:15:47.80 --> 01:15:50.80 Like, what was he like? And he goes, he was the thing.
+01:15:50.80 --> 01:15:53.80 He was the thing that I'm going to tell you and it's probably going to let you down.
+01:15:53.80 --> 01:15:58.80 The thing that I'll tell you about Jaco is that he was a really, really excellent writer.
+01:15:58.80 --> 01:16:02.80 And I was like, okay, that's cool.
+01:16:02.80 --> 01:16:03.80 Fair enough.
+01:16:03.80 --> 01:16:05.80 There's something that you can go to in the Navy.
+01:16:05.80 --> 01:16:07.80 It's called Master Training Specialist.
+01:16:07.80 --> 01:16:10.80 And it's where you learn to kind of become a instructor and they used to send
+01:16:10.80 --> 01:16:12.80 Buds instructors to that school.
+01:16:12.80 --> 01:16:15.80 And I had friends that went to it and they would have to brief, you know,
+01:16:15.80 --> 01:16:17.80 They'd have to teach something to a class.
+01:16:17.80 --> 01:16:18.80 I never went to that school.
+01:16:18.80 --> 01:16:21.80 I think that's the closest that you could get to some kind of a
+01:16:21.80 --> 01:16:26.80 formal training for speaking in the Navy.
+01:16:26.80 --> 01:16:30.80 Well, he's in the SEAL teams, maybe there's more I don't know.
+01:16:30.80 --> 01:16:37.80 And speaking of I don't know, if you're speaking, try and speak about things that you know about.
+01:16:37.80 --> 01:16:40.80 And if you don't know about them, you say I don't know.
+01:16:40.80 --> 01:16:48.80 This is one of the biggest ways to level up in your speaking ability is when someone
+01:16:48.80 --> 01:16:53.80 says, hey, Jaco, can you explain the flux capacitor on this engine?
+01:16:53.80 --> 01:16:56.80 I go, actually, I'm not familiar with flux capacitors.
+01:16:56.80 --> 01:16:59.80 You'll have to check with Dave Burke on that one, right?
+01:16:59.80 --> 01:17:04.80 And just knowing that I can say that about any subject that I don't understand
+01:17:04.80 --> 01:17:08.80 well enough is such a liberating feeling.
+01:17:08.80 --> 01:17:13.80 And oftentimes people think, well, if I'm standing up in front, I better know the answer.
+01:17:13.80 --> 01:17:15.80 You don't need to know the answer to anything.
+01:17:15.80 --> 01:17:16.80 You're human being.
+01:17:16.80 --> 01:17:17.80 You're not a computer.
+01:17:17.80 --> 01:17:22.80 And by the way, whatever needs to be found out can be Googled and figured out really quickly.
+01:17:22.80 --> 01:17:25.80 So you don't need to say, hey, that's an interesting question.
+01:17:25.80 --> 01:17:27.80 I want you Google it and get back to me with the answer.
+01:17:27.80 --> 01:17:28.80 Right?
+01:17:28.80 --> 01:17:30.80 There's no reason to think you have to know the answer.
+01:17:30.80 --> 01:17:31.80 Everything you don't.
+01:17:31.80 --> 01:17:36.80 So let that be the first thing to level you up.
+01:17:36.80 --> 01:17:38.80 I'm quite frankly now that I think about it.
+01:17:38.80 --> 01:17:46.80 I got taught this when I was getting ready to do my tried and review board to see if I was going to get my tried and the master chief was like,
+01:17:46.80 --> 01:17:49.80 if you don't know something, say you don't know it.
+01:17:49.80 --> 01:17:52.80 Don't try and bullshit us. We'll smash you.
+01:17:52.80 --> 01:17:53.80 You know, okay, fair enough.
+01:17:53.80 --> 01:17:55.80 And that's a great lesson to learn in life.
+01:17:55.80 --> 01:17:57.80 Everyone can see through it.
+01:17:57.80 --> 01:18:02.80 So speaking, writing, practice, you'll get better.
+01:18:02.80 --> 01:18:06.80 Speaking of speaking and writing, this is an interesting one.
+01:18:06.80 --> 01:18:13.80 Number 11, there is a salient difference between profanity and obscenity.
+01:18:13.80 --> 01:18:17.80 While the leader employees profanity tempered with discretion,
+01:18:17.80 --> 01:18:20.80 he never uses obscenities.
+01:18:20.80 --> 01:18:24.80 We're talking about some semantics and split some hairs here.
+01:18:24.80 --> 01:18:30.80 So from the dictionary, profanity is blasphemous or obscene language or swear word.
+01:18:30.80 --> 01:18:36.80 So it's the word where as obscenity is the state or quality of being obscene,
+01:18:36.80 --> 01:18:41.80 obscene behavior, language, images, and extremely offensive word or expression.
+01:18:41.80 --> 01:18:44.80 So they're definitely a bunch of crossover there.
+01:18:44.80 --> 01:18:47.80 That was one. That's like the dictionary definition.
+01:18:47.80 --> 01:18:53.80 The FCC, the federal communications, or the federal communications commission, maybe.
+01:18:53.80 --> 01:18:59.80 They had obscene content is not protected by the first amendment.
+01:18:59.80 --> 01:19:05.80 And it's by obscene content is never allowed on FCC programming.
+01:19:05.80 --> 01:19:07.80 It's not allowed.
+01:19:07.80 --> 01:19:10.80 There's a three-pronged test.
+01:19:10.80 --> 01:19:16.80 So number one is it appeals to the per-an average person's sexual interest.
+01:19:16.80 --> 01:19:20.80 So that alone can make it obscene.
+01:19:20.80 --> 01:19:24.80 Depector describes sexual contact in a patently offensive way.
+01:19:24.80 --> 01:19:30.80 And the key point here is lack serious literary, artistic, political, or scientific value.
+01:19:30.80 --> 01:19:35.80 So that's what obscenes, according to the FCC.
+01:19:35.80 --> 01:19:41.80 Profane, and this is something that can make it on the FCC sometimes,
+01:19:41.80 --> 01:19:44.80 grossly offensive language that is considered a public nuisance.
+01:19:44.80 --> 01:19:52.80 So you could say a swear word as long as you weren't using the context of something offensive.
+01:19:52.80 --> 01:19:57.80 And the way I, I guess the way I try to simplify this for myself,
+01:19:57.80 --> 01:20:05.80 is that using profane words sometimes is okay, but not using them.
+01:20:05.80 --> 01:20:11.80 Like in the actual context that the word means.
+01:20:11.80 --> 01:20:13.80 I think I got it.
+01:20:13.80 --> 01:20:14.80 I'm not 100% sure.
+01:20:14.80 --> 01:20:16.80 I think we did a whole freaking podcast.
+01:20:16.80 --> 01:20:19.80 Like only earliest podcast we did was about swearing.
+01:20:19.80 --> 01:20:28.80 And yeah, so my opinion on swearing is there is, look, if you're swearing all the time,
+01:20:28.80 --> 01:20:33.80 hey, if you're swearing all the time and you're in the locker room, you're at the team area, you're with your buddies, whatever.
+01:20:33.80 --> 01:20:35.80 Not that big of a deal, of course.
+01:20:35.80 --> 01:20:38.80 You start standing up in front of a group of a team that you're leading.
+01:20:38.80 --> 01:20:40.80 And your swearing about just isn't going to work.
+01:20:40.80 --> 01:20:41.80 It's not going to help.
+01:20:41.80 --> 01:20:44.80 It's not going to, it doesn't come across well.
+01:20:44.80 --> 01:20:48.80 And if you develop your vocabulary, hopefully you won't need to swear.
+01:20:48.80 --> 01:20:54.80 And if you're swearing all the time when the time comes where you do need to swear, it's not powerful.
+01:20:54.80 --> 01:20:58.80 So that's what I'll stick with.
+01:20:58.80 --> 01:20:59.80 I don't know.
+01:20:59.80 --> 01:21:01.80 Dave, in the opinion on that one.
+01:21:01.80 --> 01:21:10.80 Yeah, I mean, I think I'm kind of contemplating what I remember people how often people swore in the military.
+01:21:10.80 --> 01:21:18.80 And so when I got up to Topga and like, there's no swearing up there.
+01:21:18.80 --> 01:21:26.80 And what they really, really wanted to impress on you was they wanted you to be professional.
+01:21:26.80 --> 01:21:32.80 And it's really kind of hard to make the connection between just swear words and professionalism.
+01:21:32.80 --> 01:21:37.80 But I think, as I'm thinking, I'm hearing you talking, actually thinking about a little bit of the logic behind that.
+01:21:37.80 --> 01:21:42.80 I said it was kind of really important was there was this idea.
+01:21:42.80 --> 01:21:47.80 And listen, I was up there like predated like social media predated phones at cameras.
+01:21:47.80 --> 01:21:51.80 But there was this idea that you are always being watched.
+01:21:51.80 --> 01:21:56.80 And what they were trying to impress upon you is that when you were a topga and patch and you're in a squadion space, whether you're an instructor or a former
+01:21:56.80 --> 01:21:59.80 Schuacher, that patch is going to draw attention to you.
+01:21:59.80 --> 01:22:01.80 I bet it's very much like a trident.
+01:22:01.80 --> 01:22:03.80 You see somewhere that trident.
+01:22:03.80 --> 01:22:08.80 And look, you're going to immediately get some cred. I don't care who you're going to get looked at.
+01:22:08.80 --> 01:22:13.80 And they're going to kind of be like, all right, let's, what's this guy all about?
+01:22:13.80 --> 01:22:18.80 And if you have a trident, I imagine in the Navy and the military service, that symbol has meaning.
+01:22:18.80 --> 01:22:26.80 And what they want to do impress upon us is that you are going to be judged at a higher standard, higher level than you have ever been,
+01:22:26.80 --> 01:22:33.80 because that patch that you had and they want to impress upon you, the need to be a professional as often as you can.
+01:22:33.80 --> 01:22:41.80 And I think the point you made is when, for whatever reason, I chose to use a profanity,
+01:22:41.80 --> 01:22:50.80 it had much more impact than my old methodology, which was pre-professional, as I just, in the squadron space,
+01:22:50.80 --> 01:22:57.80 I don't even know how often I swore going on. So, I think that idea that you were being judged to a particular standard.
+01:22:57.80 --> 01:23:03.80 And that's true, listen, what you want from your people in your organization, they want to feel the obligation to represent that organization well.
+01:23:03.80 --> 01:23:06.80 Your team, your company, that image, whatever it might be.
+01:23:06.80 --> 01:23:13.80 And you can't do that well if every other word is just some F bomb, because you don't know how to communicate in another way.
+01:23:13.80 --> 01:23:17.80 So, I think the way you're described it is really good, you're the nuance of that.
+01:23:17.80 --> 01:23:21.80 And also the idea that you are representing something that is important.
+01:23:21.80 --> 01:23:27.80 And if you don't have to communicate without using those words, you're not going to represent the community or that you're team very well at all.
+01:23:27.80 --> 01:23:28.80 Yeah.
+01:23:28.80 --> 01:23:34.80 I, when my kids were a little, I never swore in front of my kids, never swore in front of my wife or very seldom.
+01:23:34.80 --> 01:23:40.80 And then I brought my soul, I brought my son out to a trip, you know,
+01:23:40.80 --> 01:23:43.80 I would bring him out sometimes to training, you know, when he was little.
+01:23:43.80 --> 01:23:50.80 And he was at that age where, you know, maybe he, maybe he, he knew like he knew swares, right?
+01:23:50.80 --> 01:23:52.80 You're here in a mid school, it's like, oh my gosh.
+01:23:52.80 --> 01:23:54.80 So he knew swares, but he never heard me say anything.
+01:23:54.80 --> 01:24:01.80 The first time you heard me debrief like I pulled to, you could see his eyes like just getting bigger and bigger and bigger.
+01:24:01.80 --> 01:24:03.80 He was like amazed.
+01:24:03.80 --> 01:24:06.80 It was like totally different scenario.
+01:24:06.80 --> 01:24:10.80 I got asked at the last monster.
+01:24:10.80 --> 01:24:14.80 I forget the context of the question, but the question was basically what, what is professionalism mean to you?
+01:24:14.80 --> 01:24:16.80 And I was talking to Jason and Steve about it.
+01:24:16.80 --> 01:24:18.80 They were backstage and I got this question.
+01:24:18.80 --> 01:24:19.80 They were kind of looking at each other.
+01:24:19.80 --> 01:24:20.80 What is it?
+01:24:20.80 --> 01:24:22.80 And they were like, oh, it's hair, uniform is being on time.
+01:24:22.80 --> 01:24:23.80 And I'm like thinking about it.
+01:24:23.80 --> 01:24:30.80 And then I say professionalism to me is you put the mission above yourself.
+01:24:30.80 --> 01:24:37.80 And they were like, oh, that's a good answer because, look, why do you have a crappy uniform?
+01:24:37.80 --> 01:24:40.80 Because you care more about your own time.
+01:24:40.80 --> 01:24:41.80 Why do you show up late?
+01:24:41.80 --> 01:24:44.80 Oh, it's because you care more about yourself than you do about the mission.
+01:24:44.80 --> 01:24:46.80 Why do you, why is your hair cut out of regs?
+01:24:46.80 --> 01:24:51.80 Oh, it's because you don't care about the, it's like, it's a, it's a concise way of saying that.
+01:24:51.80 --> 01:24:54.80 And that's the same thing here.
+01:24:54.80 --> 01:25:01.80 Like if you're going to act professional and you're just dropping F bombs a whole time.
+01:25:01.80 --> 01:25:04.80 You know, who's recording you?
+01:25:04.80 --> 01:25:09.80 Who's listening to you? How does that sound? And is it appropriate for all audience?
+01:25:09.80 --> 01:25:11.80 Is it appropriate sometimes to swear?
+01:25:11.80 --> 01:25:17.80 Hell yes. Yes it is. And you get into a platoon and you're trying to make them understand something.
+01:25:17.80 --> 01:25:20.80 It's going to be cleared hot.
+01:25:20.80 --> 01:25:23.80 But next thing you know, that's what's interesting about the seal tames.
+01:25:23.80 --> 01:25:24.80 Next thing you're your briefing.
+01:25:24.80 --> 01:25:26.80 Whatever some civilians about something.
+01:25:26.80 --> 01:25:31.80 I'd you just have to be professional.
+01:25:31.80 --> 01:25:36.80 So there you go. Next one number 12.
+01:25:36.80 --> 01:25:41.80 Have consideration for others.
+01:25:41.80 --> 01:25:43.80 Isn't this an amazing statement?
+01:25:43.80 --> 01:25:45.80 It's such a big blanket statement.
+01:25:45.80 --> 01:25:52.80 Subordinates, superiors, friends, foes have consideration for others.
+01:25:52.80 --> 01:25:58.80 And if you want to really, if you want to, if I can apply some jacos stretch semantics to this,
+01:25:58.80 --> 01:26:02.80 consideration is also let me understand what their perspective is.
+01:26:02.80 --> 01:26:04.80 Let me understand how this is going to make them feel.
+01:26:04.80 --> 01:26:08.80 Let me understand how this is going to impact someone else.
+01:26:08.80 --> 01:26:13.80 And that's just that simple have consideration for others.
+01:26:13.80 --> 01:26:16.80 Up and down the chain of command across the chain of command.
+01:26:16.80 --> 01:26:20.80 Competitors, allies have consideration.
+01:26:20.80 --> 01:26:25.80 This is one of those things that I see right away when there's a lack of it.
+01:26:25.80 --> 01:26:29.80 You know, and it, I don't get bothered by it.
+01:26:29.80 --> 01:26:34.80 Tana stuff, but lack of consideration is one of those things that just gets to me a little bit.
+01:26:34.80 --> 01:26:45.80 You know, it's like, how do you know how do you know how are you not aware that there's just a total lack of consideration in the impact.
+01:26:45.80 --> 01:26:47.80 Do you want to answer that question, please?
+01:26:47.80 --> 01:26:50.80 Yeah, the answer to that question is, I'm more important than you.
+01:26:50.80 --> 01:26:52.80 So I'll show up late and you'll wait on me.
+01:26:52.80 --> 01:26:55.80 And I won't bring the right gear and I can borrow yours.
+01:26:55.80 --> 01:27:02.80 And I, whatever the case may be, that's all just me thinking I'm cooler and you don't really,
+01:27:02.80 --> 01:27:04.80 you don't really matter as much as I do.
+01:27:04.80 --> 01:27:09.80 I think that's where a true lack of consideration for others is the only thing I consider is myself.
+01:27:09.80 --> 01:27:10.80 Right.
+01:27:10.80 --> 01:27:13.80 Bad move is a leader.
+01:27:13.80 --> 01:27:17.80 Number 13 yelling detracts from your dignity.
+01:27:17.80 --> 01:27:20.80 Take men aside to counsel them.
+01:27:20.80 --> 01:27:22.80 Straight forward.
+01:27:22.80 --> 01:27:25.80 Again, I think,
+01:27:25.80 --> 01:27:28.80 Funny, you know, life said has to say like, you know,
+01:27:28.80 --> 01:27:30.80 Jockel looks like a yell.
+01:27:30.80 --> 01:27:32.80 Do I look like a yell?
+01:27:32.80 --> 01:27:37.80 And then he always has to say, but he never yelled at me, right?
+01:27:37.80 --> 01:27:47.80 And, you know, in life we'll say, I gave Jockel hundreds of opportunities or situations where I probably deserve to get yell at.
+01:27:47.80 --> 01:27:48.80 Y'all that.
+01:27:48.80 --> 01:27:52.80 Um, which is funny, but yeah, not yelling.
+01:27:52.80 --> 01:27:54.80 I mean, think of my way you're at.
+01:27:54.80 --> 01:27:59.80 Think about how effective you are as a communicator if you get to a point where you're yelling at someone.
+01:27:59.80 --> 01:28:04.80 Look, if I'm yelling at you to tell you to get away from the freaking edge of the building because you're about to slip.
+01:28:04.80 --> 01:28:09.80 What I've obviously, if I have to yell at you to get over the sound of machine gun fire, obviously, if I have to get,
+01:28:09.80 --> 01:28:11.80 if I have to raise my voice to everyone in the room, can hear me.
+01:28:11.80 --> 01:28:17.80 That's not what we're talking about, but me yelling at you and front of the team is just not just stupid.
+01:28:17.80 --> 01:28:26.80 And he's specific about like yelling at people in front of the group to, to berate them for a mistake that they've made.
+01:28:26.80 --> 01:28:30.80 No, don't do it. And I'm going to say don't do it. Just don't do it.
+01:28:30.80 --> 01:28:32.80 Would you write down over there today?
+01:28:32.80 --> 01:28:40.80 Well, you've said something in the past and, and I think there's an element to what he's saying that you can even take it to step further is,
+01:28:40.80 --> 01:28:47.80 listen, yelling at somebody else in front of the whole bunch of other people, I can't, I cannot think of a time when that's okay.
+01:28:47.80 --> 01:28:51.80 And I'm not talking about raising your voice to get a particular action because the sound is loud.
+01:28:51.80 --> 01:28:56.80 I'm talking like, we're in the, we get the team, jaco, screw something up and I start yelling at jaco.
+01:28:56.80 --> 01:29:03.80 So I can't even imagine a scenario where that's okay, but you even talked about it too.
+01:29:03.80 --> 01:29:06.80 Like the times that you've had to yell at someone or raise your voice.
+01:29:06.80 --> 01:29:11.80 I think the element that you've talked about that's so important is that you were aware of that.
+01:29:11.80 --> 01:29:17.80 That was based on an escalation of a whole series of other approaches that did not get the reaction,
+01:29:17.80 --> 01:29:21.80 which is different than, yeah, jaco, like, I just lost my temper.
+01:29:21.80 --> 01:29:27.80 I just no longer had control myself and I just started screaming at somebody, you know, even inside the idea of yelling,
+01:29:27.80 --> 01:29:32.80 which, on very rare occasions, there are some times that you're going to have to do that,
+01:29:32.80 --> 01:29:37.80 that you're still aware that you're doing that, as opposed to just, well, you know,
+01:29:37.80 --> 01:29:39.80 I just got a bad temper and that's just kind of how I am.
+01:29:39.80 --> 01:29:43.80 So I can't control myself and I look back and go, well, I shouldn't have done that.
+01:29:43.80 --> 01:29:46.80 I think it was realized I was doing a totally lost control in a leadership role.
+01:29:46.80 --> 01:29:50.80 And how important I think that story of even the few times in your career,
+01:29:50.80 --> 01:29:53.80 how to do that, you knew what you were doing.
+01:29:53.80 --> 01:30:00.80 Yeah, I cannot think of any situation where I yelled without thinking about like, okay,
+01:30:00.80 --> 01:30:02.80 I need to yell right now.
+01:30:02.80 --> 01:30:06.80 And yeah, let's say you get a group, let's say your whole tunzer and all of a sudden you could,
+01:30:06.80 --> 01:30:10.80 somebody that does something really stupid and it's an opportunity for everyone to see,
+01:30:10.80 --> 01:30:14.80 hey, this can't happen and obviously I haven't gotten that message across.
+01:30:14.80 --> 01:30:19.80 Sure, I might address someone down in front of everybody and I might yell.
+01:30:19.80 --> 01:30:24.80 I really can't think of any times that I did that in my 20 year career that I'll stop my head,
+01:30:24.80 --> 01:30:27.80 but it's not going to be on accident because you just lost control.
+01:30:27.80 --> 01:30:29.80 Yeah, no, that's not happening.
+01:30:29.80 --> 01:30:35.80 So don't be yelling, number 14, understand and use judgment.
+01:30:35.80 --> 01:30:38.80 No one to stop fighting for something you believe is right.
+01:30:38.80 --> 01:30:42.80 Okay, this is where we used my, it's start to get the rail, all of all some stuff.
+01:30:42.80 --> 01:30:44.80 So first of all, it's interesting that he says,
+01:30:44.80 --> 01:30:48.80 understand and use judgment.
+01:30:48.80 --> 01:30:51.80 So there's a conjunction there.
+01:30:51.80 --> 01:30:56.80 The first thing is just understand, which is an easy word to say,
+01:30:56.80 --> 01:30:58.80 but it can be very difficult to do.
+01:30:58.80 --> 01:31:06.80 So so trying to understand the situation and the reason that he has to say this is because so often people do things without understanding what's happening.
+01:31:06.80 --> 01:31:11.80 So he's telling you, understand, understand what's going on.
+01:31:11.80 --> 01:31:13.80 That's what you have to do.
+01:31:13.80 --> 01:31:15.80 And the same thing is use judgment.
+01:31:15.80 --> 01:31:19.80 Do you think that someone would have to tell a leader to understand and to use judgment?
+01:31:19.80 --> 01:31:21.80 No, why does he have to say that to here?
+01:31:21.80 --> 01:31:26.80 Because people all the time neither understand nor use judgment.
+01:31:26.80 --> 01:31:29.80 So be careful with those two.
+01:31:29.80 --> 01:31:34.80 Now he says, no one to stop fighting for something you believe is right.
+01:31:34.80 --> 01:31:50.80 And here's where I probably have the first maybe separation in understanding or separation in belief in what he's saying here.
+01:31:50.80 --> 01:31:52.80 Maybe it's not, but
+01:31:52.80 --> 01:32:05.80 I think most of the time I'm not fighting for something I believe to be right because I don't really care if I'm right or not.
+01:32:05.80 --> 01:32:10.80 And the reason I don't care if I'm right or not is because most things don't actually matter.
+01:32:10.80 --> 01:32:12.80 That's why.
+01:32:12.80 --> 01:32:14.80 So so Dave believes we should do it one way.
+01:32:14.80 --> 01:32:16.80 Dave's believe we should attack the target from the north.
+01:32:16.80 --> 01:32:18.80 I believe we should attack it from the west.
+01:32:18.80 --> 01:32:20.80 And I'm going to fight about that.
+01:32:20.80 --> 01:32:24.80 Most of the time it doesn't matter north or west doesn't just doesn't matter.
+01:32:24.80 --> 01:32:30.80 Dave wants to invest $18,000 in this software system.
+01:32:30.80 --> 01:32:34.80 I want to invest $12,000 in a different system.
+01:32:34.80 --> 01:32:36.80 And guess what?
+01:32:36.80 --> 01:32:38.80 It probably doesn't matter.
+01:32:38.80 --> 01:32:40.80 There's some advantages to the 18,000, there's some advantages to 12,000.
+01:32:40.80 --> 01:32:42.80 We don't really know how it's going to impact.
+01:32:42.80 --> 01:32:43.80 We've never done this kind of interface before.
+01:32:43.80 --> 01:32:47.80 And I'm going to commit my relationship value, my leadership capital.
+01:32:47.80 --> 01:32:50.80 Like I'm going to commit all this stuff to me just thinking I'm going to be right.
+01:32:50.80 --> 01:32:51.80 And I'm going to art no.
+01:32:51.80 --> 01:32:53.80 No, I'm not going to do that.
+01:32:53.80 --> 01:32:57.80 It's just a stupid thing to do.
+01:32:57.80 --> 01:33:05.80 So 99% of the time these things that we're fighting for actually don't matter.
+01:33:05.80 --> 01:33:10.80 Or you're fighting for something that's in the future that you don't know they actual outcome to.
+01:33:10.80 --> 01:33:13.80 So that's most of the time for me.
+01:33:13.80 --> 01:33:16.80 That's a very powerful lesson is you're sitting there thinking,
+01:33:16.80 --> 01:33:19.80 but I want to do it my way and it doesn't matter.
+01:33:19.80 --> 01:33:21.80 We should use this marketing company, not that marketing company.
+01:33:21.80 --> 01:33:24.80 We should invest in this piece of equipment or that piece of equipment.
+01:33:24.80 --> 01:33:26.80 I want to get this back home and not that back home.
+01:33:26.80 --> 01:33:27.80 Guess what?
+01:33:27.80 --> 01:33:31.80 It probably doesn't matter that much.
+01:33:31.80 --> 01:33:35.80 And by the way, if it does matter that much, and there's a real reason,
+01:33:35.80 --> 01:33:42.80 and I say, hey Dave, the reason I like this back home better is it has the following capabilities that the back home you want to get done have.
+01:33:42.80 --> 01:33:45.80 They can do this, this, this, this, this, this, this more efficient and boom.
+01:33:45.80 --> 01:33:47.80 Does this make sense to you?
+01:33:47.80 --> 01:33:51.80 If I can't articulate the reason why something is better,
+01:33:51.80 --> 01:33:53.80 it's probably not worth arguing over.
+01:33:53.80 --> 01:33:55.80 So there's your litmus test.
+01:33:55.80 --> 01:33:58.80 Let's put that one right that one down.
+01:33:58.80 --> 01:34:04.80 If you're having a hard time articulating why your plan is better than someone else's plan,
+01:34:04.80 --> 01:34:07.80 your plan is probably not worth arguing over.
+01:34:07.80 --> 01:34:11.80 Because it's too hard for you to clarify the reason it's hard for you to clarify
+01:34:11.80 --> 01:34:13.80 because they're both basically the same thing.
+01:34:13.80 --> 01:34:17.80 Or there's risk involved in both of those items.
+01:34:17.80 --> 01:34:22.80 So this idea to know when you stop fighting for something you believe in, right?
+01:34:22.80 --> 01:34:31.80 First thing, I'm going to run this thing through a filter that is so powerful that the filter is going to filter out most of the arguments I'm going to have with people.
+01:34:31.80 --> 01:34:33.80 Because it doesn't really matter.
+01:34:33.80 --> 01:34:35.80 Most things don't matter.
+01:34:35.80 --> 01:34:37.80 Look, are there occasional things that matter?
+01:34:37.80 --> 01:34:39.80 Yes, there are occasional things that matter.
+01:34:39.80 --> 01:34:42.80 It's so easy to articulate why they matter.
+01:34:42.80 --> 01:34:47.80 And it's so easy to sway people's opinions because the facts are there.
+01:34:47.80 --> 01:34:49.80 So it doesn't turn into an argument.
+01:34:49.80 --> 01:34:54.80 It turns into, hey, let me ask you some earnest questions about what you think.
+01:34:54.80 --> 01:34:58.80 And let me give you my perspective over here and people see it.
+01:34:58.80 --> 01:35:05.80 So I don't generally have to know when to stop fighting for something I believe right?
+01:35:05.80 --> 01:35:13.80 Because I'm generally not fighting for it. And when I do, when I do need to approach somebody about something, all I need to do is ask him from earnest questions.
+01:35:13.80 --> 01:35:18.80 And they, the truth is revealed to them by them answering their own questions.
+01:35:23.80 --> 01:35:26.80 This is, I mean, there's a lot inside this.
+01:35:26.80 --> 01:35:33.80 And just trying to like imagine the affront to your ego when someone says,
+01:35:33.80 --> 01:35:36.80 Stop fighting for what you think is right.
+01:35:36.80 --> 01:35:39.80 You're like, I will never stop fighting.
+01:35:39.80 --> 01:35:51.80 And what this is probably from is someone who's observed hundreds of people sell all their leadership capital, all their credibility over something that literally does not matter.
+01:35:51.80 --> 01:35:57.80 I was with the company, they were doing a workshop about picking a logo for their company.
+01:35:57.80 --> 01:36:00.80 And they kind of narrowed it down with three different options.
+01:36:00.80 --> 01:36:06.80 And they looked at the three and they were all pretty good. One was like, me and the two were like, pretty good.
+01:36:06.80 --> 01:36:13.80 And so sort of quickly it got to like, we're not going to do B, but A and C are good. They were both good.
+01:36:13.80 --> 01:36:20.80 And you know what, you could make a case for A, you could make a case for C, which tells me like they're both good.
+01:36:20.80 --> 01:36:23.80 They're both good. Which means it doesn't matter.
+01:36:23.80 --> 01:36:31.80 What we started to see was like the A group and the C group are not going to budge. And if you use this, the phrase like, hey, Jocco, I know you're supporting on A.
+01:36:31.80 --> 01:36:38.80 I want you to stop fighting for what you think is right. If I say it like that, like it's almost impossible for you to say, okay.
+01:36:38.80 --> 01:36:51.80 But the part that you're emphasizing, which is so important is the idea that it doesn't matter and how quickly you can get entrenched into something that you will sell every piece of credibility you have,
+01:36:51.80 --> 01:37:00.80 which means your influence in the future can go to zero because you want the round logo and I want the square logo.
+01:37:00.80 --> 01:37:09.80 Yep. And by the way, so you're taking all that all that leadership capital and all that future influence and you're putting it all on the you're pushing it all in.
+01:37:09.80 --> 01:37:14.80 You're going all in on this thing that doesn't really even freaking matter.
+01:37:14.80 --> 01:37:28.80 And and and a gamble because you look up in six months and like, hey, this logo, we're not getting the traction we want. But you put all in and now you look like an idiot instead of going, you know what Dave, yeah, we'll go see that looks they're pretty close. Cool sounds good man.
+01:37:28.80 --> 01:37:38.80 I I reserved all I kept all my money to myself. I kept all my leadership capital. I kept all my future. In fact, I made because I agreed with you because I supported your plan.
+01:37:38.80 --> 01:37:45.80 I got a little bit more. I took some more off the table. Actually, I grew my leadership capital in that moment.
+01:37:45.80 --> 01:37:51.80 And now when we look up in six months and your logo that you picked isn't really getting the traction we wanted to.
+01:37:51.80 --> 01:37:56.80 I get even more because I say, okay, well, you know, we tried it doesn't seem like we're getting the traction we want.
+01:37:56.80 --> 01:38:01.80 Do you want to try this other logo now? Boom, and all of a sudden I and now my logo goes out and wins.
+01:38:01.80 --> 01:38:10.80 I get even more leaders here. It's not crazy. But we'll burn our bridges and throw our leadership capital over over what's the word here?
+01:38:10.80 --> 01:38:16.80 Spel fighting to build something we believe is right.
+01:38:16.80 --> 01:38:25.80 It's this is not the way to view the world. The way to view the world is that 99% of things don't matter.
+01:38:25.80 --> 01:38:32.80 And then in the future and look, if you come to me with a logo that's freaking stupid.
+01:38:32.80 --> 01:38:37.80 You know, I'm like, hey Dave, that logo that you put together, he's like, hey, how do you like it?
+01:38:37.80 --> 01:38:43.80 Dave, just so you know, it's pretty much looks like a swastika, you know, but it's orange.
+01:38:43.80 --> 01:38:48.80 And you're like, oh, you know, like, okay, maybe we should not go with that, right?
+01:38:48.80 --> 01:38:52.80 Okay, you're like, oh, I didn't even see that. Okay, great. You know, boom, we're done.
+01:38:52.80 --> 01:38:56.80 Or, you know, you approach me, hey, Jocca, we think of this. Oh, it Dave, it's a pentagram.
+01:38:56.80 --> 01:39:03.80 Like, no, we're not going to use satanic ritual stuff or not. Okay, cool, you're like, got it. Go, how do I not see that?
+01:39:03.80 --> 01:39:08.80 Boom, so we're done. But you're like, it's a star, but you know, I want to show that we're we're flipping over the star.
+01:39:08.80 --> 01:39:11.80 Yeah, that's a pentagram, dude.
+01:39:11.80 --> 01:39:14.80 So, so you see where we're going this.
+01:39:14.80 --> 01:39:20.80 The chances that you come to me with a logo that's unusable is almost, almost not existing.
+01:39:20.80 --> 01:39:24.80 And we want to fight amount things that we quote, believe is right, and it's not worth it.
+01:39:24.80 --> 01:39:29.80 And you're thrown away leadership capital. And by the way, if there is something that's completely wrong,
+01:39:29.80 --> 01:39:35.80 and it is time to stand your ground, because someone's doing something immoral, unethical, or illegal, then cool.
+01:39:35.80 --> 01:39:38.80 That's where you hold the line. Of course.
+01:39:38.80 --> 01:39:46.80 If somebody wants to do something that is, you're a morally against somebody wants to rip off a client.
+01:39:46.80 --> 01:39:50.80 And you're like, hey, we're not doing that. We're not doing that.
+01:39:50.80 --> 01:39:55.80 It's like, okay. So we want to make it, you know, put some product out there that's dangerous.
+01:39:55.80 --> 01:39:58.80 And it's, we got some flaw in it, but you know what, let's just sell it anyways.
+01:39:58.80 --> 01:40:00.80 No, we're not doing that. That's all we're talking about.
+01:40:00.80 --> 01:40:06.80 And if that happens, of course, then you, you take the right action and you don't back down.
+01:40:06.80 --> 01:40:12.80 And even in that case, what you need more than anything in those cases is,
+01:40:12.80 --> 01:40:19.80 leadership capital, this credibility is a reputation of someone who only digs in on those.
+01:40:19.80 --> 01:40:25.80 And if you can sell it all on round versus square or red versus blue on the logo,
+01:40:25.80 --> 01:40:28.80 when those important times do come, nobody is going to listen to you.
+01:40:28.80 --> 01:40:33.80 When it actually matters, they're not going to listen to you, because they're so used to you saying,
+01:40:33.80 --> 01:40:38.80 I am not giving up my position. It's logo A or deaf.
+01:40:38.80 --> 01:40:46.80 I can't go on man. So there's some human nature that's guys, you know, obviously he's seeing of people willing to dig in on things that just don't matter.
+01:40:46.80 --> 01:40:48.80 And then when it does matter, nobody is listening to you.
+01:40:48.80 --> 01:40:51.80 At F.S. on front, you know, Jamie are our CEO.
+01:40:51.80 --> 01:40:57.80 She's told me like, if I push back against her, like, more than twice, she's like,
+01:40:57.80 --> 01:41:01.80 she says to herself, like, I'm wrong about this. I gotta go figure something out. There's something.
+01:41:01.80 --> 01:41:07.80 I'm wrong. She's like, if you're pushing back against me, if you ask me like three questions,
+01:41:07.80 --> 01:41:10.80 I'm like, oh, there's something I don't see here. I'm wrong. I don't figure this out.
+01:41:10.80 --> 01:41:15.80 And it's because 99% of the time, I'm like, yeah, sounds good. Yep. Go execute. Yep. Sounds good. Yeah.
+01:41:15.80 --> 01:41:18.80 That's better plan than I had. Boom. Boom. Boom. Boom. So when I say,
+01:41:18.80 --> 01:41:21.80 he pump the brakes. She's like, oh, there's something wrong.
+01:41:21.80 --> 01:41:26.80 As opposed to her thinking, oh, God, he never likes anything. Oh, here we go.
+01:41:26.80 --> 01:41:29.80 What do you know? How do you want to do it, John? It's like, no.
+01:41:29.80 --> 01:41:32.80 Don't, don't back yourself into that corner.
+01:41:32.80 --> 01:41:35.80 That's a healthy sense of self doubt you've talked about before.
+01:41:35.80 --> 01:41:41.80 I think that, you know, Jamie's a perfect example of where, you know, if you believe your right,
+01:41:41.80 --> 01:41:48.80 how often are you really believing that you're 100% right? If that's, if you're, if that's a pretty regular thing,
+01:41:48.80 --> 01:41:54.80 you might want to check that, you know? I know I'm not right a lot of the time, you know?
+01:41:54.80 --> 01:41:59.80 So, and if somebody else is giving you some feedback, maybe listen to that too, you know, and like Jamie,
+01:41:59.80 --> 01:42:05.80 if, if she starts to get some feedback, she has that humility to say, what am I not seeing here?
+01:42:05.80 --> 01:42:10.80 How can, you know, how can I solve this problem? Yeah, yeah, don't put yourself in that position.
+01:42:10.80 --> 01:42:17.80 So there you go. That's, I guess, my first disagreement a little bit with, with Glover Johns here.
+01:42:17.80 --> 01:42:20.80 Last couple of points here. Number 15.
+01:42:20.80 --> 01:42:25.80 And this is another one that, okay. So, no, or 15.
+01:42:25.80 --> 01:42:35.80 Discuss and argue your point of view until the decision is made, and then support the decision wholeheartedly.
+01:42:35.80 --> 01:42:42.80 So, again, just using the term argue and saying argue your point of view.
+01:42:42.80 --> 01:42:49.80 I'm not going to need to argue my point of view because I'm not married to my point of view, because the chances are, you see something, I don't see.
+01:42:49.80 --> 01:42:52.80 The chances are, I'm not 100% right. The chances are, my idea is flawed.
+01:42:52.80 --> 01:42:57.80 That's what the chances are. So, I'm not going to quote argue my point of view.
+01:42:57.80 --> 01:43:02.80 Until a decision is made, I don't need to. I might ask earnest questions.
+01:43:02.80 --> 01:43:06.80 I might try and see your perspective. I might try and understand why.
+01:43:06.80 --> 01:43:13.80 I might ask you why this is the best way, but I'm not quote arguing my point of view.
+01:43:13.80 --> 01:43:18.80 Because what is my, is my subordinates plan so freaking crazy.
+01:43:18.80 --> 01:43:24.80 My idea is my boss's plan so totally insane that I need to completely argue against it.
+01:43:24.80 --> 01:43:27.80 This is basically a run on of the last statement.
+01:43:27.80 --> 01:43:33.80 I don't need to argue because I'm not married to my plan, because my plan could be wrong.
+01:43:33.80 --> 01:43:40.80 And it probably needs adjustments. And by the way, if it's so awesome and your plan sucks so bad,
+01:43:40.80 --> 01:43:45.80 it's not, I don't have to argue it for very long because I go, hey Dave, your plan is to do this.
+01:43:45.80 --> 01:43:49.80 And if we do that, we're going to lose all this and you go, oh, cool. What did you want to do?
+01:43:49.80 --> 01:43:54.80 And I go, I want to do this and you go, that sounds good.
+01:43:54.80 --> 01:43:58.80 So, we shouldn't have to quote argue.
+01:43:58.80 --> 01:44:05.80 Now, when a decision gets made, I am going to do my damn just to execute on that thing.
+01:44:05.80 --> 01:44:10.80 But you know, I train think of all my life and the times that I got told, you know what,
+01:44:10.80 --> 01:44:15.80 what your points are taken, we don't care, go and execute this other thing that's the opposite.
+01:44:15.80 --> 01:44:20.80 I just can't think of situations where that happened.
+01:44:20.80 --> 01:44:25.80 I just can't think of situations where people say, hey, shut up, joc, do what I told you to do, that's it.
+01:44:25.80 --> 01:44:29.80 And I'm thinking, oh, this is going to have a terrible outcome.
+01:44:29.80 --> 01:44:33.80 There's time for, I've said, you know, this might be, this isn't going to be quite as efficient.
+01:44:33.80 --> 01:44:36.80 Or this might take a little bit longer.
+01:44:36.80 --> 01:44:40.80 Or there might be a higher risk on this maneuver over here.
+01:44:40.80 --> 01:44:46.80 But by doing that higher maneuver risk, we're going to save some speed and security over on this other side.
+01:44:46.80 --> 01:44:52.80 So, I've never just had an idiotic plan that I wasn't able to say, hey, boss, can I talk this through with you?
+01:44:52.80 --> 01:44:58.80 Or hey, you know, subordinate, can you talk me through this so we can understand it better?
+01:44:58.80 --> 01:45:03.80 Yeah.
+01:45:03.80 --> 01:45:05.80 I think that's pretty straightforward.
+01:45:05.80 --> 01:45:11.80 I think there's again some, some human nature inside there, kind of picturing again these scenarios that have played out in my life.
+01:45:11.80 --> 01:45:18.80 As I'm hearing you talk about the explanation of this, this leadership attribute, this behavior you want to apply.
+01:45:18.80 --> 01:45:24.80 Top gun, this happened a lot, this discussion, these debates on right or wrong or how we should do something.
+01:45:24.80 --> 01:45:27.80 And we would do this thing called staff exercises, staff exercises.
+01:45:27.80 --> 01:45:31.80 So, class of the over is the 25th of the sugars we'd lock the door.
+01:45:31.80 --> 01:45:38.80 And we would have debates over how we should do, we were very SOP heavy, we had standardization across the board.
+01:45:38.80 --> 01:45:41.80 There was a way to do a lot of things, not everything but a lot of things.
+01:45:41.80 --> 01:45:43.80 And our job was to standardize it so we could teach it.
+01:45:43.80 --> 01:45:48.80 And we would at the end of each class talk about what worked and what didn't, and what we needed to change.
+01:45:48.80 --> 01:45:49.80 And there'd be different camps.
+01:45:49.80 --> 01:45:53.80 There'd be one camp that said we should do it like this, another camp that should do it like that.
+01:45:53.80 --> 01:45:57.80 Now, what was interesting about that is that they weren't like 90-10,
+01:45:57.80 --> 01:46:01.80 where all this one camp is either awesome plan, this other camp has this awful stupid plan.
+01:46:01.80 --> 01:46:05.80 They're actually both camps like damn, those are too pretty.
+01:46:05.80 --> 01:46:06.80 Those are too pretty.
+01:46:06.80 --> 01:46:08.80 Yeah, those are pretty good ideas.
+01:46:08.80 --> 01:46:10.80 I see the merits of that, I see the merits of this.
+01:46:10.80 --> 01:46:16.80 And listen, we wanted arguing as the wrong word because that has to kind of a negative tone, but like pretty healthy to bit.
+01:46:16.80 --> 01:46:17.80 Do as you go back and forth.
+01:46:17.80 --> 01:46:25.80 And they would dig in to really make sure they was understood and it was managed by a guy who ran these meetings.
+01:46:25.80 --> 01:46:30.80 And he was called the standardization officer who facilitated like, all right, what do you think in there, Junk, why are we doing that?
+01:46:30.80 --> 01:46:37.80 And I would capture those in notes and say, okay, what he's saying is this, listen, in the end there was a winning side and a losing side.
+01:46:37.80 --> 01:46:38.80 And then we had to make a decision.
+01:46:38.80 --> 01:46:41.80 So you'd have this group of people that believed in a certain approach.
+01:46:41.80 --> 01:46:44.80 And in the end, we would pick a different approach.
+01:46:44.80 --> 01:46:48.80 What the problem would come with sometimes is someone's ego would come into play.
+01:46:48.80 --> 01:46:51.80 We'd then go implement this with a squaginal or a class or something.
+01:46:51.80 --> 01:46:58.80 And then I'd sit down and I go, hey, the way we're going to do this, this problem, Junk, we're going to do it like that and you're like, why?
+01:46:58.80 --> 01:47:04.80 And I'd say, well, listen, I actually didn't want to do it this way, but here's how we're going to do it.
+01:47:04.80 --> 01:47:10.80 So that little need for me to still be right for me to get my way and not accept the outcome.
+01:47:10.80 --> 01:47:19.80 I would poison the reality of, and it's the part you said there's so important is so we don't really know if we knew they wouldn't be at debate.
+01:47:19.80 --> 01:47:22.80 And so the only way to find out has actually got there and do it.
+01:47:22.80 --> 01:47:27.80 But rather than me say, hey, here's the reasons why ABC and D, let's go execute, get some good feedback.
+01:47:27.80 --> 01:47:29.80 I'd say, I didn't really want to do this.
+01:47:29.80 --> 01:47:32.80 I actually think this is kind of dumb, but we're going to go do it anyway.
+01:47:32.80 --> 01:47:39.80 Now what are the chances if I take that approach that when we go execute, I'm really going to get the feedback to come back and go, hey guys,
+01:47:39.80 --> 01:47:44.80 we executed on this plan three times and look, it did not work.
+01:47:44.80 --> 01:47:46.80 We need to make some changes.
+01:47:46.80 --> 01:47:54.80 And then go, okay, cool, let's go back to the drawing work. I'll do that all day long and we'd see it rarely, but we'd see guys go, well, I didn't get my way.
+01:47:54.80 --> 01:47:59.80 So I'm not really, I'm not going to support this plan. I'm going to let you know that, yeah, we're going to go do this, but I think this is dumb,
+01:47:59.80 --> 01:48:05.80 and there's no way that's going to work. So inside that of, hey, if you lose the debate, if you lose the argument, if you don't get your way,
+01:48:05.80 --> 01:48:14.80 unless you were convinced that the other side is there to destroy the company, don't just agree with it, get on board, get on board and the best,
+01:48:14.80 --> 01:48:21.80 it'll work and it will show come back, go, hey man, hey, Jocke, we ran this a couple times. There's some feedback, we can make some tweaks.
+01:48:21.80 --> 01:48:25.80 And now I can take that plan and I can influence and get it, the better outcome for the team.
+01:48:25.80 --> 01:48:31.80 Yeah, I think Jason Gardner at the master was like, oh, what's the best plan?
+01:48:31.80 --> 01:48:34.80 My plan, of course. That's right.
+01:48:34.80 --> 01:48:36.80 My plan's the best plan.
+01:48:36.80 --> 01:48:42.80 So then we go, what we're talking about right now is we're talking about a situation we got 61, 1, 1, 1, 1, 2, 1,
+01:48:42.80 --> 01:48:44.80 right, we got 61, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1.
+01:48:44.80 --> 01:48:47.80 Okay, cool, Dave's got 6, I'm saying 1, 1, 1, 1, 2, 1, 2, 1, 1, 2, 1.
+01:48:47.80 --> 01:48:50.80 If we're having that hard of a time, figuring out what to go with six or 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 3, 1, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1.
+01:48:50.80 --> 01:48:52.80 I'm just going to say, come on, we're talking about the same plan.
+01:48:52.80 --> 01:48:55.80 I'll just go with the next plan, you know what, that's what's going on.
+01:48:55.80 --> 01:48:57.80 So, I'm going to say, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay.
+01:48:57.80 --> 01:48:59.68 Guess what my default is?
+01:48:59.68 --> 01:49:01.32 My default is, you know what Dave sounds good.
+01:49:01.32 --> 01:49:02.32 Let's go with your plan.
+01:49:02.32 --> 01:49:03.84 So look, I'm thinking half dozen,
+01:49:03.84 --> 01:49:06.12 you're thinking six, let's go with your plan right now.
+01:49:06.12 --> 01:49:07.96 And I'm gonna execute, just like you just said,
+01:49:07.96 --> 01:49:11.28 I'm gonna execute it to the absolute best of my ability,
+01:49:11.28 --> 01:49:13.12 that way we can see if it works or not.
+01:49:13.12 --> 01:49:15.68 And by the way, as long as I didn't dig my heels
+01:49:15.68 --> 01:49:17.96 in like a jackass, if I said, you know,
+01:49:17.96 --> 01:49:18.84 you said you're a sign,
+01:49:18.84 --> 01:49:20.24 I said, well, what about this Dave and you said,
+01:49:20.24 --> 01:49:21.44 yeah, I know, but most of the time,
+01:49:21.44 --> 01:49:23.40 and I go, well, okay, you know what?
+01:49:23.40 --> 01:49:25.84 It seems like yours covers the same thing
+01:49:25.84 --> 01:49:27.52 for the most part, it's a little bit of a different direction,
+01:49:27.52 --> 01:49:29.52 but let's give it a shot, I'm down.
+01:49:29.52 --> 01:49:31.04 And my leadership capital just went up
+01:49:31.04 --> 01:49:32.36 and I don't look like an idiot.
+01:49:32.36 --> 01:49:33.24 And the person that looks like an idiot
+01:49:33.24 --> 01:49:38.24 is like, no, my points are more important than your points.
+01:49:38.32 --> 01:49:42.92 So my default mode, when we're in a 50,
+01:49:42.92 --> 01:49:44.68 actually my default mode is like, hey,
+01:49:44.68 --> 01:49:45.96 we're gonna go with Dave's plan,
+01:49:45.96 --> 01:49:48.60 but certainly in a 50, 50 situation,
+01:49:48.60 --> 01:49:50.88 it's like, it doesn't matter.
+01:49:50.88 --> 01:49:52.24 See, it still doesn't matter,
+01:49:52.24 --> 01:49:53.80 because as you first started talking through that,
+01:49:53.80 --> 01:49:55.32 I was like, oh, so this is something that matters
+01:49:55.32 --> 01:49:56.84 because you got this people saying this,
+01:49:56.84 --> 01:50:00.04 but no, you can't satisfy both things a little lump.
+01:50:00.04 --> 01:50:02.68 Well, I guess maybe you could find a compromise
+01:50:02.68 --> 01:50:07.36 that you could create, but in lieu of some kind of a compromise,
+01:50:07.36 --> 01:50:09.92 you know, you either do this procedure or that procedure.
+01:50:09.92 --> 01:50:12.64 Right, well, when this happens, when you get this tail lock
+01:50:12.64 --> 01:50:15.16 on your plane, you could do this or this,
+01:50:15.16 --> 01:50:16.20 and there's some advantage to this,
+01:50:16.20 --> 01:50:19.68 and there's some advantage is that, okay,
+01:50:19.68 --> 01:50:22.32 they both have advantages, guess what,
+01:50:22.32 --> 01:50:23.60 which one do you wanna do a Dave?
+01:50:23.60 --> 01:50:24.44 You wanna do this one?
+01:50:24.44 --> 01:50:26.40 Cool, we'll do that one for now.
+01:50:26.40 --> 01:50:28.52 Boom, it's so easy.
+01:50:28.52 --> 01:50:31.32 So again, I don't have to argue my point of view
+01:50:31.32 --> 01:50:32.84 because I'm not gonna back myself into a corner
+01:50:32.84 --> 01:50:35.12 because I'm not gonna give away my position,
+01:50:35.12 --> 01:50:36.44 because I'm not gonna be married to something
+01:50:36.44 --> 01:50:39.16 that I don't know about, that we can't determine
+01:50:39.16 --> 01:50:41.000 the impact of the future on.
+01:50:41.000 --> 01:50:43.52 People wanna bet so much on the future
+01:50:43.52 --> 01:50:45.12 when we don't know what's gonna happen in the future.
+01:50:45.12 --> 01:50:45.96 Yeah, it's crazy.
+01:50:45.96 --> 01:50:47.68 And think about what I do to the relationship.
+01:50:47.68 --> 01:50:50.88 If I do what you just said, and I go, hey, you know what?
+01:50:50.88 --> 01:50:53.52 I honestly, dude, I came in coming with the plan
+01:50:53.52 --> 01:50:55.96 I go on, you know, six, and I hear you wanna go
+01:50:55.96 --> 01:50:57.76 and go off doesn't, hey, let's go execute.
+01:50:57.76 --> 01:50:59.24 And if I project in my mind,
+01:50:59.24 --> 01:51:01.12 the next conversation we're gonna have,
+01:51:02.28 --> 01:51:03.12 I'm gonna win on both,
+01:51:03.12 --> 01:51:05.68 because I'm gonna come back and go, hey, dude.
+01:51:05.68 --> 01:51:07.60 I did your plan, dude, it was awesome man.
+01:51:07.60 --> 01:51:08.76 We crushed it.
+01:51:08.76 --> 01:51:09.88 That was awesome man.
+01:51:09.88 --> 01:51:11.000 Thank you for that feedback.
+01:51:11.000 --> 01:51:12.72 The team did really well.
+01:51:12.72 --> 01:51:14.16 And it's awesome.
+01:51:14.16 --> 01:51:17.88 Or I can back go, dude, I ran with the half dozen plan man
+01:51:17.88 --> 01:51:20.12 and we kinda got rolled a couple times here.
+01:51:20.12 --> 01:51:21.40 What are you seeing, like,
+01:51:21.40 --> 01:51:23.20 gone, let's see, in the same thing.
+01:51:23.20 --> 01:51:24.68 But either way, we're good.
+01:51:24.68 --> 01:51:25.84 Yeah.
+01:51:25.84 --> 01:51:27.80 But if I don't take that approach,
+01:51:27.80 --> 01:51:30.04 that next conversation about the future
+01:51:30.04 --> 01:51:33.08 that we do not know is almost always
+01:51:33.08 --> 01:51:34.24 gonna have some sort of friction
+01:51:34.24 --> 01:51:35.20 that's gonna be some argument.
+01:51:35.20 --> 01:51:36.88 So I can even just project in my mind
+01:51:36.88 --> 01:51:39.08 by going with your plan.
+01:51:39.08 --> 01:51:41.20 I'm gonna win no matter what,
+01:51:41.20 --> 01:51:42.36 because I'm gonna come back and go, dude,
+01:51:42.36 --> 01:51:43.96 you're awesome, great idea.
+01:51:43.96 --> 01:51:44.96 Thanks, bro.
+01:51:44.96 --> 01:51:46.04 Or I'm gonna come back and go,
+01:51:46.04 --> 01:51:47.04 dude, I'm still struggling.
+01:51:47.04 --> 01:51:47.88 Can you walk me through this?
+01:51:47.88 --> 01:51:49.92 We are not getting past these steps.
+01:51:49.92 --> 01:51:51.28 And you're gonna need to go,
+01:51:51.28 --> 01:51:52.52 hey, dude, we're having the exact same problem.
+01:51:52.52 --> 01:51:53.92 So we might need to go back to the drawing board
+01:51:53.92 --> 01:51:55.40 or, oh, hey, that's a great question.
+01:51:55.40 --> 01:51:56.80 We did this this and this.
+01:51:56.80 --> 01:51:58.04 Either way, we're winning,
+01:51:58.04 --> 01:51:59.52 because the team is winning
+01:51:59.52 --> 01:52:01.40 and our relationship is stronger for it.
+01:52:01.40 --> 01:52:03.40 Can you see guys all the time, just dig in?
+01:52:04.52 --> 01:52:08.36 I very often see losing as a winning.
+01:52:08.36 --> 01:52:10.68 And this is a classic situation.
+01:52:10.68 --> 01:52:12.20 Oh, Dave, I was wrong.
+01:52:12.20 --> 01:52:13.12 You were right.
+01:52:13.12 --> 01:52:14.40 You're awesome.
+01:52:14.40 --> 01:52:16.20 To me, I wrote about that leadership strategy
+01:52:16.20 --> 01:52:17.56 in tactics, I'm like, hey,
+01:52:17.56 --> 01:52:19.64 it gives me the opportunity to prove how humble I am.
+01:52:19.64 --> 01:52:20.84 Because by the way, I'm running around
+01:52:20.84 --> 01:52:22.28 and trying to make calls, trying to make decisions.
+01:52:22.28 --> 01:52:24.40 And I'm the one that's having to put word out.
+01:52:24.40 --> 01:52:25.72 And when all of a sudden Dave does something better,
+01:52:25.72 --> 01:52:28.20 I go, hey, Dave, dude, awesome work, man.
+01:52:28.20 --> 01:52:30.24 You were definitely right about it being a half dozen
+01:52:30.24 --> 01:52:31.96 and a not six, sweet.
+01:52:33.16 --> 01:52:35.24 That's an opportunity for me.
+01:52:35.24 --> 01:52:37.52 And yet people see it as losing
+01:52:37.52 --> 01:52:39.08 and they won't take it.
+01:52:40.36 --> 01:52:41.92 So be careful of this one.
+01:52:43.92 --> 01:52:46.92 Last one, pretty straightforward, stay ahead of your boss.
+01:52:49.20 --> 01:52:50.68 Kind of brilliant, right?
+01:52:50.68 --> 01:52:51.84 Stay ahead of your boss.
+01:52:51.84 --> 01:52:54.84 And stay ahead of the power curve.
+01:52:54.84 --> 01:52:56.52 To me, stay ahead of your boss.
+01:52:56.52 --> 01:52:59.28 Another way of thinking about this is when it comes
+01:52:59.28 --> 01:53:02.92 to functioning as a human, thanks to strategic
+01:53:02.92 --> 01:53:03.92 and think long term.
+01:53:03.92 --> 01:53:05.48 That's how you stay ahead of your boss.
+01:53:05.48 --> 01:53:06.84 You stay ahead of your boss by your boss.
+01:53:06.84 --> 01:53:08.28 That's a fire right now, put it out.
+01:53:08.28 --> 01:53:09.44 And you go cool, got it boss.
+01:53:09.44 --> 01:53:11.60 And then you look to see where that next fire is gonna be.
+01:53:11.60 --> 01:53:13.52 It's as simple as that.
+01:53:13.52 --> 01:53:14.56 It's as simple as that.
+01:53:14.56 --> 01:53:15.80 Stay ahead of your boss.
+01:53:17.68 --> 01:53:20.20 Make your boss look good again.
+01:53:20.20 --> 01:53:21.28 Leadership strategy in tactics.
+01:53:21.28 --> 01:53:23.68 I'm gonna make it, make your boss look good.
+01:53:23.68 --> 01:53:26.44 Put it, what incredible way to build a good relationship
+01:53:26.44 --> 01:53:27.28 with your boss?
+01:53:27.28 --> 01:53:29.98 What incredible way to build leadership capital
+01:53:29.98 --> 01:53:30.82 with your boss?
+01:53:30.82 --> 01:53:32.12 Make your boss look good.
+01:53:32.12 --> 01:53:33.32 That's my goal.
+01:53:33.32 --> 01:53:35.08 Do I want to credit, no, I want Dave Burke,
+01:53:35.08 --> 01:53:36.44 my boss to get the credit, that's what I want.
+01:53:36.44 --> 01:53:37.60 Want him to look awesome.
+01:53:37.60 --> 01:53:40.36 You think Dave Burke's not gonna take care of me?
+01:53:40.36 --> 01:53:41.28 All day.
+01:53:42.28 --> 01:53:44.96 So once Dave Burke is taking care of me,
+01:53:44.96 --> 01:53:46.12 guess what I can do?
+01:53:46.12 --> 01:53:47.36 I can take care of my team.
+01:53:47.36 --> 01:53:48.48 And that's my mission.
+01:53:48.48 --> 01:53:49.96 Well, now I can take care of my team.
+01:53:49.96 --> 01:53:51.48 Now we can take care of the mission.
+01:53:51.48 --> 01:53:52.80 And life is good.
+01:53:52.80 --> 01:53:53.64 That's what we're doing.
+01:53:56.36 --> 01:53:58.88 And this is another thing that seems hard.
+01:53:58.88 --> 01:54:01.24 That's not, it's just not hard.
+01:54:01.24 --> 01:54:03.20 And if we spend less time lamenting
+01:54:03.20 --> 01:54:04.32 everything wrong with our boss,
+01:54:04.32 --> 01:54:07.000 you're talking about the OCD boss a couple minutes ago
+01:54:07.000 --> 01:54:08.44 about any word for no CD boss.
+01:54:08.44 --> 01:54:10.52 Yeah, I remember that and I immediately,
+01:54:10.52 --> 01:54:14.52 this guy came to mind and people hated working for him.
+01:54:14.52 --> 01:54:16.60 They hated working for him.
+01:54:16.60 --> 01:54:19.04 And look, I work from, it was not easy.
+01:54:19.04 --> 01:54:20.16 First, I had to figure him out,
+01:54:20.16 --> 01:54:21.64 but once I figured him out,
+01:54:21.64 --> 01:54:23.32 it was super easy to work for him
+01:54:23.32 --> 01:54:25.08 because I knew what he wanted.
+01:54:25.08 --> 01:54:26.12 And I could stay ahead of him.
+01:54:26.12 --> 01:54:29.80 And I could anticipate the things that he needed.
+01:54:29.80 --> 01:54:31.60 And if you just spent less time thinking about
+01:54:31.60 --> 01:54:33.08 what's wrong with your boss
+01:54:33.08 --> 01:54:34.68 and all the dumb things he's making you do.
+01:54:34.68 --> 01:54:35.68 And then more time thing like,
+01:54:35.68 --> 01:54:37.32 all right, what is he trying to get accomplished?
+01:54:37.32 --> 01:54:38.60 What's his personality like,
+01:54:38.60 --> 01:54:41.08 what do I need to do to get ahead of him
+01:54:41.08 --> 01:54:43.28 to help him so I can help the team
+01:54:43.28 --> 01:54:46.52 cracking that code is usually not that hard.
+01:54:46.52 --> 01:54:48.16 And when you crack the code,
+01:54:48.16 --> 01:54:49.64 not only does your boss life get better,
+01:54:49.64 --> 01:54:51.84 your life gets so much better,
+01:54:51.84 --> 01:54:53.76 it's so much easier.
+01:54:53.76 --> 01:54:56.64 And just like you described to push that down to the team,
+01:54:56.64 --> 01:54:58.08 that's where the win is.
+01:54:58.08 --> 01:54:59.56 It's like you can take care of your team,
+01:54:59.56 --> 01:55:00.56 you can help your team,
+01:55:00.56 --> 01:55:02.44 you can make sure your team's successful.
+01:55:02.44 --> 01:55:04.40 So if you're looking at this about how hard that is,
+01:55:04.40 --> 01:55:05.88 that's just your ego telling you.
+01:55:05.88 --> 01:55:08.000 When your boss is the problem,
+01:55:08.000 --> 01:55:09.52 this is something I want with your boss.
+01:55:09.52 --> 01:55:11.84 Just figure out what he wants and get ahead of him.
+01:55:11.84 --> 01:55:13.44 And it's really, really not that hard.
+01:55:14.52 --> 01:55:16.40 All right, well, there you go.
+01:55:16.40 --> 01:55:20.64 Those are some simple rules for being a better leader
+01:55:20.64 --> 01:55:22.88 and a better follower and a better human.
+01:55:22.88 --> 01:55:24.44 And here's the thing I gotta pay attention to.
+01:55:24.44 --> 01:55:28.64 You can only see these things if you detach.
+01:55:28.64 --> 01:55:31.72 And by the way, when you detach
+01:55:31.72 --> 01:55:33.60 and you take a step back,
+01:55:33.60 --> 01:55:36.16 the thing that you really have to detach
+01:55:36.16 --> 01:55:38.12 from is still part of you, it's your ego.
+01:55:38.12 --> 01:55:41.36 It's driving so many of these mistakes that we make.
+01:55:41.36 --> 01:55:43.72 So you can't just detach from the situation,
+01:55:43.72 --> 01:55:45.16 you can't just detach from your boss,
+01:55:45.16 --> 01:55:46.84 you can't just detach from the plan,
+01:55:46.84 --> 01:55:50.08 you gotta detach and be able to see your own ego,
+01:55:50.08 --> 01:55:54.72 which is probably the root of 97% of these problems.
+01:55:54.72 --> 01:55:56.56 So take a step back,
+01:55:57.52 --> 01:55:59.72 write these things down, write these rules down.
+01:55:59.72 --> 01:56:03.60 Just go, go, take about face, write these rules down.
+01:56:03.60 --> 01:56:05.68 Go, read them before you go into a meeting.
+01:56:06.64 --> 01:56:08.52 Read them before you make a decision.
+01:56:08.52 --> 01:56:11.08 Read them before you meet with your support man.
+01:56:11.08 --> 01:56:11.96 Read through.
+01:56:11.96 --> 01:56:15.76 At the end, check yourself, how do you do want them?
+01:56:15.76 --> 01:56:18.80 And eventually, over time,
+01:56:18.80 --> 01:56:19.92 this is how you become better
+01:56:19.92 --> 01:56:22.88 because you won't rely on having to read
+01:56:22.88 --> 01:56:25.64 through these things, you'll start to know them
+01:56:25.64 --> 01:56:28.000 and they will become second nature.
+01:56:30.08 --> 01:56:31.76 So, there you go.
+01:56:31.76 --> 01:56:32.92 All right, with that,
+01:56:34.16 --> 01:56:36.28 we carry, why are you here?
+01:56:36.28 --> 01:56:38.88 Just so everyone knows you've treated people
+01:56:38.88 --> 01:56:40.84 that are freaking out right now.
+01:56:40.84 --> 01:56:44.12 Echo Charles, he needed a break, bro.
+01:56:44.12 --> 01:56:47.52 He was, I mean, he had the stress level was high.
+01:56:47.52 --> 01:56:51.20 He hadn't been cruising in at least a few days.
+01:56:51.20 --> 01:56:53.84 And so, Echo Charles, don't worry, everybody.
+01:56:53.84 --> 01:56:55.16 E.C. will be back.
+01:56:56.28 --> 01:56:57.60 He's okay.
+01:56:57.60 --> 01:56:59.56 He just had to reset, you know,
+01:56:59.56 --> 01:57:01.32 had to recharge the batteries.
+01:57:01.32 --> 01:57:02.96 Recharge the mono.
+01:57:02.96 --> 01:57:03.96 Yeah.
+01:57:03.96 --> 01:57:04.96 Back on the island.
+01:57:04.96 --> 01:57:05.80 Back on the island.
+01:57:05.80 --> 01:57:06.64 Yeah.
+01:57:06.64 --> 01:57:08.000 So he had to go get some island time in.
+01:57:08.000 --> 01:57:09.60 That's where Echo has been.
+01:57:09.60 --> 01:57:10.72 He'll be back hopefully.
+01:57:10.72 --> 01:57:11.76 I don't know, you never know.
+01:57:11.76 --> 01:57:13.28 Maybe this year, you know,
+01:57:13.28 --> 01:57:14.40 let me make the call, whatever.
+01:57:14.40 --> 01:57:15.24 It's no factor.
+01:57:15.24 --> 01:57:16.24 Keep cover, whatever.
+01:57:16.24 --> 01:57:17.24 Whatever Echo needs.
+01:57:17.24 --> 01:57:18.56 We're just here.
+01:57:18.56 --> 01:57:21.52 So, don't worry, this is still the Echo podcast.
+01:57:21.52 --> 01:57:22.36 He'll be back.
+01:57:24.52 --> 01:57:26.60 It's kind of a lose lose for you, isn't it, Kerry?
+01:57:26.60 --> 01:57:27.92 Be in here.
+01:57:27.92 --> 01:57:28.96 I mean, it's hard.
+01:57:28.96 --> 01:57:31.40 Look, you know, Echo,
+01:57:32.32 --> 01:57:33.76 he's kind of got that thing going
+01:57:33.76 --> 01:57:35.68 where people just, he's just nice
+01:57:35.68 --> 01:57:38.84 and kind of like if you do something,
+01:57:38.84 --> 01:57:40.12 anything different than him.
+01:57:40.12 --> 01:57:41.24 Even if you do the same thing as him,
+01:57:41.24 --> 01:57:43.52 people like, well, look at you trying to be like,
+01:57:43.52 --> 01:57:45.20 if you're trying to jack Echo style.
+01:57:45.20 --> 01:57:47.48 You're gonna lose lose situation, bro.
+01:57:47.48 --> 01:57:49.08 Hey, I'm just happy to be here, man.
+01:57:49.08 --> 01:57:50.76 You know, please happy to be here.
+01:57:50.76 --> 01:57:51.84 He's sitting in the hot seat.
+01:57:51.84 --> 01:57:53.64 Anything pressing record over there?
+01:57:53.64 --> 01:57:54.64 Yeah.
+01:57:54.64 --> 01:57:55.84 No, it's awesome, man.
+01:57:55.84 --> 01:57:57.40 We get the cover down and yeah,
+01:57:57.40 --> 01:57:59.76 when he comes back, I'll be back in the shadows.
+01:57:59.76 --> 01:58:00.76 Back in the shadows.
+01:58:00.76 --> 01:58:02.24 Retreat to the shadows.
+01:58:02.24 --> 01:58:03.72 Or maybe he'll get whacked.
+01:58:03.72 --> 01:58:04.72 All right.
+01:58:04.72 --> 01:58:06.76 He'll just be like, well, looks like I'm in here now.
+01:58:06.76 --> 01:58:07.76 Yeah.
+01:58:07.76 --> 01:58:09.92 He won't give up the chair.
+01:58:09.92 --> 01:58:11.60 Yeah, he didn't give up the chair.
+01:58:11.60 --> 01:58:12.76 Here he gets bummed out.
+01:58:12.76 --> 01:58:16.08 We were doing Jordan Peterson.
+01:58:16.08 --> 01:58:19.12 And he was, it got scheduled and he was gonna be in Hawaii
+01:58:19.12 --> 01:58:19.96 and he wasn't around.
+01:58:19.96 --> 01:58:21.40 He was bummed about that.
+01:58:21.40 --> 01:58:22.24 Yeah.
+01:58:22.24 --> 01:58:24.56 We were talking about that, you know,
+01:58:24.56 --> 01:58:26.72 the Tim Kennedy podcast, you know?
+01:58:26.72 --> 01:58:29.000 Yeah, he was kind of bummed about that one too.
+01:58:29.000 --> 01:58:29.60 Be bummed about that.
+01:58:29.60 --> 01:58:30.60 Yeah.
+01:58:30.60 --> 01:58:32.96 That was a good one, man.
+01:58:32.96 --> 01:58:35.52 That was that one went by quick.
+01:58:35.52 --> 01:58:36.52 For how long it was?
+01:58:36.52 --> 01:58:38.32 Long it was.
+01:58:38.32 --> 01:58:40.84 Almost five hours and 50 minutes.
+01:58:40.84 --> 01:58:42.32 And it I was like, oh, that's a long,
+01:58:42.32 --> 01:58:44.36 but also, Huberman was,
+01:58:44.36 --> 01:58:47.16 Huberman was five hours and 20 minutes.
+01:58:47.16 --> 01:58:49.72 And of course, Sean Parnell was five hours and 25 minutes
+01:58:49.72 --> 01:58:50.56 or something like this.
+01:58:50.56 --> 01:58:52.20 That's a long time to be talking.
+01:58:52.20 --> 01:58:55.72 If we were better at milking,
+01:58:55.72 --> 01:58:58.44 we would just break it up in the four different podcasts.
+01:58:58.44 --> 01:59:01.32 Now, don't worry, people, we got you.
+01:59:01.32 --> 01:59:02.16 We got you.
+01:59:02.16 --> 01:59:03.000 We're here.
+01:59:03.000 --> 01:59:03.84 We're gonna put it out.
+01:59:03.84 --> 01:59:04.84 One hit.
+01:59:04.84 --> 01:59:07.96 A little bit of that immediate gratification for you.
+01:59:07.96 --> 01:59:08.80 Dude, let me know.
+01:59:08.80 --> 01:59:10.44 There's some people that look at that thing.
+01:59:10.44 --> 01:59:14.04 They see five hours and 50 minutes and they go, oh, damn.
+01:59:14.04 --> 01:59:15.40 Let me get that two ex-son.
+01:59:15.40 --> 01:59:16.40 Yeah.
+01:59:16.40 --> 01:59:17.40 Yeah.
+01:59:17.40 --> 01:59:18.24 We've got that up.
+01:59:18.24 --> 01:59:20.08 And there's also some people that are like hell, yeah.
+01:59:20.08 --> 01:59:21.08 Yeah, for sure.
+01:59:21.08 --> 01:59:24.40 I'm definitely in that camp any time I see a five hour
+01:59:24.40 --> 01:59:25.48 Jocca podcast.
+01:59:25.48 --> 01:59:28.52 You just know it's like, well, the thing is,
+01:59:28.52 --> 01:59:30.92 there's no time limit in either direction.
+01:59:30.92 --> 01:59:31.76 Yeah.
+01:59:31.76 --> 01:59:32.96 There's no goal.
+01:59:32.96 --> 01:59:33.32 Right.
+01:59:33.32 --> 01:59:34.32 Did we could go an hour?
+01:59:34.32 --> 01:59:35.56 We could go five hours.
+01:59:35.56 --> 01:59:36.40 I don't know.
+01:59:36.40 --> 01:59:37.24 We'd go to all hours.
+01:59:37.24 --> 01:59:38.72 We'd go 30 minutes.
+01:59:38.72 --> 01:59:40.84 If it's there, we'll roll with it.
+01:59:40.84 --> 01:59:41.84 We're getting it.
+01:59:41.84 --> 01:59:42.84 Yeah.
+01:59:42.84 --> 01:59:43.68 That would get.
+01:59:43.68 --> 01:59:45.20 See Tim and I had a lot of, you know,
+01:59:45.20 --> 01:59:47.56 with the fight background and he was doing all that stuff
+01:59:47.56 --> 01:59:50.40 when I was like, we were in the game, right?
+01:59:50.40 --> 01:59:53.60 At the same time, I was like, old, I think I'm.
+01:59:54.88 --> 01:59:57.68 Maybe eight years older than him or something like this.
+01:59:57.68 --> 02:00:01.96 And so, but, you know, chocolate,
+02:00:01.96 --> 02:00:03.64 like I just saw chocolate out the UFC.
+02:00:03.64 --> 02:00:04.68 So what's up?
+02:00:04.68 --> 02:00:05.88 What was that UFC?
+02:00:05.88 --> 02:00:06.68 It was cool.
+02:00:06.68 --> 02:00:07.72 That was good, man.
+02:00:07.72 --> 02:00:09.68 It was awesome.
+02:00:09.68 --> 02:00:13.96 But we were, so we had a lot to talk about there, you know.
+02:00:13.96 --> 02:00:17.20 But Echo Charles would be back with his powerful question,
+02:00:17.20 --> 02:00:18.20 in opinion.
+02:00:18.20 --> 02:00:21.24 Standing by his shoulder.
+02:00:21.24 --> 02:00:22.28 Speaking of being strategic,
+02:00:22.28 --> 02:00:23.60 make sure you're saying shape, make sure you're
+02:00:23.60 --> 02:00:24.52 just to keep your health.
+02:00:24.52 --> 02:00:25.72 That's strategic move.
+02:00:25.72 --> 02:00:26.88 Keep stay healthy.
+02:00:26.88 --> 02:00:27.88 You know how you do that, Jocca,
+02:00:27.88 --> 02:00:29.60 feel, Jocca, feel.com.
+02:00:29.60 --> 02:00:30.92 How's the new flavor's date?
+02:00:30.92 --> 02:00:35.92 So just FYI, we have an energy drink.
+02:00:37.40 --> 02:00:39.72 It's called go.
+02:00:39.72 --> 02:00:41.44 And it will give you energy.
+02:00:42.52 --> 02:00:44.48 When we initially made it,
+02:00:44.48 --> 02:00:48.84 the taste profile was based on my taste buds,
+02:00:48.84 --> 02:00:50.88 which are not normal.
+02:00:50.88 --> 02:00:54.000 My taste buds are hypersensitive to the sweetness.
+02:00:54.000 --> 02:00:55.48 And so I tried these things, I was like, oh, yeah,
+02:00:55.48 --> 02:00:56.32 that's very sweet.
+02:00:56.32 --> 02:00:57.36 That's, you know, this is good to go.
+02:00:57.36 --> 02:00:59.64 This basically tastes like a Coca-Cola to me, right?
+02:00:59.64 --> 02:01:03.000 Now it's like just, wow, it's wrong.
+02:01:03.000 --> 02:01:04.96 And a lot of people that normally eat a lot of sugar,
+02:01:04.96 --> 02:01:07.000 they were like, what is this, this doesn't taste good.
+02:01:07.000 --> 02:01:10.76 So we read it all the flavors, all of them.
+02:01:10.76 --> 02:01:13.36 Dave, you got your new afterburn orange.
+02:01:13.36 --> 02:01:14.72 How was that going down today?
+02:01:14.72 --> 02:01:16.04 It's good.
+02:01:16.04 --> 02:01:19.04 I'm gonna similar but I never drank an energy drink
+02:01:19.04 --> 02:01:21.16 before go ever, I don't drink them.
+02:01:21.16 --> 02:01:23.72 So I had no frame of reference.
+02:01:23.72 --> 02:01:24.76 When we made the orange,
+02:01:24.76 --> 02:01:26.96 I got to do all the flavor testing and all that stuff
+02:01:26.96 --> 02:01:29.32 at the end, I'm like, this thing is incredible.
+02:01:29.32 --> 02:01:31.36 It tastes like an orange crush or whatever.
+02:01:33.76 --> 02:01:36.16 The I've had almost, oh, not all,
+02:01:36.16 --> 02:01:38.16 I've had almost all the new flavors
+02:01:38.16 --> 02:01:41.88 and they are ridiculously good tasting.
+02:01:41.88 --> 02:01:43.60 So I'm over here thinking like, all right,
+02:01:43.60 --> 02:01:46.20 I'm doing timing, I'm doing the reasons I gotta anticipate
+02:01:46.20 --> 02:01:50.04 all these, now I just want the way it tastes.
+02:01:50.04 --> 02:01:51.20 Yeah.
+02:01:51.20 --> 02:01:52.36 Yeah.
+02:01:52.36 --> 02:01:53.72 I'm drinking the citrus psycho,
+02:01:53.72 --> 02:01:56.16 which was by far a worse seller.
+02:01:56.16 --> 02:01:57.40 And the reasons are worse sellers
+02:01:57.40 --> 02:01:59.32 because the first one that came out
+02:01:59.32 --> 02:02:03.76 before I had any semblance of trying to make things taste
+02:02:03.76 --> 02:02:06.28 good for the world at large.
+02:02:06.28 --> 02:02:09.92 And now this one is freaking delicious.
+02:02:09.92 --> 02:02:12.84 So Dave Babens, hate or hate here, citrus psycho.
+02:02:12.84 --> 02:02:15.60 It tastes like, there's a reason that this was
+02:02:15.60 --> 02:02:17.44 the first flavor that we made, by the way.
+02:02:17.44 --> 02:02:19.04 The reason this is the first flavor that we made
+02:02:19.04 --> 02:02:23.76 was because I thought to myself, what's the common flavor
+02:02:23.76 --> 02:02:25.88 that everybody likes?
+02:02:25.88 --> 02:02:28.68 He, you know, well, it's lemon lime.
+02:02:28.68 --> 02:02:33.28 Look at Gatorade, look at Sprite, all those flavors.
+02:02:33.28 --> 02:02:34.44 That's okay, lemon lime.
+02:02:34.44 --> 02:02:37.40 This is a standard flavor.
+02:02:37.40 --> 02:02:39.32 It's like chocolate vanilla, right?
+02:02:39.32 --> 02:02:40.52 It's the same thing as I said, oh, you're gonna make
+02:02:40.52 --> 02:02:44.56 a protein-shaped cool chocolate or vanilla or strawberry.
+02:02:44.56 --> 02:02:46.60 That's what this was to me.
+02:02:46.60 --> 02:02:49.32 So this was the first flavor, that's why.
+02:02:49.32 --> 02:02:52.68 But man, I didn't sweeten it enough.
+02:02:52.68 --> 02:02:56.92 And now this thing is, and it's still sugar-free,
+02:02:56.92 --> 02:02:59.60 it's still keto, it's still all natural,
+02:02:59.60 --> 02:03:02.20 it's still pasteurized, it's still freaking,
+02:03:02.20 --> 02:03:05.20 this all of the same qualities of awesomeness,
+02:03:05.20 --> 02:03:06.68 but it tastes delicious.
+02:03:06.68 --> 02:03:10.80 So there you go, jockelfuel.com, check all that stuff out.
+02:03:10.80 --> 02:03:11.92 Check out some milk.
+02:03:11.92 --> 02:03:13.48 Jeff some milk over the fourth of your life.
+02:03:13.48 --> 02:03:14.68 Yeah, of course.
+02:03:14.68 --> 02:03:17.96 I was talking about that on that last podcast.
+02:03:17.96 --> 02:03:20.56 I'm up to two milkshakes a day.
+02:03:20.56 --> 02:03:23.000 Yeah, because once you start tracking the macros,
+02:03:23.000 --> 02:03:24.60 you need that extra hit or a protein.
+02:03:24.60 --> 02:03:25.44 You got to eat two.
+02:03:25.44 --> 02:03:27.84 Yeah, if it can be measured, it can be managed.
+02:03:27.84 --> 02:03:30.000 Or two scoops in a moker, do you go one?
+02:03:30.000 --> 02:03:31.56 No, I go one.
+02:03:31.56 --> 02:03:32.36 I double it up.
+02:03:32.36 --> 02:03:33.36 You double it up.
+02:03:33.36 --> 02:03:36.000 Wait, I love that hitter.
+02:03:36.000 --> 02:03:38.48 Jockelfuel.com, go to wallwafewant.
+02:03:38.48 --> 02:03:40.88 If you want the drinks, go to vitamin shop,
+02:03:40.88 --> 02:03:44.32 go to HEB down in Tayhouse, we got you.
+02:03:44.32 --> 02:03:45.40 And try the new flavors.
+02:03:45.40 --> 02:03:48.08 The new flavors are kind of hitting the stores right now.
+02:03:48.08 --> 02:03:51.56 So what's it, July by August, I think we'll be
+02:03:51.56 --> 02:03:54.56 in all new flavors, but go get them.
+02:03:54.56 --> 02:03:58.60 Orgenusa.com, get some cool American made apparel.
+02:03:58.60 --> 02:04:00.32 I'll up at the UFC a lot of people were pumped.
+02:04:00.32 --> 02:04:03.64 A lot of people were pumped on the hunt line coming out
+02:04:03.64 --> 02:04:06.56 on the, you know, I had guys every key I have
+02:04:06.56 --> 02:04:08.28 as an origin key, I'm like hell, yeah.
+02:04:08.28 --> 02:04:10.56 Merk it, Merk it.
+02:04:10.56 --> 02:04:13.000 So if you want to get on the American made,
+02:04:13.000 --> 02:04:16.60 train, then go to Orgenusa.com, get yourself,
+02:04:16.60 --> 02:04:20.88 do you just repeat jeans, people representing jeans,
+02:04:20.88 --> 02:04:22.40 that's freaking legit.
+02:04:22.40 --> 02:04:25.84 You know, it's a sad day when your iconic American jeans
+02:04:25.84 --> 02:04:27.40 are not made in America.
+02:04:27.40 --> 02:04:28.68 But guess what they are now,
+02:04:28.68 --> 02:04:31.88 because now the only pair of iconic jeans you can get
+02:04:31.88 --> 02:04:34.88 is good old origin usay.com.
+02:04:34.88 --> 02:04:37.44 Get some of that, Jockels store.
+02:04:37.44 --> 02:04:40.92 That's where we have stuff that might help you on the path.
+02:04:40.92 --> 02:04:41.72 Might help you on the path.
+02:04:41.72 --> 02:04:45.40 Uh, Echo has been busy too on some new discipline
+02:04:45.40 --> 02:04:46.80 and cool freedom shirts.
+02:04:46.80 --> 02:04:48.20 Really, some new ones.
+02:04:48.20 --> 02:04:50.04 Yeah, go check those out.
+02:04:50.04 --> 02:04:51.80 Some new colors on there.
+02:04:51.80 --> 02:04:53.60 And there's like a little bit of a Gigi-to-line
+02:04:53.60 --> 02:04:54.56 that's forming as well.
+02:04:54.56 --> 02:04:58.36 So Gigi-to is life, T-shirt is quite popular.
+02:04:58.36 --> 02:04:59.20 It is.
+02:04:59.20 --> 02:05:00.04 It is.
+02:05:00.04 --> 02:05:02.64 It's super clean and then we've got the Dean List on there as well.
+02:05:02.64 --> 02:05:03.88 The Dean List.
+02:05:03.88 --> 02:05:05.68 Do we have the foot soldier one yet?
+02:05:05.68 --> 02:05:06.96 I'm gonna make a foot.
+02:05:06.96 --> 02:05:08.96 He's got that little sticker that says foot soldier.
+02:05:08.96 --> 02:05:12.40 And it's like a Dean Lister and like a nom style helmet.
+02:05:12.40 --> 02:05:14.000 And it just says foot soldier.
+02:05:14.000 --> 02:05:14.84 We gotta get that.
+02:05:14.84 --> 02:05:16.28 We got the foot.
+02:05:16.28 --> 02:05:17.68 The foot that Dean Listed Dean Listed.
+02:05:17.68 --> 02:05:18.68 The Dean Lister.
+02:05:18.68 --> 02:05:19.68 Yeah.
+02:05:19.68 --> 02:05:21.96 But also shirt locker.
+02:05:21.96 --> 02:05:24.04 New shirt every month with that.
+02:05:24.04 --> 02:05:28.28 And we've been just going pretty hard on this.
+02:05:28.28 --> 02:05:32.36 The last month was pretty awesome if you get it.
+02:05:32.36 --> 02:05:33.80 What was last month's shirt?
+02:05:33.80 --> 02:05:35.96 Or it might have been month before last thing.
+02:05:35.96 --> 02:05:38.04 We did kind of a Gijo style.
+02:05:38.04 --> 02:05:39.68 Oh yeah, that was the discipline one.
+02:05:39.68 --> 02:05:40.88 But it was Gijoish.
+02:05:40.88 --> 02:05:41.88 Right.
+02:05:41.88 --> 02:05:44.68 And then the Charlie Mike was, I believe after that.
+02:05:44.68 --> 02:05:45.84 So there you go.
+02:05:45.84 --> 02:05:47.24 JoccoStore.com.
+02:05:47.24 --> 02:05:48.08 You can check some of that out.
+02:05:48.08 --> 02:05:48.92 Subscribe to the podcast.
+02:05:48.92 --> 02:05:49.92 Jocco Underground.
+02:05:49.92 --> 02:05:51.12 Jocco Underground.
+02:05:51.12 --> 02:05:52.12 Jocco Underground.com.
+02:05:52.12 --> 02:05:56.36 If you want to hear, if you're nervous about the platform, look, we don't own the platform
+02:05:56.36 --> 02:05:59.48 that you're listening to unless you're listening to us right now on Jocco Underground.com.
+02:05:59.48 --> 02:06:00.48 Then we own it.
+02:06:00.48 --> 02:06:02.20 No one can stop us.
+02:06:02.20 --> 02:06:03.20 We got that.
+02:06:03.20 --> 02:06:06.000 But if you're listening on some of the other platforms that are out there, look, we don't
+02:06:06.000 --> 02:06:07.000 know them.
+02:06:07.000 --> 02:06:08.000 And they could shut us down.
+02:06:08.000 --> 02:06:09.000 They could sense to us.
+02:06:09.000 --> 02:06:10.88 Maybe they don't want us talking about war.
+02:06:10.88 --> 02:06:13.80 Maybe they don't want us talking about whatever we're talking about.
+02:06:13.80 --> 02:06:15.12 And we got to be aware of that.
+02:06:15.12 --> 02:06:16.12 We got to have a contingency plan.
+02:06:16.12 --> 02:06:21.48 So Jocco Underground.com is a contingency there.
+02:06:21.48 --> 02:06:22.64 And I read a bunch of books.
+02:06:22.64 --> 02:06:28.60 If you want to check out the books that I've written, go to Amazon and buy them all.
+02:06:28.60 --> 02:06:30.20 We have Essal on front.
+02:06:30.20 --> 02:06:31.64 David and I work at Essal on front.
+02:06:31.64 --> 02:06:33.64 We solve problems through leadership.
+02:06:33.64 --> 02:06:36.000 We take these principles of combat leadership.
+02:06:36.000 --> 02:06:38.000 We teach people how to apply them inside their business.
+02:06:38.000 --> 02:06:40.68 Get your business aligned around leadership.
+02:06:40.68 --> 02:06:44.36 If you have leaders, if you have problems, their leadership problems.
+02:06:44.36 --> 02:06:50.38 So Essal on front.com come to the mustard next mustard zone at Atlanta, hot Atlanta, October
+02:06:50.38 --> 02:06:51.88 12th, through the 14th.
+02:06:51.88 --> 02:06:52.88 We're going to sell it out.
+02:06:52.88 --> 02:06:53.88 We sell it everything.
+02:06:53.88 --> 02:06:55.56 So come and check that out.
+02:06:55.56 --> 02:06:59.16 We have the extreme ownership academy.
+02:06:59.16 --> 02:07:02.44 Online extreme ownership.com.
+02:07:02.44 --> 02:07:03.44 We got courses.
+02:07:03.44 --> 02:07:04.96 We're about to record a course today.
+02:07:04.96 --> 02:07:08.12 We're doing a course on relationships and the value of relationships.
+02:07:08.12 --> 02:07:09.68 How to build relationships.
+02:07:09.68 --> 02:07:12.72 How to maintain relationships.
+02:07:12.72 --> 02:07:15.72 Why relationships are so powerful.
+02:07:15.72 --> 02:07:23.56 So these are the kind of conversations that we have on that platform that you can study,
+02:07:23.56 --> 02:07:25.52 you can test, you can learn.
+02:07:25.52 --> 02:07:28.16 And leadership is not an inoculation.
+02:07:28.16 --> 02:07:30.68 You can't read extreme ownership one time.
+02:07:30.68 --> 02:07:32.68 You've got it.
+02:07:32.68 --> 02:07:34.60 It doesn't work.
+02:07:34.60 --> 02:07:37.32 For a while, I'd say, well, you want some more or that stuff.
+02:07:37.32 --> 02:07:42.76 Listen to the podcast, but then there now there's 300 and 41 podcasts.
+02:07:42.76 --> 02:07:45.48 There's hundreds and hundreds and hundreds of hours.
+02:07:45.48 --> 02:07:47.04 I can't say, well, let's go listen to the podcast.
+02:07:47.04 --> 02:07:51.32 Now we had to, we had to streamline it and distill it down.
+02:07:51.32 --> 02:07:55.88 The principles so that people could learn them and actively train in them.
+02:07:55.88 --> 02:07:57.04 Just like you go to the gym.
+02:07:57.04 --> 02:07:58.48 Just like you trained your jitsu.
+02:07:58.48 --> 02:08:00.64 Just like you pick up your get box and play guitar at night.
+02:08:00.64 --> 02:08:04.000 If you're not practicing, you're not learning.
+02:08:04.000 --> 02:08:07.12 So go to extrememonorship.com, check out the courses.
+02:08:07.12 --> 02:08:09.16 Also, I'm on their live a bunch.
+02:08:09.16 --> 02:08:12.000 At least once a week, I'm on their answering questions.
+02:08:12.000 --> 02:08:14.64 So extrememonorship.com, come and check that out.
+02:08:14.64 --> 02:08:18.68 Also, if you want to help service members, active and retired, their families, gold star
+02:08:18.68 --> 02:08:21.04 families, check out Mark Lee's mom.
+02:08:21.04 --> 02:08:23.92 Momily, she's got an awesome charity organization.
+02:08:23.92 --> 02:08:27.52 She helps with health issues.
+02:08:27.52 --> 02:08:33.36 Putting, putting service members through health protocols that aren't paid for by the
+02:08:33.36 --> 02:08:36.48 military, but that are extremely helpful.
+02:08:36.48 --> 02:08:40.56 So America's mighty warriors.org.
+02:08:40.56 --> 02:08:41.56 Check that out.
+02:08:41.56 --> 02:08:42.60 If you want to donate or you want to get involved.
+02:08:42.60 --> 02:08:45.68 Also, check out heroes and horses.org.
+02:08:45.68 --> 02:08:47.56 Micah, he's up there in the mountains right now.
+02:08:47.56 --> 02:08:52.20 I'm just getting it teaching people what's up.
+02:08:52.20 --> 02:08:57.20 And of course on Twitter, on the Graham, on Facebook, Dave's at David R. Burke.
+02:08:57.20 --> 02:09:03.68 Here he's at Carrie Underscore, Helton, he didn't get that, he didn't get the real one.
+02:09:03.68 --> 02:09:04.68 Not fast.
+02:09:04.68 --> 02:09:05.68 Had to throw that underscore in there.
+02:09:05.68 --> 02:09:06.68 Too slow.
+02:09:06.68 --> 02:09:11.52 Yep, just a forever sign of being a little too slow.
+02:09:11.52 --> 02:09:13.92 Everybody knows.
+02:09:13.92 --> 02:09:16.32 And if you want to see me on there, I'm at Jocca.
+02:09:16.32 --> 02:09:17.44 Well, I don't want to underscore in there.
+02:09:17.44 --> 02:09:18.44 No, no, nothing.
+02:09:18.44 --> 02:09:19.44 Nothing.
+02:09:19.44 --> 02:09:20.84 Just got into deep early.
+02:09:20.84 --> 02:09:23.32 Coming at you.
+02:09:23.32 --> 02:09:26.88 While you're in there, just watch out because the algorithm might grab you by the leg.
+02:09:26.88 --> 02:09:29.36 And start dragging you down.
+02:09:29.36 --> 02:09:31.44 So be careful of that.
+02:09:31.44 --> 02:09:38.56 And thanks to all our military personnel out there, the current and future Glover Johns.
+02:09:38.56 --> 02:09:42.48 Thanks for doing what you are doing out there every day to lead and protect our country.
+02:09:42.48 --> 02:09:46.96 And the same goes to our police and law enforcement, firefighters, paramedics, EMTs, dispatchers,
+02:09:46.96 --> 02:09:52.08 correction officers, border patrol, secret service, all you first responders.
+02:09:52.08 --> 02:09:56.84 Thank you for what you do every day to protect us here at home.
+02:09:56.84 --> 02:10:04.20 And everyone else just trying to remember and implement these simple lessons from Glover
+02:10:04.20 --> 02:10:07.36 Johns, things like do the small things well.
+02:10:07.36 --> 02:10:11.36 Things like be a doer and a self-starter.
+02:10:11.36 --> 02:10:12.96 Never be satisfied.
+02:10:12.96 --> 02:10:17.68 Have consideration of others.
+02:10:17.68 --> 02:10:21.000 Remember that the heart of the training, the more the troops are going to brag.
+02:10:21.000 --> 02:10:25.52 These are all things that are simple, but not easy.
+02:10:25.52 --> 02:10:32.08 But if you do get them and you do implement them, you'll be a better leader and you'll
+02:10:32.08 --> 02:10:34.60 be a better human being.
+02:10:34.60 --> 02:10:38.08 So go out there and get after it.
+02:10:38.08 --> 02:10:42.56 And until next time, this is Dave and Carrie and Jocco.
+02:10:42.56 --> 02:11:09.000 Hail.

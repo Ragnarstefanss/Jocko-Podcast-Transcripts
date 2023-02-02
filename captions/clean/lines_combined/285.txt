@@ -1,0 +1,1561 @@
+00:00:00.000 --> 00:00:04.000 This is Jockel fondcast number 285 with echo Charles and me,
+00:00:04.000 --> 00:00:07.92 Jockel willing. Good evening, echo. Good evening. And also joining us tonight.
+00:00:07.92 --> 00:00:16.08 Dave Burke, good evening, Dave. Good evening. All right. So we are going to dive into some work that I have been
+00:00:16.08 --> 00:00:25.68 waiting to dive into it. I waited because I wanted to do it justice. I waited because I wanted to
+00:00:25.68 --> 00:00:34.48 be thorough in covering it. I waited because there's a lot of work to cover. And going
+00:00:35.44 --> 00:00:42.40 going into this, this particular book, books, series of books, articles, individual,
+00:00:42.40 --> 00:00:48.80 the more I read over the years, it got better and better and kept getting better and kept making
+00:00:48.80 --> 00:00:56.16 more sense to me from a tactical battle war perspective, from a leadership perspective,
+00:00:58.24 --> 00:01:08.56 from a how-to lead perspective and also, contraryly like a red cell type, how not to lead,
+00:01:10.40 --> 00:01:17.28 from a relationship leadership, capital perspective and a Jockel perspective. So basically,
+00:01:17.28 --> 00:01:25.92 I was just seeing everything in my life wrapped up in this particular, this particular individual
+00:01:25.92 --> 00:01:31.12 and his work. And on top of that, so that there's another podcast that I've got waiting in the
+00:01:31.12 --> 00:01:35.60 wings or it's going to take a series of podcasts, but it's waiting in the wings. I'm super excited
+00:01:35.60 --> 00:01:40.88 to do it, but I can't do that podcast until I do this podcast or at least this podcast or at least
+00:01:40.88 --> 00:01:46.24 a couple of podcasts. On this individual, this one man, highly influential man, a guy named
+00:01:46.24 --> 00:01:53.60 BH, Lidel, Hart, Basel, Henry, Lidel, Hart. You can probably guess if you don't know who he is.
+00:01:53.60 --> 00:02:00.08 If you know military history and military strategy and military theory at all, you know who he is.
+00:02:00.08 --> 00:02:04.48 If you don't know who he is, you can probably guess that he's British because he has the first name,
+00:02:04.48 --> 00:02:10.96 Basel, right? Sure. I mean, that's a pretty British name. You didn't go to buy Basel. I guess he went
+00:02:10.96 --> 00:02:18.40 by BH, I guess. I'm guessing that's how he writes his books. Mother's maiden name was Lidel.
+00:02:19.68 --> 00:02:24.64 She was Scottish. You know, right, born and raised, I guess on the border of England.
+00:02:24.64 --> 00:02:33.20 The heart side, the Lidel, the heart side was farmers. He was, he was, went to some really nice
+00:02:33.92 --> 00:02:37.52 private schools, anything. So he grew up in England, born in France, but grew up in England.
+00:02:37.52 --> 00:02:41.92 He went to some really nice private schools. The first one of the private schools that he went through
+00:02:41.92 --> 00:02:46.80 is called St. Paul's, which is in London. And it was founded in 1509.
+00:02:49.20 --> 00:02:55.84 High school, founded in 1509. Okay, so that's just kind of crazy when we think about England.
+00:02:56.56 --> 00:03:01.84 Then he ended up at Cambridge University, which, by the way, was founded 300 years prior to that
+00:03:01.84 --> 00:03:13.44 in 1209, 1209, 1209. Well, he left Cambridge University, one World War I broke out,
+00:03:14.48 --> 00:03:18.88 volunteered for the British Army. He was in the King's own Yorkshire Light Infantry.
+00:03:18.88 --> 00:03:24.40 Glad we did that light infantry podcast recently. Dave, you've timed it all. You like that one,
+00:03:24.40 --> 00:03:28.08 didn't you? I did. Made you start thinking about some light infantry because it's a mindset.
+00:03:28.08 --> 00:03:32.64 Yeah. It's not just a way that people are trained. It's a way of thinking.
+00:03:33.28 --> 00:03:37.92 Yeah. And I got to pull that real time at Master. I listened to it all the way to Master and put it into
+00:03:37.92 --> 00:03:43.76 my brief. What was that point that you made? Well, the whole point behind that, like the largest theory
+00:03:43.76 --> 00:03:48.40 when you went into it was the size of the force is not the deciding factor. There's a lot of this,
+00:03:48.40 --> 00:03:53.20 if you have a smaller force, doesn't guarantee your defeat. And the whole point of this was like,
+00:03:53.20 --> 00:03:58.24 how are we going to move think maneuver in a way that a smaller force that looks weak on paper
+00:03:58.24 --> 00:04:03.04 and just outmaneuver these big giant forces because they're inflexible, immobile, they're dug in.
+00:04:03.04 --> 00:04:08.08 So that theoretically in my mind resonated with all sorts of stuff. Can you imagine as I was
+00:04:08.08 --> 00:04:15.76 learning due to and thinking about that actual thing? How many how many how many elements
+00:04:15.76 --> 00:04:21.76 started to just come into view? Like come out of the fog as I'm thinking through that very thing.
+00:04:21.76 --> 00:04:27.76 I'm learning due to it's I'm like, oh, if I can maneuver myself over here and put all my force
+00:04:27.76 --> 00:04:31.60 against a smaller portion of their strength, I can win.
+00:04:33.76 --> 00:04:42.32 All right. So he goes into the British Army. He is part of the King's own Yorkshire light
+00:04:42.32 --> 00:04:48.88 infantry shout out to Yorkshire. He spent time on the Western Front World War I.
+00:04:48.88 --> 00:04:57.52 And got sent back from the front two times because he was blown up and had conclusive injuries.
+00:04:58.88 --> 00:05:03.60 Cool. Hey, listen, you went to the front. You got blown up so bad that you got sent back,
+00:05:03.60 --> 00:05:09.04 because you had conclusive injuries. Cool. You good. Okay. Go back. All right. You get blown up again.
+00:05:09.04 --> 00:05:14.16 Boom. You know what? You're good. Okay. Go back again. Third time he goes back. Cool.
+00:05:14.16 --> 00:05:20.56 Um, gets back just in time for the battle of the song. And during the battle of the song,
+00:05:21.44 --> 00:05:28.88 wounded three times. Continue to fight. Finally, he gets gasped. Badly enough that he can't continue
+00:05:28.88 --> 00:05:33.84 fighting. His battalion was just about wiped out on the first day of the offensive.
+00:05:35.12 --> 00:05:41.36 Battle of the song. This is so his battalion was some of the 60,000 casualties on day one.
+00:05:41.36 --> 00:05:51.84 And that event and those events clearly left a mark on his mentality. Because you've heard
+00:05:51.84 --> 00:06:03.20 me go off and talk about the, I don't know if I've used the word stupidity before,
+00:06:03.20 --> 00:06:09.84 because it's not the right word, but the, the, the problem with World War I of
+00:06:09.84 --> 00:06:16.80 hey, okay. We just lost a battalion at 0,600. Cool. 0, 0, 0, 0, 0, 0, 0, 0, 0, 5. Dave. Your battalion's going.
+00:06:16.80 --> 00:06:20.56 Okay. Dave's battalion just got wiped out. Okay. Echo at 6, 10. Your battalion. Go.
+00:06:21.44 --> 00:06:27.76 And that's what we're doing. That left a mark on him. Eventually, after he's wounded,
+00:06:27.76 --> 00:06:33.52 started to heal up, went back, trained new recruits, wrote the infantry training manual.
+00:06:33.92 --> 00:06:37.52 After the war. After the war. After the war, hands up right in the infantry training manual.
+00:06:37.52 --> 00:06:44.16 He got married. Got married to a woman named Jesse Stone. We're wondering what layers are there.
+00:06:45.84 --> 00:06:53.60 Had a son, he retired in 1927. Came a journalist. Military historian, military theorist.
+00:06:53.60 --> 00:07:07.44 wrote the most wrote so much. It's ridiculous. It's just writing all the time. Deep historical
+00:07:07.44 --> 00:07:15.68 writing analysis, worked for Prime Minister Chamberlain. And he was kind of maneuvering and
+00:07:15.68 --> 00:07:19.76 getting people to think in a different way of different way of using air power or different way of
+00:07:19.76 --> 00:07:23.92 using tank power or different way of using maneuver warfare. And of course, we all know what happened
+00:07:23.92 --> 00:07:31.12 with Prime Minister Chamberlain. He was weak and Churchill took over. And when Churchill took over,
+00:07:31.12 --> 00:07:37.52 they kind of used the more traditional war strategy in the beginning. Guess who didn't do that.
+00:07:38.32 --> 00:07:42.000 You know, who didn't do that Hitler, the Nazis, who were actually paying attention.
+00:07:42.000 --> 00:07:52.64 Now, there's some question around how much influence heart, Le Del Hart had over the Nazis.
+00:07:52.64 --> 00:07:58.32 There's definitely some meaning. They were reading the line in Patton. I read your book.
+00:07:58.32 --> 00:08:04.32 Right. So Patton saying he read Rommel's book. Well, there's there are actual connections
+00:08:04.32 --> 00:08:11.60 between Rommel and some of the other more known, more well known and some of the lesser well-known
+00:08:11.60 --> 00:08:15.60 Nazi leaders that were reading his stuff. I'm being like, I know this makes this makes sense.
+00:08:16.48 --> 00:08:22.16 There's also a lot of people that will say that that be a child. Kind of inflated that a little bit.
+00:08:23.92 --> 00:08:30.56 But there was some influence. And also regardless of how much of a connection there was,
+00:08:30.56 --> 00:08:34.56 even if there wasn't a connection, they were both thinking the same things. Right. They were both
+00:08:34.56 --> 00:08:39.28 taking and learning the same lessons, which that's what that happened sometimes. You know, you put
+00:08:39.28 --> 00:08:43.28 somebody in one situation, they're in a vacuum from someone else. If you put them in a similar
+00:08:43.28 --> 00:08:48.16 situation like World War I, there's a pretty good chance that they could come to similar conclusions.
+00:08:48.16 --> 00:08:53.04 Like maybe it's not smart just to line up and start attacking all at once. Maybe we should use
+00:08:53.04 --> 00:08:57.20 some decentralized command. Maybe we should use maneuver warfare. So they all kind of came to the same
+00:08:57.20 --> 00:09:02.000 conclusions, meaning BHLadel Hart, meaning some of the German and Nazi leadership.
+00:09:05.52 --> 00:09:10.24 And so that stuff kind of came into play. So he wrote a bunch of this stuff down.
+00:09:13.84 --> 00:09:20.64 He wrote a book called The Strategy of the Indirect Approach, which was also printed
+00:09:20.64 --> 00:09:25.60 as the way to win wars, which is pretty cool. And what this is kind of what kicked me into
+00:09:25.60 --> 00:09:31.12 hyperdrive of doing this, and we talked about this on the underground. So I did a post about
+00:09:32.56 --> 00:09:37.12 about the Civil War. I did a post a social media post about the Civil War, about the Battle
+00:09:37.12 --> 00:09:42.000 of Chancellorville, about Jackson taking the indirect path going 14 miles around to the flank of the
+00:09:42.000 --> 00:09:47.52 Union troops and winning the battle in an hour as opposed to just taking the direct assault towards
+00:09:47.52 --> 00:09:52.24 the Union troops, which is a half a mile. And some of the comments in there, you know,
+00:09:52.24 --> 00:09:56.40 I'll, of course, what do I focus on? But most of the comments were like, yeah, that makes sense.
+00:09:56.40 --> 00:10:01.36 Use the indirect approach. And I talked about using it towards people, and in a leadership position,
+00:10:01.36 --> 00:10:07.12 how the indirect approach is normally the best way to go. And people were like, you know,
+00:10:07.12 --> 00:10:10.64 you should just tell the truth. Like, are you saying you should lie to people? So it was that whole
+00:10:10.64 --> 00:10:18.96 thing. And so I look, I know where I got these ideas from. It's no mystery to me. And part of it is the
+00:10:18.96 --> 00:10:25.12 fact that you put me in and you put someone in an environment and you make them figure something out.
+00:10:25.12 --> 00:10:28.72 They're going to come to the same conclusions. Right. So some of this stuff I was thinking,
+00:10:30.000 --> 00:10:33.28 man, going to the flank makes a lot of sense. And it makes a lot of sense from leadership.
+00:10:33.28 --> 00:10:38.48 But, but I also know that these ideas were dripped into my head over the years. I mean, when you do
+00:10:38.48 --> 00:10:46.000 a basic seal assault on a target, guess what? You set up a base element that puts down covering fire
+00:10:46.000 --> 00:10:51.52 and then a flanking element goes around, that's what you do. This is not rocket science. So I know
+00:10:51.52 --> 00:10:57.36 that some of my indirect, my theory, my thoughts around the indirect strategy, the indirect approach.
+00:10:57.36 --> 00:11:02.64 I know some of those were just from being in the military. But I also know that some of it came
+00:11:02.64 --> 00:11:09.20 from reading heart. And so it made me crack open some of these books again and made me kind of fast
+00:11:09.20 --> 00:11:21.44 forward in my mind to getting to these sooner in this podcast. Because let's face it. When
+00:11:25.12 --> 00:11:29.52 well, the theories based in reality. Right. And that's what that's what's interesting about this.
+00:11:29.52 --> 00:11:35.12 When you have someone that's spent time in the military, because the the the name of this book
+00:11:35.12 --> 00:11:39.20 that one of the books we're going to look at today is the strategy of indirect approach. And it's
+00:11:39.20 --> 00:11:47.76 about the theory, right? But if you have someone when you have someone that's been in war and spent
+00:11:47.76 --> 00:11:53.12 time as a military leader and spent time in combat, and spent time in the worst kind of combat,
+00:11:53.12 --> 00:12:00.40 like the actual worst combat. The actual worst combat, battle of salt, like the worst combat,
+00:12:00.40 --> 00:12:07.36 actual worst combat, it doesn't, it's not theory anymore. Right. That theory becomes based deeply
+00:12:07.36 --> 00:12:14.88 in reality. And that's what we have with with this book. And we're becoming covering two of his
+00:12:14.88 --> 00:12:19.92 books today. Or at least trying to cover two of them. We might make it through, I don't even know
+00:12:19.92 --> 00:12:24.40 how much because there's a lot to talk about. One is called the strategy of the indirect approach,
+00:12:24.40 --> 00:12:28.32 which which I guess said was also reprinted as the way to win wars. And the other one is just
+00:12:28.32 --> 00:12:39.92 called strategy straight up. So I guess we're going to get to it. Anything, Dave?
+00:12:43.60 --> 00:12:48.48 I wrote down the word travesty. When you were talking about war one, I just wrote that word
+00:12:48.48 --> 00:12:54.88 down just to remind me of the thing that I think about is you, when you talk about losing a battalion,
+00:12:54.88 --> 00:12:58.56 it says scale, I think it's actually kind of hard to comprehend when to think of a battalion.
+00:12:58.56 --> 00:13:03.44 I mean, I have, we have lost. I've been on patrols where we lost a vehicle. The lost people in
+00:13:03.44 --> 00:13:09.52 a whole vehicle. A battalion is on a scale and just sort of the willingness to allow that to happen
+00:13:10.40 --> 00:13:14.56 over and over again. And then then in retrospect thinking, and I was thinking of this as you said,
+00:13:14.56 --> 00:13:19.12 it was the Germans had to learn that same lesson. They had to have learned the same lesson.
+00:13:19.68 --> 00:13:23.28 You know, the Marine Corps takes a little bit of pride in sort of showing up, having the similar
+00:13:23.28 --> 00:13:27.68 experience and then saying, we're not doing this anymore. And the Marine Corps really takes pride in
+00:13:27.68 --> 00:13:32.48 that and we teach that history. But in actual world war one, yes, where you're talking about. Yes,
+00:13:32.48 --> 00:13:37.12 in actual world war one of showing up sort of after the war had been underway for quite some time,
+00:13:38.000 --> 00:13:43.36 getting on board with how is how is being done and then suffering massive casualties in
+00:13:43.36 --> 00:13:47.52 the very initially engagements and saying, we're done with this direct assault approach.
+00:13:47.52 --> 00:13:53.44 And the larger point to that is the idea that not just for him, but for Germany as well,
+00:13:53.44 --> 00:14:00.24 the idea that the way we did that was a travesty and that that you would see how those lessons
+00:14:00.24 --> 00:14:04.88 apply to well beyond just warfare that that would sink into your psyche and every single
+00:14:05.28 --> 00:14:12.72 everything you did in your life would be informed as such a bad way to describe like it's
+00:14:12.72 --> 00:14:17.04 influence on a level that you wouldn't just rethink how you did war. You would rethink every
+00:14:17.04 --> 00:14:21.68 aspect of your life. If you suffered the casualties to that degree because of the willingness
+00:14:21.68 --> 00:14:25.20 for leaders to just say, just like you described, your battalions gone, you're up next.
+00:14:26.24 --> 00:14:30.24 And the fact that it influenced every aspect of his life is actually not even remotely surprised
+00:14:30.24 --> 00:14:36.80 to me. Yeah, and it boils down to, and I know you like when I say this Dave, it becomes not just a
+00:14:36.80 --> 00:14:42.32 theory, not just a strategy, but a way of thinking, a way of thinking. Yes, what it becomes. And what's
+00:14:42.32 --> 00:14:51.20 interesting is, we're about to hear exactly how that transpired in his head. And this is something
+00:14:51.20 --> 00:14:54.88 we covered this and we could actually covered this on the underground. But I just, I had to touch
+00:14:54.88 --> 00:15:01.28 on the underground, but we're going to go deep. So here we go. Here's the preface. My original
+00:15:01.28 --> 00:15:07.28 strategy of the strategy of indirect approach was written in 1929, published under the title,
+00:15:07.28 --> 00:15:12.48 the decisive wars of history. It has been out of print for some time. So there's another third
+00:15:12.48 --> 00:15:17.12 title that this book has been published under. In the following year, in the years following
+00:15:17.12 --> 00:15:22.80 its publication, I continued to explore this line of fall. And from the results of such further
+00:15:22.80 --> 00:15:29.04 study compiled a number of supplementary notes, which were privately circulated. Since the course
+00:15:29.04 --> 00:15:35.84 of the present war has provided further examples of the value of the indirect approach and thereby
+00:15:35.84 --> 00:15:42.56 given fresh point to the thesis, the issue of a new edition of the book provides an opportunity
+00:15:42.56 --> 00:15:49.52 to include these. So now he's writing this, he's putting this one out in World War II.
+00:15:50.72 --> 00:15:54.16 And actually it's towards the end of World War II because well, he's he's
+00:15:54.16 --> 00:16:02.40 ends up talking about World War II and what's happening. When in the course of studying a long
+00:16:02.40 --> 00:16:09.20 series of military campaigns, I first came to perceive the superiority of the indirect over the
+00:16:09.20 --> 00:16:15.36 direct approach. I was looking merely for light upon strategy. So he starts off just looking like,
+00:16:15.36 --> 00:16:19.04 okay, how does this work? How can we win? Seems like this indirect thing's pretty cool.
+00:16:20.24 --> 00:16:26.40 Seems like a good strategy for the battlefield. With deepening reflection, however,
+00:16:26.40 --> 00:16:34.72 I began to realize that the indirect approach had a much wider application that it was a law
+00:16:34.72 --> 00:16:47.20 of life in all spheres, a truth of philosophy. Right? A law of life in all spheres.
+00:16:48.000 --> 00:16:55.60 So this is where we get crazy because there's so many people. So many people, this is like,
+00:16:55.60 --> 00:17:00.24 oh, you got to be direct. That's just such a common theme in the world. You got to be direct.
+00:17:00.24 --> 00:17:08.88 You got to be frank. You got to tell. So I get it. I get it. I get it. He found that this has a
+00:17:08.88 --> 00:17:16.32 much wider application. And it's a law of all, all of life in all spheres, a truth of philosophy.
+00:17:16.32 --> 00:17:22.64 It's fulfillment was seen to be the key practical achievement in dealing with any problem
+00:17:22.64 --> 00:17:29.52 where the human factor predominates and a conflict of wheels tends to spring from an
+00:17:29.52 --> 00:17:37.68 underlying concern for interests. Okay. So here's where this gets awesome. So he's talking about
+00:17:37.68 --> 00:17:43.68 conflict, right? A conflict of wheels. And what we might fail to realize is that if I'm on the
+00:17:43.68 --> 00:17:52.08 same team as Dave, we can also still have a conflict of wheels because Dave wants to A and I want to
+00:17:52.08 --> 00:17:58.48 do be. So even though we're on the same team, that's like one of the other perspectives that I think
+00:17:58.48 --> 00:18:02.88 about this. You know what I said about leadership capital and relationships? That's this applies
+00:18:02.88 --> 00:18:13.04 100% there, too. In all such cases, in all such cases. So this is cases where you have
+00:18:13.04 --> 00:18:19.76 the human factor. Anytime you got the human factor, in all such cases, the direct assault of new
+00:18:19.76 --> 00:18:26.64 ideas, provokes a stubborn resistance, thus intensifying the difficulty of producing a change of
+00:18:26.64 --> 00:18:32.32 outlook. Dave, how long have you heard how many times have you heard me tell this to clients,
+00:18:32.32 --> 00:18:41.20 to people? This is it. It's I don't have the vocabulary to explain how often we say that in
+00:18:41.20 --> 00:18:46.96 some version of that sentence in everything. But I got to be careful because I could probably just
+00:18:46.96 --> 00:18:53.04 just hearing it and invoke so many things that think about. But he's almost articulating it like
+00:18:54.24 --> 00:19:00.32 when there's a human component to this and I'm thinking of myself. So when is that not, when in my
+00:19:00.32 --> 00:19:05.12 life am I not interacting with another human being? If we're if we're doing a computer software
+00:19:05.12 --> 00:19:10.16 design, right, we don't need to worry about this. Right. If we're actually programming a machine of
+00:19:10.16 --> 00:19:16.16 some kind, we don't need to worry about it. Yeah. Other than that, other than that, if you directly
+00:19:16.16 --> 00:19:21.44 assault an idea, it's going to provoke stubborn resistance. So if I impose my plan on Dave,
+00:19:21.44 --> 00:19:25.84 it's going to get resistance. Even though Dave's on my team, I impose a plan on it's going to be
+00:19:25.84 --> 00:19:34.24 resistant. And it's going to make the change of outlook harder. It's going to make the change of
+00:19:34.24 --> 00:19:41.84 outlook harder. So if my wife wants something and I attack it, it's going to be harder for her to
+00:19:41.84 --> 00:19:45.04 change her mind. There's going to be more resistance for her change, you can remind on where we're
+00:19:45.04 --> 00:19:54.96 going out for dinner. That's what's going to happen. Back to the book, conversion is achieved
+00:19:54.96 --> 00:20:04.24 more easily and rapidly by unsuspected infiltration of a different idea or by an argument that
+00:20:04.24 --> 00:20:13.20 turns the flank of instinctive opposition. So you're going to get more easy, more easily and more
+00:20:13.20 --> 00:20:24.72 rapidly conversion of their brain will come when you flank them. Check and faster and faster rapidly
+00:20:24.72 --> 00:20:31.04 and more easily by an unsuspected infiltration of a different idea and by the way, don't let
+00:20:31.04 --> 00:20:34.80 well we'll get to it. So there's some people that are thinking right now, oh, so what you're going to
+00:20:34.80 --> 00:20:40.16 use going to lie to Dave? No, I'm not going to lie to Dave. Doesn't mean I didn't mean I say,
+00:20:40.16 --> 00:20:43.68 well, actually, Dave, we should use my plan because Adam and I'm going to make up some intel that
+00:20:43.68 --> 00:20:47.92 sports my plan. I'm going to make up a timeline that sports my plan. No, that's not what I'm talking
+00:20:47.92 --> 00:20:56.000 about at all. Back to the book, in commerce, the suggestion that there is a bargain to be secured as far
+00:20:56.000 --> 00:21:02.48 more potent than any direct appeal to buy. And in any sphere, it is a proverbial
+00:21:02.48 --> 00:21:10.64 that the surest way of gaining a superior acceptance of a new idea is to persuade them that it is
+00:21:10.64 --> 00:21:20.80 his idea. Hello, this is something again. Maybe I should just start paying what is it? Paying
+00:21:21.36 --> 00:21:25.76 royalties. I just own royalties to be it because leadership strategy and tackle, oh, that's just
+00:21:25.76 --> 00:21:32.32 all in there. Let us make it their idea. As in war, the aim is to weaken resistance,
+00:21:32.32 --> 00:21:38.000 before attempting to overcome it. And the effect is best attained by drawing the other party
+00:21:38.000 --> 00:21:45.76 out of his defenses. Great. We're not attacking hardened positions. This idea of the indirect
+00:21:45.76 --> 00:21:56.64 approaches closely related to all problems of the influence of mind upon mind. All problems of
+00:21:56.64 --> 00:22:02.40 the influence of mind upon mind. All problems. Any time it's my mind against someone else's mind,
+00:22:02.40 --> 00:22:08.08 this is where we need to go and direct. The most influential factor in human history.
+00:22:10.24 --> 00:22:17.12 Yet it is harder reconcile with another lesson that true conclusions can only be reached or
+00:22:17.12 --> 00:22:22.32 approached by pursuing the truth without regard to where it may lead or what its effect may be
+00:22:22.32 --> 00:22:27.68 on different interests. So what do we say in there? And how are we saying? Wait a second. Wait a second.
+00:22:27.68 --> 00:22:33.28 What shouldn't we be going after the truth? Like, isn't it the, look, if I'm working with Dave
+00:22:33.92 --> 00:22:39.20 and I think my plan is better, well then I need to tell him that. That's the truth. The truth is my
+00:22:39.20 --> 00:22:44.48 plan is better. And what's so hard about this is one of those universal things that pisses me off.
+00:22:44.48 --> 00:23:01.60 I got you. There's no one that it's against all moly high ground to lie. Right? So the opposite
+00:23:01.60 --> 00:23:08.32 of lying is what? Truth. Telling the truth. So if we're certain to think that this is not telling
+00:23:08.32 --> 00:23:14.96 the truth and what do we do it? We must be lying. So how do we reconcile? That's what we say.
+00:23:14.96 --> 00:23:19.60 How do we reconcile this? Wait, I have a different plan than Dave. I think my plan is better.
+00:23:19.60 --> 00:23:25.20 I should tell him the truth. That's what I should do. I shouldn't lie to him. We're not talking
+00:23:25.20 --> 00:23:30.64 all lying to him. Back to the book. History bears witness to the vital part
+00:23:31.68 --> 00:23:38.08 that the prophets have played in human progress, which is evidence of the ultimate practical
+00:23:38.08 --> 00:23:44.08 value of expressing unreservedly the truth is one sees it. Okay. So now we're going to get
+00:23:44.08 --> 00:23:48.48 he's going to use the example, historical examples and there's countless of
+00:23:50.32 --> 00:23:56.40 prophets. Someone that is a prophet that stands up and says this is the truth as I see it.
+00:23:57.60 --> 00:24:05.60 And tells the truth. Yet it also becomes clear that the acceptance and spreading of their
+00:24:05.60 --> 00:24:11.60 vision has always depended on another class of men. What's the other class of men? Leaders.
+00:24:13.60 --> 00:24:22.72 Leaders who had to be philosophical strategists striking a compromise between truth and men's
+00:24:22.72 --> 00:24:29.60 receptivity to it. So lately I've been saying a lot of what good is telling the truth if no one
+00:24:29.60 --> 00:24:35.36 hears it or no one listens to you. If you stab somebody in the eye with the dagger of truth,
+00:24:35.36 --> 00:24:39.20 what are they going to do? They're going to be pissed. They're going to lash out at you. They might
+00:24:39.20 --> 00:24:44.80 even pull out a side arm and shoot you in the gut. But they definitely don't want to hear anything from
+00:24:44.80 --> 00:24:50.48 it. And they'll do their best to pull that thing back out and stab you with it. So even made any progress
+00:24:50.48 --> 00:24:56.40 at all. So that's what a prophet does. A prophet says this is the truth and they stab you in the eye with it.
+00:24:56.40 --> 00:25:03.52 A leader has to find that compromise between telling the truth and getting people to actually listen to it.
+00:25:07.68 --> 00:25:12.80 Their effect has often depended as much on their own limitations in perceiving the truth as on their
+00:25:12.80 --> 00:25:17.92 practical wisdom in proclaiming it. So how are you going to tell the truth? Practical wisdom. How are
+00:25:17.92 --> 00:25:22.32 you going to say? How are you going to say it? Where it'll actually be listened to?
+00:25:22.32 --> 00:25:32.64 And then he goes on to say this, the prophets must be stoned. That is their lot. That is their
+00:25:32.64 --> 00:25:36.96 test of their self fulfillment. What happens to the prophet? The prophet gets stoned. The prophet gets
+00:25:36.96 --> 00:25:47.28 crucified. That's what happens. But a leader who is stoned may merely prove that he has failed in
+00:25:47.28 --> 00:25:53.44 his function through a deficiency of wisdom or through confusing his function with that of a prophet.
+00:25:54.08 --> 00:26:00.48 This is pure brilliance, by the way. This is absolute pure brilliance. So if you're that, if you're
+00:26:00.48 --> 00:26:06.24 an leadership position and what you do is you start stabbing people with the dagger of truth in the neck
+00:26:07.60 --> 00:26:11.68 and you think you're doing a good thing. Guess what? They're going to tackle you and they're
+00:26:11.68 --> 00:26:14.80 going to stone you to death. They're going to execute you because you were stabbing people and
+00:26:14.80 --> 00:26:20.64 it offended them and it hurt them and that you didn't convince anybody of anything. So sometimes
+00:26:20.64 --> 00:26:24.64 you get a leader that's like, look, the truth is, listen, they're going to tell you the truth here.
+00:26:24.64 --> 00:26:34.56 That's not good. It's not going to help you. It's crazy. You're like on page one. I know.
+00:26:34.56 --> 00:26:44.88 I'll page one half. Yeah. I think the phrase that's been coming to mind a lot lately when you
+00:26:44.88 --> 00:26:51.44 talk about this is a truth that it's imposed upon somebody compared to the truth that they
+00:26:51.44 --> 00:26:57.84 discovered for themselves, the difference between those two. And I'm thinking of all the phrases
+00:26:57.84 --> 00:27:03.52 that people use when they're going to reveal the truth. Let me stop you right there. Actually,
+00:27:03.52 --> 00:27:10.000 like when you hear people prepping for the the direct assault, which is, I'm now going to let you know
+00:27:10.000 --> 00:27:15.12 and even the preparation for that, just that phrase alone puts the other person in a position where
+00:27:15.12 --> 00:27:20.72 all they want to do is defend themselves. And the words that come next, almost don't even matter because
+00:27:20.72 --> 00:27:28.96 if I say, actually, Jaco, the reality is. The reality is. The first thing you do is is you mentally
+00:27:28.96 --> 00:27:34.48 you are dug in. No matter how truthful I'm going to be after that, it's just the connection that
+00:27:34.48 --> 00:27:41.28 he's making though, like the how universal that is to all interactions is just it's it's
+00:27:41.28 --> 00:27:47.44 crazy listening to this and then the the application to every interaction you have. With every
+00:27:47.44 --> 00:27:55.68 with if any human being and how instinctive it is to, I guess, tell the truth and how ineffective
+00:27:55.68 --> 00:27:59.44 that way of thinking is if there's an outcome that you're trying to shape.
+00:28:01.60 --> 00:28:07.60 Eko Charles, every ever seen the movie, Raiders of the Lost Ark. Yes, sir. Okay. So there's
+00:28:07.60 --> 00:28:14.32 an arc, right? Our feet arc of the covenant. And I think the truth is kind of like that.
+00:28:15.44 --> 00:28:22.56 If you reveal that truth in an improper way, people's faces are not enough. That's what happens.
+00:28:22.56 --> 00:28:31.20 Yeah. So people treat the truth as if it's only benevolent as if it can only do good.
+00:28:31.92 --> 00:28:35.52 But you gotta remember there's collateral that truth causes collateral damage and people don't
+00:28:35.52 --> 00:28:40.16 pay attention to that. So when you start pulling off the lid, maybe you got to like,
+00:28:40.16 --> 00:28:44.32 you got to prep people for it. You got to say, turn your eyes for a second here. There's going to be
+00:28:44.32 --> 00:28:49.76 some bright lights. If you don't prep them for it and what what we want to do,
+00:28:49.76 --> 00:28:56.88 what we want to do is we want them to reveal the truth themselves. That's what we really want.
+00:28:57.60 --> 00:29:00.96 A really good leader. Look, a profit will show you the truth. Maybe you're getting melted.
+00:29:01.60 --> 00:29:07.44 A really good leader. You somehow discover the truth. That means they showed it to you. But you're
+00:29:07.44 --> 00:29:13.68 even out. So the whole expression, the truth hurts. You know that, that's because that's kind of
+00:29:13.68 --> 00:29:20.32 common right? Truth. So would that be an indicator of maybe a profit or not the correct rate?
+00:29:20.32 --> 00:29:24.08 That's profit all day long. Profit is like, look, look, I go, true, third, but I'm going to tell you
+00:29:24.08 --> 00:29:29.92 something. You know what I mean? How how how how how open-minded are you when I get done with that statement?
+00:29:30.64 --> 00:29:36.16 I would meet it with stubborn resistance check. And you know, we like to think that, you know,
+00:29:36.16 --> 00:29:40.32 I really have a good relationship with someone. You know, great. There might be one person in your
+00:29:40.32 --> 00:29:45.20 entire life that you can be like, hey, dude, that was jacked up and you're like, cool, got it.
+00:29:45.20 --> 00:29:48.40 What adjustments to write it? There's one person in your life you can do that with.
+00:29:48.40 --> 00:29:53.04 Yeah, it is maybe. Isn't that at the end of the day in a way the indirect approach anyway?
+00:29:53.04 --> 00:29:56.88 Because you know, you say, okay, that one person. Yeah, but you know, why is that one person? Because you
+00:29:56.88 --> 00:30:01.28 have this years and years and years and years and years of this indirect, you know, kind of approach or
+00:30:01.28 --> 00:30:05.68 whatever end of the year. So you open up that little hole that, yeah, you have that direct line all day.
+00:30:05.68 --> 00:30:10.72 Now, yeah, now he's at, yes, you are correct, even that approach. Because if you were to met that
+00:30:10.72 --> 00:30:14.72 person day one three years ago and said, you know, I was looking at the video you made,
+00:30:15.28 --> 00:30:19.68 I'm not feeling it. Actually, you know, the camera angles that you use kind of marginal, right?
+00:30:21.28 --> 00:30:24.96 So these are five years of work in with you before I could be like, bra.
+00:30:25.84 --> 00:30:29.68 The soundtrack. No, actually. You put a Christmas song in there. It was actually right away.
+00:30:29.68 --> 00:30:38.40 Yeah. You're right. Back to the book. Time alone can tell whether the effect of such a
+00:30:38.40 --> 00:30:43.84 sacrifice redeems the apparent failure as a leader that does honor to him as a man. So there's a
+00:30:43.84 --> 00:30:47.44 chance that you could, you could present something in over time. People go, yeah, he was right.
+00:30:49.04 --> 00:30:56.40 At the least, he avoids the more common fault of leader of leaders. That of sacrificing the truth
+00:30:56.40 --> 00:31:04.000 to expediency without ultimate advantage to the cause. So occasionally a leader is like, you know what,
+00:31:04.40 --> 00:31:08.40 we just need to tell the truth and you sacrifice it. It gets killed. It gets thrown away. And
+00:31:08.40 --> 00:31:13.20 one of the books that I'm, or the podcast that I want to move to from this one, which I will get
+00:31:13.20 --> 00:31:18.88 to and I'm not 100% sure when, but they got all these examples of problems in the military and
+00:31:18.88 --> 00:31:24.88 military thinking. And one of the problems, and I forget the exact number, but there has been like
+00:31:24.88 --> 00:31:33.28 20 major advancements in naval warfare in the last 500 years. And every one of them was met with
+00:31:33.28 --> 00:31:39.60 absolutely stiff resistance. No, not everyone in 17 of them were met with stiff resistance by all
+00:31:39.60 --> 00:31:48.40 senior naval leaders in the world. You know, they started making ships from steel instead of
+00:31:48.40 --> 00:31:51.68 what? And watch what like this is, Rio, you can't repair steel. We can need a well-drawn
+00:31:51.68 --> 00:31:58.24 topic. They resisted, switching to the steam engine, switching to gas, which I reduce all, switching to
+00:31:58.24 --> 00:32:03.44 like all the, every people resisted every one of these things, every one of them. Well, sorry,
+00:32:03.44 --> 00:32:12.88 17 out of 20 of great advancements. It happens all the time. Because somebody goes hard with the truth
+00:32:12.88 --> 00:32:19.68 and people defend. They go in instant defense mode. So like, remember the movie are independent.
+00:32:19.68 --> 00:32:24.88 No, no, Army getting. I don't think I ever actually saw it, but. It's too bad. It's good flick.
+00:32:24.88 --> 00:32:31.28 Oh sure. I wasn't that up for several Oscars. Anyway, Armageddon, Bruce Willis.
+00:32:31.28 --> 00:32:36.80 Oh, yeah. Asteroid coming in, right? What was the plan that won? Do you want to
+00:32:36.80 --> 00:32:42.96 arm again? I did. Sorry, dude. Yeah. In dependency, I was, I was down in the middle of
+00:32:42.96 --> 00:32:47.92 that. We're just culturally lost. It's okay. I'll explain to you. Asteroid coming in,
+00:32:47.92 --> 00:32:55.28 right? World world ending asteroid global killer. So they're like, hey, let's just throw a blast it with
+00:32:55.28 --> 00:33:00.16 nukes and blow it right out of the sky. Then the smart scientists is like, that's a bad idea.
+00:33:00.16 --> 00:33:04.32 Everyone gets all mad, right? No, actually, we're going to you know, direct approach.
+00:33:04.32 --> 00:33:09.68 Lunch nukes, right? Can't get anymore directed that. But the smart scientists said, nope,
+00:33:09.68 --> 00:33:12.48 this is what you're going to do. You're going to go in there. You're going to drill a little hole.
+00:33:12.48 --> 00:33:17.52 You're going to put a nuk in that hole. You're going to just nudge it just a little bit on the side.
+00:33:17.52 --> 00:33:23.68 It's now that trajectory gets changed. Do you see what I'm saying? That was the smarter approach.
+00:33:23.68 --> 00:33:28.40 Same thing, exactly right. Here I am going through historical books trying to figure this stuff out.
+00:33:28.40 --> 00:33:32.72 I could figure it out with Armageddon. I get it on the Bruce Willis. Yeah, you don't go to
+00:33:32.72 --> 00:33:40.24 bother with all this. Check. Back to the book. We good. Yes, Armageddon. Yeah. I'm just saying these
+00:33:40.24 --> 00:33:47.28 ideas everywhere. You see them say we go bad. No. For whoever, habitually suppresses the truth.
+00:33:47.28 --> 00:33:52.48 So this is where this is where you have to pay attention. Because again, it's not me lying to
+00:33:52.48 --> 00:33:57.36 Dave and saying, well, actually, Dave, the timeline that's required for the plan, you, but we better use
+00:33:57.36 --> 00:34:05.76 my plan. Whoever, habitually suppresses the truth in the interest of tact will produce a deformity
+00:34:05.76 --> 00:34:13.52 from the womb of his thought. So you can't, you can't lie about what you're saying. You have to
+00:34:13.52 --> 00:34:19.84 maintain, you have to maintain the truth, but you have to take an indirect approach. That's it.
+00:34:20.40 --> 00:34:28.56 It's not a lie. It's an indirect approach bound to the truth. He explains it a little bit more.
+00:34:28.56 --> 00:34:36.08 Is there a practical way of combining progress towards the attainment of truth with progress
+00:34:36.08 --> 00:34:43.12 towards its acceptance? Is there a way to get Dave to think about my plan and utilize my plan
+00:34:45.28 --> 00:34:52.40 with also doing it in a way that he is open to accept this idea? Is there a combination of those two
+00:34:52.40 --> 00:34:57.92 things of telling Dave the truth about what I think of his plan? And at the same time, getting him to
+00:34:57.92 --> 00:35:05.52 accept my opinion, that's what we want, right? A possible solution of the problem is suggested by
+00:35:05.52 --> 00:35:11.76 reflection on strategic principles, which point to the importance of maintaining an object
+00:35:11.76 --> 00:35:20.96 consistently and also of pursuing it in a way adapted to the circumstances. This seems so obvious
+00:35:22.08 --> 00:35:27.36 is that we continue to focus on the right thing, but then we continue to move towards this objective
+00:35:27.36 --> 00:35:32.72 but as circumstances change, we adjust, we maneuver. We say, oh yeah, there's a massive enemy
+00:35:33.60 --> 00:35:36.72 location right here. Let's not continue in that direction. Let's go around it.
+00:35:38.24 --> 00:35:42.96 Isn't it smart to do that with our ideas as well? It doesn't mean we abandon the objective.
+00:35:42.96 --> 00:35:47.60 It doesn't mean we say, oh, we're going to change this objective or we're not going to continue
+00:35:47.60 --> 00:35:54.40 to, it means we adjust our approach and maybe instead of going direct, we go indirect.
+00:35:54.40 --> 00:36:03.68 Opposition to the truth is inevitable. That's a good thing to remember.
+00:36:04.88 --> 00:36:09.44 Opposition to the truth is inevitable, especially if it takes the form of a new idea,
+00:36:09.44 --> 00:36:15.68 but the degree of resistance can be diminished by giving thought not only to the aim but to the
+00:36:15.68 --> 00:36:23.68 method of approach. Avoid a frontal attack in a long established position. Instead, seek to turn it
+00:36:23.68 --> 00:36:29.84 by a flank movement so that the more penetrable side is exposed to the thrust of the truth.
+00:36:33.12 --> 00:36:40.000 But in any such indirect approach, take care not to diverge from the truth. For nothing is more
+00:36:40.000 --> 00:36:44.72 fatal to its real advancement than to lapse into the untruth.
+00:36:47.28 --> 00:36:52.16 So for the people that commented when I talked about the indirect approach and we're like, oh,
+00:36:52.16 --> 00:36:56.72 you're just going to lie to your people. No, no, we're not going to lie to our people.
+00:36:56.72 --> 00:37:02.72 The truth is the objective, but we are going to adjust our approach so that we're not offensive
+00:37:02.72 --> 00:37:08.16 to the individuals or the groups that we're talking to so that we don't cause them to put up a
+00:37:08.16 --> 00:37:15.44 more stiff resistance to fight against our idea, to, to, for them to look at it as if it's not the truth.
+00:37:15.44 --> 00:37:25.28 We're going to get a flank. That's what we're going to do. And then he goes on here and he says
+00:37:25.28 --> 00:37:31.52 the meaning of these reflections may be made clearer by illustration from one's own experience.
+00:37:32.80 --> 00:37:40.32 Looking back on the stages by which various fresh ideas gained acceptance, it can be seen
+00:37:40.32 --> 00:37:45.52 that the process was eased when they could be presented, not as something radically new, but as
+00:37:45.52 --> 00:37:50.24 the revival in modern terms of a time-honored principle or practice that had been forgotten. So here's
+00:37:50.24 --> 00:38:00.72 is one of his little indirect approaches is to take a new idea and and camouflage it with an old idea.
+00:38:00.72 --> 00:38:05.60 It's kind of like what the, what the Christians did with the Vikings. Right, Easter, you know,
+00:38:05.60 --> 00:38:15.28 the term Easter and yes, it's a pagan thing, but we call it this a pagan word and it's a pagan ceremony.
+00:38:16.56 --> 00:38:21.20 But the Christians were like, oh yeah, you can call the thing in the spring. We call that Easter. It's cool.
+00:38:21.92 --> 00:38:27.76 It's about Christ rising, but we call it Easter. It's sort of a thing that you guys already do.
+00:38:27.76 --> 00:38:31.44 They just kind of taken all the idea and rebrand it. That's actually what they did.
+00:38:31.44 --> 00:38:37.04 Yeah, I think they did that with Christmas too. That was Christmas too. So that's what we're doing.
+00:38:37.04 --> 00:38:42.80 We're kind of camouflaging this idea. So it's a little more open to it. Yeah, you know how you guys do the spring time thing
+00:38:42.80 --> 00:38:49.12 and you guys celebrate birth, right? We had, you know, like a rebirth kind of co-brand that thing. We're good.
+00:38:50.88 --> 00:38:53.12 It's kind of like your dog. Great. We can feed them the heart pills.
+00:38:53.84 --> 00:38:58.96 Right, heart worm pills. Okay. You put it in a little, put a little piece of steak around that.
+00:38:58.96 --> 00:39:04.88 Yeah, you know, like you've been eating this food this whole time. Yeah, yeah, yeah, just put the, put the heart worm pills in there.
+00:39:07.36 --> 00:39:13.52 He goes, he goes on to say, here, this required not deception, but care to trace the connection. Since there is nothing new in this one.
+00:39:13.52 --> 00:39:16.88 Right, you can always figure out something that ties into what you're doing.
+00:39:18.24 --> 00:39:24.24 A notable example was the way that the opposition to mechanized mechanization was diminished by showing that the mobile
+00:39:24.24 --> 00:39:31.52 armored vehicle, the fast moving tank was fundamentally the air of the armored horsemen and thus the natural means of
+00:39:31.52 --> 00:39:34.000 reviving the decisive role, which cavalry
+00:39:34.80 --> 00:39:41.12 played in past ages, which is what we call what do we call armored cavalry now? Why is that because people
+00:39:41.12 --> 00:39:46.000 resist this tank? It's going to get stuck. It takes gas. I mean, the horse can go forever. You can eat off the land.
+00:39:46.000 --> 00:39:50.40 How are you going to refuel these tanks? People just resisted that idea. Is this? And then it's like, oh no, no, this is the new
+00:39:50.40 --> 00:39:57.12 cavalry. Okay, kind of cool. Then we're down. So what can you do is you try and convince people of ideas
+00:39:58.40 --> 00:40:05.20 taking all my idea, repackage it. And it's true because there's no idea new ideas under the sun. It's not like you're lying to them.
+00:40:10.56 --> 00:40:16.32 I don't know. Obviously, what's coming in terms of, you know, that how much detail is in and
+00:40:16.32 --> 00:40:24.40 warling discuss, but even just even just the word the truth, how that's the, it's the topic that you're
+00:40:24.40 --> 00:40:34.40 trying to get across. Yes. And even what that means, like, if I have an idea, that's different than
+00:40:34.40 --> 00:40:39.68 me like trying to get you to understand some sort of like, hey, two plus two is four. And you're going to say no.
+00:40:39.68 --> 00:40:47.76 Okay, as opposed to I think we should do this and the abandonment of that truth versus, all right, listen, I can't
+00:40:47.76 --> 00:40:52.40 just walk up to Jack and go, hey, this is the new way we're going to do, it's all this problem.
+00:40:53.20 --> 00:40:58.88 And even just the word truth has a connotation like I'm right in your wrong, as opposed to,
+00:40:58.88 --> 00:41:03.60 hey, I'm trying to get you to see this a different way. And it might not end up exactly how I've
+00:41:03.60 --> 00:41:09.68 drawn it out. Maybe my drawing is like ends up in 80% or whatever, but I could see people getting
+00:41:09.68 --> 00:41:14.24 hung up the idea that I have to convince Jack of the truth, meaning I know the answer.
+00:41:14.24 --> 00:41:18.000 He doesn't. And if he doesn't, then I've got to figure out how to, and maybe the fast way
+00:41:18.000 --> 00:41:22.72 to just shove it in his face to go dude, this is what we're doing. As opposed to getting him to
+00:41:22.72 --> 00:41:27.84 see that there might be another way of doing it, which is actually the truth, as opposed to,
+00:41:27.84 --> 00:41:31.52 it has to be exactly my way. And if there's a mind field between you and me,
+00:41:31.52 --> 00:41:38.24 I guess I could go into that mind field, but it's not going to help me get you to see something
+00:41:38.24 --> 00:41:42.80 different. And he, I think, said the quote is, resistance to the truth is inevitable.
+00:41:42.80 --> 00:41:48.56 Yeah, resistance to your ideas are inevitable. Yeah. So let's not, let's not pretend like you
+00:41:48.56 --> 00:41:54.48 might be able to avoid that resistance, that mind field, that barrier, that wall, it is there.
+00:41:56.08 --> 00:42:01.20 I just think the idea of the truth of us committing to, it is this way as opposed to, I want to
+00:42:01.20 --> 00:42:06.72 think of something a different way. Yeah. No, that's a great point because what we're really,
+00:42:06.72 --> 00:42:13.68 well, when we start talking about an in a leadership capacity, it becomes, hey, it's my idea.
+00:42:14.72 --> 00:42:20.48 And as we were talking on EF online today, it's like, my assumption is that my idea is flawed.
+00:42:21.04 --> 00:42:28.72 And I can present my idea to you, but I still presented as if not it's the truth, but it's an
+00:42:28.72 --> 00:42:34.88 idea of a possibility. Now, what's interesting is what does that do to my idea? It makes it
+00:42:34.88 --> 00:42:41.76 indirect totally. It makes it indirect. Me packaging the idea that I have as a possibility or as
+00:42:41.76 --> 00:42:47.20 a thought or an idea for me, as opposed to this is the way we should do it. It makes it in
+00:42:47.20 --> 00:42:56.88 indirect approach. And what we talked about today on EF online, I actually believe that. So I don't
+00:42:56.88 --> 00:43:00.80 have to act. I don't have to pretend like, hey, I'm going to pretend like this isn't the best
+00:43:00.80 --> 00:43:05.52 idea ever. And like Dave should just shut up and do it my way. I'm going to pretend that. So that
+00:43:05.52 --> 00:43:09.68 way, it's a little more indirect. No, I actually think, this is my idea seems like a good idea, but
+00:43:09.68 --> 00:43:14.72 there could be some holes punten to which is fine. I'm okay with that. So yeah, when we start
+00:43:14.72 --> 00:43:21.12 talking about getting people's ideas and any time you, I mean, there's very few things that I
+00:43:21.12 --> 00:43:28.88 actually hear something I've said early podcast is the amount of times that I say, Dave
+00:43:29.52 --> 00:43:39.84 brought, listen, this is what we should do. The only reason I'm going to say that is if I am a 100%
+00:43:41.84 --> 00:43:47.76 100% convicted that I, and it, it, you probably have never even heard me say that
+00:43:47.76 --> 00:43:53.92 because it's so rare. Now, look, there was times where in this EF team somebody wanted to do something
+00:43:53.92 --> 00:44:00.16 that was bad. Oh, you want to, you want to set up on two sides of a road and ambush someone in the
+00:44:00.16 --> 00:44:04.72 middle. Okay, so that means we're going to be shooting at each other. Like, this is bad. We do not want
+00:44:04.72 --> 00:44:10.80 to do that. Of course, how often did guys present to plans to me like that? Almost never. So most
+00:44:10.80 --> 00:44:17.52 of the time it was, you know, hey, think through that, but very rarely, very rarely do I have the
+00:44:17.52 --> 00:44:24.80 approach that I actually know the capital T true. Right. So this is a very good point to make.
+00:44:25.92 --> 00:44:31.76 You, you, whoever you aren't, you don't know the truth. Very seldom are you 100% convinced.
+00:44:31.76 --> 00:44:37.44 Hey, my idea is the truth. Don't walk around with that attitude. It's not good.
+00:44:40.72 --> 00:44:46.48 All right, we're getting into this next section here, which is called history as practical
+00:44:46.48 --> 00:44:53.04 experience starts off by saying, fool, say that they learn by experience. I prefer to profit by
+00:44:53.04 --> 00:44:58.64 others experience this famous saying quoted by Bismarck, but by no means original to him has
+00:44:58.64 --> 00:45:03.60 peculiar bearing on military questions for this often been remarked that the soldier, unlike
+00:45:03.60 --> 00:45:09.28 followers of other person professions, has but rare opportunities to practice his profession.
+00:45:09.28 --> 00:45:13.44 Isn't that interesting? Look, you're in the military cool. You're a professional soldier.
+00:45:13.44 --> 00:45:20.32 Awesome. How often do you actually get to do that job? The answer is not as often as a normal,
+00:45:20.32 --> 00:45:25.28 not as often as a carpenter, not as often as a plumber, not as often as a software engineer.
+00:45:26.08 --> 00:45:31.04 You might get to train for it. You might, but how often are you locked and loaded and
+00:45:31.04 --> 00:45:38.56 in combat with someone else in the military? Back to the book. Indeed, it might even be argued that
+00:45:38.56 --> 00:45:42.96 in a literal sense, the profession of arms is not a profession at all, but merely he casual
+00:45:42.96 --> 00:45:48.08 employment. And paradoxically, that it's cease to be a profession when the soldier of fortune
+00:45:48.08 --> 00:45:52.32 gave way to the professional soldier. When mercenary troops were employed and paid for the purpose of
+00:45:52.32 --> 00:45:56.80 war, were replaced by standing armies which continued to be paid when there was no war.
+00:45:56.80 --> 00:45:59.12 So if you're a mercenary, you'd be like, oh, there's a war over there, cool. I'm going to go do
+00:45:59.12 --> 00:46:02.08 that. That's kind of like a plumber. Oh, there's a different war over here, cool. I'm going to go to that one.
+00:46:02.08 --> 00:46:06.08 Oh, there's a different war over here, cool. That's a little bit more of an actual profession.
+00:46:06.08 --> 00:46:10.32 You might end up in more combat in your life than if you're in a standing army. That's doing
+00:46:10.32 --> 00:46:16.24 that job even when there's no war going on. This logical if somewhat extreme argument recalls
+00:46:16.24 --> 00:46:21.68 the excuse often made in the past for paying officers a rate inadequate to live on and by some of
+00:46:21.68 --> 00:46:27.28 those officers for doing an inadequate today's work, the contention being that the officers pay
+00:46:27.28 --> 00:46:33.84 was not a working salary but a retainer paid to him for the benefit of having his services available
+00:46:33.84 --> 00:46:41.76 in case of war. This reminds me of some of the information about the British army and how just
+00:46:41.76 --> 00:46:51.76 the officers during certain phases were just actual aristocrats that had almost no interest in fighting
+00:46:51.76 --> 00:47:02.64 wars and almost complete interest in going to the country club. Some of the, some of the
+00:47:02.64 --> 00:47:11.20 biographies of some of the guys that led the Boor war were pretty embarrassing and then they showed
+00:47:11.20 --> 00:47:20.40 up for the Boor war with pianos and just I think it's not crazy. If the argument that strictly
+00:47:20.40 --> 00:47:26.88 there is no professional arms will not hold good in most armies today on the score of work,
+00:47:26.88 --> 00:47:32.88 it is inevitably strengthened on a score of practice by the increasing for infrequency of wars.
+00:47:32.88 --> 00:47:36.96 So there's less and less wars now. Are we then left with the conclusion that armies are doomed
+00:47:36.96 --> 00:47:43.20 to become more and more amateurish in the popular bad sense of that much abused and misused word?
+00:47:43.20 --> 00:47:46.32 So hey look, if you're in the military, you're not getting to fight all the time. Does that mean you
+00:47:46.32 --> 00:47:52.24 become an amateur over time? For obviously even the best of peace training is more theoretical than
+00:47:52.24 --> 00:47:55.76 practical and experience and you know what I like? Well the reason I wasn't going to do this section
+00:47:55.76 --> 00:48:01.12 but guess what? It's the same thing with leadership. It's the same thing with leadership. You're
+00:48:01.12 --> 00:48:06.72 in a leadership position. How often are you actually in a challenging situation? In leadership?
+00:48:06.72 --> 00:48:11.84 How often do someone say hey boss, I'm not doing this. How often do someone say that I'm not
+00:48:11.84 --> 00:48:17.60 working with that person like you you end up with combative situations but how often is that?
+00:48:17.60 --> 00:48:21.92 Because normally people are hey yeah, yeah, God boss that sounds like a good plan. Like that's
+00:48:21.92 --> 00:48:27.20 what you're normally getting. You're not normally as a leader. Hopefully you're not normally being
+00:48:27.20 --> 00:48:32.000 combative. So it's the same thing. How do we train for that?
+00:48:35.36 --> 00:48:40.08 Bismarck throws a different and more encouraging lead on the problem. It helps us to realize that there are
+00:48:40.08 --> 00:48:45.04 two forms of practical experience, direct and indirect and that of the two indirect practical
+00:48:45.04 --> 00:48:50.32 experience may be more valuable because it's infinitely wider. So look you can get that experience
+00:48:50.32 --> 00:48:55.12 of dealing with a bad employee but how often do you actually deal with? How many Marines did you
+00:48:55.12 --> 00:49:04.32 have to write up? Hardly any. Yeah, ever. I mean like how many seals that I have to write up?
+00:49:04.88 --> 00:49:08.56 How many seals that I have to fire? When we're working with companies we work with companies
+00:49:08.56 --> 00:49:16.80 with thousands of employees. The combative situations are much more rare than the day to day.
+00:49:16.80 --> 00:49:21.84 Hey, this is what we're doing normal leadership. Yeah, and how often is the problem even as bad
+00:49:21.84 --> 00:49:26.48 as you think it is? You know, when we'll get questions about how do I deal with the boss who
+00:49:27.52 --> 00:49:31.76 wants my team to fail? When I say hey, if you really think about the problem, they're not,
+00:49:31.76 --> 00:49:36.80 they're often not as bad or as significant and not of the magnitude that we even make it out to be.
+00:49:40.40 --> 00:49:43.76 Even in the most active career, especially as soldiers career, the scope and possibilities of
+00:49:43.76 --> 00:49:48.40 direct experience are extremely limited in contrast to the military. The medical profession
+00:49:48.40 --> 00:49:52.64 has an assistant practice, right? They're doing a surgery a day, two surgeries a three surgeries a
+00:49:53.36 --> 00:49:58.56 yet the greatest achievements in medicine and surgery have usually been due to the research worker
+00:49:58.56 --> 00:50:04.000 and not to the general practitioner. Direct experience is inherently too limited a form
+00:50:04.96 --> 00:50:09.76 to form a secure foundation for either theory or application. So if the only combat experience
+00:50:09.76 --> 00:50:16.16 you're going to get is combat experience. You're going to be screwed. At the best, it produces an
+00:50:16.16 --> 00:50:24.32 atmosphere which is value in drying and hardening the structure of our thought. If you only have a
+00:50:24.32 --> 00:50:28.48 little bit of combat experience, that's what you become. If you don't open your mind up.
+00:50:29.36 --> 00:50:32.64 If you only have a little bit of leadership experience, that's what happens when you get
+00:50:32.64 --> 00:50:36.96 in the sealed teams. You know, we'd have on the job training leadership. That's how guys would
+00:50:36.96 --> 00:50:40.24 become that's how they'd get their leadership training. Just by watching their platoon chief or
+00:50:40.24 --> 00:50:47.12 their platoon commander. So if they weren't good, that bad example would dry and harden in their
+00:50:47.12 --> 00:50:51.36 mind and become they way they would be too because they didn't open their mind up to different
+00:50:52.000 --> 00:50:58.64 indirect experience. The greater value of indirect experience lies and it's greater variety and
+00:50:58.64 --> 00:51:05.36 extent, right? History is universal, experience the experience, not of another, but of many others
+00:51:05.36 --> 00:51:12.56 under manifold conditions. Boom. So we can learn about leadership from everywhere.
+00:51:14.32 --> 00:51:21.20 Here we have the rational justification for military history. It's preponderant, practical value
+00:51:21.20 --> 00:51:28.72 in the training and mental development of a soldier. But the benefit depends as with all experience
+00:51:28.72 --> 00:51:34.08 on its breath, on how closely it approaches the definition quoted above and on the method of studying
+00:51:34.08 --> 00:51:43.12 it. So we got to study and look the whole premise of this particular podcast is understanding human
+00:51:43.12 --> 00:51:48.96 nature, is understanding leadership by understanding how people act in war. Why is that? Why don't
+00:51:48.96 --> 00:51:56.96 we study a bunch of business cases? Well, because if you want to see human nature be revealed,
+00:51:56.96 --> 00:52:00.56 you've got to put some pressure on it. You've got to put some, there's no better pressure.
+00:52:00.56 --> 00:52:07.60 No better pressure than combat. Soldiers universally concede the general truth of Napoleon's
+00:52:07.60 --> 00:52:12.80 much quoted dictum that in war, the moral is to the physical as three to one.
+00:52:14.000 --> 00:52:19.84 Cool, yeah, we covered that on this podcast and all of Napoleon's maximums. But here we go.
+00:52:19.84 --> 00:52:26.80 The actual arithmetic proportion may be worthless from morale as apt to decline if weapons be
+00:52:26.80 --> 00:52:33.52 inadequate and the strongest will is a little use inside of a dead body. But although the moral
+00:52:33.52 --> 00:52:38.96 and physical factors are inseparable and invisible, the same gains its immortal value because it
+00:52:38.96 --> 00:52:45.84 expresses the idea of the predominance, the predominance of moral factors in all military decisions.
+00:52:46.80 --> 00:52:52.64 So obviously it's not like, okay, here's the numerical. You have this much, you have this much physical
+00:52:52.64 --> 00:52:57.36 situation, open the morale's three to one. That's not what we're talking about, but it's that idea.
+00:52:59.12 --> 00:53:04.80 On them, constantly turns the issue of worn battle and in history of war, they form the more constant
+00:53:04.80 --> 00:53:09.36 factors changing only in degree, whereas physical factors are fundamentally different in almost
+00:53:09.36 --> 00:53:15.52 every war in every military situation. That's the important part of this. That's the important
+00:53:15.52 --> 00:53:24.72 part of this. You've got the physical factors, right? The physical, but that changes. But what does
+00:53:24.72 --> 00:53:31.84 and change? The history of war, they form more constant factors to green, changing only in degree.
+00:53:31.84 --> 00:53:37.84 The physical factors go all over the place because we got machine guns, we got tanks, we got people
+00:53:37.84 --> 00:53:43.84 with night vision, like it's, there's different physical things but the, but the human nature doesn't
+00:53:43.84 --> 00:53:50.24 change. This realization affects the whole question of the study of military history for practical use.
+00:53:50.24 --> 00:53:55.20 The method in the last few generations has been to select one or two campaigns and to study
+00:53:55.20 --> 00:54:00.24 them exhaustively as means of developing both our minds and a theory of war. But the continual
+00:54:00.24 --> 00:54:07.60 changes in military means from war to war and tail a grave danger, even a certainty that our
+00:54:07.60 --> 00:54:16.72 outlook will be narrow and lessens fious. In the physical sphere, the one constant factor is that
+00:54:16.72 --> 00:54:22.56 means and condition are invariably inconsistent. So the physical stuff we can study it, like,
+00:54:22.56 --> 00:54:28.000 okay, what, how did you maneuver in a situation? How did you, what weapons did you use over here?
+00:54:28.000 --> 00:54:32.80 Well, guess what? You fast forward 30 years and we got different weapons. You fast forward six years
+00:54:32.80 --> 00:54:39.68 and we go from no night vision to all night vision. So that's what we're studying. What are we looking at?
+00:54:41.28 --> 00:54:48.24 In contrast, human nature varies but slightly in its reaction to danger, some men by race,
+00:54:48.24 --> 00:54:53.76 by environment or by training may be less sensitive than others but the difference is one of
+00:54:53.76 --> 00:55:02.000 degree, not fundamental. So people are people. The more localized the situation and our study,
+00:55:02.000 --> 00:55:07.84 the more disconserting and less count-utable is such a difference of degree. It may prevent
+00:55:07.84 --> 00:55:11.84 an exact calculation of the resistance which men will offer in any situation but it is not
+00:55:11.84 --> 00:55:17.12 impaired. The judgment that they will offer less if taken by surprise than if they are on the
+00:55:17.12 --> 00:55:21.92 alert. This is like, so it doesn't matter where you look in history. The person that's surprised
+00:55:21.92 --> 00:55:26.72 to person, the person that's on alert, you're going to get the same almost the exact same reaction.
+00:55:26.72 --> 00:55:30.80 Less if they are weary and hungry than if they are fresh and well fed. Look, we, then, we go back
+00:55:30.80 --> 00:55:37.36 thousand years, two thousand years. Well fed troops that are well rested are ready to rock and roll.
+00:55:37.36 --> 00:55:45.28 Weary, hungry, they're not. The broader, the, the broader, the psychological survey, the
+00:55:45.28 --> 00:55:50.48 better foundation in a force for deductions. So you have to look throughout history and see
+00:55:50.48 --> 00:55:55.44 all these different battles and see what the psychology of the soldiers and leaders was.
+00:55:55.44 --> 00:56:01.20 The predominance of the psychological over the physical and its greater consistency
+00:56:01.92 --> 00:56:07.84 point to the conclusion that the foundation of any theory of war should be as broad as possible.
+00:56:09.28 --> 00:56:14.40 An intensive study of one campaign, a less based upon, a less based on extensive knowledge
+00:56:14.40 --> 00:56:19.92 of the whole history of war is as likely to lead us into pitfalls as onto the peaks of military
+00:56:19.92 --> 00:56:26.40 achievement. So if you just look at one campaign and that's where you base everything on your wrong.
+00:56:26.40 --> 00:56:33.12 But if a certain effect is seen to follow a certain cause and a score or more cases in different
+00:56:33.12 --> 00:56:39.36 epochs and diverse conditions, there is ground for regarding this cause as an integral part of
+00:56:39.36 --> 00:56:45.92 any theory of war. You see something one time, it doesn't mean jack. If you see something four times
+00:56:45.92 --> 00:56:50.24 but it's all in the same campaign and the same local and the same soldiers fighting against the same
+00:56:50.24 --> 00:56:56.72 other soldiers, again it's a minimal. But when you take it over centuries or millennia and you see
+00:56:56.72 --> 00:57:04.40 the same thing over and over again, maybe you should pay attention to that one. The thesis set
+00:57:04.40 --> 00:57:09.60 forced in this book is the product of such an extensive examination. It might indeed be termed
+00:57:09.60 --> 00:57:14.56 the compound effect of certain causes these being connected with my task of military editor
+00:57:14.56 --> 00:57:20.80 for insecticolopedia or Britannica. For all I previously dealt in a various periods of military
+00:57:20.80 --> 00:57:26.48 history according to my inclination, this task compelled a general survey of all often against
+00:57:26.48 --> 00:57:31.52 my inclination. So he was the military editor for the insectolopedia or Britannica.
+00:57:31.52 --> 00:57:34.96 You know what that is, echoed Charles? Of course, yes. I'm just saying, wait, you're millennial?
+00:57:35.76 --> 00:57:41.52 No, I'm not. Jocco. Okay. Some people I bet a kid right now does not know what
+00:57:41.52 --> 00:57:49.36 the insectolopedia Britannica was. When we were kids, that was kind of it, right? That was Google.
+00:57:49.36 --> 00:57:53.92 That was Google. Yep. That was Google. Gotta go find the letter. Yes. Find. Yeah, I'm
+00:57:53.92 --> 00:57:58.40 not spying. Boom. Pull it out. There you go. And there are some letters that were like two
+00:57:58.40 --> 00:58:03.12 and one like Q and R. All right. Cool. We're good with that book. With that volume.
+00:58:05.12 --> 00:58:11.04 So this guy was the editor and the military editor. And even though previously he would just kind
+00:58:11.04 --> 00:58:13.84 of study what he wanted to study, but then all of a sudden he had to go back and study all these
+00:58:13.84 --> 00:58:20.88 other things. And he starts seeing all these continual similarities through everything he's
+00:58:20.88 --> 00:58:29.92 seeing. And here we go. He says in the survey, or even a tourist, if you will, has at least a wide
+00:58:29.92 --> 00:58:36.24 perspective and at least take in the general live land where the minor knows only his scene.
+00:58:36.24 --> 00:58:40.88 So if you if you study one war, one battle, and that's what you just go deep in that scene,
+00:58:41.60 --> 00:58:46.56 you know a lot about that one scene, but the guy that's up an altitude, surveying all land. He's
+00:58:46.56 --> 00:58:54.64 got the whole lay of the land. During this survey, one impression grew ever stronger that throughout
+00:58:54.64 --> 00:59:01.92 the age of throughout the ages, decisive results in war have only been reached when the approach has
+00:59:01.92 --> 00:59:09.68 been indirect. In strategy, the longest way round is apt to be the shortest way home.
+00:59:16.80 --> 00:59:22.08 More and more clearly has the fact emerged that a direct approach to one's mental object,
+00:59:22.96 --> 00:59:28.48 or physical objective. And he uses this term a lot as you're going to hear me read. He just
+00:59:28.48 --> 00:59:33.28 calls something the object. We always call it the objective and he actually goes into like,
+00:59:33.28 --> 00:59:36.48 why that's not a good word. So a lot of times you'll hear him say object.
+00:59:39.92 --> 00:59:43.84 More and more clearly has the fact emerged that a direct approach to one's mental object or
+00:59:43.84 --> 00:59:50.88 physical objective along the line of natural expectation for the opponent has ever tended to
+00:59:50.88 --> 00:59:55.36 and usually produced negative results. So if you take that path, that's kind of expected.
+00:59:55.36 --> 01:00:00.96 Chances are we're not going to work out well. The reason has been expressed vividly in
+01:00:00.96 --> 01:00:06.88 Napoleon's dictum that the moral is to the physical is three to one. It may be expressed scientifically
+01:00:06.88 --> 01:00:12.88 by saying that while the strength of an enemy country lies outwardly in its numbers and resources,
+01:00:12.88 --> 01:00:19.12 these are equally dependent upon stability or equilibrium of control, morale, and supply.
+01:00:19.12 --> 01:00:28.80 To move along the line of natural expectation consolidates the opponent's equilibrium and by
+01:00:28.80 --> 01:00:40.16 stiffening it, augments his resisting power. I think that comment, the one you made just a minute
+01:00:40.16 --> 01:00:45.04 to go that quote, the longest way around is the shortest way home. I think that's the piece that
+01:00:45.04 --> 01:00:53.76 that for whatever reason I think we see is the most hard to accept that. And I think my point is
+01:00:53.76 --> 01:00:58.000 probably better served by saying the opposite is also true. The shortest way around is the longest way
+01:00:58.000 --> 01:01:04.000 home. If I just get to the point, I will get to the end faster. And the opposite is true. And
+01:01:04.000 --> 01:01:12.56 just the willingness to recognize the more indirect I am. The longer this journey is to get this
+01:01:12.56 --> 01:01:17.52 other person to see the truth, the faster this is going to be. And that's such a hard thing. I think
+01:01:17.52 --> 01:01:25.44 for people to embrace, for example, you just said is the more you see me taking this direct path
+01:01:25.44 --> 01:01:33.28 towards you, the more the more dug in you will become, because you see it coming. And what I'm doing
+01:01:33.28 --> 01:01:38.72 is so much less important than how I am doing it that you won't hear anything, as I'm saying,
+01:01:38.72 --> 01:01:42.48 any of the ideas that I'm offering or any of the truth that I'm delivering. And
+01:01:42.48 --> 01:01:50.56 it will take me longer. And the, I'm a direct person. I have to tell the truth. That's just how I am
+01:01:50.56 --> 01:01:57.20 the recognition that that is the longest way. And sometimes you'll never get there.
+01:01:57.20 --> 01:02:04.64 Yep. Yeah. The way I often explain this to clients is I usually just preemptively say, I know what you're
+01:02:04.64 --> 01:02:09.28 all thinking. You all are thinking, is that doesn't sound very efficient? It'd be much more efficient
+01:02:09.28 --> 01:02:14.72 for me just to say, Dave, this is how we're doing it. He way more efficient to do that. And it's just,
+01:02:14.72 --> 01:02:20.64 like you said, it's just so hard to realize that that's the longest way home. That's the longest way home.
+01:02:22.48 --> 01:02:27.12 The line I just read to move along the line of natural expectation. That's the shortest route.
+01:02:28.24 --> 01:02:37.12 Consolidates the opponents equilibrium. So when you, when you are going where they expect you to go,
+01:02:37.12 --> 01:02:42.96 that's where they put their defenses. That's what happens. That's why in Fujitsu, you have to mess
+01:02:42.96 --> 01:02:50.48 with their balance. You have to come from a different angle. And by stiffening it,
+01:02:50.48 --> 01:02:55.76 augment its resisting power, by the way. Because when you know where I'm coming at you from, you are
+01:02:55.76 --> 01:03:05.44 ready to fight. And you know what to do to fight. In war, as in wrestling, the attempt to throw the
+01:03:05.44 --> 01:03:09.92 opponent without loosening his foothold and balance can only result in self-exhaustion,
+01:03:09.92 --> 01:03:14.40 increasing in disproportionate ratio to the effective strain put upon him.
+01:03:15.76 --> 01:03:21.92 Victory by such a method can only be possible through an immense margin of superior strength
+01:03:21.92 --> 01:03:26.64 in some form and even so tends to lose decisiveness. So if we're wrestling,
+01:03:27.36 --> 01:03:34.56 which let's face it, we're wrestling. If what we do is attempt a take down with no setup or attempt
+01:03:34.56 --> 01:03:41.20 a submission with no setup, it doesn't work. It doesn't work. Like we're training with Carrie today.
+01:03:41.20 --> 01:03:47.84 Carrie's a white belt, right? Guess what? He's a white belt been trained for a year. If you grab
+01:03:47.84 --> 01:03:52.24 his arm, you're not going to get it. You're not going to get it. You have to do something else.
+01:03:52.24 --> 01:03:55.60 You have to set him up even a white belt in Fujitsu.
+01:03:55.60 --> 01:04:06.56 In contrast, an examination of military history, not of one period, but of its whole course,
+01:04:06.56 --> 01:04:12.96 brings out the point that in almost all the decisive campaigns, the dislocation of the enemy
+01:04:12.96 --> 01:04:19.52 psychological and physical balance has been vital to a successful attempt at his overthrow.
+01:04:19.52 --> 01:04:28.32 Dislocation uses that word a lot. Dislocation. Putting people off balance, getting the
+01:04:28.32 --> 01:04:33.60 getting in their head. Not letting them, well, I guess it's the true opposite of
+01:04:35.12 --> 01:04:40.000 consolidation of equal in real. Like here I am, I'm stable. Oh, dislocated. Now I'm not where
+01:04:40.000 --> 01:04:45.28 I want to be. This dislocation has been produced by a strategic and direct approach.
+01:04:45.28 --> 01:04:51.36 Intentional or fortuitous. Sometimes people just accidentally end up off balancing somebody cool.
+01:04:52.08 --> 01:04:57.52 It may take varied forms as our analysis reveals for the strategy of the indirect approach is
+01:04:57.52 --> 01:05:04.40 inclusive of but why and but wider than the maneuver sir, sir, lay, dairy, air.
+01:05:06.48 --> 01:05:11.04 Which is French. Don't want to be human to try, but it means maneuver behind someone.
+01:05:11.04 --> 01:05:17.52 Which general came in's research is showed as being the constant aim and key method of Napoleon
+01:05:17.52 --> 01:05:22.88 in his conduct of operations. While came in was concerned primarily with the logistical moves,
+01:05:22.88 --> 01:05:29.12 the factors of time, space and communications. This analysis seeks to probe deeper into psychological
+01:05:29.12 --> 01:05:33.92 foundations and in doing so finds an underlying relationship between many strategic
+01:05:33.92 --> 01:05:40.16 operations which have no outward resemblance to a maneuver against the enemy's rear yet are.
+01:05:41.12 --> 01:05:44.88 Nonetheless, definitely vital examples of the strategy of the indirect approach.
+01:05:46.000 --> 01:05:51.92 So sometimes it doesn't look like what you're doing is an indirect maneuver, but it is.
+01:05:54.88 --> 01:06:00.000 To trace this relationship and determine the character of operations is not necessary
+01:06:00.000 --> 01:06:06.56 and is indeed irrelevant to tabulate the numerical strengths and detail the details of supply and
+01:06:06.56 --> 01:06:10.72 transport are concerned as simply with historical effects in a comprehensive series of cases
+01:06:11.36 --> 01:06:16.88 and with the logistical or psychological moves which led up to them.
+01:06:17.60 --> 01:06:23.52 If similar effects follow fundamentally similar moves in conditions which vary widely in scale,
+01:06:23.52 --> 01:06:28.32 nature and date, there's clearly an underlying connection from which we can logically deduce a
+01:06:28.32 --> 01:06:34.48 common cause and the more widely the conditions vary the firmer of this conduction, this deduction
+01:06:34.48 --> 01:06:40.96 and what he's saying there is look when you take a bunch of examples over time throughout history,
+01:06:41.28 --> 01:06:45.20 it becomes really clear that this isn't just a fluke, this is the reality of the situation
+01:06:46.88 --> 01:06:49.28 and that's so so here's what we're going to do.
+01:06:49.28 --> 01:07:01.20 So this guy is a historian and the next giant chunk of these books is he goes historical.
+01:07:01.20 --> 01:07:03.84 What was that book we read in the book where people went statistical?
+01:07:03.84 --> 01:07:07.44 Oh yeah, that's right. It was one of those world war II things. Somebody went statistical.
+01:07:08.72 --> 01:07:13.20 The officer went statistical law and he started telling me about how long officers were living.
+01:07:13.20 --> 01:07:17.92 He said the average officer is living about 5,5 hours up there. Good luck.
+01:07:17.92 --> 01:07:22.40 He went statistical law me. What B.A.S. LeDell Hart does he goes historical?
+01:07:23.44 --> 01:07:30.08 And he goes from the 5th century to the 20th century. He goes from the Greek wars, the Roman wars,
+01:07:30.08 --> 01:07:34.40 the Byzantine wars, the medieval wars, the 17th century, the 18th century, the French Revolution,
+01:07:34.40 --> 01:07:40.64 Napoleon, he gets to the first world war, the second world war, and he goes through
+01:07:40.64 --> 01:07:50.16 just detailed battles and talks about the indirect approach. And what we're going to do is
+01:07:50.16 --> 01:07:55.28 we're actually going to bypass those and there's a couple of reasons why. Number one, get the books.
+01:07:56.16 --> 01:08:00.000 Get the books. Number two. This is what we do all the time on this podcast. This is actually
+01:08:00.000 --> 01:08:05.60 what we do all the time on this podcast. We talk about Napoleon. We talk about his person Russia.
+01:08:05.60 --> 01:08:09.28 We talk about World War I. We talk about World War II. We talk about Vietnam. We talk about
+01:08:09.28 --> 01:08:15.92 Korea. And we've seen and pointed out the indirect strategy all the time. All the time. That's what we do.
+01:08:15.92 --> 01:08:21.28 We how do I usually talk about it? The flank. This is what we talked about maneuver warfare.
+01:08:21.28 --> 01:08:25.20 This is what this is about. This is what this whole podcast is about. It's these historical lessons.
+01:08:25.84 --> 01:08:32.16 And B.A. LeDell Hart. He serves them up for us in this book.
+01:08:32.16 --> 01:08:39.92 So, so if you want to get those, who knows, maybe one day we'll jump into these.
+01:08:41.76 --> 01:08:46.56 But if you want to jump into them, get the book. Get the book strategy by B.A. LeDell Hart. You can get
+01:08:47.20 --> 01:08:53.76 in-depth on these things. But what I want to do is I want to kind of jump ahead to his book
+01:08:53.76 --> 01:09:03.04 strategy where he goes into the theory of strategy. And he starts off by saying having drawn our
+01:09:03.04 --> 01:09:06.56 conclusions from analysis. Oh, by the way, the analysis that he's talking about that he draws
+01:09:06.56 --> 01:09:12.40 conclusion from is like 315 pages. So this is no, this is when he's talking about, oh, what?
+01:09:12.40 --> 01:09:16.48 You need to study all these different eras. He does it. And points out the indirect
+01:09:16.48 --> 01:09:24.32 approach and how it wins every single time. Even if it was by accident, it's what makes us win. He says,
+01:09:24.32 --> 01:09:30.08 having drawn our conclusions from analysis of history, it seems advantageous to construct on the
+01:09:30.08 --> 01:09:36.000 fresh foundation of a new dwelling house for the strategic thought. So he's looked at all these things
+01:09:36.000 --> 01:09:44.16 that have happened. And we got to kind of get, we kind of got to hit the reset button. He says,
+01:09:44.16 --> 01:09:53.84 let us first be clear on what is strategy. Clouds fits in his monumental work on war, defined it as
+01:09:53.84 --> 01:10:00.32 the art of the employment of battles as a means to gain the object of war. In other words,
+01:10:00.32 --> 01:10:06.48 strategy comes strategy forms the plan of war maps out the proposed course of the different campaigns
+01:10:06.48 --> 01:10:14.16 which compose the war and regulates the battles to be fought in each. Now, this is probably
+01:10:14.16 --> 01:10:19.36 since episode 7 of this podcast, people have been okay, you can do classmates, you can do classmates
+01:10:19.36 --> 01:10:24.16 on war, hey, you can do one more. And there's a couple of reasons why I haven't done it yet,
+01:10:24.16 --> 01:10:33.76 and I'm sure we will, and I owe it to military history to do it. But there's a couple of reasons.
+01:10:33.76 --> 01:10:38.32 One reason it's like kind of, it's such a popular one, that's hey, you know what, that's right out there,
+01:10:38.32 --> 01:10:47.84 is it really the first one I want to hit? I'd rather hit some other strategic ideas. I mean,
+01:10:47.84 --> 01:10:55.28 I guess I did do Sun Siwon war. So this is one of the excuse, maybe? I've always known
+01:10:55.28 --> 01:11:00.72 that classmates, or I always felt that classmates, you know, respect, respect,
+01:11:00.72 --> 01:11:05.76 classmates, we're giving him respect. By the way, here's why this,
+01:11:05.76 --> 01:11:10.88 classmates is no just hey military theorist, right? This is a guy that sat in a ivory tower and
+01:11:10.88 --> 01:11:17.28 fought about war. He entered the military at age 12 as a Lance Corporal. You know what I'm saying?
+01:11:17.28 --> 01:11:24.40 Like this is no joke. fought in the Ryan campaigns, fought in the Napoleonic Wars,
+01:11:24.40 --> 01:11:31.44 went to the military academy at Berlin, worked for Sean Horses, who I've talked about a bunch
+01:11:31.44 --> 01:11:35.52 on this podcast because when it comes to maneuver warfare, he's kind of that guy in the beginning
+01:11:35.52 --> 01:11:41.60 that lost with the press normie to Napoleon at the Battle of Jenna. And when he did, he looked
+01:11:41.60 --> 01:11:45.84 around and said, what the hell just happened and realized there was some decentralized, some indirect
+01:11:45.84 --> 01:11:51.20 warfare going on and started kind of making that. Well, well, CrossFit's kind of was under his wing.
+01:11:51.20 --> 01:12:00.08 And then when the Prussians made an alliance with Napoleon, CrossFit's was like no,
+01:12:00.08 --> 01:12:04.48 and he joined the Imperial Russian army. And then when they broke up that alliance, he went back
+01:12:04.48 --> 01:12:10.24 to the the Prussian army. It was a Chief of Staff of three Corps and just battles,
+01:12:10.96 --> 01:12:18.96 Napoleonic battles at the Battle of Waterloo. He was in that campaign. He was preventing
+01:12:18.96 --> 01:12:24.96 some of Napoleon's reinforcements and showing up, which obviously caused the problem.
+01:12:25.84 --> 01:12:31.44 When back was an instructor at the then the director of the military academy at Berlin,
+01:12:33.20 --> 01:12:36.40 and by the way, this whole time he's writing down what his thoughts are.
+01:12:38.000 --> 01:12:44.24 And then he ended up dying of color before he had these before he was able to complete his works.
+01:12:44.24 --> 01:12:50.16 And really before you might say, and LaDelle Hart kind of makes the assumption that he was kind
+01:12:50.16 --> 01:12:58.32 of heading in a different direction. So he's respectful but critical of CrossFit's, that's kind of,
+01:12:58.32 --> 01:13:02.80 that's, I don't want to say that's the way I've always felt, but I kind of have always felt that
+01:13:02.80 --> 01:13:09.20 way a little bit. I don't know, maybe that's because I'm a little bit of a contrarian,
+01:13:09.20 --> 01:13:16.64 but maybe more than that, CrossFit says things that I go, really, really.
+01:13:19.76 --> 01:13:25.76 And by the way, the CrossFit's mentality is kind of what brought us to World War I.
+01:13:26.40 --> 01:13:35.76 And that mentality of mass, which is what it is, premier, a principles, is like, hey, we're going to get,
+01:13:35.76 --> 01:13:41.84 I have more people than you, I'm going to win, which as we know, when we compare that to the,
+01:13:44.64 --> 01:13:47.28 principles behind light infantry, it's not what we're looking for.
+01:13:49.92 --> 01:13:54.24 There's also a connection in there too, even between what was talking about earlier,
+01:13:54.24 --> 01:14:00.72 between the physical and the moral of these physical attributes. And they vary from campaign
+01:14:00.72 --> 01:14:04.72 to campaign, which is part of the reason why you don't want to overreact to the less,
+01:14:04.72 --> 01:14:10.16 the physical lessons of a particular campaign, because even as simple as like desert warfare versus
+01:14:10.16 --> 01:14:14.80 jungle warfare, those lessons, forwarding rivers, those are physical lessons, and then they're
+01:14:14.80 --> 01:14:24.80 not that they're invaluable, but the physical principles of mass or those components are less
+01:14:24.80 --> 01:14:29.36 important. Now, one of that, the other, you have to have them both, but I was even just sitting
+01:14:29.36 --> 01:14:35.92 here thinking of when Tom Fif was here, who's talking about World War II, Korean Vietnam, not from
+01:14:37.60 --> 01:14:42.96 historical standpoint, but actually a participant standpoint. But the lessons he was talking about,
+01:14:42.96 --> 01:14:46.96 he didn't spend a bunch of time on World War II we were dealing with this physical environment. It was
+01:14:48.16 --> 01:14:53.12 the universal, the universal nature of his lessons were take care of your people.
+01:14:53.12 --> 01:14:59.04 I'm going to tell you how to look, if I listen to you on this podcast, read, that the fundamental
+01:14:59.04 --> 01:15:05.68 principle of leadership in success and battle was taking care of your people. I'm looking at
+01:15:05.68 --> 01:15:09.92 about face as I'm looking at hundreds and hundreds and hundreds of pages, and he probably has a
+01:15:09.92 --> 01:15:15.12 whole bunch of physical lessons. And it's not to say that those aren't important, but those are
+01:15:15.12 --> 01:15:19.36 never the ones that the leaders really, when they're talking about the lessons they learn and that
+01:15:19.36 --> 01:15:24.000 moral component, I'm just using moral to use the same language. It's the human nature piece
+01:15:24.000 --> 01:15:29.12 like you were talking about, and how much more important that is. And I remember even in getting a
+01:15:29.12 --> 01:15:33.52 master's degree was, was cost with sort of central to the strategic studies, and there's a
+01:15:33.52 --> 01:15:40.24 physical focus on that. And the principle of his master's a great example. And listen,
+01:15:41.28 --> 01:15:46.16 I would love to go to war with an advantage in master every time. That'd be awesome.
+01:15:46.16 --> 01:15:50.08 But we know that that's not the deciding factor. We know that.
+01:15:52.08 --> 01:15:58.16 Interestingly, as you pointed to about face, there's one book that we haven't covered on this
+01:15:58.16 --> 01:16:03.04 podcast by Colonel David Hackworth, which you would think would be just like prime. It's called
+01:16:03.04 --> 01:16:09.04 Vietnam, Vietnam primer. And Vietnam primer is a book to get you ready to go to Vietnam. And it literally
+01:16:09.04 --> 01:16:14.80 shows like, hey, here's how far out you should put your clay more. It's, it's just, we could
+01:16:14.80 --> 01:16:21.04 cover it. I'm sure we could, we could get some lessons from it. But compared to about face, not even close.
+01:16:21.04 --> 01:16:25.44 Here's the other thing that's interesting. Is that cover move, right? Cover move
+01:16:27.12 --> 01:16:33.20 the first law of combat leadership. If you're in the jungle, you better cover move. If you're in
+01:16:33.20 --> 01:16:38.24 the desert, you better cover move. If you're doing a river crossing, you better cover move. If you're
+01:16:38.24 --> 01:16:44.64 doing an assault, you better cover move. If you're in an airplane, if you're in an airplane, at 38,000
+01:16:44.64 --> 01:16:53.84 feet, AC kicking, you better cover move. So that's, I think what was weird for me was as like
+01:16:53.84 --> 01:17:04.24 cover move, and that's another thing. Cover and move. Cover and move. Movement. You win by maneuver.
+01:17:04.24 --> 01:17:11.20 You don't win by sitting still. And when you start talking about classmates and mass, it's like,
+01:17:11.20 --> 01:17:19.36 we're here. Yeah. So that's again, I'm not trying to, I'm not trying to like get crazy and
+01:17:20.08 --> 01:17:26.88 to talk smack about classmates. Like I said, if you were a Lance Corporal at age 12, I salute you,
+01:17:26.88 --> 01:17:36.88 and I will listen to what the hell you have to say 100%. But I will not, I will question anybody.
+01:17:36.88 --> 01:17:42.56 I question, I question hack worth. Read my opening. Like, there's like, hey man,
+01:17:42.56 --> 01:17:49.04 guy was not perfect. I mean, he's, he, you use him as the prime example of a lesson we teach
+01:17:49.04 --> 01:17:55.68 in business all the time is if you lose your influence, and he and, and probably the most influential
+01:17:55.68 --> 01:18:00.08 figure in your life as a leader is still your prime example of what not to do in a particular
+01:18:00.08 --> 01:18:04.32 situation. So I think the contrarian component of it is, is important. What, what, what,
+01:18:04.32 --> 01:18:08.16 crosswords is awesome, on war is awesome. There's a bunch of good stuff in there too.
+01:18:08.16 --> 01:18:13.76 For sure. And I know that you're saying that, but just a link it back to that conversation and
+01:18:15.36 --> 01:18:21.12 the human nature component and thinking about the director approach and thinking of human nature.
+01:18:21.12 --> 01:18:25.12 If you just thought before you took the director approach and anything, how would I react to
+01:18:25.12 --> 01:18:29.52 someone doing that to me? 99% of the director, and 99% of the director's assaults would go away.
+01:18:29.52 --> 01:18:37.60 If you could just take that perspective on it, unless you lied to yourself, seriously.
+01:18:37.60 --> 01:18:42.32 Yeah. Like, unless you lied to yourself, which many, many, many people will do, which is,
+01:18:42.32 --> 01:18:46.16 maybe I just want Dave just to come up. Hey, if I'm wrong, just come and tell me. Yeah.
+01:18:46.16 --> 01:18:50.24 Like, if you lied to yourself, then you, you probably just keep taking the director approach
+01:18:50.24 --> 01:18:54.08 all the time. Yeah, which is not going to work out. And if you're, if you're the person that
+01:18:54.08 --> 01:18:59.84 prides themselves in listening to other people's director's assaults on you, there's high risk
+01:18:59.84 --> 01:19:07.60 through that you are lying to yourself. Check. All right. Back to the book. One defect of this
+01:19:07.60 --> 01:19:15.84 definition that was the definition of of strategy, which was the art of employment of battles as
+01:19:15.84 --> 01:19:23.84 means to gain the object of war. So that's Karlswitz's definition. One defect of this definition
+01:19:23.84 --> 01:19:30.16 is that it intrudes on the sphere of policy or the higher conduct of war, which must necessarily
+01:19:30.16 --> 01:19:36.000 be the responsibility of government and not of military leaders. It employs as its agents
+01:19:36.72 --> 01:19:41.84 in the executive control of operations. So he's, he's going to go through this, but there's,
+01:19:41.84 --> 01:19:45.12 you know, you know, we say all the time, you can have things to teach you all the time.
+01:19:45.12 --> 01:19:49.76 That's what he's about to about to address 14 different ways. And he's going to actually go
+01:19:49.76 --> 01:19:54.24 into a chapter, I don't know if we'll get there today, but there's a higher level strategy called
+01:19:54.24 --> 01:20:02.56 Grand Strategy. And so he's thinking Grand Strategy policy. Another defect is that it narrows the
+01:20:02.56 --> 01:20:10.08 meaning of strategy to the pure utilization of battle, thus conveying the idea that battle is the
+01:20:10.08 --> 01:20:17.36 only means to the strategic end. It was an easy step for Karlswitz less profound disciples to
+01:20:17.36 --> 01:20:24.24 confuse the means with the end and to reach the conclusion that in war, in every, in war,
+01:20:24.24 --> 01:20:30.32 every other consideration should be subordinated to the aim of fighting a decisive battle.
+01:20:32.64 --> 01:20:36.56 So, so think about that. That's your attitude is like, hey, the whole purpose of strategy is
+01:20:36.56 --> 01:20:40.40 to engage in decisive battle. That's what we're doing. So then what are you doing in World War I?
+01:20:40.40 --> 01:20:44.96 You put more people on the line and you put more people on the line and you put more people on
+01:20:44.96 --> 01:20:50.16 line. You send another battalion, another brigade, another division over the top. That's what you do.
+01:20:51.60 --> 01:20:57.20 And there's people that lead like this in companies and organizations and their families,
+01:20:57.20 --> 01:21:02.16 and the way they lead is by trying to win battles. That's the way they lead.
+01:21:05.04 --> 01:21:09.52 And the commitment that every argument is a decisive battle that has to be won.
+01:21:09.52 --> 01:21:18.40 And not being able to recognize, and I think, I think he called them like inflection points or
+01:21:18.40 --> 01:21:24.24 something along the lines of the recognition of, this is where it, this is decisive. And being
+01:21:24.24 --> 01:21:30.48 able to recognize what an inflection point is in combat. As opposed to like every engagement is not
+01:21:30.48 --> 01:21:33.92 an inflection point. It's not a decisive point and being able to recognize where those points are.
+01:21:33.92 --> 01:21:41.76 And fighting those, as opposed to every single engagement, you mean the idea of picking your battles?
+01:21:42.96 --> 01:21:47.20 Hey, pick your battles. Who's been told that before? Yeah. Hey, pick your battles.
+01:21:48.24 --> 01:21:54.72 Comments seems like such common sense and yet all the time people look at every discussion,
+01:21:54.72 --> 01:22:00.24 argument, contention as the decisive battle for their echo. Yeah.
+01:22:00.24 --> 01:22:06.32 Relation of policy to break down the distinction between strategy and policy would not matter
+01:22:06.32 --> 01:22:10.72 much if the two functions were normally combined in the same person as with Frederick or Napoleon.
+01:22:10.72 --> 01:22:16.32 But, but as such, autocratic soldier rulers have been rare in modern times and became temporarily
+01:22:16.32 --> 01:22:21.12 extinct for the 19th century. The effect was in city, it's the harmful for it encouraged soldiers
+01:22:21.12 --> 01:22:28.000 to make preposterous claim that policy should be subservient to their conduct of operations. And
+01:22:28.000 --> 01:22:34.48 especially in democratic countries, it drew statesmen onto overstep the definite border of his fear
+01:22:34.48 --> 01:22:37.52 and interfere with his military employees and the actual use of their tools.
+01:22:39.76 --> 01:22:44.56 So there's gotta be a line between these two things. And we gotta stay in our lanes a little bit.
+01:22:44.56 --> 01:22:48.72 Hey, here's the policy. How do you want to execute it? Hey, here's the resources I need. Oh, don't
+01:22:48.72 --> 01:22:58.32 know change your policy. Molky reached a clearer and wiser definition in terming strategy
+01:22:59.20 --> 01:23:05.12 quote, the practical adaptation of the means placed at a general's disposal to the attainment of the
+01:23:05.12 --> 01:23:17.76 object in view. Molky is another Prussian guy chief general in the 1860s and he's the guy that kind of
+01:23:17.76 --> 01:23:24.16 I would say he had that the idea of the making sure you have an overall objective. I make sure that
+01:23:24.16 --> 01:23:32.56 people understand what the overall objective is. The German word, Alph-Trog-Stactic. No.
+01:23:34.88 --> 01:23:40.24 Overall objective. This definition fixes the responsibility of a military commander to the
+01:23:40.24 --> 01:23:45.28 government by which he is employed. His responsibility is that of applying most proactively
+01:23:45.28 --> 01:23:49.44 to the interest of higher war policy, the force allowed it to him within the theater of operations
+01:23:49.44 --> 01:23:54.80 assigned to him. If he considers that the force allowed it is inadequate for the task indicated,
+01:23:54.80 --> 01:24:01.68 he is justified in putting this out. And if his opinion is overruled, he can refuse or resign the command.
+01:24:02.96 --> 01:24:07.52 But he exceeds his rightful sphere if he attempts to dictate to the government what measure
+01:24:07.52 --> 01:24:13.84 force should be placed at his disposal. So like I said, there's a line here that he's talking about.
+01:24:13.84 --> 01:24:19.36 On the other hand, the government which formulates war policy and has to adapt to it to
+01:24:19.36 --> 01:24:24.40 conditions which often changes a war progresses can rightly intervene in the strategy of a campaign
+01:24:24.40 --> 01:24:29.12 not merely by replacing a commander in whom it is lost confidence but by modifying his
+01:24:29.12 --> 01:24:35.36 object according to the needs of its war policy. While it should not interfere with him and handling
+01:24:35.36 --> 01:24:42.000 of his tools, it should indicate clearly the nature of his task. Thus strategy has not necessarily
+01:24:42.000 --> 01:24:47.44 the simple object of seeking to overthrow the enemy's military power. When a government appreciates
+01:24:47.44 --> 01:24:52.72 that the enemy has the military superiority, either in general or in a particular theater, it may
+01:24:52.72 --> 01:25:00.48 be wise to enjoy a strategy of limited aim. Before I get into limited aim, let's tie this back
+01:25:00.48 --> 01:25:05.76 to corporate leadership and business leadership. What are you doing if you're in charge?
+01:25:05.76 --> 01:25:11.92 To make sure that you are empowering your subordinate leaders to make things happen.
+01:25:12.80 --> 01:25:16.16 And not saying, hey, here's exactly how I want you to do it. Here's what I want you to do with
+01:25:16.16 --> 01:25:20.96 your team. Here's what I want you to do with your tools. Here's how that's when you're crossing the line.
+01:25:20.96 --> 01:25:24.16 You shouldn't have to do that. You shouldn't have to have those conversations.
+01:25:25.12 --> 01:25:28.000 We should be able to say, hey Dave, this is what we're trying to make happen.
+01:25:28.72 --> 01:25:34.48 How do you want to do it? And Dave, who's on the front line, says, hey boss, here's what I'm thinking.
+01:25:34.48 --> 01:25:39.52 It looks good. Go execute. And by the way, Dave might come back saying to hey boss, we can't do that.
+01:25:39.52 --> 01:25:43.68 Unless you give me some more resources. And I say, hey, it's all we got. Sorry. And you say,
+01:25:43.68 --> 01:25:49.12 what we need to come back then, or we need to not do this market area, because we don't have the
+01:25:49.12 --> 01:25:53.68 resource. We need to, okay, cool. Or maybe I say, well, I think it's just because you suck.
+01:25:54.56 --> 01:26:00.64 You're fired echo. You got the con. Yeah. So let's make sure that we delineate the roles and
+01:26:00.64 --> 01:26:06.000 responsibilities clearly enough that we know what what we're trying to do up and down the chain of command.
+01:26:06.64 --> 01:26:15.12 Now to get back to this point of strategy of limited aim, he goes into it a little bit here.
+01:26:16.24 --> 01:26:20.32 This is the strategy of limited limited limited aim. It may desire to wait until the balance of
+01:26:20.32 --> 01:26:26.000 force can be changed by the intervention of allies or by the transfer of forces from another theater.
+01:26:26.000 --> 01:26:31.92 It may desire to wait or even limit its military effort permanently while economic or naval
+01:26:31.92 --> 01:26:36.88 action decides the issues. It may calculate that the overthrow of the enemy's military power is a
+01:26:36.88 --> 01:26:42.88 task definitely beyond its capacity and not worth the effort. And that the object of its war policy
+01:26:42.88 --> 01:26:48.88 can be assured by seizing territory, which it can either retrain, retain, or use as a bargaining
+01:26:48.88 --> 01:26:53.20 counter when peace is negotiated. So right, every one of those things is indirect.
+01:26:53.20 --> 01:26:58.72 It's a limited aim. It's like, oh, you know what? I wanted to kick Dave's ass.
+01:26:59.84 --> 01:27:05.68 But he's way bigger and way better at jujitsu than I thought he was. So you know what I'm going to do?
+01:27:06.24 --> 01:27:15.20 I'm on a like say, hey, man, instead of what us fighting, why don't I buy you a hamburger?
+01:27:16.000 --> 01:27:19.36 And we'll talk about some stuff. And what you know what I'm saying? Like it's a different,
+01:27:19.36 --> 01:27:24.32 it's just taking a different approach. It's totally different approach. We know what? I think Dave
+01:27:24.32 --> 01:27:30.48 can actually kick my ass. Echo is going to be hearing about 30 minutes. Echo is bigger and stronger
+01:27:30.48 --> 01:27:34.08 than Dave. He's been training more than just so I'm going to wait till hey, hey Dave, you
+01:27:34.08 --> 01:27:38.48 might have to wait. I'd rather have you roll with Echo. Right, so I'm bringing in some reinforcements.
+01:27:40.16 --> 01:27:44.88 That's the strategy of limited, limited aim. Such a policy has more support from history than
+01:27:44.88 --> 01:27:51.68 military opinion has recognized and is less inherently a policy of weakness than some apologists.
+01:27:51.68 --> 01:27:55.12 And, by so just because I say, you know what Dave, I'm not really looking to roll with your
+01:27:55.12 --> 01:28:03.12 way to let go gets here. That's not necessarily weak. In fact, it might be smarter. In fact,
+01:28:03.12 --> 01:28:07.84 if I think you can beat me and I'm pretty sure you're going to beat me, it's way smarter for me
+01:28:07.84 --> 01:28:12.40 to wait till Echo shows up to kick your ass. It isn't indeed bound up with the history of the
+01:28:12.40 --> 01:28:18.48 British Empire and repeatedly proved a life buoy to Britain's allies as well as of the permanent
+01:28:18.48 --> 01:28:23.84 benefit to herself. However, unconsciously followed, there's ground for inquiry, whether this
+01:28:23.84 --> 01:28:28.88 conservative military policy does not deserve to be accorded a place in the theory of the
+01:28:28.88 --> 01:28:34.72 conduct of war. So how often did Britain go, you know what? Maybe we don't want to fight that war.
+01:28:34.72 --> 01:28:38.80 Maybe we want to give that up. Maybe we want to give that area. Maybe we need it's bargain and
+01:28:38.80 --> 01:28:43.92 move into an area that we know we can take and then we'll negotiate for it back later.
+01:28:47.20 --> 01:28:52.32 The more usual reason for adopting a strategy of limited aim is that of awaiting a change in
+01:28:52.32 --> 01:28:58.48 the balance of force waiting till Echo shows up. A change often sought and achieved by draining
+01:28:58.48 --> 01:29:04.16 the enemies' force weakening him by tricks instead of risking blows. What if, well, you know what?
+01:29:04.16 --> 01:29:08.56 Hey, Dave, I don't, you know, I don't really want to roll today. Echo is going to be here in a little while,
+01:29:08.56 --> 01:29:12.64 but while you're waiting, launch a roll a couple rounds with Kerry and launch a roll a couple rounds
+01:29:12.64 --> 01:29:17.12 with Dean and then so here you are fighting all these battles by the time Echo Charles shows up
+01:29:17.12 --> 01:29:22.24 fresh. He's just had a discipline go. He's ready to rock and roll your tired, your nine rounds deep.
+01:29:22.96 --> 01:29:30.80 That's my, that's a great plan. Great plan. So I weakened you by tricks instead of risking blows.
+01:29:30.80 --> 01:29:35.44 The essential condition of strategy, such a strategy is that the drain on him should be disperse
+01:29:35.44 --> 01:29:39.20 portionetly greater than all oneself because I was sitting over on the corner keeping time.
+01:29:40.40 --> 01:29:45.28 That's what I was doing while you were rolling with guy after guy after guy. I'm keeping track of time for you.
+01:29:47.92 --> 01:29:52.16 The object may be sought by rating his supplies by local attacks, which annihilator and flick
+01:29:52.16 --> 01:29:56.32 disperse portionet loss on parts of his force by lowering him into unprofitable attacks,
+01:29:56.32 --> 01:30:03.68 by causing an excessively wide distribution on his force and no least by exhausting his moral and physical
+01:30:03.68 --> 01:30:08.48 energy. This is like the exact example, right? I don't think I can kick your ass, but you know what,
+01:30:08.48 --> 01:30:12.32 Echo is going to be here in a little while and in the meantime, I'm going to entice, I'm going to go,
+01:30:12.32 --> 01:30:18.72 hey, hey Dean, go get a couple rounds. Go, go, go get a couple rounds of Dave, boom, and just rough you up
+01:30:18.96 --> 01:30:22.88 and going to hit you with a couple different people by the time Echo shows up, no factor.
+01:30:22.88 --> 01:30:30.08 That's what I'm doing. Yeah, and I'm also thinking of just the idea of even going to war with
+01:30:30.08 --> 01:30:35.04 the American military and most of our opponents, certainly more recent history, the aim wasn't
+01:30:35.04 --> 01:30:42.16 to destroy the American military. It was to make those series of little tricks over time become
+01:30:42.16 --> 01:30:48.000 intolerable where we are no longer willing to have these little successive losses. So we're not
+01:30:48.000 --> 01:30:53.92 going to have that decisive campaign at all because you made this intolerable for me and that connection
+01:30:53.92 --> 01:30:58.16 of policy too. We talked about that all the time of, you know, the will, you know, somebody's will
+01:30:58.16 --> 01:31:02.40 to be doing that as, hey, I don't want to keep doing this over and over again. These small little
+01:31:02.40 --> 01:31:08.56 things, these little, those things add up over time, as opposed to like somehow the objective is
+01:31:08.56 --> 01:31:14.32 we're going to have a force on force, you know, culminating event between some military and the
+01:31:14.32 --> 01:31:19.44 American military, which, which, again, generically speaking, nobody wants that. We want to have a
+01:31:19.44 --> 01:31:22.88 decisive engagement with the American military. So we're going to do some other things instead
+01:31:22.88 --> 01:31:29.92 and make that intolerable for us. Which, by the way, we suck in many areas of this, the United
+01:31:29.92 --> 01:31:34.56 States in general, think of the propaganda damage that gets done to us on a regular basis that
+01:31:34.56 --> 01:31:40.96 has been done to us on a regular basis, basically since Vietnam. Anytime we get into, I mean,
+01:31:40.96 --> 01:31:47.12 anytime we get into a conflict now, the propaganda that is used to turn us against ourselves and
+01:31:47.12 --> 01:31:53.28 this country is, it's, it's crazy how effective it is. You, you look at the Vietnam War,
+01:31:54.80 --> 01:32:01.76 it's crazy how effective they were at turning Americans against Americans in that war. Yeah.
+01:32:05.36 --> 01:32:09.76 Back to the book. This closer definition, Sheds light on the question previously raised of a
+01:32:09.76 --> 01:32:13.36 General's Independence in carrying out his own strategy inside his theater of operations.
+01:32:14.16 --> 01:32:21.92 For if the, for if the government has decided upon a limited aim or grand strategy, the general who,
+01:32:21.92 --> 01:32:27.20 even within his strategic fear seeks to overthrow the enemy's military power, may do more harm
+01:32:27.20 --> 01:32:31.36 than good to the government's war policy. So what is that saying? That saying like, I got
+01:32:31.36 --> 01:32:34.64 Dave out there. He's super aggressive and he's like, you know what I'm going to, I'm going to take this whole
+01:32:34.64 --> 01:32:37.84 area. And meanwhile, I'm thinking, Dave, don't take that whole area, then we're going to have to occupy it.
+01:32:37.84 --> 01:32:41.12 I don't have the people to occupy it. And now we're going to cause more problems. So just because
+01:32:41.12 --> 01:32:47.92 you're winning doesn't mean you're winning. Yeah. Usually a war of limited aim, a war policy
+01:32:47.92 --> 01:32:52.56 of limited aim imposes the strategy of limited aim. And a decisive aim should only be adopted
+01:32:52.56 --> 01:32:59.28 with the approval of the government, which alone can decide whether it is worth the candle.
+01:33:00.16 --> 01:33:03.52 Old school expression. I didn't really know what it meant. I had to look it up.
+01:33:03.52 --> 01:33:09.20 Worth the candle means we're going to do something is what we're doing worth the candle, that
+01:33:09.20 --> 01:33:12.40 the light it's going to take to for us to be able to do whatever we're doing. Yeah.
+01:33:12.40 --> 01:33:15.60 Because it weren't the candle. Like we're going to, oh, we got some work to do tonight.
+01:33:15.60 --> 01:33:17.92 Cool, light the candle. But how much are we really going to get done?
+01:33:17.92 --> 01:33:24.000 It's not worth the candle. It's back in the day. Kind of like it's the juice worth the squeeze.
+01:33:24.000 --> 01:33:32.72 Exactly. We can now arrive at a shorter definition of strategy as quote,
+01:33:32.72 --> 01:33:39.68 the art of distributing and applying military means to fulfill the ends of policy and quote.
+01:33:40.72 --> 01:33:47.44 For strategy is concerned not merely with the movement of forces as it rolls off and defined,
+01:33:47.44 --> 01:33:54.88 but with the effect. When the application of the military instrument merges into actual
+01:33:54.88 --> 01:34:03.76 fighting the dispositions for and control of such direct action are termed tactics. The two categories
+01:34:03.76 --> 01:34:07.60 of low convenient for discussion can never be truly divided into separate compartments
+01:34:07.60 --> 01:34:13.68 because each, not only influences but merges into the other, which is why leadership strategy
+01:34:13.68 --> 01:34:18.48 in taxes is called leadership strategy and tactics. Kind of convenient that it worked out that way.
+01:34:18.48 --> 01:34:29.04 But listen, here's what's important. Is what we're doing? It doesn't matter. What matters is
+01:34:29.04 --> 01:34:33.84 how it ends up. What matters is the strategic effect. That's why we have to think strategic all the
+01:34:33.84 --> 01:34:44.72 time. That's what we need to do. Next section, higher or grand strategy. As tactics in,
+01:34:44.72 --> 01:34:49.84 as tactics is an application of strategy on a lower plane, so strategy is an application on a
+01:34:49.84 --> 01:34:55.68 lower plane of grand strategy. So he goes to one level up, a whole other thing. We got tactical,
+01:34:55.68 --> 01:34:59.44 we got operational, he isn't really talking about operational. That must be a modern thing.
+01:34:59.44 --> 01:35:07.12 Tactical, operational, strategic and then grand strategy. While practically synonymous with policy,
+01:35:07.12 --> 01:35:13.12 what was your, would you study in college? Policy. Thanks, what's up, man? You want to chime in a little
+01:35:13.12 --> 01:35:18.16 bit. I do. Let's know. You're rolling, man. But I mean, there's so much class was he and stuff in there.
+01:35:18.16 --> 01:35:24.72 But the previous comment, it was, as I'm thinking of sort of like the business alignment of this,
+01:35:24.72 --> 01:35:30.88 this military concept is, how often are we engaged in tactical battles that don't
+01:35:31.52 --> 01:35:37.44 promote or support the strategic goal? And I think it was, I think it was the debris podcast, but you said
+01:35:37.44 --> 01:35:46.24 this is, if what you were doing, if the tactical engagement you're in supports the big picture
+01:35:46.24 --> 01:35:53.12 strategy, it's not tactical, it's strategic. And if it doesn't, it's tactical and you're engaged,
+01:35:53.12 --> 01:35:58.24 you shouldn't be doing it. Like how often do we dig in on these these small things that even
+01:35:58.24 --> 01:36:04.48 then the end, if we win, don't reinforce the big picture goal, the objective. And how often do I
+01:36:04.48 --> 01:36:09.04 on with my team, the marketing team dig in on how I want to do this, this thing and I'm going to fight
+01:36:09.04 --> 01:36:15.44 with the, the sales team over resources and supplies and equipment and priority that don't actually
+01:36:15.44 --> 01:36:20.88 help the company, the company achieve some sort of success. I'm being able to look at that as a
+01:36:20.88 --> 01:36:28.000 leader and go and, A, A, listen, this doesn't matter. This, we don't need to dig in here, let them
+01:36:28.000 --> 01:36:32.64 have this, we're playing the longer game here because what we want is the company to win. And how
+01:36:32.64 --> 01:36:39.20 hard it is for us to decouple this idea that every battle is a strategic, it's not very few of
+01:36:39.20 --> 01:36:49.68 my career. Absolutely. For the role of grand strategy, higher strategy is to coordinate and
+01:36:49.68 --> 01:36:54.40 direct all the resources of a nation or band of nations towards the attainment of a political
+01:36:54.40 --> 01:37:00.24 object of the war, the goal defined by fundamental policy. Grand strategies should both
+01:37:00.24 --> 01:37:06.64 calculate and develop to economic resources and manpower of nations in order to sustain fighting
+01:37:06.64 --> 01:37:15.20 services also the moral resources. For the foster, the people's willing spirit is often as important
+01:37:15.20 --> 01:37:20.48 as to possess more concrete forms of power, which is why you need to pay attention to what's going
+01:37:20.48 --> 01:37:25.04 on in your country when it comes to propaganda that's being used against you. Grand strategy
+01:37:25.04 --> 01:37:31.44 too should regulate the distribution of power between the several services and between the services
+01:37:31.44 --> 01:37:39.12 and industry. Moreover, fighting power is but one of the instruments of grand strategy, which
+01:37:39.12 --> 01:37:46.96 should take account of and apply the power of financial pressure, diplomatic pressure, commercial
+01:37:46.96 --> 01:37:56.64 pressure and least of ethical pressure to weaken the opponent's will. A good cause is a sword as
+01:37:56.64 --> 01:38:06.08 well as armor. Likewise, shivalry in war can be a most effective weapon in weakening the opponent's
+01:38:06.08 --> 01:38:13.36 will to resist as well as augmenting moral strength. This is why we always say take the high ground
+01:38:13.36 --> 01:38:19.20 of the high ground. Take the high ground of the good causes as a sword as well as armor.
+01:38:22.16 --> 01:38:28.000 When you give up the high ground, when you get down into the mud and I think there's a quote,
+01:38:28.000 --> 01:38:32.56 you references when you get down into the mud, you're not getting muddy because somebody's
+01:38:32.56 --> 01:38:37.20 throwing mud at you is because you went down there and how hard it is once you've got up the
+01:38:37.20 --> 01:38:47.20 high ground to get back up onto the high ground. When you give that up, back to the book further
+01:38:47.20 --> 01:38:54.56 more while the horizon of strategy is bounded by the war. Grand strategy looks beyond the war
+01:38:54.56 --> 01:39:00.08 to the subsequent peace. It should not only combine the various instruments but so regulate their
+01:39:00.08 --> 01:39:05.68 use as to avoid damage to the future state of peace for its security and prosperity. The
+01:39:05.68 --> 01:39:10.32 sorry state of peace for both sides that is followed most wars can be traced to the fact that
+01:39:10.32 --> 01:39:17.12 unlike strategy, the realm of grand strategy is for the most part Terra in Kognita.
+01:39:18.56 --> 01:39:23.36 Still awaiting exploration and understanding that means unknown territory. So this is
+01:39:24.24 --> 01:39:30.000 this is beyond thinking strategic and it's kind of the way we turn thinking strategic you know
+01:39:30.000 --> 01:39:33.92 if you and I have a relationship and I'm going to bark in order you where does that get me?
+01:39:33.92 --> 01:39:38.32 Even if you do that thing where does it put us in the future? How is our relationship?
+01:39:39.36 --> 01:39:43.92 If we have a client and we decide you know what we're going to bill them anyways even though they
+01:39:43.92 --> 01:39:47.76 didn't you know they didn't participate but we're going to bill them anyways. How's that
+01:39:47.76 --> 01:39:52.000 gonna work out for us to cool? We get a little bit more money right now. How does that how does that
+01:39:52.000 --> 01:39:59.84 affect us in a year when that client needs help? So the grand strategy looks beyond the war to
+01:39:59.84 --> 01:40:05.76 subsequent peace. How often are we doing that? Looking further in the future.
+01:40:09.44 --> 01:40:16.000 Goes into pure or military strategy. Having cleared the ground we can build up our conception
+01:40:16.000 --> 01:40:23.36 of strategy on its proper plane and original basis that of the art of the general. Strategy depends
+01:40:23.36 --> 01:40:29.04 for success first and foremost, first and foremost, first sorry first and most on a sound
+01:40:29.04 --> 01:40:38.000 calculation and coordination of the ends and means of the end and means. The end must be
+01:40:38.000 --> 01:40:44.08 proportioned to the total means and the means used in gaining each intermediate end which
+01:40:44.08 --> 01:40:50.40 contributes to the ultimate must be proportioned to the value and the needs of that intermediate
+01:40:50.40 --> 01:41:01.76 end whether it be to gain an objective or fulfill a contributory purpose and excess may be as harmful
+01:41:01.76 --> 01:41:08.16 as a deficiency. So that's first of all that's a freaking run on sentence but what's the second
+01:41:08.16 --> 01:41:14.16 fall? But second of all it's important because what he's saying is you should constantly be assessing
+01:41:14.16 --> 01:41:18.88 if if the juice is worked the squeeze you should constantly be saying like listen we're going to
+01:41:18.88 --> 01:41:22.48 put this much effort towards this client or going to put this much effort towards this relationship
+01:41:22.48 --> 01:41:27.20 we're going to put this much effort towards this team who's we don't know how they're going to do
+01:41:27.20 --> 01:41:34.24 so you constantly have to check yourself if the end that you're going towards is your investment
+01:41:34.24 --> 01:41:41.52 worth it. What's the ROI? And by the way spending too much it can be as bad as not spending enough
+01:41:41.52 --> 01:41:48.32 totally and and spending a much to to win a particular battle or win a particular war but you
+01:41:48.32 --> 01:41:54.000 spent so much that you look around and go well that was not the juice wasn't worth the squeeze
+01:41:54.000 --> 01:41:59.60 wasn't worth the candle yeah what are we accomplished and that that next level up to grand strategy
+01:42:00.16 --> 01:42:04.08 and of course I think the connection he's making is on this large scale man I literally took a
+01:42:04.08 --> 01:42:11.04 class called American grand strategy and the military is a is a component of all these other
+01:42:11.04 --> 01:42:14.96 things you named a bunch of them diplomatic you know uh uh uh eacon obviously it's a whole bunch of
+01:42:14.96 --> 01:42:18.72 different tools that are inside there that are actually you know they're all connected but the
+01:42:18.72 --> 01:42:23.20 military is one arm of that one of many of course you're in uniform you think the whole world
+01:42:23.20 --> 01:42:28.24 of all's round military power we know we say it all the time we know that's not true but an example
+01:42:28.24 --> 01:42:34.40 that you use we all the time and in just trying to explain this idea of utilizing resources and
+01:42:34.40 --> 01:42:39.44 making decisions when you talk about means our means everybody has limited means we don't have
+01:42:39.44 --> 01:42:44.80 unlimited means or unlimited resources and if I'm looking at this particular area that
+01:42:44.80 --> 01:42:48.88 I want to open up a shop here open up a couple of locations and this physical you know this
+01:42:48.88 --> 01:42:55.12 geographic area to compete with our uh competitors and I take all of my resources every penny I've
+01:42:55.12 --> 01:43:01.28 got every tool I've got and I get in there co-baker go home that's right and in the end we get in there
+01:43:01.28 --> 01:43:05.52 we get in that region and I don't know it doesn't quite work out or even if it does but we now have
+01:43:05.52 --> 01:43:12.72 no other tools and resources do anything else the larger piece that is the strategy isn't to get
+01:43:12.72 --> 01:43:19.04 into that area the strategy is actually to make our company stronger and that limited understanding
+01:43:19.04 --> 01:43:23.84 or that understanding being limited of hey we're here to take over this region if that is not
+01:43:23.84 --> 01:43:29.28 connected to the company being successful that larger piece of it all the all the means are all the
+01:43:29.28 --> 01:43:35.36 resources to getting into that area they don't help you. It's a waste you burn that candle yeah
+01:43:35.36 --> 01:43:41.44 yeah and you know what's interesting is from a leadership this is a total this is a leadership
+01:43:41.44 --> 01:43:48.16 capital discussion right it's hey is it worth me expanding this leadership capital on getting
+01:43:48.16 --> 01:43:54.16 gave to follow my order on getting gave to you know pick up a client that I know is going to be
+01:43:54.16 --> 01:43:59.76 painful and I'm forcing them to do it and whatever whatever the case may be is it worth that leadership
+01:43:59.76 --> 01:44:04.88 capital we we have to weigh that out and you know when you were talking about oh we got the the
+01:44:04.88 --> 01:44:10.88 diplomatic we got the the commercial pressure the financial pressure the ethical pressure all those
+01:44:10.88 --> 01:44:17.60 things and the military's part of that guess what in from a leadership perspective the military
+01:44:17.60 --> 01:44:21.28 thing is hey this is my rank I outrank you and we're just going to go by force that's what
+01:44:21.28 --> 01:44:25.84 course that should be there's six seven eight twelve other components that I can utilize as a
+01:44:25.84 --> 01:44:30.64 leader to make something happen and the worst one to use the one that cost me the most leadership
+01:44:30.64 --> 01:44:35.60 capital is the military one which is my rank which is hey on the boss you should you listen to me
+01:44:35.60 --> 01:44:42.24 to to compel someone through the threat of force as you're only tool to get them to comply the
+01:44:42.24 --> 01:44:49.12 threat of force and even you know the the the moral high ground I mean how convenient would it be
+01:44:49.12 --> 01:44:53.36 if you and I are in a situation looking at something and mine was the moral approach and yours
+01:44:53.36 --> 01:44:59.20 is the immoral approach which requires no money no time no resources no equipment to go oh you know
+01:44:59.20 --> 01:45:04.56 I hey listen if we do this we take the if we take the unethical and we get found out and
+01:45:04.56 --> 01:45:10.08 someone just goes oh hey man you're right you know you look listen man I was you're right we
+01:45:10.08 --> 01:45:16.16 we need to do just we just need to do the right thing here the the the strategic win from that alone
+01:45:17.20 --> 01:45:24.56 or the obstinate of the spectrum the military end is I come I threw force and demand and through
+01:45:24.56 --> 01:45:31.12 risk of of destruction yeah is how I'm getting you to to behave in a way that helps the team yeah
+01:45:31.12 --> 01:45:35.12 I've got this quote later on and I don't even remember where I got the quote from but I talked
+01:45:35.12 --> 01:45:39.76 about on this podcast maybe I talked about it in your phone line it's it's something along
+01:45:39.76 --> 01:45:45.12 the lines of cool you win and now you're in charge of a wasteland great oh yeah you won the
+01:45:45.12 --> 01:45:51.68 war cold now you have burnt scorched earth that's what you have cool good job what did you win nothing
+01:45:51.68 --> 01:46:00.48 yeah back to the book a true all this is a true adjustment would establish a perfect economy of force
+01:46:01.52 --> 01:46:07.60 in the deeper sense of that off distorted military term so all the time we heard the term you know
+01:46:07.60 --> 01:46:14.56 economy of force but because of the nature and uncertainty of war and uncertainty increased by
+01:46:14.56 --> 01:46:20.40 lack of scientific study even the greatest military ability could not achieve a true adjustment
+01:46:20.40 --> 01:46:26.64 and success lies in the closest approximation to the truth again his use the word truth is a little
+01:46:26.64 --> 01:46:31.68 bit is a little bit broad but what he's talking about is like how much should I apply to this how
+01:46:31.68 --> 01:46:35.84 much force should I apply we want to apply the minimum force required but we're not going to be
+01:46:35.84 --> 01:46:42.96 perfect with that so we want to get his closest we can this relativity is inherent because however
+01:46:42.96 --> 01:46:48.56 our knowledge and of the science of war be extended it will depend on the art for its application
+01:46:48.56 --> 01:46:54.96 art cannot only bring the end near to the means but by giving a higher value to the means and
+01:46:54.96 --> 01:47:03.60 enable the end to be extended this complicates calculation because no man can exactly calculate the
+01:47:03.60 --> 01:47:12.000 capacity of human genius and stupidity nor the incapacity of will so there's all these things
+01:47:12.000 --> 01:47:18.24 that we have to account for as leaders you know and we're and we're not going to get it perfectly right
+01:47:18.96 --> 01:47:26.80 but how close can we get it? Next section elements and conditions in strategy however
+01:47:26.80 --> 01:47:33.68 calculation is simpler and a closer approximation to truth possible than in tactics so this is a very
+01:47:33.68 --> 01:47:39.84 interesting point it's easier to calculate big broad strategic things because you're a little bit
+01:47:39.84 --> 01:47:47.60 further away from the human component for an war the chief and calculs is human will which
+01:47:47.60 --> 01:47:52.88 manifests itself in resistance which in turn lies in the province of tactics strategy has not to
+01:47:52.88 --> 01:47:58.24 overcome resistance except from nature its purposes to diminish the possibility of resistance
+01:47:58.24 --> 01:48:03.76 and it seeks to fulfill this purpose by exploiting the elements of movement and surprise
+01:48:03.76 --> 01:48:10.40 now that's cool and everything I would say that there's definitely that's a stretch because we've seen
+01:48:11.12 --> 01:48:19.76 collect the collective will of a people change the outcome of strategic situations for sure
+01:48:20.56 --> 01:48:27.36 so even though I said hey it's it's closer to it still can have a huge impact I mean
+01:48:27.36 --> 01:48:33.12 look at Vietnam it was like oh well we can beat them because we can kill 150 Vietnamese soldiers
+01:48:33.12 --> 01:48:37.20 and via Kong soldiers for every one of our people that killed so well win no actually we won't win
+01:48:37.76 --> 01:48:44.56 because guess what the act their collective will is freaking incredibly strong yeah
+01:48:46.80 --> 01:48:53.44 but movement and surprise movement lies in the physical sphere and depends on calculation
+01:48:53.44 --> 01:48:58.08 of the conditions of the time topography and transport capacity by transport capacities meant both
+01:48:58.08 --> 01:49:03.12 of both the means by which and the measure in which force can be moved to maintain okay so there's
+01:49:03.12 --> 01:49:10.24 the physical sphere sphere of movement surprise lies in the psychological sphere and depends on
+01:49:10.24 --> 01:49:15.92 a calculation of far more difficult than in the physical sphere of the manifold conditions varying
+01:49:15.92 --> 01:49:22.16 in each case which are likely to affect the will of the opponent so you got two things you've
+01:49:22.16 --> 01:49:26.72 got movement and you've got surprise this is how we're gonna kind of win this is how we're gonna
+01:49:26.72 --> 01:49:32.96 win by movement and surprise movement physical surprise psychological although strategy may
+01:49:32.96 --> 01:49:40.32 a more at exploiting movement than at exploiting surprise or conversely the two elements react
+01:49:40.32 --> 01:49:46.24 on each other so even though they're different spheres they're still closely woven together
+01:49:47.28 --> 01:49:53.52 movement generates surprise and surprise gives impetus to movement so this is jujitsu right if you
+01:49:53.52 --> 01:49:58.08 surprise somebody they have to react to it so you can make someone move by surprising them with
+01:49:58.08 --> 01:50:03.92 something for a movement which is accelerated or changes its direction inevitably carries with it
+01:50:03.92 --> 01:50:10.16 a degree of surprise even though it be concealed while surprise smooths the path of movement
+01:50:10.16 --> 01:50:14.96 by hindering the enemies countermeasures and counter movements so if I surprise you don't
+01:50:14.96 --> 01:50:24.08 on time to react to you're not defending it yeah this obviously not something this guy was
+01:50:24.08 --> 01:50:29.28 thinking about when I think about flying and stealth airplanes the psychology of that is
+01:50:29.28 --> 01:50:34.32 what I what I have discovered and it's true not just an airplane and true in every situation
+01:50:34.32 --> 01:50:39.04 more often than not people's reaction to being surprised is not the right reaction they don't
+01:50:39.04 --> 01:50:42.88 usually react well even when they react it's still like an overreaction under reaction
+01:50:42.88 --> 01:50:49.44 think about how you react it when you're surprised are those usually like good smooth effective
+01:50:49.44 --> 01:50:58.000 responses 100% yeah all the time and when when you look at stealth airplanes the advent of
+01:50:58.000 --> 01:51:01.68 Americans showing up with stealth airplanes and and sort of the culminating event really was in
+01:51:01.68 --> 01:51:06.32 desert storm when nobody even knew we had them and all of a sudden stealth airplanes are over
+01:51:06.32 --> 01:51:12.08 bad dad dropping bombs and the Iraqis didn't under they did not understand what was happening
+01:51:12.08 --> 01:51:17.60 and the reaction was obviously wrong now you know that they're proliferated that's why
+01:51:17.60 --> 01:51:22.16 an un a significantly undersized force when you're flying around the stealth aircraft
+01:51:22.16 --> 01:51:25.68 and then I'm fighting against you and your conventional aircraft and the first call you here
+01:51:25.68 --> 01:51:31.92 is hey the the first four of your airplanes are all dead and and the psychological response to that
+01:51:32.88 --> 01:51:36.80 is almost always the wrong response the reaction they they behave eratically they move
+01:51:36.80 --> 01:51:40.96 and different right they they don't know what to do the psychological response to surprise is
+01:51:40.96 --> 01:51:49.52 almost always the wrong reaction and the power of creating that reaction your opponents is really
+01:51:49.52 --> 01:51:53.28 hard to overstate and that's really one of the things that stealth airplanes have allowed us to do
+01:51:53.28 --> 01:51:59.04 is get our opponents to behave incorrectly to give us an even more of an advantage you're going to
+01:51:59.04 --> 01:52:03.52 off balance them somehow because what you just said when you say they either overreactor under
+01:52:03.52 --> 01:52:08.08 react guess what you either you're off balance right a balanced measured response would be like
+01:52:08.08 --> 01:52:12.08 okay we didn't really get them off balance but you either overreactor you under react
+01:52:12.08 --> 01:52:16.64 and through surprise you cause them to move to far in one direction too far in the other
+01:52:16.64 --> 01:52:19.60 direction that's what's going to happen and that's what we're going to take advantage of and you've
+01:52:19.60 --> 01:52:26.96 explained this a ton like if I attack your arm and you under react to a point where you do not
+01:52:26.96 --> 01:52:31.60 almost don't react at all and you just let me have it then I may actually culminate with an arm bar
+01:52:32.48 --> 01:52:36.40 but more than likely you're going to overreact and I want you to overreact in it so I can attack
+01:52:36.40 --> 01:52:41.04 something else but it's like you said it's it's the lack of a balance response it's usually an
+01:52:41.04 --> 01:52:46.48 overreaction usually that reveals a weakness somewhere else that I can then explain you know
+01:52:49.12 --> 01:52:56.56 as regards the relation of strategy attacks while in execution the border line is often shadowy
+01:52:56.56 --> 01:53:01.76 and it is difficult to decide exactly where a strategic movement ends and a tactical movement begins
+01:53:01.76 --> 01:53:09.36 yet in conception the two are distinct tactics lies in the fills tactics lies and fills the
+01:53:09.36 --> 01:53:16.24 province of fighting strategy not only stops on the frontier but has for its purpose the reduction of
+01:53:16.24 --> 01:53:24.08 fighting by the slendorist possible proportions so the purpose of strategies to not fight
+01:53:24.08 --> 01:53:33.28 because on with the aim of strategy this statement may be disputed by those who conceive
+01:53:33.28 --> 01:53:39.36 the destruction of the enemies armed force as the only sound aim in war who hold that the only
+01:53:39.36 --> 01:53:45.92 goal of strategy is battle and who obsessed with the clouds vizzi and saying that blood is the
+01:53:45.92 --> 01:53:52.24 price of victory yet if one should concede this point and meet its advocates on their own ground
+01:53:52.24 --> 01:53:58.88 the statement would remain unshaken for even if decisive battle be the goal the aim of strategy
+01:53:58.88 --> 01:54:04.88 must be to bring about this battle under the most advantageous circumstances and the more
+01:54:04.88 --> 01:54:10.48 advantageous the circumstances the less proportionally will be the fighting so whole goal of strategies
+01:54:10.48 --> 01:54:16.56 we're not fighting that's what we're doing the perfection of strategy would be therefore to produce a
+01:54:16.56 --> 01:54:22.72 decision without any serious fighting history now think about that from a leadership perspective
+01:54:23.60 --> 01:54:28.72 I never get an argument because Dave's doing what I need him to do to make it happen
+01:54:30.40 --> 01:54:36.08 that's the most effective strategy it's not how do I outwit David and argument that doesn't matter
+01:54:36.08 --> 01:54:42.88 why am I having an argument history as we have seen provides examples where strategy help by
+01:54:42.88 --> 01:54:48.40 favorable conditions has virtually produced such a result and he goes through some examples here
+01:54:50.24 --> 01:54:55.20 and again he's recalling back to some of the examples that he talks about in the book
+01:54:56.72 --> 01:55:01.68 while these cases where the destruction of the enemy's forces the enemies armed forces
+01:55:01.68 --> 01:55:09.20 was economically achieved through the disarming by surrender such destruction may not be essential
+01:55:09.20 --> 01:55:14.96 for a decision and for the fulfillment of the war aim in the case of a state that is seeking
+01:55:14.96 --> 01:55:21.76 not conquest but maintenance of its security the aim is fulfilled if the threat be removed
+01:55:21.76 --> 01:55:29.04 if the enemy is led to abandon his purpose with such while such blood this victories have been exceptional
+01:55:30.72 --> 01:55:34.48 their rarity enhances rather than detracts from their value
+01:55:34.48 --> 01:55:42.48 as an indication of latent potentialities in strategy and grand strategy despite many
+01:55:42.48 --> 01:55:49.92 centuries of experience of war we have hardly begun to explore the field of psychological warfare
+01:55:49.92 --> 01:55:56.64 from deep study of war clouse fits was led to the conclusion that quote all military action is
+01:55:56.64 --> 01:55:59.76 permeated by intelligent forces and their effects
+01:55:59.76 --> 01:56:06.88 nevertheless and quote nevertheless nations at war have always driven or been driven by their
+01:56:06.88 --> 01:56:12.80 passions to disregard the implications of such a conclusion instead of applying intelligence they
+01:56:12.80 --> 01:56:19.76 have chosen to batter their heads against the nearest wall so here's Karlswick's okay it's
+01:56:19.76 --> 01:56:28.64 it's an intelligence you know what doing but all the time we countries people leaders teams
+01:56:28.64 --> 01:56:32.80 we get we do stupid things we bang our head against the nearest wall because we get emotional
+01:56:32.80 --> 01:56:35.84 we're not intelligent and we gotta look out for that
+01:56:40.56 --> 01:56:44.24 it rests normally with the government responsible for the grand strategy of awarded decide
+01:56:44.24 --> 01:56:49.04 whether strategy should make its contribution by achieving a military decision or otherwise
+01:56:49.68 --> 01:56:55.20 just as military means is only one of the means to the end of grand strategy one of the instruments
+01:56:55.20 --> 01:57:01.76 in the surgeon's case so battle is only one of the means to the end of strategy
+01:57:03.36 --> 01:57:08.56 if the conditions are suitable it usually it is usually the quickest and effect
+01:57:08.56 --> 01:57:12.24 but if conditions are unfavorable it's a folly to use so cool you can go to battle
+01:57:12.96 --> 01:57:16.64 but if you haven't prepared for it and you don't have the advantage it's stupid
+01:57:18.64 --> 01:57:23.76 let's assume that a strategist is empowered to seek a military decision his responsibility is to
+01:57:23.76 --> 01:57:28.80 seek it under the most advantageous circumstances in order to produce the most profitable result
+01:57:29.28 --> 01:57:36.40 hence his true aim is not so much to seek battle as to seek a strategic situation so
+01:57:36.40 --> 01:57:43.68 advantageous that if it does not of itself produce the decision its continuation by battle is sure to
+01:57:43.68 --> 01:57:50.88 achieve this so we're not engaging in battles that we don't know we're gonna win and if we
+01:57:50.88 --> 01:57:54.80 know we're gonna win them why can't we convince them opponent that we're gonna win and they
+01:57:54.80 --> 01:58:02.40 bow down in other words dislocation is the aim of strategy it's sequel maybe either the
+01:58:02.40 --> 01:58:10.88 enemy's dissolution or his easier disruption in battle dissolution may involve some
+01:58:10.88 --> 01:58:16.88 partial measure of fighting but this is not but this is not the character of battle so that's
+01:58:16.88 --> 01:58:21.68 what we're trying to do we're trying to win the fight without fighting we're trying to win the
+01:58:21.68 --> 01:58:25.84 argument without having it I'm trying to get Dave what I to do what I wanted to do without
+01:58:25.84 --> 01:58:32.000 him even knowing that that's what I want to do it's with his idea yeah and think about that statement
+01:58:32.000 --> 01:58:38.000 about you getting me to do do it do it you want me to get done without fighting with me
+01:58:38.88 --> 01:58:44.08 and take a step away from this book which is talking about fighting your enemies like your
+01:58:44.08 --> 01:58:52.80 literal enemies to someone on your team my team my guy yeah because the human nature doesn't
+01:58:52.80 --> 01:58:58.72 change it doesn't change if we're in the jungle desert if we're in if there's an old 42 if we're
+01:58:58.72 --> 01:59:05.84 in 1916 if we're in 1942 it doesn't matter if you're my enemy or you're my friend if there's
+01:59:05.84 --> 01:59:15.28 a component of human will then we need to utilize these principles effectively.
+01:59:15.92 --> 01:59:20.24 Next section action of strategy how is the strategic dislocation produced
+01:59:22.000 --> 01:59:27.60 in the physical or logistical sphere it is the result of a move which a upsets the enemies
+01:59:27.60 --> 01:59:31.44 dispositions and by compelling a sudden change of front dislocates the distribution and
+01:59:31.44 --> 01:59:39.20 organization of his forces be separates his forces kind of got a little little little little
+01:59:39.20 --> 01:59:43.04 tingle in my spine when I saw that and dangers his supplies
+01:59:44.08 --> 01:59:51.44 de-menaces the root or roots by which he could retreat in case of need and reestablish himself on
+01:59:51.44 --> 01:59:55.52 the base so this there's these ways that we can cause strategic dislocation
+01:59:55.52 --> 02:00:02.88 a dislocation may be produced by one of these effects but is more often a consequence of several
+02:00:02.88 --> 02:00:05.76 right we're going to we're going to dislocate them from multiple different directions
+02:00:06.48 --> 02:00:12.96 differentiation indeed is difficult because a move directed toward the enemies rear tends to combine
+02:00:12.96 --> 02:00:18.24 these effects their respective influence however varies and has varied throughout history according
+02:00:18.24 --> 02:00:23.04 the size of armaged and complexities of their organization with armies which live on the country
+02:00:23.04 --> 02:00:28.32 drawing their supplies locally by plunder or requisition the line of communication has negligible
+02:00:28.32 --> 02:00:31.44 importance so if you got an army that's out there living off the land they kind of know what they're
+02:00:31.44 --> 02:00:35.52 doing you can't you can't really cut their supply lines because they don't have any
+02:00:36.56 --> 02:00:41.44 even if a higher even in a higher stage of military development the smaller a force the
+02:00:41.44 --> 02:00:46.48 less dependent it is on the lines of communication for supplies for larger an army and more
+02:00:46.48 --> 02:00:51.36 complex its organization the more prompt and serious in effect is a menace to its line of
+02:00:51.36 --> 02:00:54.40 communication so depending on who you're fighting you gotta make some adjustments
+02:00:55.52 --> 02:01:00.08 where armies have not been so dependent strategies been correspondingly handicapped and the
+02:01:00.08 --> 02:01:06.16 technically issue of battle has played a greater part nevertheless even thus handicapped able
+02:01:06.16 --> 02:01:12.32 strategists have frequently gained a decisive advantage previous to battle by menacing the
+02:01:12.32 --> 02:01:17.84 enemies lines of retreat the equilibrium of his dispositions or his local supplies so we're doing
+02:01:17.84 --> 02:01:22.16 so we're we're throwing people off the spy mess and we're just supply chain by messing with
+02:01:22.16 --> 02:01:27.84 their communication and by the way I'm probably gonna mention it's 15 15 thousand more times
+02:01:28.48 --> 02:01:36.24 he's talking all the time about disrupting your enemies communication each one of those is the red cell
+02:01:38.80 --> 02:01:46.16 the red team for us to go man am I communicating properly every time you hear that's one of the
+02:01:46.16 --> 02:01:53.60 main ways that the indirect approach works is by disrupting the enemy communication what is that
+02:01:53.60 --> 02:02:03.20 tell us about our communication it tells us it's freaking critical he goes into some some
+02:02:05.04 --> 02:02:11.84 talk about how to disrupt communication to be effective such a menace usually must be applied at
+02:02:11.84 --> 02:02:16.56 a point closer in time and space to the enemy's army than a menace to his communication
+02:02:17.60 --> 02:02:22.72 and thus early in warfare it's often difficult to distinguish between strategic and tactical maneuver
+02:02:23.36 --> 02:02:28.64 in the psychological sphere dislocation is the result of the impression on the commander's mind
+02:02:28.64 --> 02:02:35.36 of the physical effects which we have listed the impression is strongly accentuated if his realization
+02:02:35.36 --> 02:02:41.44 of being at a disadvantage is sudden and if he feels that he is unable to counter an enemy's move
+02:02:41.44 --> 02:02:46.72 psychological dislocation fundamentally springs from his sense of being trapped
+02:02:48.72 --> 02:02:57.44 that's straight out of like the jujitsu world and this is important so we feel
+02:02:58.40 --> 02:03:04.16 we feel dislocated we feel nervous when we get trapped guess what you should never do as a leader
+02:03:04.16 --> 02:03:10.64 hey Dave I know you want to do this but what if that happens why am I trapping him
+02:03:10.64 --> 02:03:16.000 why am I trapping you don't trap people that are on your team that's another little red cell
+02:03:17.12 --> 02:03:22.72 little red team if you're if I set you up to trap you you're gonna be uncomfortable you're gonna
+02:03:22.72 --> 02:03:28.80 get defensive you're gonna be unstable and my interest in interacting with you the next time
+02:03:28.80 --> 02:03:33.36 you know like oh here we go let's see what what jacco's gonna try to do to me this time
+02:03:34.24 --> 02:03:37.76 talking about loyalty and respect and the things that you actually want from me in the end
+02:03:37.76 --> 02:03:43.04 you know when when when you're the leader that likes to set your people up so you can hammer them
+02:03:45.28 --> 02:03:50.000 dude that's a classic like I won that argument cool and that argument man I don't have to
+02:03:50.000 --> 02:03:55.04 even like a gypshoon that meeting good job he won't want to step up again
+02:03:55.04 --> 02:04:00.64 this is the reason why it is most frequently followed a physical move on the enemy's rear
+02:04:01.68 --> 02:04:07.12 an army like a man cannot properly defend its back from a blow without turning around to use
+02:04:07.12 --> 02:04:13.28 its arms in a new direction turning temporarily unbalances an army as it does a man and with the
+02:04:13.28 --> 02:04:18.08 former the period of instability is inevitably much longer in consequence the brain is much more
+02:04:18.08 --> 02:04:22.16 sensitive to any menace to its back this is why in jacco what are we trying to do we're trying
+02:04:22.16 --> 02:04:25.92 to attack the back that's why in the battlefield we're trying to we're trying to come around to the
+02:04:25.92 --> 02:04:34.08 rear because they have to maneuver and face you and they're exposed in contrast to move directly
+02:04:34.08 --> 02:04:40.64 on an opponent consolidates his balance physical and psychologically and by consolidating it
+02:04:40.64 --> 02:04:45.28 increases his resisting power when I attack you from the front you know exactly what's
+02:04:45.28 --> 02:04:53.44 that coming at you and you can resist it more what does that mean from the leadership perspective
+02:04:54.16 --> 02:05:02.72 that means that I I don't want to have you resist my ideas by coming right at you
+02:05:07.84 --> 02:05:13.28 for in the case of an army it rolls the enemy back towards the reserve supplies and reinforcement
+02:05:13.28 --> 02:05:16.64 so the original front is driven back and warn thin new layers are added to the back so
+02:05:16.64 --> 02:05:20.56 when you if you make the enemy retreat well guess what this is what the Russians did to Napoleon and to
+02:05:20.56 --> 02:05:25.92 the Nazis we're just gonna retreat yeah yeah you could job you beat us today cool we just got closer
+02:05:25.92 --> 02:05:31.36 to our supply chain yeah we just got more reinforcements our communication lines got got shorter
+02:05:32.40 --> 02:05:38.16 you made our job easier at the most it imposes a strain rather than producing a shock
+02:05:38.16 --> 02:05:44.64 thus a move around the enemy's rear against the move around the enemy's front against his rear
+02:05:44.64 --> 02:05:50.48 has the aim not only avoiding resistance on its way but in its issue in the profound
+02:05:50.48 --> 02:05:57.60 distance it takes the line of least resistance the equivalent in this psychological sphere is the
+02:05:57.60 --> 02:06:03.92 line of least expectation they are two faces of the same coin this is to widen our understanding of
+02:06:03.92 --> 02:06:09.12 strategy if we merely take what obviously appears the line of least resistance its obvious
+02:06:09.12 --> 02:06:14.16 ness will appeal to the opponent also and this line may no longer be the line of least resistance
+02:06:16.24 --> 02:06:20.96 used it when we used to go on weak hands reconnaissance missions and we'd get put on
+02:06:20.96 --> 02:06:24.88 reconnaissance missions like I camp penaltent and you get up to camp penaltent and you're
+02:06:24.88 --> 02:06:31.04 supposed to be observing some area and there's a one spot to observe there's like one bush
+02:06:31.04 --> 02:06:37.52 you're like we can it's so tempting to go to that bush we guess exactly where the they're
+02:06:37.52 --> 02:06:41.36 going to look they're going to look at that bush so you're better off digging a hole doing
+02:06:41.36 --> 02:06:46.80 whatever you got to do taking the worst looking bush you know there's four bushes three of them are
+02:06:46.80 --> 02:06:50.000 pretty good one of them socks go to the one that sucks
+02:06:54.88 --> 02:06:59.60 in studying the physical aspect we must never lose sight of those psychological and when both are
+02:06:59.60 --> 02:07:06.24 combined is the strategy truly an indirect approach calculated dislocate the opponent's balance
+02:07:07.44 --> 02:07:12.08 the mere action of marching indirectly toward the enemy and on the rear of his dispositions
+02:07:12.08 --> 02:07:16.32 is not constituted the strategic indirect approach so just because you try and come around the rear
+02:07:16.32 --> 02:07:20.48 doesn't mean because if that's what they think you're going to do it doesn't matter strategic
+02:07:20.48 --> 02:07:25.04 card is not so simple such an approach may start by being an indirect relation to an enemy's front
+02:07:25.04 --> 02:07:29.36 but by the very directness of its progress towards the rear may allow the enemy to change
+02:07:29.36 --> 02:07:33.36 his dispositions so that soon becomes a direct approach on a new front check
+02:07:36.40 --> 02:07:41.84 because of the risk that the enemy may achieve such a change of front it is usually necessary
+02:07:41.84 --> 02:07:50.88 for the dislocating move to be preceded by a move or moves which can best be defined as the term
+02:07:50.88 --> 02:07:57.20 distract in a literal sense to draw a sunder so we have to do multiple moves just like in
+02:07:57.20 --> 02:08:00.96 jujitsu you can't just do one move you can't recently you can't really even just do two you
+02:08:00.96 --> 02:08:06.88 got to do multiple moves to make the enemy not sure what's really important what's really going on
+02:08:06.88 --> 02:08:11.04 and you know I was I was doing a little bit of research because I always people will sometimes bring
+02:08:11.04 --> 02:08:20.32 up d day what about d day front all assault right yep yeah kind of guess what the deception
+02:08:20.32 --> 02:08:28.56 that the allied forces did to make Hitler and the Nazis unaware I think it was something like
+02:08:28.56 --> 02:08:34.56 I don't think Hitler committed all of his forces to Normandy for seven weeks because they were
+02:08:34.56 --> 02:08:39.36 expecting general patent that was the whole big scam like hey we got patent he's going to come in
+02:08:39.36 --> 02:08:46.80 this other spot and and so for seven weeks the Nazis were like no don't commit so even though it was
+02:08:46.80 --> 02:08:53.12 they looked like a direct assault there was a massive fake going on that that Germany didn't commit
+02:08:53.12 --> 02:09:00.16 their forces for seven weeks that's crazy so it looked like a frontal assault I get it but man
+02:09:00.16 --> 02:09:06.96 there was some distraction going on well just like he was he was just saying it's it's it's only
+02:09:06.96 --> 02:09:11.20 a frontal assault if the enemy recognizes this is a frontal assault and then lines up his defenses
+02:09:11.20 --> 02:09:17.44 against that frontal assault and the psychology of that the human nature reaction is the thing
+02:09:17.44 --> 02:09:23.04 that actually matters the most is your response to my interaction and if you think it's a frontal
+02:09:23.04 --> 02:09:28.56 assault they're going to react like it's a frontal assault and you're going to dig in and it was like
+02:09:28.56 --> 02:09:32.08 something's going something's going on here and like actually it's a frontal assault you don't know
+02:09:32.08 --> 02:09:36.32 it's a yeah it's a isn't a frontal assault it's a flank because they are putting their defenses elsewhere
+02:09:36.32 --> 02:09:42.88 yeah the purpose of this distraction is to deprive the enemy of his freedom of action and it should
+02:09:42.88 --> 02:09:47.60 operate both the physical and psychological fear spheres in the physical it should cause a
+02:09:47.60 --> 02:09:53.60 distension of his forces or their diversion to unprofit lens of that they are too widely distributed
+02:09:54.88 --> 02:10:00.48 and to commit it elsewhere who's exactly what D.A. was to have the power of interfering with one's
+02:10:00.48 --> 02:10:05.76 own decisively intended move which was we're going to hit it in the psychological fear sphere
+02:10:05.76 --> 02:10:11.20 the same effect is sought by playing upon the fears this the fears of and by deceiving the opposing
+02:10:11.20 --> 02:10:18.56 command stone wall jacks an athlete of expressed this in his strategic gomato mystify mislead and
+02:10:18.56 --> 02:10:24.72 surprise for to mystify and mislead constitutes distraction while surprise is the essential cause of
+02:10:24.72 --> 02:10:30.64 dislocation is through the distraction of the commander's mind that the distraction of his forces
+02:10:30.64 --> 02:10:37.12 follows the loss of his freedom of action is the sequel to the loss of his freedom of conception
+02:10:39.20 --> 02:10:44.000 a more profound appreciation of how the psychological permeates and dominates the physical
+02:10:44.000 --> 02:10:51.20 fear sphere has an indirect value for it warns us of the fallacy and shallowness of attempting to
+02:10:51.20 --> 02:11:00.56 analyze and theorize about strategy in terms of mathematics to treat it quantitatively as if
+02:11:00.56 --> 02:11:07.76 the issue turned merely on superior concentration of force at a selected place is as faulty as
+02:11:07.76 --> 02:11:18.48 to treat it geometrically as a matter of lines and angles not just numbers even more remote from the
+02:11:18.48 --> 02:11:25.92 truth because in practice it usually leads to a dead end is the tendency of textbooks to treat war
+02:11:25.92 --> 02:11:32.24 as mainly a matter of concentrating superior force in his celebrated definition of economy of force
+02:11:32.96 --> 02:11:42.000 fock termed this the art of pouring out all one's resources at a given moment on one spot of making
+02:11:42.000 --> 02:11:48.40 use there of all truths and to make such a thing possible of making those troops permanently
+02:11:48.40 --> 02:11:54.16 communicate with each other instead of dividing them and attaching to each fraction some fixed
+02:11:54.16 --> 02:12:00.64 in invariable function its second part a result having been attained is the art of again so
+02:12:00.64 --> 02:12:06.48 disposing the troops as to converge upon and act against a single new objective and quote
+02:12:09.76 --> 02:12:15.12 it would have been so there's the there's the economy force like hey we're going to put all of our
+02:12:15.92 --> 02:12:21.12 forces in the right spot at the right time which we all know we learn that all the time and that's
+02:12:21.12 --> 02:12:26.08 part of prioritize an execute that is part of prioritize an execute is listen you got multiple things
+02:12:26.08 --> 02:12:34.88 you need to concentrate your forces on unobjective efficiently it would have been more exact and
+02:12:34.88 --> 02:12:41.44 he's kind of take upon a little a little hit on this quote from from fock who by the way this is
+02:12:41.44 --> 02:12:50.32 burden and a burden and fock this is the the French allied commander world war one so we kind of
+02:12:50.32 --> 02:12:56.72 already aren't super stoked on him because guess what he did he carried out his strategy
+02:12:56.72 --> 02:13:00.88 hey well gotta get more forces as we're gonna do concentrate all force will be blow that whistle
+02:13:00.88 --> 02:13:08.24 we're gonna break through this time no here's why it would have been more exact and more lucid to
+02:13:08.24 --> 02:13:15.84 say that an army should always be so distributed distributed that its parts can aid each other
+02:13:15.84 --> 02:13:23.36 and combine to produce the maximum possible concentration of force at one place while the minimum
+02:13:23.36 --> 02:13:30.40 force necessary is used elsewhere to prepare the success of the concentration this is what
+02:13:30.40 --> 02:13:37.44 cover movies this is what cover movies is you and and there's a doctrinal term and I used to tell
+02:13:37.44 --> 02:13:45.20 this the young seals is a doctrinal term called supporting distance and what supporting distance is you
+02:13:45.20 --> 02:13:50.56 Dave and me your platoon and my platoon or your company and my company or your battalion and my
+02:13:50.56 --> 02:13:55.92 battalion we aren't gonna get so far apart that we can't support each other so that means if
+02:13:55.92 --> 02:14:00.72 if we only have rifles we're gonna be 400 500 yards from each other you know depending on the
+02:14:00.72 --> 02:14:05.68 terrain if the terrain is you know mountainous or we might be closer than that because I want to
+02:14:05.68 --> 02:14:10.56 be able to provide support to you if we have mortars cool now we can stretch it out a little bit more
+02:14:10.56 --> 02:14:15.12 if we have our teller we can stretch it out even more but we need to be able to
+02:14:16.000 --> 02:14:22.16 cover and move for each other we need to be able to support each other and if we get too far apart
+02:14:22.64 --> 02:14:27.84 you're alone man we had a term that we got to coin it was called fluid mutual support
+02:14:28.72 --> 02:14:33.04 which is we when you say we got to coin this expand bro it's so this is when you can
+02:14:33.04 --> 02:14:38.64 good deal Dave well over here making stuff up listen well listen when we at Top Guns
+02:14:38.64 --> 02:14:45.84 figured out like we used to have just superior equipment superior technology better machines more
+02:14:45.84 --> 02:14:50.000 of them they worked better and we were fighting and I think I talked about this a while ago we were
+02:14:50.000 --> 02:14:55.76 firing and fighting an inferior opponent to be totally honest with you our tactics were kind of
+02:14:55.76 --> 02:14:59.76 straightforward they just wasn't that complicated and we didn't just like barge right in there and
+02:14:59.76 --> 02:15:04.16 fight them but you know our tactics relied on the fact that in the end our stuff was better than
+02:15:04.16 --> 02:15:09.12 your stuff and it's flown correctly well over time we couldn't rely on that anymore they're
+02:15:09.12 --> 02:15:12.32 equipment got better than ours they were able to do things we couldn't do and what we had to
+02:15:12.32 --> 02:15:17.12 start doing is taking that same equipment and start to utilize them differently and one of
+02:15:17.12 --> 02:15:20.88 things we had to get away from was cover move for airplanes used to be a thousand feet away
+02:15:21.44 --> 02:15:26.56 2000 feet away and you stay together I turn you turn you I go you go and your job is a wingman
+02:15:26.56 --> 02:15:31.44 and how I grated your performance as a wingman as how well you stayed inside that what we called
+02:15:31.44 --> 02:15:37.44 visual visual visual sports and if you lost sight of me believe me we you were going to hear about
+02:15:37.44 --> 02:15:47.68 in the debrief and what we evolved to was because of inferior equipment we had to actually get
+02:15:47.68 --> 02:15:54.32 farther away from each other so in simple as terms we could figure out who is the person who is
+02:15:54.32 --> 02:16:00.64 the aircraft in the formation that was fundamentally the most at risk or the most likely to be engaged
+02:16:00.64 --> 02:16:05.44 and the other aircraft could then flank or maneuver or come in from a different three-dimensional
+02:16:05.44 --> 02:16:13.12 direction to support that person and it was fluid because it changed it wasn't exactly on the 35 degree
+02:16:13.12 --> 02:16:19.68 bearing line at five miles it evolved based on weather based on weapons based in the formation
+02:16:19.68 --> 02:16:25.44 and just like you described it and I had to know and if I got too far away I couldn't support you and if I was too close to
+02:16:25.44 --> 02:16:31.28 you I couldn't maneuver in a way that allowed me to have an advantageous entry to the problem I flank
+02:16:32.000 --> 02:16:36.48 because I was too close to you and while you were talking about that I was just thinking of
+02:16:37.04 --> 02:16:43.28 the French approach to older one this culminating thing versus just the standard combined arms effect
+02:16:43.28 --> 02:16:46.88 oh cool I don't need a million tanks I got a couple tanks so you don't want to rock
+02:16:46.88 --> 02:16:49.36 to the tanks cool they're going to run you over you want to rock to the tanks cool come
+02:16:49.36 --> 02:16:51.60 out your holes we're going to get your their children you don't want to deal with their
+02:16:51.60 --> 02:16:55.52 artillery you're going to dig in cool I'll roll over the aircraft and I don't need an
+02:16:55.52 --> 02:17:01.44 overwhelming force of any of those three but I need them together in support of one another
+02:17:01.44 --> 02:17:04.72 and I don't know in the end who's going to get the kill or who's going to be the reason why I'm
+02:17:04.72 --> 02:17:09.20 successful but you're going to have to react to something and if you don't one of those different
+02:17:09.20 --> 02:17:13.52 arms those different supporting elements will eventually be the thing that causes you to lose
+02:17:13.52 --> 02:17:25.60 supporting distance covered move and and now fluid mutual support we better I'm going to do it
+02:17:25.60 --> 02:17:29.60 I should have known that I was going to totally submarine your goals of getting through this by
+02:17:29.60 --> 02:17:36.24 talking way too much I planned for this so we'll wrap it up with another paragraph and then we'll
+02:17:36.24 --> 02:17:43.12 we'll do the next on the next podcast here's where he's going to break down Fox statement a little
+02:17:43.12 --> 02:17:52.48 bit he says wind because Fox said the art of pouring all one's resources so so ladel hard says
+02:17:52.48 --> 02:17:58.80 the concentrate all is an unrealizable ideal and dangerous even as a hyperbole
+02:17:59.92 --> 02:18:06.56 moreover in practice the minimum necessary maybe a far larger portion of the total
+02:18:06.56 --> 02:18:11.44 than maximum possible they would even be true to say that the larger the force that is effectively
+02:18:11.44 --> 02:18:16.88 used for distraction of the enemy the greater the chance of the concentration succeeding in its aim
+02:18:18.16 --> 02:18:25.28 for otherwise it may strike an object to solid to be shattered this is like um
+02:18:26.56 --> 02:18:33.92 in jujitsu if you if I try and sweep you but it's I'm not really trying to sweep you you don't even
+02:18:33.92 --> 02:18:38.88 have to react to it I have to really try and sweep you then if I really try and sweep you then you
+02:18:38.88 --> 02:18:43.28 expose your neck boom cool you stick your neck out to you you know you push into me and boom there's
+02:18:43.28 --> 02:18:49.04 your neck I can get the guillotine if I don't actually put enough force to get but if I put too much
+02:18:49.04 --> 02:18:54.80 force into that well and you defend it well well now I've used a bunch of energy didn't work
+02:18:54.80 --> 02:19:00.32 and how often am I going to do that so we have to be careful and what he's saying is you want to
+02:19:00.32 --> 02:19:05.92 use it's what we talk a lot about a lot about edescalum front which is minimum force required
+02:19:05.92 --> 02:19:12.64 well like how much force do I need to use to get you to react and if if I only have to use you know
+02:19:12.64 --> 02:19:17.28 10% of my force over here to get you to react that means I have 90% of my force to finish
+02:19:17.28 --> 02:19:23.84 you finish the job on the flank closing this out superior weight at the intended decisive
+02:19:23.84 --> 02:19:29.28 point does not suffice unless that point cannot be reinforced in time by the opponent
+02:19:30.32 --> 02:19:34.16 yeah you can you can put a bunch I can go for your arm but if you're going to grab with your
+02:19:34.16 --> 02:19:39.60 other arm and defend it well it doesn't matter that I singled out your arm it rarely suffices
+02:19:39.60 --> 02:19:44.08 unless that point is not merely weaker numerically but has been weakened morally
+02:19:45.12 --> 02:19:51.20 Napoleon suffered some of his worst checks because he neglected this guarantee and the need for
+02:19:51.20 --> 02:20:01.36 distraction has grown with the delaying power of weapons so there you go that's a warm-up
+02:20:01.36 --> 02:20:07.04 with almost two and a half hours deep right now we're talking it's it's only going to get deeper from here
+02:20:08.80 --> 02:20:14.80 let's let's call it for right now let's get into some I don't know echo Charles maybe the
+02:20:15.68 --> 02:20:22.56 anything any closing statement safe all right let's let's roll into a little little quick activity with
+02:20:22.56 --> 02:20:29.84 you know maybe a little bit of support sure you know I know we're trying to be indirect but
+02:20:29.84 --> 02:20:35.36 maybe there's some direct ways we can kind of help ourselves out sure what you got or some help in our
+02:20:36.80 --> 02:20:43.68 on our path which includes being indirect as far as effectiveness goes concur yeah so let's talk
+02:20:43.68 --> 02:20:50.88 with our friend Kerry and you and I just kind of come to realize that this path is not that hard anymore
+02:20:51.52 --> 02:20:58.40 it's hard but it's not as hard you're taking my Vapath that we're all on and okay I didn't know that
+02:20:58.40 --> 02:21:02.96 this was like the path just got easy little bit easier okay more easier yeah easier it's not
+02:21:02.96 --> 02:21:09.12 easy all that's hard still but it's easier in this way juggle fuel boom this is why you drink
+02:21:09.12 --> 02:21:13.68 energy drinks that's no longer a problem if you're on the path and you're like into energy drinks
+02:21:13.68 --> 02:21:18.24 right get to get real those and sometimes it'll take will power understand you know at the very
+02:21:18.24 --> 02:21:23.20 least in adjustment period that might not be very comfortable yeah let's not like that anymore
+02:21:23.20 --> 02:21:29.60 and drink all energy drinks you on anymore just plain go and drink good for you boom path easier
+02:21:29.60 --> 02:21:34.72 yeah right that adjust I have to concur the path just got easier that goes with the correct
+02:21:34.72 --> 02:21:40.88 it's sure also we want to have dessert right yeah well if you're on the path what's
+02:21:40.88 --> 02:21:46.40 you gotta start excluding dessert from time to time in fact pretty much all the time on the path
+02:21:46.40 --> 02:21:54.16 yeah the occasional dessert can happen I mean yeah I mean my daughter's birthday yesterday
+02:21:54.16 --> 02:21:59.76 yes I understand oh but I was at Ragland which is kind of one of my go to
+02:21:59.76 --> 02:22:06.32 right it might be my favorite restaurant yeah and they have that that cast iron pan with the
+02:22:06.32 --> 02:22:12.32 talk it's yeah they call it the illegal yeah it's good they're like it's so good it should be illegal
+02:22:12.32 --> 02:22:18.80 yeah good name so we had to order some illegal from my daughter's birthday yeah it's a birthday
+02:22:18.80 --> 02:22:25.36 right did that illegal girl right so when it showed up the ice cream just melts in the pan
+02:22:25.36 --> 02:22:30.16 dude it's a whole no situation yeah I understand well let's face it to your point we can't be doing
+02:22:30.16 --> 02:22:36.16 that you know every day every day exactly we would probably not even more than once per month
+02:22:36.16 --> 02:22:41.04 what if you could though because you don't do it for the illegal necessarily most of us we do it
+02:22:41.04 --> 02:22:45.20 because hey that could that thing tastes good yeah you know let's face it yeah after dinner
+02:22:45.20 --> 02:22:49.04 Ragland I'm assuming you got some steak or something like this it's not like you're like starving
+02:22:49.04 --> 02:22:53.76 and hungry after the steak you just want some things yeah that's it's it's it's it's it's it's
+02:22:53.76 --> 02:22:58.40 sad so you get that so you get it you get the illegal you got the yours things sweet cool
+02:22:58.40 --> 02:23:04.000 but you pay a price yeah now on this new path we don't gotta pay the price look at that
+02:23:04.000 --> 02:23:11.44 easier do it every day let's talk about more I have to talk about that one of the
+02:23:11.44 --> 02:23:16.88 yes so and you get additional protein in the form of this dessert so boom right there path
+02:23:16.88 --> 02:23:22.72 little bit easier you see what I'm saying yeah um good news it also we got some other supporting
+02:23:22.72 --> 02:23:27.36 elements uh for your joints during our first super cruel oil that stuff before you immunity
+02:23:27.92 --> 02:23:32.16 well you know what you're saying right now is actually a pretty big deal like if you think about
+02:23:32.16 --> 02:23:37.76 if you think about the the fact that someone right now is like well they're drinking
+02:23:37.76 --> 02:23:43.52 three energy drinks a day yeah and it's not good for them and it is gonna have long term
+02:23:44.48 --> 02:23:49.12 negative health effects legitimate well they're doing it for a reason right they need the benefit
+02:23:49.12 --> 02:23:53.76 of the energy drink whatever that is but it's like that's not it's a problem it's a problem
+02:23:53.76 --> 02:23:58.56 and and all of a sudden like that like with a snap of the fingers you're you can actually
+02:23:58.56 --> 02:24:06.48 you can actually still get the benefits with no downside that's freaking crazy no problem yeah
+02:24:07.20 --> 02:24:12.40 yeah same thing with dessert all the benefits sweetness goodness filling
+02:24:14.72 --> 02:24:19.28 let's face it there's a certain texture too like that you kind of you know you want that mole
+02:24:19.28 --> 02:24:29.52 clear that's true but it's all true so you know does that go against the whole hayman
+02:24:29.52 --> 02:24:34.56 the path is hard embrace the hardness you look okay but the his his the dichotomy you
+02:24:34.56 --> 02:24:39.20 turn me on to this he can't have some big deal this is a big deal too look I think I thought
+02:24:39.20 --> 02:24:43.12 be a to the dell heart and some in for for today but apparently I got a job of coming
+02:24:43.12 --> 02:24:48.80 in I would the facts the truth I'm doing the best they can talk of here to benefit the group um you
+02:24:49.76 --> 02:24:55.52 look the goal isn't to drink milk that's not the goal it's a means to an end
+02:24:56.32 --> 02:25:02.72 I'm learning to check so the milk is the protein to help us recover from our workouts
+02:25:02.72 --> 02:25:09.36 all right same same yeah right so it's more efficient why should we fight that battle
+02:25:09.36 --> 02:25:15.12 we don't have to the same thing cool take them all no matter no fact yeah easy money boom
+02:25:15.12 --> 02:25:20.000 more efficient when without a fight when we're not choking down some crap yes some
+02:25:20.88 --> 02:25:26.80 chalky how much do you think forward to milk very much so I look I'm I get super
+02:25:26.80 --> 02:25:31.20 amped oh yeah and it's the kind and this is good not to hide a malk before we train
+02:25:32.64 --> 02:25:36.64 normally I don't do that but I don't know before we train today because I got done with the
+02:25:36.64 --> 02:25:41.92 EF online like what 12 30 and we weren't gonna train until 230 times like
+02:25:43.12 --> 02:25:47.12 because normally I don't eat until after the train but today
+02:25:48.72 --> 02:25:53.52 again it was calling you you know how certain desserts call your name that's what's happening
+02:25:53.52 --> 02:25:56.48 too yeah yeah I understand I just don't fully be guess what no problem
+02:25:56.48 --> 02:26:00.72 calling this path that we're on just got a little bit easier so you don't kind of worry about that anymore
+02:26:00.72 --> 02:26:06.08 check so yeah like I said we had got E-Munity stuff as well cold war uh vitamin D3 boom
+02:26:06.08 --> 02:26:10.40 take that all guarantee your path would be a little bit easier versus if you don't take
+02:26:10.40 --> 02:26:14.88 that we're not getting sick all of a sudden thank you which we like you can get this you
+02:26:14.88 --> 02:26:18.24 get the drinks at wall wall by the way on the east coast if you're on the east coast you're
+02:26:18.24 --> 02:26:22.48 gonna wall walk get yourself you can clear out shelves whatever that's kind of like what we're doing
+02:26:23.28 --> 02:26:30.56 sanction really sanctioned authorized yeah authorized cori my boy cori my cousin cori rolled in
+02:26:30.56 --> 02:26:36.64 with an actual cooler to a wall wall and just started clearing shelves straight up like what yeah
+02:26:36.64 --> 02:26:41.20 where's what we're doing where he's just looking at like this like oh yeah you need a wall
+02:26:41.20 --> 02:26:45.52 you need you can get this stuff at vitamin shop vitamin shop has the whole line of uh uh the
+02:26:45.52 --> 02:26:53.92 supplement so you can go to vitamin shop or you go to jockelfield.com and get some if you want some
+02:26:53.92 --> 02:27:01.04 yep and if you're interested in a little discount little free shipping little not having to worry
+02:27:01.04 --> 02:27:06.80 about remembering to make sure you're always stopped get the subscription path just got a little
+02:27:06.80 --> 02:27:11.04 leave your easier even if the path just got to leave an easier we're efficient remembering we're
+02:27:11.04 --> 02:27:15.36 not worried about it more efficient when how we can focus on something else you know no distraction
+02:27:16.08 --> 02:27:19.20 technically it's BH little delheart it would be like oh you got a distraction going on you
+02:27:19.20 --> 02:27:23.36 to write down remember to order no it's to eliminate that so that we can focus our efforts exactly
+02:27:23.36 --> 02:27:27.36 right hundred percent in a way it's decentralized command too because Pete guys over there they're
+02:27:27.36 --> 02:27:33.44 over they're taking over that's their jam now and they're coming for you so you can go move elsewhere
+02:27:34.08 --> 02:27:40.000 okay so you can subscribe is what we're saying get free shipping check yeah it's true also
+02:27:40.000 --> 02:27:46.48 origin USA dot com is where you can get your american made good durable goods as it were but what
+02:27:46.48 --> 02:27:52.72 that means is you can get american made denim jeans a few models there we got delta 68 and the
+02:27:53.52 --> 02:28:00.96 factory factory yeah and you say factory like they don't I was at the UDG seal museum in four
+02:28:00.96 --> 02:28:08.72 peers for them yeah it's awesome and they had a guy that what's like a statue on
+02:28:08.72 --> 02:28:14.32 it's not a statue it's a mannequin is there a word for that mannequin okay there's a mannequin
+02:28:14.32 --> 02:28:21.36 but he's dressed up like a like a nom seal straight up just wearing jeans just straight up
+02:28:21.36 --> 02:28:27.60 that's what he's in the case you know the glass case right like a like a like a action figure yeah
+02:28:27.60 --> 02:28:34.80 big one big life like that yeah yeah you can get so we made those delta 68's because I know
+02:28:35.76 --> 02:28:39.76 look I'm probably gonna be living multiple lives you know I'll be back here I was about five
+02:28:39.76 --> 02:28:45.84 years ago the war and when I come back it's probably gonna be back in nom again could be
+02:28:45.84 --> 02:28:50.80 possibly I don't know I'm gonna wear jeans and I'm gonna wear delta 68 jeans and I just
+02:28:50.80 --> 02:28:56.64 want the world to know that and like I said they all are made in America from the even the
+02:28:56.64 --> 02:29:02.96 bra materials the dirt to the shirt for the jeans as the case may be also this belts on there
+02:29:02.96 --> 02:29:08.24 some cool wallets on there hoodies athletic wear anyway that's a lot of stuff on there you get
+02:29:08.24 --> 02:29:14.08 what I'm all made in America or junior essay dot com also good news we have our own store
+02:29:15.28 --> 02:29:20.64 been had our own store since day one which is again good news just in case you didn't know
+02:29:20.64 --> 02:29:27.36 was it day one day eight okay I think okay maybe I don't know one of the early days we'll say that
+02:29:27.36 --> 02:29:32.48 it's called jocco store so you go to jocco store dot com and this is where you can get your shirts,
+02:29:32.48 --> 02:29:37.52 hats hoodies, rash guards, this kind of stuff discipline equals freedom represent all around the
+02:29:37.52 --> 02:29:42.80 path so boom not only did the path get a little bit easier got a little bit cooler
+02:29:43.84 --> 02:29:49.68 swiping in jocco store dot com oh also we have the ace uh subscription situation as well it's
+02:29:49.68 --> 02:29:57.04 called the shirt locker this is all the shirts that you may or may not see me sometimes Dave Burke
+02:29:57.04 --> 02:30:03.28 now carry wearing where you're like oh I didn't see that shirt on the store and you're like oh
+02:30:03.28 --> 02:30:07.44 what do I get that one what do I get that one I know I'm saying this could people are literally saying
+02:30:07.44 --> 02:30:12.80 that to me or whatever you go to the shirt locker and you subscribe that's where you get those shirts
+02:30:12.80 --> 02:30:18.40 so yeah the designs are more how should I say it a little bit off off the street in narrow
+02:30:18.40 --> 02:30:22.96 and more creative let's best wick and say it right now unless it's called the shirt lockers so
+02:30:22.96 --> 02:30:28.000 subscribe for that one if you want yeah and by the way you can subscribe to this podcast you can
+02:30:28.000 --> 02:30:32.64 also check out jocco unraveling which I'm doing with their all Cooper we're going hard in the
+02:30:32.64 --> 02:30:37.44 paint with that one we got the grounded podcast we got the warrior kid podcast which I know I
+02:30:37.44 --> 02:30:43.52 oh you also got the jockel underground the underground podcast we're we're doing an amplifying
+02:30:43.52 --> 02:30:49.92 information we're doing a lot of Q&A on that one because we have a little direct methodology you can
+02:30:49.92 --> 02:30:55.84 ask questions so we're doing a lot of Q&A you've been giving some good advice on that one and
+02:30:55.84 --> 02:31:02.88 speaking from my position personally that one about the 13 year old kids right the teacher trying
+02:31:02.88 --> 02:31:07.84 to control the class right like sometimes they're kind of kind of crazy sometimes but it's like
+02:31:07.84 --> 02:31:12.32 man they kind of get crazy like what do I do how do I deal with that man that was a good one yeah
+02:31:12.32 --> 02:31:18.32 really good and a lot of that it's yeah it's just good questions coming in so hey if you want to
+02:31:18.32 --> 02:31:22.48 get to if you want to listen to that we set this up because we need to have some kind of an
+02:31:22.48 --> 02:31:29.92 alternative platform in case in case in case what well contingencies happen what if what if some
+02:31:29.92 --> 02:31:34.24 of these platforms decide to start charging you money what if some of these platforms decide to
+02:31:34.24 --> 02:31:39.92 start interjecting their own advertisements into them what if they just straight up censor us
+02:31:39.92 --> 02:31:44.56 because they don't like what we're talking about any of these things could happen if those things happen
+02:31:45.68 --> 02:31:51.76 we wanted to have our own backup plan so we have one jockel underground.com it costs $8 and $18
+02:31:51.76 --> 02:31:57.12 cents a month through support the cause and if you can't afford it no factor we're the reason
+02:31:57.12 --> 02:32:02.16 this isn't like oh we don't want you in the game we want you in the game if you can't afford it
+02:32:02.16 --> 02:32:07.36 email assistance at jockel wonderground.com and we'll take care we also have a YouTube channel
+02:32:08.40 --> 02:32:15.68 that you can also subscribe to if you want to see my assistant director skills which are
+02:32:15.68 --> 02:32:23.20 in action on that origin USA also has a YouTube channel you want to see main ties skills doing some good
+02:32:23.20 --> 02:32:28.72 work up there main tie. I'll talk to him today about some stuff I won't go into it.
+02:32:28.72 --> 02:32:34.000 I'm going to have a good time. Thanks. Also psychological warfare if you don't know what that is
+02:32:34.000 --> 02:32:40.32 it's an album jockel album with tracks jockel tracks telling you us how to get past and through our
+02:32:40.32 --> 02:32:46.64 moments of weakness make them be less of a factor on this path. Oh I got a little bit easier again
+02:32:47.52 --> 02:32:54.08 now you got jockel there supplements that taste good no factor and boom you can just keep rolling
+02:32:54.08 --> 02:32:59.28 on that path a little bit easier a little bit more luxurious. You can also get flipside canvas.com
+02:32:59.28 --> 02:33:03.12 to code a Myers company he's putting stuff to hang on your wall stuff that's cool.
+02:33:03.12 --> 02:33:12.32 I'm American made check it out we got a bunch of books final spin got a novel common about novel stuff
+02:33:14.16 --> 02:33:20.80 have you read the late have you read the final Dave? I don't know I read I think you might have
+02:33:20.80 --> 02:33:25.52 made a couple of small edits since then. Orch your assessment you know my assessment.
+02:33:27.76 --> 02:33:32.24 The better assessment was my wife's assessment. What about your wife's assessment? That was the real
+02:33:32.24 --> 02:33:38.000 assess because she has no uh zero skin or not skin of the game no loyalty dog and yeah what if
+02:33:38.000 --> 02:33:42.96 you're not actually a hearing about me she's probably looking to drop the hammer what was her assessment?
+02:33:43.68 --> 02:33:50.96 Well the best assessment was she finished it in two settings. Wow and that's like going
+02:33:50.96 --> 02:33:54.48 to bed I'm going to crack the book open I'm like hey just hey read this tell me what you think
+02:33:54.48 --> 02:33:59.36 kind of scenario not like a big pressure move and she kind of got through two to two
+02:33:59.36 --> 02:34:05.36 thorns of it and then the next time finish it she's like that was really good like that the
+02:34:05.36 --> 02:34:13.28 finished a book in a day in two readings like two settings uh speaks volumes that's good deal it's
+02:34:13.28 --> 02:34:18.80 good so that's coming out actually the date change I want it comes out it's coming out now no it's
+02:34:18.80 --> 02:34:25.44 coming out a little bit earlier yeah it seems like the demand is kind of kicking so good looks like
+02:34:25.44 --> 02:34:32.000 when moving that right I think it's November sixth now so if you want that you know the deal if you
+02:34:32.000 --> 02:34:35.36 want that first the dish leader substraging attack is field manual the code the evaluation
+02:34:35.36 --> 02:34:41.20 the protocol is discipline is freedom field manual way the word or kid want to three and four
+02:34:42.40 --> 02:34:49.52 about face we talked about it today Mikey and the dragons freaking the dragons it's incredible
+02:34:49.52 --> 02:34:55.52 how often I have to talk about Mikey on the Mikey the dragons I'm going to explain that story to adults
+02:34:56.32 --> 02:34:59.36 because people are coming afraid to do this I'm afraid to do that it's like oh it's coming
+02:34:59.36 --> 02:35:03.36 question and even from leaders like I'm afraid to address this it's like at all the time
+02:35:05.36 --> 02:35:08.88 about face hack worth we talked about it today and then extreme ownership and the dichotomy and
+02:35:08.88 --> 02:35:13.36 leadership we have a leadership consultant consultancy we saw problems through leadership if you
+02:35:13.36 --> 02:35:19.44 want to check that out go to echelonfront.com we have online training as well it's
+02:35:19.44 --> 02:35:26.72 like a leadership gym right with trainers yeah with trainers what do you just think you're going to
+02:35:26.72 --> 02:35:32.000 just stay in shape by sitting at home no you got to go to the gym what how's your leadership
+02:35:32.000 --> 02:35:36.72 going to get better how's your leadership just going to even stay at a good level got to go to
+02:35:36.72 --> 02:35:44.08 the leadership gym that's what we've got yeah phone line dot com yeah yeah phone line dot com
+02:35:44.08 --> 02:35:51.92 extreme ownership academy so if you want to learn about leadership go there we got courses on
+02:35:51.92 --> 02:35:55.92 there we're doing live stuff all the time we're doing live stuff all the time you want to ask me
+02:35:55.92 --> 02:36:00.32 a question go there all answer your question and I'll actually dig down and Dave will come
+02:36:00.32 --> 02:36:06.80 in off the top roads label be flanking the whole situation like we're there and we have the
+02:36:06.80 --> 02:36:14.08 monster we just got done with Orlando next monster is Phoenix in August August 17th and 18th Las Vegas
+02:36:14.08 --> 02:36:19.68 October 28th and 29th go to extremownership.com everything we've done is sold out so if you want to
+02:36:19.68 --> 02:36:26.96 come go and register we also have EF battlefield we also hate EF battlefield we don't have one
+02:36:26.96 --> 02:36:31.92 on the calendar right now the next thing we do have on the calendar is FTX where you're going to put
+02:36:31.92 --> 02:36:37.60 on gear laser tag gear we have this high speed laser tag system and you're going to run operations
+02:36:38.32 --> 02:36:44.08 and learn these leadership lessons the next one we're doing is in San Diego, Diego right here in
+02:36:44.08 --> 02:36:53.44 SD July 12 from 13th so if you want to come this only 32 seats for that we haven't really talked
+02:36:53.44 --> 02:36:58.88 about it yet so we kind of we kind of turned it on when they started filling up we filled up another
+02:36:58.88 --> 02:37:04.40 one so here we go July 12 from 13th FTX in San Diego you're going to run operations you're going
+02:37:04.40 --> 02:37:10.000 to put these principles to use give it check it out and then if you want to help service members
+02:37:10.000 --> 02:37:14.64 you want to help service members active and retired their families gold star families check out
+02:37:14.64 --> 02:37:20.48 mark Lee's mom mom Lee her she's got a charity organization doing all kinds of great work for
+02:37:20.48 --> 02:37:26.08 veterans will the main thing she's doing is getting medical treatments for our vets that maybe
+02:37:26.08 --> 02:37:32.000 aren't being covered by the VA if you want to donate or you want to get involved go to america's
+02:37:32.000 --> 02:37:41.92 mighty warriors dot org and if you want more of my protracted pontifications we need more of
+02:37:41.92 --> 02:37:50.08 echoes misplaced meandering or perhaps even more of Dave's animated additions you can find us on the
+02:37:50.08 --> 02:37:57.36 inner webs on Twitter on the Graham and on Facebook echoes at equitros Dave is at David
+02:37:57.36 --> 02:38:03.20 art Burke and I am at juggle willing and to the military service men and women out there
+02:38:04.64 --> 02:38:12.88 thank you for putting the strategy of freedom in detectics and keeping the world from darkness
+02:38:12.88 --> 02:38:18.40 same goes to our police and law enforcement firefighters paramedics EMTs dispatchers correctional
+02:38:18.40 --> 02:38:25.84 officers border patrol secret service and all first responders thanks for keeping the world safe from evil
+02:38:25.84 --> 02:38:32.72 here at home and everyone else out there the direct approach is not as direct as you think
+02:38:33.76 --> 02:38:41.20 to think again and maybe maybe just try taking the long way around because the long way around
+02:38:41.20 --> 02:38:51.28 you might find out ends up being the shortest distance between two points until next time this is
+02:38:51.28 --> 02:39:09.60 Dave and echo in juggle out

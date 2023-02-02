@@ -1,0 +1,1883 @@
+00:00:00.000 --> 00:00:14.72 This is Jocco podcast, number 13, with Echo Charles and me, Jocco Willink.
+00:00:14.72 --> 00:00:29.96 This is extracted from US Army FM-3106-2.11, combined arms operations in urban terrain.
+00:00:29.96 --> 00:00:39.96 Following the collapse of the Soviet Union, the people of Chechnya began to seek full independence.
+00:00:39.96 --> 00:00:48.96 By 1994, Chechnya had fallen into civil war between pro-independence and pro-Russian factions.
+00:00:48.96 --> 00:00:56.80 In December 1994, Russia sent 40,000 troops into Chechnya to restore Russian primacy over the breakaway
+00:00:56.80 --> 00:00:57.80 republic.
+00:00:57.80 --> 00:01:05.80 At attack was launched by 6,000 mechanized troops against the Chechnya capital of Grosni.
+00:01:05.80 --> 00:01:18.80 Instead of the anticipated light resistance, Russian forces encountered heavy resistance from the Chechnya's armed with massive amounts of anti-tank weapons.
+00:01:18.80 --> 00:01:30.80 The Russians were repulsed with shockingly high losses. It took them another two months of heavy fighting and changing their tactics before they were able to capture Grosni.
+00:01:30.80 --> 00:01:46.80 Between January and May 1995, Russian losses in Chechnya were approximately 2,800 killed, 10,000 wounded, and over 500 missing or captured.
+00:01:46.80 --> 00:01:53.80 The Chechnya casualties were also high, especially among non-combatants.
+00:01:53.80 --> 00:02:07.80 This war is a major and cautionary episode in military history. The large scale lessons of Chechnya lie in these areas.
+00:02:07.80 --> 00:02:25.80 It showed again the limited effectiveness of heavy weaponry in urban terrain and by extension the crucial importance of well-trained, well-led, well-equipped and highly motivated infantry.
+00:02:25.80 --> 00:02:39.80 It proved again that a society-judged primitive or chaotic by Western standards can still generate a tremendous fighting spirit and very effective military discipline.
+00:02:39.80 --> 00:02:45.80 This is not a new lesson.
+00:02:45.80 --> 00:02:59.80 It's a little introduction to the focus for today, and that's this Soviet attack on Chechnya, the Breakaway Republic.
+00:02:59.80 --> 00:03:12.80 It's just urban combat. That's what I found it very fascinating. I remember at the first time I started to...
+00:03:12.80 --> 00:03:20.80 The first significant moment when I remembered hearing about the lessons learned from Chechnya.
+00:03:20.80 --> 00:03:34.80 You watch it, we all watched it. I was in the military at the time. But the first time I remember hearing about the lessons learned was actually when I was going through Officer Candidate School in 1998.
+00:03:34.80 --> 00:03:56.80 For whatever reason, one of the Marine Corps drill instructors had put this series of lessons learned of the Russian military up on the wall. And this is something I talk about occasionally is that the lesson that I remembered seeing there was that it was when they stopped shaving.
+00:03:56.80 --> 00:04:07.80 When the Russian troops stopped shaving, it was like the beginning of the end. Discipline fell apart, morale fell apart, and everything turned into a disaster. There weren't a bunch of other lessons.
+00:04:07.80 --> 00:04:18.80 I've looked for that specific document, and I haven't been able to find it. I don't know what the specific document was that said that, but I found others that are close to that.
+00:04:18.80 --> 00:04:37.80 But what's interesting is that now, and this field manual, this Army Field Manual, that I'm reading from, was actually published in 2002. So we had definitely looked at this war, and it was brutal.
+00:04:37.80 --> 00:05:04.80 And if you want to go into some dark places, you can go into some dark places, because this is one of the first, it definitely is one of the first where you had information warfare happening, meaning there was propaganda coming out, home made propaganda, you can see it on YouTube, especially from the Cheshire side of just brutal, brutal behavior.
+00:05:04.80 --> 00:05:14.80 And they were doing that purposely to strike fear into the hearts of the Russian soldiers, and they were effective in doing that. They did do that.
+00:05:14.80 --> 00:05:23.80 Yeah, it's crazy how they make those videos, just available to everybody. They do. It is crazy.
+00:05:23.80 --> 00:05:44.80 So as we dig into this a little bit, this is still from within the FM-3106, but they're quoting lessons learned from the world turned upside down, military lessons of the Cheshire war by Mr. Anatol Leaven.
+00:05:44.80 --> 00:05:54.80 And he said, it cannot be emphasized too strongly, therefore, that the key to success in urban warfare is good infantry.
+00:05:54.80 --> 00:06:11.80 And the key to good infantry, rather than good weaponry, is a traditional mixture of training, leadership qualities and NGOs and junior grade officers and morale in applying readiness to take casualties.
+00:06:11.80 --> 00:06:26.80 So this is classic, this is what we, this is what Romadi was all about as well. You know, good infantry, which they absolutely had great NCO leadership, which they absolutely had, the junior officers were outstanding.
+00:06:26.80 --> 00:06:40.80 The morale, which he says the morale is already missed to take casualties, and you know, that's one of the things that no doubt about it Colonel Sean McFarlane, that was running the brigade.
+00:06:40.80 --> 00:06:50.80 He had to overcome that fear that many people had, which was when you push into these enemy control territories, you are going to take casualties.
+00:06:50.80 --> 00:07:08.80 It is going to happen, you cannot avoid it, and that's something that we seals had to deal with as well, because seals had been in, had been in Iraq for three years at this point, and not had any seals killed in action.
+00:07:08.80 --> 00:07:22.80 So this idea that we're going to push into this heavy urban fighting meant to us, we were going to, we were going to take casualties at some point.
+00:07:22.80 --> 00:07:41.80 The US, back to the book, the US will not always have the ability to pick and choose its wars, and the key reason, Cheshne is that there will always be military actions in which a determined infantryman will remain the greatest asset.
+00:07:41.80 --> 00:08:03.80 And that is very near-endured my heart, knowing that it's not the technology, the drones, it's not the aircraft, it's the infantryman, it's the soldier that makes the difference, and the leader, the leaders of those soldiers that make the difference.
+00:08:03.80 --> 00:08:17.80 Now, here was the Marine Corps analysis. First of all strategic lessons, military operations alone cannot solve deep-seated political problems.
+00:08:17.80 --> 00:08:45.80 Okay, military commanders need clear policy guidance from which they could work steadily and logically. Confusion generated by missing or conflicting policy guidance is made worse by poorly defined lines of command and control. So those first two messages right there are all about clear guidance.
+00:08:45.80 --> 00:08:56.80 And this happens all the time in the business world where you don't see clear guidance making it all the way down to the front lines of the Jena Command.
+00:08:56.80 --> 00:09:20.80 Russian senior command lacked continuity and was plagued by too much senior leadership involvement at the lower operational level.
+00:09:20.80 --> 00:09:30.80 When Russian security operations began achieving results, the Cheshien started attacking targets within Russia.
+00:09:30.80 --> 00:09:40.80 It was difficult to unite police and military units into a single cohesive force.
+00:09:40.80 --> 00:09:52.80 Distinct tactical advantages accrue to the side with less concern for the safety of the civilian population. That is something that we absolutely dealt with in Ramadi.
+00:09:52.80 --> 00:10:12.80 Again, it's that the distinct tactical advantage accrue to the side with less concern for the safety of the civilian population. This was of utmost concern to every soldier and marine on the ground in Ramadi was trying to protect the civilian population.
+00:10:12.80 --> 00:10:27.80 And of course, the alkyd and surgeons that we are facing did not care and all about the civilian population or any their buildings or any their their lives or children or women or anything else.
+00:10:27.80 --> 00:10:48.80 What we are talking about civilian casualties and property destruction declined as casualties among Russian forces rose. So initially the Russians were also concerned about civilian casualties, but as they started taking casualties got worse and worse.
+00:10:48.80 --> 00:11:00.80 Here are some operational lessons. Having well developed military doctrine for urban warfare is not enough in and of itself.
+00:11:00.80 --> 00:11:03.80 Got to have that creativity.
+00:11:03.80 --> 00:11:16.80 The doctrine does not answer everything. Situation oriented training would have improved Russian military effectiveness and we're going to talk about that later today, but situation oriented training.
+00:11:16.80 --> 00:11:32.80 And that is when you put yourself in situations and you make people have to think it's not about executing pretty plan moves. It's just like in martial arts. It's not about being able to do a cada and do a movement.
+00:11:32.80 --> 00:11:43.80 That's not what it's about. It's about reacting to another free thinking human being and in this case a group of free thinking human beings. How do you react in those situations?
+00:11:43.80 --> 00:11:50.80 And there are specific situations as well. Right. Like those situations like in Gigi to do situational training that would be like okay here half guard.
+00:11:50.80 --> 00:11:59.80 If you get on top, you know you start all over. If you, you know, tap the guy would start all over in half guard. Start all over in half guard.
+00:11:59.80 --> 00:12:08.80 In adequate training in the most basic maneuver and combat skills inhibited Russian operations.
+00:12:08.80 --> 00:12:23.80 So you've got to be trained up in the basics, no doubt about it. Urban combat is extremely manpower intensive and produces significant attrition of men and material among the attackers.
+00:12:23.80 --> 00:12:40.80 Overwhelming firepower can make up for organizational and tactical deficiencies in the short run. If one is willing to disregard collateral damage. So yeah, you can just bomb bomb the crap out of places.
+00:12:40.80 --> 00:12:51.80 And you can make up for your tactical and organizational problems in the short run. If you don't care about a collateral damage, you know, this is we, we, we don't do that.
+00:12:51.80 --> 00:12:57.80 We as Americans don't do that. You care about collateral damage.
+00:12:57.80 --> 00:13:10.80 The sudden requirement to deploy to Cheshania coupled with the unique supply problems posed by the weather and the urban environment overwhelmed the already fragile Russian military logistics system.
+00:13:10.80 --> 00:13:18.80 And these are just bullet points. By the way, if the sounds still did the way I'm reading it, I'm just reading bullet after bullet.
+00:13:18.80 --> 00:13:27.80 The lack of high quality intelligence made operations more difficult and dangerous on the Russian forces.
+00:13:27.80 --> 00:13:37.80 The geometry and perspectives of urban combat are very different from combat in the open. Urban combat is much more vertically oriented.
+00:13:37.80 --> 00:13:59.80 In, in the desert, you do have elevation. You know, you have hills, mountains, whatever. So there is some vertically oriented things that you have to deal with, but an urban combat every, you know, every foot can be separated by 10 stores, you know, and so it is a 360 degree environment.
+00:13:59.80 --> 00:14:14.80 You get subterranean situations. You have basements. You have sellers. You have underground sewers and pipes and things tunnels that go from building to building. So it's a 360 degree environment for sure.
+00:14:14.80 --> 00:14:24.80 Fratricide was a serious and continuing problem throughout the campaign in Cheshania because it was difficult to tell friend from fo.
+00:14:24.80 --> 00:14:33.80 That's friendly fire. That's friendly fire. And this is, you know, obviously in our book.
+00:14:33.80 --> 00:14:45.80 I start off, I mean, the first chapter is about a fratricide that happens. So obviously we learned this, you know, in the most horrible way.
+00:14:45.80 --> 00:14:57.80 And anybody that's been in hardcore urban combat and again, I'm not talking about doing an operation with let's say one unit against a bad guy in an urban environment.
+00:14:57.80 --> 00:15:13.80 I'm talking about urban combat where you have multiple units all over the place friendly units in buildings on roads and their mixed in. There's no way can help with their mixed in with enemy.
+00:15:13.80 --> 00:15:26.80 And it becomes very, very challenging. Standard Russian military unit configurations were inappropriate for urban combat.
+00:15:26.80 --> 00:15:39.80 For going peacetime maintenance is a false economy. So there's something to think about going peacetime maintenance for good when you say, you know what, there's nothing going on right now.
+00:15:39.80 --> 00:15:50.80 We'll just kind of slack off. You know what, I don't need to train in the off season. Right. I don't need to prepare right now. Guess what you do. You do need to prepare right now.
+00:15:50.80 --> 00:15:55.80 It's, it's a lie to think you're going to get away with it.
+00:15:55.80 --> 00:16:06.80 The potential of special forces for urban operations was never realized in Cheshania. Well, we realized it in Ramadi for sure and how to work it.
+00:16:06.80 --> 00:16:15.80 Nature of cities tends to channel combat operations along narrow lanes of activity. That's just a dummy. That's what they're called roads.
+00:16:15.80 --> 00:16:27.80 And just like when you're in downtown San Diego, in the gas lamp district, guess what things are channeled along to long narrow long narrow lanes of activity. It's called a road.
+00:16:27.80 --> 00:16:31.80 That's kind of an obvious one.
+00:16:31.80 --> 00:16:34.80 Tactical lessons.
+00:16:34.80 --> 00:16:42.80 Communication security is essential even against relatively primitive enemies. And this is what the Russians found out was that the the Cheshians,
+00:16:42.80 --> 00:16:51.80 Many of whom spoke Russian, they were listening to radio calls. Listen to radio commands. They would, they would actually get on the radio and give false commands.
+00:16:51.80 --> 00:17:03.80 So it was it was just a nightmare for them. Now in America, we have very highly sophisticated encryption systems. So this is really no factor for us.
+00:17:03.80 --> 00:17:16.80 Night fighting was the single most difficult operation in Cheshania for infantry forces. Again, this is something that we are very good at. We being America.
+00:17:16.80 --> 00:17:22.80 We are awesome at fighting at night. We have incredible capability on our night vision. We do it all the time.
+00:17:22.80 --> 00:17:28.80 And actually that's that's worth mentioning the reason that we're good at it because we do it all the time. We train it all the time.
+00:17:28.80 --> 00:17:39.80 We do it all the time. And which is used to be in living in that way. We're used to living in that green world of night vision.
+00:17:39.80 --> 00:17:47.80 Tanks and APCs cannot operate in cities without extensive dismounted infantry support.
+00:17:47.80 --> 00:17:58.80 Now in Ramadi, they absolutely operated and they operated with a phenomenal success, but they did have an infantry support.
+00:17:58.80 --> 00:18:08.80 Usually very close by. Although they were, they did push and do incredible operations on their own as well.
+00:18:08.80 --> 00:18:17.80 Forces operating in cities need special equipment, not usually found in the Russian T O E, which is the basically the table of organization of equipment.
+00:18:17.80 --> 00:18:23.80 The list of normal things that they had. Lightweight ladders were invaluable for assaulting infantry.
+00:18:23.80 --> 00:18:31.80 This is all my first deployment to Iraq. We actually, we just built little ladders. We built little two by four ladders because there's walls all over the place.
+00:18:31.80 --> 00:18:38.80 So we just have ladders, have them hooked on to hum these. When we eat them, we just pop them off.
+00:18:38.80 --> 00:18:42.80 Yep, there was a spare one. We'll see by force.
+00:18:42.80 --> 00:18:50.80 Train snipers were essential, but in short supply. We had plenty of snipers.
+00:18:50.80 --> 00:18:57.80 Obscurants are especially useful when fighting in cities smoke grenades. And other ways of blocking vision.
+00:18:57.80 --> 00:19:05.80 That's one of those things when when I was a kid in the SEAL teams and we would burn like, hey, you got a flow smoke and then once you fill the smoke, you can run away.
+00:19:05.80 --> 00:19:10.80 And it almost seems like a joke almost.
+00:19:10.80 --> 00:19:13.80 I mean, that almost sounds funny when I say that like Batman.
+00:19:13.80 --> 00:19:18.80 Yeah, it's almost like Batman or James Bond. We've got little smoke button. It's freaking real.
+00:19:18.80 --> 00:19:25.80 It's real. Like you flow that smoke out. You let that smoke start to pour out and then all of a sudden you can get out of there.
+00:19:25.80 --> 00:19:33.80 And it's again, it's one of those things that it almost seems like a joke when you first hear about it when you're a kid.
+00:19:33.80 --> 00:19:38.80 You're like, wait, really? That's a real thing. Really? No, that's a real thing.
+00:19:38.80 --> 00:19:39.80 Yeah.
+00:19:39.80 --> 00:19:43.80 Recovering damaged armored vehicles is especially difficult in cities.
+00:19:43.80 --> 00:19:52.80 We absolutely learned that the insurgents took out dozens of tanks and Bradley fighting vehicles and homies.
+00:19:52.80 --> 00:20:00.80 And it was always very difficult for the engineers to get in there and get those things out of there.
+00:20:00.80 --> 00:20:16.80 A failure of small unit leadership, especially at the NCO level, was a primary cause of Russian tactical failures in Grasney.
+00:20:16.80 --> 00:20:24.80 So when you hear me say leadership is the most important thing on the battlefield, that is what I am talking about.
+00:20:24.80 --> 00:20:27.80 That is exactly what I am talking about.
+00:20:27.80 --> 00:20:34.80 And it's the same thing in businesses. It's the same thing in teams and it's the same thing in life.
+00:20:34.80 --> 00:20:41.80 When we talk about leadership, we're not just talking about the overall person in jars, we're talking about leadership at every level.
+00:20:41.80 --> 00:20:49.80 Both sides employed commercial off the shelf technologies for military purposes.
+00:20:49.80 --> 00:20:51.80 Be ready for that.
+00:20:51.80 --> 00:20:59.80 In Ramadi, the enemy absolutely used, you know, Motorola, Waki-Takis, they had Motorola base stations set up.
+00:20:59.80 --> 00:21:01.80 I mean, they were, they were using it.
+00:21:01.80 --> 00:21:18.80 Tactical communications proved very difficult in Grasney. Again, you can't change the laws of physics and radio waves cannot punch through more than, you know, a couple to three buildings.
+00:21:18.80 --> 00:21:25.80 So once you get a couple to three buildings away, you're not going to be able to talk to the other units.
+00:21:25.80 --> 00:21:40.80 You know, maybe four or five buildings. And the only way to do this is get on the rooftops. And so, you know, I was almost always on a rooftop because I was, you know, my main role was usually to make communications with the various troops that were out there army and my guys.
+00:21:40.80 --> 00:21:47.80 And so I was almost always on a rooftop with a big old antenna sticking off my shoulder.
+00:21:47.80 --> 00:21:56.80 And that's when, you know, when one of the guys needed to talk to me, they needed to go to the rooftop and they'd catch me.
+00:21:56.80 --> 00:22:02.80 The cabs of supplied trucks must be armored, no doubt about that.
+00:22:02.80 --> 00:22:21.80 The bunker-busting weapons are invaluable for urban combat. This is something that we used a ton of was the Carl Gustav 84 millimeter. Big thunder.
+00:22:21.80 --> 00:22:41.80 Helicopters are not well-suited for urban combat. And there's no doubt about that one. Again, in Ramadi, we found that any time helicopters came into Ramadi, they received so much small arms fire that they left immediately.
+00:22:41.80 --> 00:22:47.80 It was just too hot for them to go into these situations.
+00:22:47.80 --> 00:22:52.80 When a helicopter comes in, what does it take to take down a helicopter?
+00:22:52.80 --> 00:22:57.80 I mean, you could take one round, right? It's almost like a human body. There's some sort of stuff.
+00:22:57.80 --> 00:23:00.80 Oh, you could in the right spot. You could take it out.
+00:23:00.80 --> 00:23:14.80 But, so it's really hard to put like an absolute on that. But, you know, generally, they can take some punishment, especially the Apache's, which are pretty well armored.
+00:23:14.80 --> 00:23:24.80 But, they're not well armored enough to get in there, do what they would want to do. So they ended up just taking so many rounds that they could stay.
+00:23:24.80 --> 00:23:28.80 Yeah, like if you hit in that little that rear propeller.
+00:23:28.80 --> 00:23:36.80 Yeah, maybe. You hit it in the weak spot. There's going to be issues, which I won't talk about.
+00:23:36.80 --> 00:23:46.80 All right, now we, that was the Marine Corps analysis. And again, this is all from the same manual. But I'm going to go into this. So they covered what the Marine Corps analysis had.
+00:23:46.80 --> 00:23:53.80 And now this is the US Army infantry school analysis is Russian Army lessons learned from the battle of gravity.
+00:23:53.80 --> 00:24:01.80 You need to culturally orient your forces so you don't end up being your own worst enemy simply out of cultural in ignorance.
+00:24:01.80 --> 00:24:16.80 Many times Russian soldiers made serious cultural errors in dealing with the Cheshien civilians. Once insulted or mistreated, the Cheshien's became active fighters or at least supported the active fighters.
+00:24:16.80 --> 00:24:30.80 Russians admit they underestimated they if the effective religion on the conflict. So you got to know your enemy. And you got to know your friends. And this is something that they definitely.
+00:24:30.80 --> 00:24:45.80 They definitely make that important in the US military that you know you got to understand the local culture. And there was a true hero named Travis Patrickwin who we will have to do a show on at some point.
+00:24:45.80 --> 00:25:10.80 But Travis Patrickwin was with us over in Iraq in Ramadi. And he was just incredibly smart guy. And a former SF guy he was then he became a captain the army. And he spoke Arabic. And he's the guy really that started saying, look,
+00:25:10.80 --> 00:25:24.80 we got to do to make friends with these locals. And he ended up producing this this actually pretty famous PowerPoint brief that just had a bunch of stick figures of hey, this is the local guy.
+00:25:24.80 --> 00:25:37.80 This is what he sees you as this is what you see him as, but this is what he really is and this is what you know and it was a great a great document, a very simple document.
+00:25:37.80 --> 00:25:44.80 Brilliant in its simplicity in the way it explained and it ended up being circulated all of the place.
+00:25:44.80 --> 00:25:57.80 And that was written by a guy named Travis Patrickwin who's just again hilarious guy, very nice guy. And really had a vision of.
+00:25:57.80 --> 00:26:13.80 The whole understanding of the Arabic culture, the tribal culture, the shakes that were there in Ramadi. And he did an amazing job moving that whole scene.
+00:26:13.80 --> 00:26:26.80 And that whole piece of the battle, he did an amazing job moving us forward and making sure that we were culturally oriented to understand the locals.
+00:26:26.80 --> 00:26:43.80 And unfortunately, after we left Ramadi and they were still there, Captain Patrickwin, Travis Patrickwin was in a vehicle.
+00:26:43.80 --> 00:26:50.80 I think he was heading south on a road called sunset and he had an ID and he was killed in action.
+00:26:50.80 --> 00:26:59.80 And it was a tragic loss of an incredible, not only incredible soldier, but just an incredible human.
+00:26:59.80 --> 00:27:12.80 Some day we'll go to some more depth about Travis Patrickwin because he really had a huge impact.
+00:27:12.80 --> 00:27:18.80 Next bullet point, you need some way of sorting out combatants from non-combatants.
+00:27:18.80 --> 00:27:28.80 The Russians were forced to resort to searching the pockets of civilians from military equipment and to sniffing them for the smell of gunpowder and gun oil.
+00:27:28.80 --> 00:27:36.80 This is crude and not very reliable. Train dogs were used to detect the smell of gunpowder or explosives, but were not always effective.
+00:27:36.80 --> 00:27:44.80 Nevertheless, especially train dogs probably the best way to determine if a person has been using explosives or firing a weapon recently.
+00:27:44.80 --> 00:27:51.80 What was good for us was working alongside the Iraqi soldiers, they could tell.
+00:27:51.80 --> 00:27:54.80 They could tell where people were from, they could tell where their accent was from, they could tell.
+00:27:54.80 --> 00:27:56.80 But a couple questions, who could tell?
+00:27:56.80 --> 00:28:03.80 The Iraqi soldiers, when we went and speak to some random Iraqi civilians, they could tell.
+00:28:03.80 --> 00:28:05.80 I wouldn't be able to tell in a million years.
+00:28:05.80 --> 00:28:13.80 Just like if you took an Iraqi and transplanted them here and put them in a room with a guy from New Jersey and a guy from Southern California and a guy from Georgia.
+00:28:13.80 --> 00:28:16.80 They wouldn't be able to tell where any of these people were from.
+00:28:16.80 --> 00:28:21.80 But any American could talk to any of those three people and immediately know where they were from.
+00:28:21.80 --> 00:28:24.80 So we used the Iraqi soldiers to help us with that.
+00:28:24.80 --> 00:28:26.80 And they're also our interpreters.
+00:28:26.80 --> 00:28:35.80 We had interpreters that had were fluent in the language and generally came from either Iraq or some other Arab-speaking country.
+00:28:35.80 --> 00:28:42.80 And so they had the same knowledge and they could do the same thing.
+00:28:42.80 --> 00:28:47.80 The psychological impact of high-intensity urban combat is so intense.
+00:28:47.80 --> 00:28:54.80 Units should maintain a large reserve that will allow them to rotate units in and out of combat.
+00:28:54.80 --> 00:28:58.80 If a commander does this, he can preserve a unit for a long time.
+00:28:58.80 --> 00:29:04.80 If he doesn't, once it gets used up, it cannot be rebuilt.
+00:29:04.80 --> 00:29:19.80 So that statement about the psychological impact of high-intensity urban combat.
+00:29:19.80 --> 00:29:24.80 And there's so many little things that make this true.
+00:29:24.80 --> 00:29:27.80 You know, I already talked about the 360 degree threat.
+00:29:27.80 --> 00:29:28.80 There's the ID.
+00:29:28.80 --> 00:29:31.80 There's the civilian populace.
+00:29:31.80 --> 00:29:44.80 There's the close-in fighting. There's all these things that make urban combat the most intense kind of combat, psychologically.
+00:29:44.80 --> 00:30:00.80 And you have to be careful with your troops to make sure that you give them enough time out of the fight that they can maintain along deployment in that sort of intensity.
+00:30:00.80 --> 00:30:10.80 And the Russians did not always do a very good job of that.
+00:30:10.80 --> 00:30:15.80 Next bullet. Training and discipline are paramount.
+00:30:15.80 --> 00:30:19.80 You can accomplish nothing without them.
+00:30:19.80 --> 00:30:24.80 You may need to do the training in the combat zone.
+00:30:24.80 --> 00:30:33.80 discipline must be demanded. Once it begins to slip, the results are disastrous.
+00:30:41.80 --> 00:30:47.80 That is something I believe in across the board.
+00:30:47.80 --> 00:30:54.80 I think you mentioned that before, too, I may have mentioned that a few times. There it is again.
+00:30:54.80 --> 00:30:56.80 Training and discipline are paramount.
+00:30:56.80 --> 00:30:59.80 Discipline must be demanded.
+00:30:59.80 --> 00:31:03.80 Once it begins to slip, the results are disastrous.
+00:31:03.80 --> 00:31:10.80 You have to hold the line on the discipline. You have to.
+00:31:10.80 --> 00:31:17.80 The Russians were surprised and embarrassed at the degree to which the Cheshins exploited the use of cellphones,
+00:31:17.80 --> 00:31:25.80 Motorola Radeos improvised TV stations, lightweight video cameras and the internet to win the information war.
+00:31:25.80 --> 00:31:41.80 The Russians admitted that they lost control of the information coming out of Grasdy early in the operation and never regained it.
+00:31:41.80 --> 00:31:48.80 As expected, the Russians reiterated the need for large numbers of trained infantrymen.
+00:31:48.80 --> 00:31:57.80 They said that some tasks such as conducting a log pack, logistics, operations could only be conducted by infantrymen.
+00:31:57.80 --> 00:32:06.80 The logistical unit soldiers were hopelessly in net that basic military skills such as permanent defense, establishing security overwatch and so forth,
+00:32:06.80 --> 00:32:10.80 and thereby felt easy prey to the Cheshins.
+00:32:10.80 --> 00:32:22.80 So that's something that our troops in America have really done an outstanding job of adapting to the logistics,
+00:32:22.80 --> 00:32:26.80 support people being combat ready.
+00:32:26.80 --> 00:32:37.80 Because every time you're, if you're a supply guy in the Army and you've got to bring whatever it is, water, food, ammunition from Baghdad to Ramadi,
+00:32:37.80 --> 00:32:40.80 that means you're doing a combat patrol.
+00:32:40.80 --> 00:32:42.80 That means you could likely get attacked.
+00:32:42.80 --> 00:32:55.80 And so America did a really good job of getting their folks trained up to run these convoys and, you know, the logistics teams that supplied the war fighters, the frontline troops,
+00:32:55.80 --> 00:32:58.80 they came under all kinds of attacks and did an outstanding job.
+00:32:58.80 --> 00:33:05.80 So all of you folks that are listening that were running those logistics convoys, thank you.
+00:33:05.80 --> 00:33:14.80 And you did an outstanding job and another huge risk every time you rolled out the front gate.
+00:33:14.80 --> 00:33:21.80 Next bullet, they found that boundaries between units were still tactical weak points,
+00:33:21.80 --> 00:33:27.80 but that it wasn't just horizontal boundaries that they had to worry about.
+00:33:27.80 --> 00:33:34.80 In some cases, the Cheshins held the third floor in above, while the Russians held the first two floors and sometimes the roof.
+00:33:34.80 --> 00:33:40.80 If a unit holding the second floor, a evacuated parts of it without telling the unit on the ground floor,
+00:33:40.80 --> 00:33:46.80 the Cheshins would move troops in and attack the ground for unit through the ceiling.
+00:33:46.80 --> 00:33:53.80 Often this resulted in Fraturside as the ground floor unit responded with uncontrolled fire through all of the ceilings,
+00:33:53.80 --> 00:33:59.80 including the ones below that section of the building still occupied by the Russians.
+00:33:59.80 --> 00:34:08.80 Entire battles were fought through floors, ceilings, and walls without visual contact.
+00:34:08.80 --> 00:34:10.80 That's gotta be scary, right?
+00:34:10.80 --> 00:34:13.80 Yeah.
+00:34:13.80 --> 00:34:16.80 Ambushes were common.
+00:34:16.80 --> 00:34:23.80 Sometimes they actually had three tiers. Cheshins would be underground on the ground floor and on the roof.
+00:34:23.80 --> 00:34:28.80 Each group had a different task in the ambush.
+00:34:28.80 --> 00:34:42.80 The most common response by the Cheshins to the increasingly powerful Russian indirect aerial indirect aerial firepower was hugging the Russian unit.
+00:34:42.80 --> 00:34:50.80 The hugging tactics caused the Russians to, sorry, if the hugging tactic caused the Russians to cease artillery and airfires,
+00:34:50.80 --> 00:34:55.80 it became a man to man fight and the Cheshins were well equipped to win it.
+00:34:55.80 --> 00:35:02.80 If they didn't cease the supporting fires, the Russian units suffered just as much as the Cheshins fighters did,
+00:35:02.80 --> 00:35:11.80 sometimes even more, and the morale effect was much worse on the Russians.
+00:35:11.80 --> 00:35:14.80 So there's...
+00:35:14.80 --> 00:35:16.80 I mean, it's very simple.
+00:35:16.80 --> 00:35:24.80 Oh, if the enemy is going to use, or if the Russians are going to use big bombs and big artillery and big bombs from the sky to defeat us,
+00:35:24.80 --> 00:35:31.80 we'll just get so close in. We'll just close the distance and be so close that if you want to drop bombs, you're going to kill your own people.
+00:35:31.80 --> 00:35:32.80 Yeah.
+00:35:36.80 --> 00:35:47.80 Both the physical and mental health of the Russian units began to decline almost immediately upon initiation of high intensity combat.
+00:35:47.80 --> 00:35:56.80 In less than a month, almost 20% of the Russian soldiers were suffering from viral hepatitis, which is a very serious,
+00:35:56.80 --> 00:35:59.80 depillating with slow recovery.
+00:35:59.80 --> 00:36:06.80 Most had chronic diarrhea and upper reps' retory infections that turned to pneumonia easily.
+00:36:06.80 --> 00:36:13.80 This was blamed on the breakdown of logistical support that meant units had a drink contaminated water.
+00:36:13.80 --> 00:36:20.80 Units sanitary discipline broke down almost completely.
+00:36:20.80 --> 00:36:26.80 So that discipline, like I said, it starts with the shaving and the next thing you're not boiling the water,
+00:36:26.80 --> 00:36:31.80 the next thing you know you're sick and the next thing you're crapping all over the place and the next thing you know other people you're making other people sick,
+00:36:31.80 --> 00:36:34.80 and it starts with the discipline.
+00:36:34.80 --> 00:36:43.80 According to a survey of over 1,300 troops, this is a Russian troops,
+00:36:43.80 --> 00:36:50.80 made immediately after the fighting, about 72% had some sort of psychological disorder.
+00:36:50.80 --> 00:36:55.80 Almost 75% had an exaggerated startle response.
+00:36:55.80 --> 00:36:59.80 That's like when there's a loud noise in the shutter from it.
+00:36:59.80 --> 00:37:05.80 About 75% had an exaggerated startle response.
+00:37:05.80 --> 00:37:14.80 28% had what was described as neuromotional and almost 10% had acute emotional reactions.
+00:37:14.80 --> 00:37:21.80 The Russians recommended two psychophysiologists, one psychopharmacologist,
+00:37:21.80 --> 00:37:29.80 one psychiatrist and one medical psychologist at each US core-sized unit.
+00:37:29.80 --> 00:37:33.80 That's a huge recommendation for mental health.
+00:37:33.80 --> 00:37:38.80 Although they're experiencing Afghanistan prepared them somewhat from the physical health problems,
+00:37:38.80 --> 00:37:42.80 they were not prepared for this level of mental health treatment.
+00:37:42.80 --> 00:37:50.80 Many permanent combat stressed casualties resulted from soldiers not being provided proper immediate treatment.
+00:37:50.80 --> 00:38:04.80 Again, this boils down to how harsh that urban combat is, and they were not ready for it.
+00:38:04.80 --> 00:38:14.80 They were not ready for the psychological damage that that urban combat does to the soldiers' mind.
+00:38:14.80 --> 00:38:20.80 Now it gets in the head and you've got the startle response and the emotional acute reactions.
+00:38:20.80 --> 00:38:22.80 It's a nightmare.
+00:38:22.80 --> 00:38:23.80 It's a nightmare.
+00:38:23.80 --> 00:38:28.80 That acute emotional reactions, that's like what they'll break down.
+00:38:28.80 --> 00:38:29.80 Breaking down.
+00:38:29.80 --> 00:38:30.80 Breaking down.
+00:38:34.80 --> 00:38:40.80 Chesions weren't afraid of tanks or BMPs and BMPs, like a Bradley fighting vehicle.
+00:38:40.80 --> 00:38:46.80 It's basically an armored personnel character carrier for the most part with a big gun on top.
+00:38:46.80 --> 00:38:53.80 They assigned groups of RPG gunners to fire valleys at the lead and trail vehicles.
+00:38:53.80 --> 00:38:57.80 Once these were destroyed, others were picked off one by one.
+00:38:57.80 --> 00:39:00.80 Oh, this is battle-growsy, some facts.
+00:39:00.80 --> 00:39:05.80 The Russian forces lost 20 of 26 tanks.
+00:39:05.80 --> 00:39:12.80 102 of 120 BMPs in the first three days of fighting.
+00:39:12.80 --> 00:39:13.80 Yeah.
+00:39:13.80 --> 00:39:19.80 So imagine you've got a convoy of 12 vehicles with a tank in the tank and the tank in the back,
+00:39:19.80 --> 00:39:22.80 and the Chesions take out the front and back.
+00:39:22.80 --> 00:39:24.80 So now we're now guess what you're stuck.
+00:39:24.80 --> 00:39:27.80 And then they just sit there and pick off the rest of the vehicles.
+00:39:27.80 --> 00:39:40.80 Check, this is also important. Chesions chose firing positions high enough or low enough to stay out of the fields of fire of the tank and BMP weapons.
+00:39:40.80 --> 00:39:52.80 So you know the angle of fire can only go so high and so low, so they just stay out of those two angles.
+00:39:52.80 --> 00:40:03.80 Russian conscript infantry sometimes refused to dismount and often died in their BMP without ever firing a shot.
+00:40:03.80 --> 00:40:04.80 So this is a nightmare.
+00:40:04.80 --> 00:40:13.80 Your vehicle gets hit and if you know anything, when your vehicle gets hit or like your convoy gets hit, get out.
+00:40:13.80 --> 00:40:19.80 In other words, if the vehicle can't move, because it's trapped by other vehicles or a trap by the road or it's trapped by whatever,
+00:40:19.80 --> 00:40:24.80 get out of the vehicle, get out of the vehicle and take down a building, get out of the vehicle and move to cover, get out.
+00:40:24.80 --> 00:40:30.80 But get out of the vehicle, the vehicles just a bullet magnet at that point and an RPG magnet.
+00:40:30.80 --> 00:40:33.80 So just get out of there.
+00:40:33.80 --> 00:40:40.80 Russian elite infantry did much better but didn't coordinate well with armored vehicles initially.
+00:40:40.80 --> 00:40:45.80 So I can tell you that we coordinated with the armored vehicles beautifully.
+00:40:45.80 --> 00:40:53.80 And we loved them. We loved the US Army armor that we work with.
+00:40:53.80 --> 00:41:04.80 Absolutely loved them and we coordinated with them and we worked together with them in a beautiful manner.
+00:41:04.80 --> 00:41:08.80 Cheshins were brutish, especially with prisoners.
+00:41:08.80 --> 00:41:15.80 Some reports say the Russians were no better but most say that the Cheshins were the worst of the two sides.
+00:41:15.80 --> 00:41:24.80 Whoever was at fault, the battle degenerated quickly to one of no-quarter-ass, none-given.
+00:41:24.80 --> 00:41:32.80 Russian wounded and dead were hung upside down in the windows of defended Cheshins positions.
+00:41:32.80 --> 00:41:37.80 Russians had to shoot at the bodies to engage the Cheshins.
+00:41:37.80 --> 00:41:46.80 Russian prisoners were decapatated and at night their heads were placed on stakes beside the roads leading into the city,
+00:41:46.80 --> 00:41:59.80 over which Russian replacements and reinforcements had to travel.
+00:41:59.80 --> 00:42:07.80 So you don't think that in this day and age, that's something you read about in the history books.
+00:42:07.80 --> 00:42:10.80 You remember from the history books but there it is.
+00:42:10.80 --> 00:42:20.80 This is 1994, 1995, 1996, heads on stakes.
+00:42:20.80 --> 00:42:28.80 Both Russian and Cheshins dead were routinely booby trapped.
+00:42:28.80 --> 00:42:34.80 The Russians were not surprised by the ferocity and brutality of the Cheshins.
+00:42:34.80 --> 00:42:42.80 But they were surprised by the sophistication of the Cheshins' use of booby traps and mines.
+00:42:42.80 --> 00:42:54.80 Cheshins mined and booby trapped everything, showing excellent insight into the actions and reactions of the average Russian soldier.
+00:42:54.80 --> 00:42:59.80 Mine and booby trap awareness was hard to maintain.
+00:42:59.80 --> 00:43:04.80 As you look at this more, they booby trapped anything.
+00:43:04.80 --> 00:43:09.80 They talked about how they showed insight into the actions and reactions of the average Russian soldier.
+00:43:09.80 --> 00:43:11.80 They knew what would attract them.
+00:43:11.80 --> 00:43:15.80 They knew what they couldn't keep their hands off of and that's what they booby trapped.
+00:43:15.80 --> 00:43:26.80 Some old shiny objects, some little something that looked expensive or something that looked worthwhile, it would booby trapped.
+00:43:26.80 --> 00:43:37.80 Now, that kind of wraps up that first book but I pulled out some other little articles that I thought had some good information.
+00:43:37.80 --> 00:43:48.80 This one here's Russian tactical lessons learned from fighting Cheshins' separatists by Timothy L. Thomas.
+00:43:48.80 --> 00:43:52.80 This section.
+00:43:52.80 --> 00:44:01.80 With regard to general ambush guidance, Coslov offered the following.
+00:44:01.80 --> 00:44:10.80 First and foremost, mobilize your will, knowledge and experience no matter how difficult this may be.
+00:44:10.80 --> 00:44:23.80 In order to re-establish command and control, repulse the enemy attack, seize the initiative and report the situation.
+00:44:23.80 --> 00:44:40.80 That is a powerful statement. And it's a powerful statement on how to react to any situation. First and foremost, mobilize your will.
+00:44:40.80 --> 00:44:46.80 I love envisioning the will as like a military unit.
+00:44:46.80 --> 00:44:56.80 First and foremost, mobilize your will. Bring it to bear wake up will, it's time to get it on.
+00:44:56.80 --> 00:45:03.80 Yeah, in college and football, they'd say, well, I heard this other police is doing this, but they'd say buckle up in guard your grill.
+00:45:03.80 --> 00:45:07.80 What was it buckle up in guard your grill?
+00:45:07.80 --> 00:45:11.80 Yeah, it's like, you know, get ready to go.
+00:45:11.80 --> 00:45:18.80 Mobilize your will, your knowledge and experience no matter how difficult this may be.
+00:45:18.80 --> 00:45:24.80 In order to re-establish command and control.
+00:45:24.80 --> 00:45:26.80 So you've lost it.
+00:45:26.80 --> 00:45:34.80 Saying mobilize your will, re-establish command and control, repulse the enemy attack, seize the initiative, and report the situation.
+00:45:34.80 --> 00:45:38.80 Has some damn good advice.
+00:45:38.80 --> 00:45:48.80 More psychological support also was a training area for improvement.
+00:45:48.80 --> 00:45:58.80 A particular concern here were the mood swings that were observed among Russian servicemen during combat.
+00:45:58.80 --> 00:46:07.80 So you've seen these drastic mood swings and so much of this was psychological on the Russians.
+00:46:07.80 --> 00:46:09.80 And Russians are hard people.
+00:46:09.80 --> 00:46:13.80 I mean, we're not talking about soft people. These are Russians.
+00:46:13.80 --> 00:46:17.80 I mean, Russians are hard people.
+00:46:17.80 --> 00:46:23.80 The end result of such training would be to improve the servicemen's fighting spirit.
+00:46:23.80 --> 00:46:34.80 Use of common sense and rationale to overcome confusion, the ability to act boldly, actively and decisively in battle, and the ability to achieve one's assigned goal.
+00:46:34.80 --> 00:46:42.80 Again, this is talking about training the mind to think, to use common sense and this.
+00:46:42.80 --> 00:46:44.80 What you want to do with all your people.
+00:46:44.80 --> 00:46:52.80 I'm care what business you're in, whether you're in a war, whether you're in business, whether you're in some kind of team.
+00:46:52.80 --> 00:46:57.80 Train the mind to use common sense.
+00:46:57.80 --> 00:47:06.80 Train the mind for the ability to act boldly and decisively.
+00:47:06.80 --> 00:47:15.80 Got to train the mind to get free your mind.
+00:47:15.80 --> 00:47:26.80 Now, that same article pulled out Russian lesson learned from Spetsnots, GRU reconnaissance point of view.
+00:47:26.80 --> 00:47:39.80 And the authors were K, Nickton, and S, Cosloff.
+00:47:39.80 --> 00:47:45.80 They called this one section the Commandments for Serviceman and Cheshna.
+00:47:45.80 --> 00:47:52.80 And what they actually were was cultural, tips on cultural sensitivities for Russian soldiers, and they are as follows.
+00:47:52.80 --> 00:48:02.80 And I read through these, this is a directive on how to treat other human beings that you're dealing with.
+00:48:02.80 --> 00:48:08.80 Cheshna, Russian, American, subordinate superior doesn't matter.
+00:48:08.80 --> 00:48:10.80 What was the title of that again?
+00:48:10.80 --> 00:48:15.80 Tips on cultural sensitivities for Russian soldiers.
+00:48:15.80 --> 00:48:19.80 One, always maintain your authority among the local populace.
+00:48:19.80 --> 00:48:29.80 The Cheshins are very critical of people who try to create a false authority for themselves.
+00:48:29.80 --> 00:48:37.80 A soul-culled patronizing attitude towards others usually afflix those who cannot gain authority through other means.
+00:48:37.80 --> 00:48:39.80 We talk about this all the time.
+00:48:39.80 --> 00:48:43.80 You don't run around throwing your rank out.
+00:48:43.80 --> 00:48:50.80 Make you look like a jackass.
+00:48:50.80 --> 00:48:57.80 Next, avoid unwanted confiscations and unlawful requisitions of food and property.
+00:48:57.80 --> 00:49:01.80 That one makes pretty easy sense. Don't steal from people.
+00:49:01.80 --> 00:49:04.80 Next one, be fair.
+00:49:04.80 --> 00:49:08.80 Every local inhabit must be dealt with firmly but fairly.
+00:49:08.80 --> 00:49:17.80 Injustice gives rise to negative attitude in any person.
+00:49:17.80 --> 00:49:21.80 So be fair.
+00:49:21.80 --> 00:49:26.80 Reward a Cheshna who performs his assigned task well.
+00:49:26.80 --> 00:49:35.80 To accomplish a task that you need to get accomplished, choose the most authoritative person among the local inhabitants and get him to carry out the task.
+00:49:35.80 --> 00:49:44.80 If he does the job right and does it correctly, you should reward the elder by giving him additional authority and by giving some kind of gift.
+00:49:44.80 --> 00:49:48.80 Reward your people when they do a good job.
+00:49:48.80 --> 00:49:52.80 What's all we're saying here?
+00:49:52.80 --> 00:49:58.80 When dealing with Cheshins, display a sense of calm and self-worth.
+00:49:58.80 --> 00:50:06.80 You will achieve more through this than through screaming obscenities. Never beat a Cheshins.
+00:50:06.80 --> 00:50:13.80 And it goes on to say, Cheshins are a proud people with a very intense sense of pride in self-worth.
+00:50:13.80 --> 00:50:21.80 Therefore, you will achieve nothing by humiliating them, by screaming at them, and by abusing them.
+00:50:21.80 --> 00:50:26.80 You will only in bitter them.
+00:50:26.80 --> 00:50:30.80 Right? This is how you treat other people.
+00:50:30.80 --> 00:50:42.80 And it goes on to say, even in casual conversation, do not give orders and do not use profanity that you might normally use as interjections.
+00:50:42.80 --> 00:50:52.80 So this idea of your own and screaming, you think you're going to do what you want to do, doesn't work.
+00:50:52.80 --> 00:50:59.80 Next, respect Cheshins, women, girls, old men and children as if they were Russians.
+00:50:59.80 --> 00:51:09.80 Always remember that Cheshins respect a manly qualities, therefore never permit any disrespect or vulgarity with regard to their women.
+00:51:09.80 --> 00:51:19.80 Never allow yourself to curse a defences people in revenge for the outrageous of militants against Russian women, old men and children.
+00:51:19.80 --> 00:51:26.80 So keep yourself in check and make sure you're not blaming people for something that somebody else did.
+00:51:31.80 --> 00:51:34.80 Study and be respectful of national traditions.
+00:51:34.80 --> 00:51:40.80 The more you know about the Cheshins, national traditions, the more you will understand their behavior.
+00:51:40.80 --> 00:51:44.80 That means you will be able to predict their actions.
+00:51:44.80 --> 00:51:53.80 At the same time a person that respects the local traditions will be respected himself, G, what a novel idea.
+00:51:53.80 --> 00:51:59.80 Know who you're dealing with. Respect what they do.
+00:51:59.80 --> 00:52:17.80 Always remember that the above mentioned commandments apply to the fullest extends to possible to local inhabitants, and they do not apply at all to the militants.
+00:52:17.80 --> 00:52:23.80 Never forget you and a region where there are insurgents against whom you are at war.
+00:52:23.80 --> 00:52:30.80 Therefore you can never be certain that the person with whom you are speaking is not helping the militants.
+00:52:30.80 --> 00:52:44.80 Under conditions of guerrilla warfare is better to turn down an invitation to someone's home and risk offending the host than it is to take advantage of his hospitality and ending up being an easy catch for insurgents.
+00:52:44.80 --> 00:52:59.80 Again, I think those were just like rules on how to treat other human beings in the world and be successful with it.
+00:52:59.80 --> 00:53:05.80 Now we get to another little excerpt that I found.
+00:53:05.80 --> 00:53:16.80 And this is from Soldat Udachi, which is basically to magazine. It's almost like a soldier of fortune magazine.
+00:53:16.80 --> 00:53:25.80 And these were some of the rules for a soldier and a zone of armed conflict.
+00:53:25.80 --> 00:53:31.80 Fighters can be anywhere opposing his peaceful citizens in the daytime and changing into killers at night.
+00:53:31.80 --> 00:53:37.80 Don't accept someone's friendly just because they speak Russian and where came a flash close.
+00:53:37.80 --> 00:53:43.80 This is perhaps my favorite one right here. You don't get a second chance in wartime.
+00:53:43.80 --> 00:53:51.80 Never lose the feeling of danger or of the strength of the spirit of the Russian soldier.
+00:53:51.80 --> 00:53:59.80 Never leave a base without the commanders permission in the field. Never touch bright or expensive objects as they may be mined.
+00:53:59.80 --> 00:54:06.80 In the mountains, whoever is higher is stronger.
+00:54:06.80 --> 00:54:12.80 Take the high ground or the high ground is going to take you.
+00:54:12.80 --> 00:54:20.80 Pay attention to the flanks as the basic maneuver of the insurgents is to get around your back and envelop your force.
+00:54:20.80 --> 00:54:23.80 Always check your flanks.
+00:54:23.80 --> 00:54:39.80 I'm going to burn through some of these now. These are tactical observations from the Grosni combat experience by Brett C. Jenkinson, who is a major in the US Army.
+00:54:39.80 --> 00:54:44.80 You are really good article worth checking out. Google it.
+00:54:44.80 --> 00:54:49.80 But I broke down some of these.
+00:54:49.80 --> 00:54:53.80 Cheshien lessons learned. This is from the Cheshien side.
+00:54:53.80 --> 00:54:57.80 Hit and run tactics confused the Russian units.
+00:54:57.80 --> 00:55:02.80 Targeting Russian radio operators destroyed Russian command control.
+00:55:02.80 --> 00:55:09.80 Small units provided good mobility and more effective basic maneuver unit.
+00:55:09.80 --> 00:55:22.80 Hugging, which we already talked about, which was staying 50 to 250 meters of the enemy was the most effective way to avoid enemy artillery, mortars or close air support.
+00:55:22.80 --> 00:55:28.80 Synchronized ambushes confused the enemy to the point that he did not know where to shoot back.
+00:55:28.80 --> 00:55:37.80 As a result, Russian units would start fire fights between themselves.
+00:55:37.80 --> 00:55:46.80 Destroying the lead and train vehicles and then each vehicle in between could easily isolate Russian armored columns.
+00:55:46.80 --> 00:55:57.80 Shooting enemy soldiers in the legs caused snipers to engage other soldiers trying to evacuate the wounded.
+00:55:57.80 --> 00:56:06.80 An on leadership, a loosely organized unit that allowed greater freedom of action was effective to defend Grosni.
+00:56:06.80 --> 00:56:10.80 Little bit of freedom on the battlefield goes a long way.
+00:56:10.80 --> 00:56:15.80 Now the Russian lessons learned training and preparation are the most important thing in winning battles.
+00:56:15.80 --> 00:56:21.80 Urban combat training must be longer than days or weeks to be effective.
+00:56:21.80 --> 00:56:27.80 Urban combat maneuver must be tailored to fit the enemy situation.
+00:56:27.80 --> 00:56:35.80 Task organizing to small squad sized combined assault groups worked better than large units.
+00:56:35.80 --> 00:56:44.80 Russians underestimated the Cheshire and will to fight.
+00:56:44.80 --> 00:57:03.80 Lessons learned from successful tactics should be integrated into follow-on missions to be successful one must adapt quicker than the enemy.
+00:57:03.80 --> 00:57:11.80 For the leadership perspective, again, this is the Russians adapted less as learned from previous urban battles, provide proved invaluable.
+00:57:11.80 --> 00:57:15.80 The greatest challenge to leadership was maintaining morale.
+00:57:15.80 --> 00:57:21.80 High casually rates destroyed the already low morale of combat units.
+00:57:21.80 --> 00:57:30.80 Another challenge to morale was the Russian soldiers fear of enemy mistreatment if captured.
+00:57:30.80 --> 00:57:39.80 This is an important one of failure to justify the nature of Russian military intervention in Cheshire resulted in low morale.
+00:57:39.80 --> 00:57:49.80 So the troops on the ground not knowing and not understanding why they were there, not understanding the strategic and important or the vision hurt their morale big time.
+00:57:49.80 --> 00:58:04.80 Now, I have a couple of excerpts here from this is from an article that was in the LA Times January 13, 1995 by Sony Fron.
+00:58:04.80 --> 00:58:09.80 Captured Russian soldiers paint bleak picture of Cheshire and conditions.
+00:58:09.80 --> 00:58:21.80 So this is Grasnia, Grasnia, Russia, Russian troop morale is so low, conditions are so poor and losses are so heavy that the Russian attempt to take Grasnia is floundering.
+00:58:21.80 --> 00:58:27.80 Two Russian soldiers captured in the capital of the Breakaway Republic of Cheshire said Thursday.
+00:58:27.80 --> 00:58:32.80 The soldiers are against this war and so are a commanders.
+00:58:32.80 --> 00:58:41.80 Said Alexia, 20-year-old junior sergeant was called, while trying to steal food from an empty house and growls and after you've gone five days without a solid meal.
+00:58:41.80 --> 00:58:43.80 We are forced to fight.
+00:58:43.80 --> 00:58:48.80 The two soldiers said Russian positions had frequently been bombed by Russian war planes.
+00:58:48.80 --> 00:58:58.80 Many soldiers had been killed by friendly fire from the Russian side and constant vehicle breakdowns made it impossible for them to pick up their dead and wounded.
+00:58:58.80 --> 00:59:07.80 And this is, I haven't found the book yet, I'm sure I will.
+00:59:07.80 --> 00:59:14.80 The book that takes you into the battle onto the ground because I've been talking all the strategic stuff and generally I don't like to do that.
+00:59:14.80 --> 00:59:18.80 I want to hear from the person on the ground.
+00:59:18.80 --> 00:59:27.80 And this is where you start to get it. You start to see what the Russians, what the front line troopers were thinking and what it was like for them.
+00:59:27.80 --> 00:59:33.80 And here you had him saying that many soldiers have been killed by friendly fire from the Russian side.
+00:59:33.80 --> 00:59:40.80 Constant vehicle breakdowns made it impossible for the pick up their dead and wounded.
+00:59:40.80 --> 00:59:45.80 In a company that had a hundred men, now they're only fifty left.
+00:59:45.80 --> 00:59:52.80 In our battalion out of 350 men over 250 had been killed.
+00:59:52.80 --> 01:00:02.80 The soldiers account syndicate that the new official figures putting the Russian military death toll at 394 soldiers are vastly understated.
+01:00:02.80 --> 01:00:07.80 Cheshand sources put the Russian casualties at about 3,000 dead.
+01:00:07.80 --> 01:00:10.80 These Russians are worse than fascists.
+01:00:10.80 --> 01:00:17.80 Said, Gregory A. Smirnaugh 50, whose beloved territory was decapitated by the rocket.
+01:00:17.80 --> 01:00:22.80 For young guys have been killed in our street, they weren't fighters, they weren't against anyone.
+01:00:22.80 --> 01:00:30.80 I apologize for what Russia is doing here, Smirnaugh said, I'm embarrassed by my country in front of the whole world.
+01:00:30.80 --> 01:00:37.80 A month after President Boris Hieltson promised the Russian public that law-enor would be restored in Cheshania,
+01:00:37.80 --> 01:00:41.80 and that the illegal armed formations in Grasni would quickly be disarmed.
+01:00:41.80 --> 01:00:46.80 It was unclear whether Russian forces could soon break through the fierce Cheshand resistance.
+01:00:46.80 --> 01:00:56.80 I don't think they can take the city, said one Cheshand fighter, they can destroy it, but they can't capture it.
+01:00:56.80 --> 01:01:03.80 The two Russian prisoners who had entered Grasni on December 20 looked exhausted, filthy, and frightened.
+01:01:03.80 --> 01:01:13.80 If their condition is typical of the rest of the enemy, it is not surprising that the Russians have not yet attempted another all-out of infantry assault on Grasni.
+01:01:13.80 --> 01:01:20.80 Frankly, there is no discipline, no anything in the military now the prisoner said.
+01:01:20.80 --> 01:01:28.80 The soldiers are weakened, they haven't washed for a long time, they are hungry and unshaven.
+01:01:28.80 --> 01:01:38.80 Even a soldier, when he wants to describe how bad things have gotten, he says that the soldiers are dirty, hungry and unshaven.
+01:01:38.80 --> 01:01:44.80 There were times where more of us were getting killed by our own people than by the Cheshands.
+01:01:44.80 --> 01:01:53.80 We don't even have time to pick up our dead just no time where either fighting the Cheshand or our own air force is bombing us.
+01:01:53.80 --> 01:02:02.80 The prisoner added that they've been ordered to kill everybody from kids to old people, not just Cheshands, but also Russians.
+01:02:02.80 --> 01:02:05.80 This is a nightmare.
+01:02:05.80 --> 01:02:13.80 The two soldiers said they went to a house in northeast Grasni neighborhood to look for food because they hadn't had a proper meal for five days.
+01:02:13.80 --> 01:02:20.80 They'd been surviving on dry rations that were never enough and were delivered to their positions, irregularly.
+01:02:20.80 --> 01:02:30.80 As the prisoner spoke, Cheshand fighters gathered around them to listen upon hearing the Russians admit that they had broken to the house and one man shouted angrily, looters.
+01:02:30.80 --> 01:02:37.80 All we wanted was something to eat, muttered the prisoner.
+01:02:37.80 --> 01:02:52.80 Now, we gotta remember we've got a, you know, this is the Soviet Union, this is Russia, so they have their own media and I found this article.
+01:02:52.80 --> 01:02:59.80 And I shouldn't be laughing because it's horrible, but this is the Moscow Times talking about the other story of Grasni.
+01:02:59.80 --> 01:03:06.80 The city of Grasni is cold and dirty again. This is some kind of a state approved message.
+01:03:06.80 --> 01:03:13.80 There is no water and no electricity at night. The streets are illuminated only by distant fires sparked by Russian-shelling and occasional flares.
+01:03:13.80 --> 01:03:21.80 Here is full of sound constantly pumping of artillery shells, the screams of God missiles, and a crackle of machine gun fire.
+01:03:21.80 --> 01:03:29.80 The only source of heat in the burned out basements of Grasni are from home-made furnaces that Russian soldiers had fashioned from bricks of destroyed buildings.
+01:03:29.80 --> 01:03:36.80 At night officers and soldiers huddled around them, their faces dirty and covered with sweats since they really have water with which to wash it.
+01:03:36.80 --> 01:03:44.80 It almost looks like they are wearing the kind of camouflage paint that is the issued to soldiers in western armies.
+01:03:44.80 --> 01:03:54.80 These men are by and large, normal decent people. They believe that they are doing their duty in Cheshna. That's a little bit contrary to what we just heard from the prisoners.
+01:03:54.80 --> 01:04:01.80 Of course, now the prisoners, those guys are in a derests situation too, because they might get their heads chopped off at any moment.
+01:04:01.80 --> 01:04:08.80 So they're probably making the case the best they can that, hey, you know, we're not in the sport of Russia, they're just trying to stay alive.
+01:04:08.80 --> 01:04:17.80 They insist that back to the article, they insist that they do not intentionally attack peaceful civilians, but are instead waging battle against an organized and pedulous enemy.
+01:04:17.80 --> 01:04:25.80 The conscripts who are risking their lives in Cheshna might as well be considered volunteers.
+01:04:25.80 --> 01:04:35.80 This is the paper, you know, saying that these poor guys that are fighting, they should be considered volunteers, even though they're conscripts that are being forced to fight there, they might as well be considered volunteers.
+01:04:35.80 --> 01:04:45.80 Russia is not declared a war or martial law, so nothing threatens visitors except the moral condemnation of the comrades they leave behind.
+01:04:45.80 --> 01:04:54.80 The army's morale has been steadily improving, as it becomes more experienced and street fighting.
+01:04:54.80 --> 01:05:05.80 Again, there's countless documented cases of the morale completely falling apart and being one of the premier causes of the loss of the battle.
+01:05:05.80 --> 01:05:14.80 It's casualty rate is falling and is able to inflict increasing punishment on the Cheshna fighters. The military is confident of victory.
+01:05:14.80 --> 01:05:20.80 Among these soldiers, you hear a different opinion about the war than what you read in Moscow.
+01:05:20.80 --> 01:05:26.80 Many reports in the media about Cheshna campaign are obviously biased against the military.
+01:05:26.80 --> 01:05:36.80 Some may even be censored. When I was in Cheshna on January 22, a crew from Russian television was in Grasnese shooting report for the evening news program.
+01:05:36.80 --> 01:05:42.80 The report included graphic footage of the bodies of Russian soldiers who had been mutilated by the Cheshians.
+01:05:42.80 --> 01:05:47.80 However, the host of the program refused to air it without even seeing it.
+01:05:47.80 --> 01:05:51.80 Of course, only a fraction of the Russian army is fighting in Cheshna.
+01:05:51.80 --> 01:05:57.80 But they've been sent here from virtually every military district in the country.
+01:05:57.80 --> 01:06:04.80 Eventually, they were returned to their bases and tell their stories to the rest of their comrades and arms.
+01:06:04.80 --> 01:06:15.80 And those soldiers will put a lot more stock in what the Cheshna veterans have to say than they will in any press reports or human rights activists.
+01:06:15.80 --> 01:06:23.80 So there's the official Russian version.
+01:06:23.80 --> 01:06:27.80 Brutal.
+01:06:27.80 --> 01:06:31.80 In your experiences that ever happened here.
+01:06:31.80 --> 01:06:33.80 Like you saw here, stuff in the media and you're like,
+01:06:33.80 --> 01:06:35.80 Dang, that's not how happened.
+01:06:35.80 --> 01:06:37.80 It definitely happens here.
+01:06:37.80 --> 01:06:39.80 There's no doubt about it.
+01:06:39.80 --> 01:06:46.80 The way that the media portrays things is very wrong, you know, often very wrong.
+01:06:46.80 --> 01:06:59.80 I think one of the classics that I've been telling lately are talking about lately is that they never portray the Iraqi people as normal human beings that just want to live normal lives.
+01:06:59.80 --> 01:07:06.80 They never portray the Iraqi people like that when that's what they are.
+01:07:06.80 --> 01:07:10.80 Yeah.
+01:07:10.80 --> 01:07:16.80 The vast majority of Iraqi people are normal people that want to have a job raised their kids, let their kids go to school and prove their lives do better.
+01:07:16.80 --> 01:07:20.80 That's what the vast majority of Iraqi people who want.
+01:07:20.80 --> 01:07:34.80 But you know, when, when's the last time you saw an American family on the news that was going to the store to go grocery shopping and then come home and and do some yard work in the afternoon.
+01:07:34.80 --> 01:07:36.80 No, they don't show that because it's not news.
+01:07:36.80 --> 01:07:38.80 That's the same thing in Iraq.
+01:07:38.80 --> 01:07:40.80 They don't show that.
+01:07:40.80 --> 01:07:42.80 Yeah.
+01:07:42.80 --> 01:07:47.80 So we always get this impression that, you know, that everyone in Iraq is some kind of militant.
+01:07:47.80 --> 01:07:48.80 Right.
+01:07:48.80 --> 01:07:51.80 Whether it's tired of us being here, it's not true.
+01:07:51.80 --> 01:07:53.80 Not true at all.
+01:07:53.80 --> 01:07:57.80 So that's one of the biggest points I can think of where the media can just do.
+01:07:57.80 --> 01:07:59.80 To they just get it wrong.
+01:07:59.80 --> 01:08:04.80 And it really leaves people in America thinking, well, God, why are we there?
+01:08:04.80 --> 01:08:05.80 Yeah.
+01:08:05.80 --> 01:08:08.80 It's so crazy that we would do, you know, why they don't want us there?
+01:08:08.80 --> 01:08:09.80 No, actually they do want us there.
+01:08:09.80 --> 01:08:11.80 But you don't show those people.
+01:08:11.80 --> 01:08:13.80 You show the protesters because that's news.
+01:08:13.80 --> 01:08:14.80 Yeah.
+01:08:14.80 --> 01:08:18.80 It's not news to get interviewed someone that says, yeah, it's great having the Americans here hopefully they can maintain the peace.
+01:08:18.80 --> 01:08:19.80 That's not news.
+01:08:19.80 --> 01:08:20.80 Yeah, isn't that crazy?
+01:08:20.80 --> 01:08:22.80 Oh, it's sure that's not news.
+01:08:22.80 --> 01:08:24.80 And that kind of makes sense.
+01:08:24.80 --> 01:08:26.80 You know, why would you report on an American family?
+01:08:26.80 --> 01:08:29.80 You just, you know, the dad went to work.
+01:08:29.80 --> 01:08:30.80 You want to report on that because that's not news.
+01:08:30.80 --> 01:08:31.80 So that makes sense.
+01:08:31.80 --> 01:08:39.80 But the fact that you're not reporting every day stuff is essentially changing the accurate message into a message that's inaccurate.
+01:08:39.80 --> 01:08:41.80 The that's something, you know.
+01:08:41.80 --> 01:08:42.80 Yeah, it is.
+01:08:42.80 --> 01:08:43.80 It is.
+01:08:43.80 --> 01:08:46.80 It's, it's horrible.
+01:08:46.80 --> 01:08:49.80 It's horrible to see.
+01:08:49.80 --> 01:08:52.80 This is just another little section.
+01:08:52.80 --> 01:09:00.80 Russian counter insurgency operation in Cheshneapart 1 winning the battle losing the war by Matthew and
+01:09:00.80 --> 01:09:09.80 Janko RPG and sniper fire focused on exposed Russian troops.
+01:09:09.80 --> 01:09:18.80 Small groups of 10 to 20 Cheshneapfighters moved in non-abildings and the surrounding mountains to engage heavily armed and armored Russian troops.
+01:09:18.80 --> 01:09:22.80 The Cheshneap teams were attacking shifts.
+01:09:22.80 --> 01:09:28.80 Some attacking, while the others rested, so that a force of no more than 50 held entire battalions at bay,
+01:09:28.80 --> 01:09:37.80 bottled necked in the narrow streets and cities, or the treacherous defiles of the mountains.
+01:09:37.80 --> 01:09:44.80 The Cheshneutalyzation of information and space and their highly sophisticated networking allowed them a tremendous advantage in terms of physical combat,
+01:09:44.80 --> 01:09:50.80 and even more important advantage in terms of psychological impact on their enemy.
+01:09:50.80 --> 01:09:56.80 Rather than a group of rag tag and surgeon fighters fueled by hatred and national fanaticism,
+01:09:56.80 --> 01:10:03.80 the Cheshnefiders were highly trained, disciplined, well-equipped, and knowledgeable of the terrain.
+01:10:03.80 --> 01:10:11.80 From the individual up through the army level, the Cheshneutalyzation held the advantage in all but air power and fire support.
+01:10:11.80 --> 01:10:14.80 We already talked about how they overcame that.
+01:10:14.80 --> 01:10:26.80 The Cheshnefiders proved better trained, equipped to technically skilled and fed and demonstrated remarkably higher morale and motivation in addition to an intimate knowledge of the hazardous terrain.
+01:10:26.80 --> 01:10:34.80 It's just incredible how over and over again they point out on both sides how big of a factor morale is.
+01:10:34.80 --> 01:10:43.80 So if you're in a leadership position, whether you're working with a team, whether you're working with a company, whether you're working with a business, morale is so important,
+01:10:43.80 --> 01:10:46.80 and you have to pay attention to it.
+01:10:46.80 --> 01:10:53.80 Yeah, it seems that kind of etiquland or something seems like morale is kind of this extra thing.
+01:10:53.80 --> 01:11:01.80 Oh, what you don't feel good, you know, business business, you know, you don't feel good about it, but that's kind of the fuel, you know,
+01:11:01.80 --> 01:11:07.80 the fuel, it's, I even do it. Yeah, I wouldn't say it's the fuel, I'd say it's the fire.
+01:11:07.80 --> 01:11:10.80 You go, right? Right? Yeah.
+01:11:10.80 --> 01:11:17.80 Throughout the first Cheshneutalyzation War, Cheshnefiders, many of them former Soviet soldiers with combat experience in Afghanistan,
+01:11:17.80 --> 01:11:21.80 dug into the hills and fought a defensive and fierce war of attrition with the Russian troops,
+01:11:21.80 --> 01:11:25.80 not unlike their former Afghani counterparts.
+01:11:25.80 --> 01:11:30.80 Although both sides engage in acts of brutality to weaken the enemies resolved the fight.
+01:11:30.80 --> 01:11:38.80 Cheshnefiders far out did their Russian counterparts in these grisly psychological tactics.
+01:11:38.80 --> 01:11:45.80 They hung Russian wounded upside down, wounded and dead upside down in the windows and defensive positions.
+01:11:45.80 --> 01:11:51.80 For example, forcing the Russians to fire at their combat comrades in order to engage the rebels.
+01:11:51.80 --> 01:11:55.80 Clearly, that's the second time we've talked about that. Clearly, that had a huge impact.
+01:11:55.80 --> 01:12:00.80 And you can't even imagine what that does to you psychologically when you want to shoot at the enemy.
+01:12:00.80 --> 01:12:05.80 You got a shoot at one of your brothers who's either wounded.
+01:12:05.80 --> 01:12:08.80 I mean, he might be dead, he's possibly just wounded.
+01:12:08.80 --> 01:12:13.80 Yeah. And either way, he's just right there. You got a shoot at, yeah.
+01:12:13.80 --> 01:12:20.80 Both Russian and Cheshneutalyzation dead were routinely booby trapped by the Cheshneuts who showed sophisticated insight
+01:12:20.80 --> 01:12:27.80 into the likely actions to react to the average Russian soldiers we already talked about that.
+01:12:27.80 --> 01:12:33.80 In addition, Cheshnefiders used dirty tactics collectively learned from dozens of asymmetrical guerrilla conflicts before,
+01:12:33.80 --> 01:12:39.80 such as instructing snipers to aim for the legs of Russian troops injuring, but not incapacitating them
+01:12:39.80 --> 01:12:45.80 and then shooting free range at the subsequent rescue parties that were sure to come.
+01:12:45.80 --> 01:12:52.80 Some snipers aimed specifically at the groin, dealing a crippling and humiliating wound,
+01:12:52.80 --> 01:12:58.80 and a humiliating wound that resulted in a slow, painful death.
+01:12:58.80 --> 01:13:05.80 And we experienced this in Iraq too, where in part of it was like room or mill,
+01:13:05.80 --> 01:13:12.80 where there's people who'd say, oh man, because I remember in Felusia there was a sniper that shot a couple of guys in the groin.
+01:13:12.80 --> 01:13:17.80 And then one person got shot in the groin in Ramadi.
+01:13:17.80 --> 01:13:20.80 And I just remember if we could all go there, go there, this is what they did.
+01:13:20.80 --> 01:13:23.80 It's psychological attack.
+01:13:23.80 --> 01:13:33.80 Cheshneuts routinely dressed in Russian uniforms to gain access to bases and used these opportunities to launch surprise attacks from behind enemy lines.
+01:13:33.80 --> 01:13:39.80 Each Cheshneuts took seriously the notion that the center of gravity in the war was no longer the enemy's army,
+01:13:39.80 --> 01:13:42.80 but rather the enemy's people.
+01:13:42.80 --> 01:13:45.80 Tactics were devised to attack the psyche of the Russians,
+01:13:45.80 --> 01:13:51.80 aimed at creating a constant level, high level of psychological stress on the Russian servicemen
+01:13:51.80 --> 01:13:53.80 to undermine their morale.
+01:13:53.80 --> 01:14:03.80 So the Cheshneuts were attacking them, a attacking them, doing things that were attacking them psychologically.
+01:14:03.80 --> 01:14:11.80 Hardened by a united sense of purpose in driving out the invader, the Cheshneuts troops terrified and terrorized the Russian troops,
+01:14:11.80 --> 01:14:15.80 slowly bleeding out the morale and willingness to fight.
+01:14:15.80 --> 01:14:24.80 The Russian troops, many still in their teens, were woefully unprepared and untrained in comparison.
+01:14:24.80 --> 01:14:32.80 The result of such a disparity in morale and military expectations had tragic consequences.
+01:14:32.80 --> 01:14:40.80 According to one Russian participant, the men on the ground, shaken and angered by their losses,
+01:14:40.80 --> 01:14:44.80 were just taking it out on anyone they found.
+01:14:44.80 --> 01:14:51.80 There was revenge in the air for those comrades who had been killed, and now you end up with.
+01:14:51.80 --> 01:14:58.80 So the Russian troops get so frustrated, they're so psychologically damaged that there's going out and taking it out on the local Cheshneuts,
+01:14:58.80 --> 01:15:03.80 which are some of these Russian, some of these people are good Russians.
+01:15:03.80 --> 01:15:08.80 And they're taking it out on them, they're taking it out on anyone that could be an insurgent, and now what happens.
+01:15:08.80 --> 01:15:13.80 Now everyone starts turning against you. It's a nightmare.
+01:15:13.80 --> 01:15:20.80 Without recourse to set peace, conventional battle, the Cheshneutians and Cheshneuts had argumentally arguably achieved the
+01:15:20.80 --> 01:15:29.80 act me of skill by subduing their enemy largely before the fighting began. At the same time, the Russians,
+01:15:29.80 --> 01:15:39.80 with their vast superiority and military firepower, failed to use it, to tactical and strategic advantage.
+01:15:39.80 --> 01:15:47.80 By employing air and space power, thoughtlessly or unimaginably, the Russians' power was less effective,
+01:15:47.80 --> 01:15:52.80 or even disastrously impotent.
+01:15:52.80 --> 01:15:58.80 So a lack of imagination, a lack of creativity.
+01:15:58.80 --> 01:16:04.80 Brutal, brutal war, and a lot of lessons learned.
+01:16:04.80 --> 01:16:09.80 And I can tell you that there's a lot of lessons that were learned by those Russians on the ground,
+01:16:09.80 --> 01:16:22.80 that were absolutely implemented by American forces in, I know in Romadi, absolutely the amount of similarities for that urban combat,
+01:16:22.80 --> 01:16:30.80 and the things that we watched out for, because of the sacrifices made by the Russian soldiers,
+01:16:30.80 --> 01:16:41.80 I'd say, how do you jump back and I'm glad that we were able to take away some lessons and take those to the battlefield in Romadi,
+01:16:41.80 --> 01:16:48.80 and do things like protect the local populace, and do things like understand their culture.
+01:16:48.80 --> 01:16:57.80 And do things like not take out our aggression on the local populace, which only turns the local populace against you.
+01:16:57.80 --> 01:17:09.80 And it was that professionalism of the US military, of the US army soldiers, of the US Marines, that professionalism,
+01:17:09.80 --> 01:17:15.80 to maintain that discipline throughout the battle.
+01:17:15.80 --> 01:17:26.80 That was actually absolutely critical in bringing about the victory.
+01:17:26.80 --> 01:17:41.80 It's crazy how all these strategies and tactics are, it's all the same, the patent, book, all the books, these messages are, it's all the same.
+01:17:41.80 --> 01:17:42.80 It's crazy.
+01:17:42.80 --> 01:17:44.80 It is, it is all the same.
+01:17:44.80 --> 01:17:48.80 It is crazy how similar they are, and when they just completely line up.
+01:17:48.80 --> 01:17:58.80 And again, it's amazing how the tactics from the battlefield reflect the tactics in business,
+01:17:58.80 --> 01:18:02.80 and reflect the tactics in human life.
+01:18:02.80 --> 01:18:10.80 Yeah, you know, which kind of gave me eerie feeling, what is one you talked about, the Cheshnean rebels,
+01:18:10.80 --> 01:18:16.80 that there were the rebels, right, and some Cheshnean rebels, they attacked the Russian morale.
+01:18:16.80 --> 01:18:23.80 Right, so what gave me eerie feeling is that's what you get with like, guys who abuse their girlfriend or their wife.
+01:18:23.80 --> 01:18:24.80 That's what they do.
+01:18:24.80 --> 01:18:25.80 They attack them morale.
+01:18:25.80 --> 01:18:26.80 Yes.
+01:18:26.80 --> 01:18:26.80 Yes.
+01:18:26.80 --> 01:18:30.80 No idea, give me that feeling, but it's like so.
+01:18:30.80 --> 01:18:35.80 It's because you gave you that eerie feeling because you understand how devastating it is.
+01:18:35.80 --> 01:18:39.80 Yes, you know, and it's not exactly, yeah, that's a perfect way to put it.
+01:18:39.80 --> 01:18:44.80 Because it's not this thing where it's different than chopping off the guys' heads and putting it on on stakes.
+01:18:44.80 --> 01:18:46.80 That's something for sure, but it's way different.
+01:18:46.80 --> 01:18:52.80 It's on this weird, like kind of covert level, but still so devastating.
+01:18:52.80 --> 01:18:59.80 So it's weird where it's, it's, it's bad when you, you see a guy doing that to like, to a girl.
+01:18:59.80 --> 01:19:01.80 Yeah, so it's, it's, it's horrible.
+01:19:01.80 --> 01:19:08.80 And also, and you mentioned this earlier, the morale piece is something that gets ignored so often.
+01:19:08.80 --> 01:19:12.80 Yeah, especially in the business world, where people just, they're morale,
+01:19:12.80 --> 01:19:15.80 they're morale, they'll take a beating, the market's bad, all these things.
+01:19:15.80 --> 01:19:20.80 And if you don't prop up that morale and you don't protect them around, you don't defend them around.
+01:19:20.80 --> 01:19:22.80 You don't strengthen them around.
+01:19:22.80 --> 01:19:25.80 That's when you get what's what happened to the Russian soldiers.
+01:19:25.80 --> 01:19:27.80 The morale fell apart.
+01:19:27.80 --> 01:19:37.80 Yeah, and a lot of times, if the morale is not like in a company or something, the leader, if he's bad, he'll kind of blame them.
+01:19:37.80 --> 01:19:38.80 Like, you guys have bad attitudes.
+01:19:38.80 --> 01:19:41.80 You know, we're trying to do some business here and you guys have bad attitudes.
+01:19:41.80 --> 01:19:44.80 But it's, you know, yeah, that's how it's going to be opposite there.
+01:19:44.80 --> 01:19:51.80 Leader that's not taking ownership of the situation, which is why ownership is so important.
+01:19:51.80 --> 01:19:57.80 Because the minute you start blaming, I mean, you're just, you're just putting an ale on the coffin.
+01:19:57.80 --> 01:20:03.80 When you start blaming people for bad morale, you know, it's, it's the, hey, the beatings will continue until morale improves.
+01:20:03.80 --> 01:20:04.80 Right.
+01:20:04.80 --> 01:20:05.80 Yeah, exactly.
+01:20:05.80 --> 01:20:06.80 Yeah, it doesn't work.
+01:20:06.80 --> 01:20:07.80 Yeah.
+01:20:07.80 --> 01:20:09.80 You know, the beatings do not improve morale.
+01:20:09.80 --> 01:20:19.80 That's, that's, would you say, kind of at the top of your head, would you say that that's more common than not that just that whole thing where, you know, just to blame people in general.
+01:20:19.80 --> 01:20:20.80 Oh, absolutely.
+01:20:20.80 --> 01:20:21.80 Absolutely.
+01:20:21.80 --> 01:20:22.80 Absolutely.
+01:20:22.80 --> 01:20:27.80 I mean, it is absolutely a very common problem in leadership.
+01:20:27.80 --> 01:20:27.80 Yeah.
+01:20:27.80 --> 01:20:31.80 That's, that's why our book is done really well because people say, oh, man.
+01:20:31.80 --> 01:20:32.80 Yeah.
+01:20:32.80 --> 01:20:33.80 I do that.
+01:20:33.80 --> 01:20:34.80 Oh, I can't believe I do that.
+01:20:34.80 --> 01:20:37.80 Yeah, because we never hear any of this stuff like growing up,
+01:20:37.80 --> 01:20:42.80 you know, you say, okay, don't blame, but it's, it's not like a real strong message that you're saying growing up.
+01:20:42.80 --> 01:20:43.80 I know, I wasn't.
+01:20:43.80 --> 01:20:54.80 I don't think that that people have isolated and focused on ownership at this level.
+01:20:54.80 --> 01:20:57.80 I think that's why the, I think that's why the book is done very well.
+01:20:57.80 --> 01:20:58.80 Yeah.
+01:20:58.80 --> 01:21:03.80 I think that's why people continue to contact me and say, hey, that you guys, thank you for writing this book.
+01:21:03.80 --> 01:21:04.80 It's changed away.
+01:21:04.80 --> 01:21:05.80 I look at everything.
+01:21:05.80 --> 01:21:07.80 It's changed the way I've done my business.
+01:21:07.80 --> 01:21:14.80 It's changed the way I'm treating my wife, changed my family, it's changed my outlook on my physical failings.
+01:21:14.80 --> 01:21:20.80 So, so when you take ownership to that high level and that intensity and you call it extreme ownership,
+01:21:20.80 --> 01:21:22.80 yeah, I think it, I think it has a huge impact.
+01:21:22.80 --> 01:21:28.80 And I think that we are the first people that have said, you know, what this needs to be the focus.
+01:21:28.80 --> 01:21:29.80 Right.
+01:21:29.80 --> 01:21:30.80 This is the game changer.
+01:21:30.80 --> 01:21:34.80 This is the fundamental principle in life that is going to turn you.
+01:21:34.80 --> 01:21:37.80 From failure to success.
+01:21:37.80 --> 01:21:43.80 It's not when you say, hey, this person didn't help me and this person went against me and this person sabotaged me.
+01:21:43.80 --> 01:21:45.80 That's great, but it doesn't matter.
+01:21:45.80 --> 01:21:51.80 When you take ownership of everything, somebody sabotaging me, I got to say, oh, I got to figure out how to stop him.
+01:21:51.80 --> 01:21:52.80 Yeah.
+01:21:52.80 --> 01:21:59.80 And it's just so when you, when you kind of know that or you kind of get wind to that, it almost seems so obvious.
+01:21:59.80 --> 01:22:00.80 Yeah.
+01:22:00.80 --> 01:22:02.80 Well, well, well, I think if I'm going to blame someone,
+01:22:02.80 --> 01:22:05.80 so no, of course they're going to blame me back.
+01:22:05.80 --> 01:22:09.80 If I get belligerent towards someone, of course, like a belligerent back, but you don't.
+01:22:09.80 --> 01:22:16.80 And you already knew that really if you're asked, but it's almost like you don't think if I take ownership.
+01:22:16.80 --> 01:22:18.80 Everyone else is going to start taking ownership.
+01:22:18.80 --> 01:22:26.80 I don't, you know, you don't really think about that that much, even though after you know it, it seems real obvious.
+01:22:26.80 --> 01:22:28.80 These things are simple, but not easy.
+01:22:28.80 --> 01:22:32.80 They really are. And ownership.
+01:22:32.80 --> 01:22:40.80 When you take ownership of problems, when you take ownership of your life and when you don't have anybody else to blame, it hurts.
+01:22:40.80 --> 01:22:41.80 Yeah.
+01:22:41.80 --> 01:22:42.80 It hurts.
+01:22:42.80 --> 01:22:44.80 It hurts the ego.
+01:22:44.80 --> 01:22:45.80 It hurts the mind.
+01:22:45.80 --> 01:22:46.80 It hurts.
+01:22:46.80 --> 01:22:50.80 So people, even though it's really easy, I'm going to take ownership of everything.
+01:22:50.80 --> 01:22:51.80 It's hard to do.
+01:22:51.80 --> 01:22:55.80 It's difficult for people to do.
+01:22:55.80 --> 01:23:05.80 And when they do do it, when they do step across that line and they do take ownership, they absolutely see things turn around.
+01:23:05.80 --> 01:23:14.80 And I've heard that, you know, I mean, thankfully for the internet, thankfully for Twitter and Facebook and all these things, people hit me up every single day.
+01:23:14.80 --> 01:23:16.80 And say, either, hey, this changed my life.
+01:23:16.80 --> 01:23:21.80 But sometimes it's just something minor, you know, they'll say, had some issues that work today.
+01:23:21.80 --> 01:23:22.80 Tilt-conorship, oval.
+01:23:22.80 --> 01:23:23.80 Problem solved.
+01:23:23.80 --> 01:23:27.80 So like, okay, that's great. Well, what was that person to done a month ago before they read the book?
+01:23:27.80 --> 01:23:28.80 It would have blamed somebody else.
+01:23:28.80 --> 01:23:29.80 It would have shifted the problem.
+01:23:29.80 --> 01:23:31.80 You know, they would have ignored it.
+01:23:31.80 --> 01:23:32.80 They would have cast blame somewhere else.
+01:23:32.80 --> 01:23:34.80 And they wouldn't have solved the problem.
+01:23:34.80 --> 01:23:39.80 So when you take ownership, it allows you to then solve the problem.
+01:23:39.80 --> 01:23:46.80 So that's what you got to do.
+01:23:46.80 --> 01:23:52.80 So now it is time for questions from the interwebs.
+01:23:52.80 --> 01:23:54.80 Yeah.
+01:23:54.80 --> 01:24:00.80 We actually have a current event question, which technically has never happened.
+01:24:00.80 --> 01:24:02.80 Well, I would say it's not.
+01:24:02.80 --> 01:24:06.80 I'll explain why it's not a current event once you ask a question.
+01:24:06.80 --> 01:24:07.80 Right.
+01:24:07.80 --> 01:24:08.80 Because it's not.
+01:24:08.80 --> 01:24:10.80 Yeah, it is.
+01:24:10.80 --> 01:24:11.80 All right.
+01:24:11.80 --> 01:24:20.80 What are your thoughts on the Conomograegor versus Nate Diaz fight and the Holly Home versus Misha Tate fight?
+01:24:20.80 --> 01:24:24.80 Yeah, you have seen 196 this past weekend.
+01:24:24.80 --> 01:24:27.80 Women's been to Mwate Championship on the home.
+01:24:27.80 --> 01:24:31.80 Prisma Shatee and then it's like a super fight.
+01:24:31.80 --> 01:24:32.80 Right.
+01:24:32.80 --> 01:24:32.80 Yeah.
+01:24:32.80 --> 01:24:32.80 Yeah.
+01:24:32.80 --> 01:24:37.80 Super fight and ideas and kind of a Gregor who's a champ at 145.
+01:24:37.80 --> 01:24:43.80 And here's why this is not a current event's question to me.
+01:24:43.80 --> 01:24:46.80 Because this is just a question about fighting.
+01:24:46.80 --> 01:24:47.80 It really is.
+01:24:47.80 --> 01:24:52.80 Because and you could say this at any time, these were good examples.
+01:24:52.80 --> 01:24:57.80 And we'll be talking about these examples in one year, five years.
+01:24:57.80 --> 01:25:00.80 And there's other fights that are similar examples.
+01:25:00.80 --> 01:25:05.80 Holly Home who is a world class kickboxer and boxer.
+01:25:05.80 --> 01:25:06.80 Yeah.
+01:25:06.80 --> 01:25:08.80 And a very good mixed martial artists.
+01:25:08.80 --> 01:25:11.80 However, not that great at jujitsu.
+01:25:11.80 --> 01:25:15.80 Not horrible, not trying to bag on her because she is awesome.
+01:25:15.80 --> 01:25:17.80 And a smart fighter too.
+01:25:17.80 --> 01:25:20.80 Very smart with a great coach, great corner.
+01:25:20.80 --> 01:25:28.80 She lost a Misha Tate who is definitely not as good of a striker, but who is better on the ground.
+01:25:28.80 --> 01:25:29.80 Mm-hmm.
+01:25:29.80 --> 01:25:30.80 Yeah.
+01:25:30.80 --> 01:25:32.80 And she's real well around his face.
+01:25:32.80 --> 01:25:34.80 She's extremely well around it.
+01:25:34.80 --> 01:25:35.80 Yeah.
+01:25:35.80 --> 01:25:36.80 She's extremely well around it.
+01:25:36.80 --> 01:25:40.80 And she's also gotten beat twice by Ronda Rousy.
+01:25:40.80 --> 01:25:48.80 And the strategy in those fights that she had was awful in the Misha Tate run to us.
+01:25:48.80 --> 01:25:49.80 Yeah.
+01:25:49.80 --> 01:25:54.80 For some reason, Misha kept clenching and grabbing and trying to take the fight to the ground against Ronda,
+01:25:54.80 --> 01:25:57.80 which was just super cheap, clearly a better striker.
+01:25:57.80 --> 01:25:58.80 So I don't know.
+01:25:58.80 --> 01:26:01.80 I think that might change the next time they fight.
+01:26:01.80 --> 01:26:07.80 Misha will hopefully have a smarter game plan than trying to grapple with Ronda.
+01:26:07.80 --> 01:26:09.80 There's no reason for it.
+01:26:09.80 --> 01:26:10.80 Yeah.
+01:26:10.80 --> 01:26:11.80 She's a better striker.
+01:26:11.80 --> 01:26:12.80 She needs to take advantage of it.
+01:26:12.80 --> 01:26:13.80 Yeah.
+01:26:13.80 --> 01:26:18.80 On the other hand, with Holly Holmes, she does get the grappling going.
+01:26:18.80 --> 01:26:19.80 Yes.
+01:26:19.80 --> 01:26:20.80 And not easy.
+01:26:20.80 --> 01:26:22.80 You know, Holly Holmes is good at avoiding the take down.
+01:26:22.80 --> 01:26:24.80 I'll send him to the ground.
+01:26:24.80 --> 01:26:25.80 Yeah.
+01:26:25.80 --> 01:26:26.80 Man, so good.
+01:26:26.80 --> 01:26:28.80 But yeah, finally does it in the fifth rush.
+01:26:28.80 --> 01:26:29.80 He had her.
+01:26:29.80 --> 01:26:31.80 I think the end of the second round.
+01:26:31.80 --> 01:26:32.80 Yeah.
+01:26:32.80 --> 01:26:35.80 But, you know, the time ran out.
+01:26:35.80 --> 01:26:40.80 And then, yeah, managed to end in the fifth round managed to get it to the ground.
+01:26:40.80 --> 01:26:43.80 And immediately finish.
+01:26:43.80 --> 01:26:44.80 Yeah.
+01:26:44.80 --> 01:26:45.80 I mean, she managed.
+01:26:45.80 --> 01:26:49.80 And it's key that you said that she managed to like get it to the ground.
+01:26:49.80 --> 01:26:51.80 Because it wasn't a beautiful take down or anything.
+01:26:51.80 --> 01:26:53.80 She got in on her finally.
+01:26:53.80 --> 01:26:55.80 She had gotten stuff a couple times.
+01:26:55.80 --> 01:26:56.80 It was.
+01:26:56.80 --> 01:26:59.80 Holly was doing a really good job of keeping her at bay.
+01:26:59.80 --> 01:27:01.80 And Holly was obviously scared.
+01:27:01.80 --> 01:27:04.80 Because even the second round she got once it was on the ground,
+01:27:04.80 --> 01:27:07.80 she got a combination by Misha.
+01:27:07.80 --> 01:27:12.80 And then Holly didn't want to go to the ground with her again.
+01:27:12.80 --> 01:27:14.80 But then she let her get in.
+01:27:14.80 --> 01:27:19.80 And then like you said, Misha just forced that thing kind of drag it in an ugly way.
+01:27:19.80 --> 01:27:21.80 Just kind of make got it to the ground.
+01:27:21.80 --> 01:27:22.80 And once she got the ground, she got her back.
+01:27:22.80 --> 01:27:24.80 And then once she got her back, she got her back.
+01:27:24.80 --> 01:27:26.80 She got the choking.
+01:27:26.80 --> 01:27:28.80 Once she got the choking.
+01:27:28.80 --> 01:27:30.80 Holly kind of tried to flip her off.
+01:27:30.80 --> 01:27:33.80 And.
+01:27:33.80 --> 01:27:35.80 Even that was a little bit of a mistake.
+01:27:35.80 --> 01:27:37.80 If Holly would have just like stood and shook her off.
+01:27:37.80 --> 01:27:38.80 Yeah.
+01:27:38.80 --> 01:27:39.80 Like a really good experience.
+01:27:39.80 --> 01:27:42.80 Did you do play or might do?
+01:27:42.80 --> 01:27:45.80 Which didn't she flipped her over and landed on her back.
+01:27:45.80 --> 01:27:48.80 And then Misha had the the choking deep.
+01:27:48.80 --> 01:27:50.80 And finished her and Misha's a tough.
+01:27:50.80 --> 01:27:52.80 I mean Misha's been in some scraps before.
+01:27:52.80 --> 01:27:54.80 She is a scrappy tough.
+01:27:54.80 --> 01:27:55.80 She's got a big heart.
+01:27:55.80 --> 01:27:57.80 She fights with a lot of heart.
+01:27:57.80 --> 01:27:58.80 I give her I give her some props.
+01:27:58.80 --> 01:27:59.80 I mean, so does Holly.
+01:27:59.80 --> 01:28:00.80 Of course.
+01:28:00.80 --> 01:28:01.80 I mean, Holly went to sleep.
+01:28:01.80 --> 01:28:02.80 She didn't even tap.
+01:28:02.80 --> 01:28:03.80 She was like, what?
+01:28:03.80 --> 01:28:04.80 No, I'm not tapping.
+01:28:04.80 --> 01:28:05.80 Yeah.
+01:28:05.80 --> 01:28:07.80 And you could see her instinctively started throwing.
+01:28:07.80 --> 01:28:08.80 Yeah.
+01:28:08.80 --> 01:28:09.80 That's the only punch is at the end.
+01:28:09.80 --> 01:28:12.80 I mean, into the air, in the different direction.
+01:28:12.80 --> 01:28:13.80 Because that's her.
+01:28:13.80 --> 01:28:14.80 That's her training.
+01:28:14.80 --> 01:28:15.80 Yeah.
+01:28:15.80 --> 01:28:16.80 Yeah.
+01:28:16.80 --> 01:28:17.80 That's crazy.
+01:28:17.80 --> 01:28:18.80 How you see that all the time.
+01:28:18.80 --> 01:28:19.80 Even when guys get knocked out.
+01:28:19.80 --> 01:28:20.80 You ever see guys getting knocked out.
+01:28:20.80 --> 01:28:21.80 And then start grappling.
+01:28:21.80 --> 01:28:22.80 Yeah.
+01:28:22.80 --> 01:28:23.80 With their eyes.
+01:28:23.80 --> 01:28:23.80 For sure.
+01:28:23.80 --> 01:28:24.80 With the wrath.
+01:28:24.80 --> 01:28:25.80 For sure.
+01:28:25.80 --> 01:28:26.80 Like that.
+01:28:26.80 --> 01:28:27.80 Just kind of un-unconsciously doing it.
+01:28:27.80 --> 01:28:28.80 Yeah.
+01:28:28.80 --> 01:28:29.80 It's kind of a kind of compliment.
+01:28:29.80 --> 01:28:30.80 Oh, it's a.
+01:28:30.80 --> 01:28:31.80 Yeah.
+01:28:31.80 --> 01:28:32.80 So a lot of that.
+01:28:32.80 --> 01:28:34.80 She's throwing punches at the air.
+01:28:34.80 --> 01:28:35.80 Yeah.
+01:28:35.80 --> 01:28:37.80 Even though she's asleep.
+01:28:37.80 --> 01:28:38.80 Yeah.
+01:28:38.80 --> 01:28:39.80 So yeah.
+01:28:39.80 --> 01:28:42.80 So in this case, straight up.
+01:28:42.80 --> 01:28:43.80 Yeah.
+01:28:43.80 --> 01:28:44.80 Did you do two works?
+01:28:44.80 --> 01:28:45.80 Right?
+01:28:45.80 --> 01:28:46.80 Yes.
+01:28:46.80 --> 01:28:47.80 Okay.
+01:28:47.80 --> 01:28:53.80 We'll talk about to give us a debrief on the Gregor Diaz fight.
+01:28:53.80 --> 01:28:54.80 See, that's well.
+01:28:54.80 --> 01:28:56.80 I think it was.
+01:28:56.80 --> 01:28:58.80 There is a lot of components.
+01:28:58.80 --> 01:28:59.80 I think to that.
+01:28:59.80 --> 01:29:00.80 I think.
+01:29:00.80 --> 01:29:01.80 I think that.
+01:29:01.80 --> 01:29:03.80 It just gives us the outlook of what happened.
+01:29:03.80 --> 01:29:04.80 What?
+01:29:04.80 --> 01:29:05.80 Just.
+01:29:05.80 --> 01:29:06.80 Okay.
+01:29:06.80 --> 01:29:07.80 Yeah.
+01:29:07.80 --> 01:29:10.80 They fought at 170 and Nadeez is either 1-55 or.
+01:29:10.80 --> 01:29:11.80 I think sometimes.
+01:29:11.80 --> 01:29:12.80 He's fought.
+01:29:12.80 --> 01:29:14.80 He's fought at 170 before.
+01:29:14.80 --> 01:29:15.80 Yeah.
+01:29:15.80 --> 01:29:16.80 But he's.
+01:29:16.80 --> 01:29:19.80 But he's his normal weight for fighting is 155.
+01:29:19.80 --> 01:29:20.80 So.
+01:29:20.80 --> 01:29:21.80 So.
+01:29:21.80 --> 01:29:22.80 Gregor's normal weight for fighting is 145.
+01:29:22.80 --> 01:29:24.80 So he came up 10 pounds.
+01:29:24.80 --> 01:29:27.80 But due to the late nature of the.
+01:29:27.80 --> 01:29:30.80 And he was about they actually ended up fighting at 170.
+01:29:30.80 --> 01:29:31.80 Yeah.
+01:29:31.80 --> 01:29:32.80 Yeah.
+01:29:32.80 --> 01:29:34.80 So they fight and it was it was a little battle.
+01:29:34.80 --> 01:29:37.80 And I think from what I saw.
+01:29:37.80 --> 01:29:38.80 He was.
+01:29:38.80 --> 01:29:40.80 It was close.
+01:29:40.80 --> 01:29:41.80 But I think.
+01:29:41.80 --> 01:29:43.80 Conemma Gregor.
+01:29:43.80 --> 01:29:45.80 Conem like some solid ones.
+01:29:45.80 --> 01:29:46.80 Conem.
+01:29:46.80 --> 01:29:47.80 Couple solid ones.
+01:29:47.80 --> 01:29:48.80 Yeah.
+01:29:48.80 --> 01:29:49.80 Yeah.
+01:29:49.80 --> 01:29:50.80 And then.
+01:29:50.80 --> 01:29:51.80 Then yeah.
+01:29:51.80 --> 01:29:52.80 Shifted.
+01:29:52.80 --> 01:29:54.80 And then Nate started catching him and jimmy him up.
+01:29:54.80 --> 01:29:59.80 And I think that's really what did it because he started beating him up.
+01:29:59.80 --> 01:30:01.80 And then Conemma went for a take down.
+01:30:01.80 --> 01:30:05.80 And that's what you typically what you do when you go for that take down the way he did.
+01:30:05.80 --> 01:30:07.80 That's when you get beat up and you go for the clenched.
+01:30:07.80 --> 01:30:09.80 You know, that's what boy getting beat up.
+01:30:09.80 --> 01:30:10.80 Yes.
+01:30:10.80 --> 01:30:11.80 Even in boxing they do that.
+01:30:11.80 --> 01:30:12.80 You know, you get beat up.
+01:30:12.80 --> 01:30:12.80 You go for the.
+01:30:12.80 --> 01:30:14.80 So that was kind of what that kind of was.
+01:30:14.80 --> 01:30:17.80 And in MMA you just go for the take down.
+01:30:17.80 --> 01:30:18.80 That's kind of where it is.
+01:30:18.80 --> 01:30:19.80 So he did.
+01:30:19.80 --> 01:30:22.80 And that's the thing that here comes the jujitsu right where he.
+01:30:22.80 --> 01:30:25.80 And he is.
+01:30:25.80 --> 01:30:28.80 So the reality is.
+01:30:28.80 --> 01:30:30.80 Conemma Gregor couldn't.
+01:30:30.80 --> 01:30:33.80 That wasn't an option for him where sure he went for the take down.
+01:30:33.80 --> 01:30:37.80 But going to take down is even worse now because Nate did is is one of the.
+01:30:37.80 --> 01:30:40.80 He's a really good jujitsu guy really good.
+01:30:40.80 --> 01:30:43.80 So and kind of a Gregory still working on his jujitsu.
+01:30:43.80 --> 01:30:48.80 Good from what I hear whatever but not like Nate is Nate is like levels above him.
+01:30:48.80 --> 01:30:49.80 Absolutely.
+01:30:49.80 --> 01:30:51.80 So it goes to the ground and it really shows.
+01:30:51.80 --> 01:30:54.80 And he is kind of kind of beat up a little bit and in days.
+01:30:54.80 --> 01:31:00.80 Now he's on the ground he has to do jujitsu now, which is that's a double double strike.
+01:31:00.80 --> 01:31:07.80 I'm so of course he you know he takes a couple more shots and then Nate choked him up pretty pretty quick.
+01:31:07.80 --> 01:31:09.80 Yeah, I bought him that jujitsu skill.
+01:31:09.80 --> 01:31:12.80 And and one thing that Dia's is point now.
+01:31:12.80 --> 01:31:16.80 But a week when they were getting interviewed and everything he says that, you know, he I've been
+01:31:16.80 --> 01:31:21.80 or training partners in you look who I'm rolling with and look who he is rolling with. He's rolling with his brother Nick.
+01:31:21.80 --> 01:31:24.80 He's rolling with Jake Shields who's at beast on the ground.
+01:31:24.80 --> 01:31:29.80 I mean he's rolling with all those little badass wrestlers to he's got.
+01:31:29.80 --> 01:31:33.80 Yeah, you got grown up there. I mean these guys are getting after it.
+01:31:33.80 --> 01:31:34.80 You know what I mean?
+01:31:34.80 --> 01:31:34.80 Yeah.
+01:31:34.80 --> 01:31:35.80 And so.
+01:31:35.80 --> 01:31:38.80 Uh, who's I mean I don't know.
+01:31:38.80 --> 01:31:40.80 I mean he trained with Gunner or what's.
+01:31:40.80 --> 01:31:47.80 Yeah, I mean he's going to do it.
+01:31:47.80 --> 01:31:48.80 Yeah.
+01:31:48.80 --> 01:31:50.80 But the thing is about the jujitsu and about the training.
+01:31:50.80 --> 01:31:55.80 The guys that you're training with all the time, that's the guy that you train with every day.
+01:31:55.80 --> 01:31:56.80 That's what makes you good.
+01:31:56.80 --> 01:32:00.80 Not the guy that comes out for a two week camp or a four week camp or six week camp.
+01:32:00.80 --> 01:32:02.80 That does not make you good at jujitsu.
+01:32:02.80 --> 01:32:06.80 My sharpener one or two things, but it's not the life.
+01:32:06.80 --> 01:32:11.80 It's not the deep daily grind with the with the masters.
+01:32:11.80 --> 01:32:14.80 You know, that's what makes you really good.
+01:32:14.80 --> 01:32:15.80 Yeah.
+01:32:15.80 --> 01:32:18.80 So I think that.
+01:32:18.80 --> 01:32:21.80 Like I said, I mean it's it's definitely.
+01:32:21.80 --> 01:32:25.80 Showed that you're jujitsu definitely works.
+01:32:25.80 --> 01:32:29.80 Uh, and it also shows you how.
+01:32:29.80 --> 01:32:33.80 Hard it is to get good at how much harder it is to get good at.
+01:32:33.80 --> 01:32:36.80 At Shiregmeenie Misha.
+01:32:36.80 --> 01:32:39.80 No, she was not dominating, but she was surviving on the stand up.
+01:32:39.80 --> 01:32:40.80 You know what I mean?
+01:32:40.80 --> 01:32:42.80 And it's a world class strike.
+01:32:42.80 --> 01:32:45.80 I mean, she's she's definitely a better striker.
+01:32:45.80 --> 01:32:47.80 Then Misha Tate is a grappler.
+01:32:47.80 --> 01:32:52.80 I mean, Misha Tate doesn't have any tremendous accolades as a grappler.
+01:32:52.80 --> 01:32:56.80 She's a high level MMA grappler, but she's not a world champion grappler.
+01:32:56.80 --> 01:32:57.80 Right.
+01:32:57.80 --> 01:33:01.80 And yet, you know, she was able to hang because
+01:33:01.80 --> 01:33:11.80 striking is a for the most part from a fought perspective is a linear fought pattern of throwing strikes in another human.
+01:33:11.80 --> 01:33:15.80 Grappling is way infinitely more complex infinitely.
+01:33:15.80 --> 01:33:17.80 It's infinitely more complex.
+01:33:17.80 --> 01:33:18.80 Yeah.
+01:33:18.80 --> 01:33:21.80 And so you have to learn it earlier.
+01:33:21.80 --> 01:33:26.80 And if you want to.
+01:33:26.80 --> 01:33:31.80 And it makes something up. I mean, because striking striking has an element of luck to it.
+01:33:31.80 --> 01:33:34.80 Yeah. I don't care what you say is striking has, I mean,
+01:33:34.80 --> 01:33:38.80 when a when two MMA fighters go on the cage, there's not a guy that says, hey,
+01:33:38.80 --> 01:33:40.80 I can definitely knock this guy out.
+01:33:40.80 --> 01:33:42.80 There's absolutely luck.
+01:33:42.80 --> 01:33:45.80 There's knockouts or sell them even in boxing.
+01:33:45.80 --> 01:33:47.80 Yeah, where the whole object is a punchy other guy.
+01:33:47.80 --> 01:33:51.80 And they had not come out when I was a rear naked choke is a rear naked choke.
+01:33:51.80 --> 01:33:51.80 Yeah.
+01:33:51.80 --> 01:33:54.60 You know, it's a renegade joke.
+01:33:54.60 --> 01:34:00.60 It is a very, very assured weapon
+01:34:00.60 --> 01:34:03.08 to be utilizing in those situations.
+01:34:03.08 --> 01:34:04.96 I remember one time I was talking to Hannah,
+01:34:04.96 --> 01:34:06.28 Hannah Gracie.
+01:34:06.28 --> 01:34:08.44 He just made a real small short comparison
+01:34:08.44 --> 01:34:09.64 to I think it was boxing.
+01:34:09.64 --> 01:34:14.36 He said, the average person can walk into a boxing gym
+01:34:14.36 --> 01:34:17.12 and rock someone and knock him out.
+01:34:17.12 --> 01:34:18.68 He used the word he and rock someone.
+01:34:18.68 --> 01:34:21.20 If he just swings for the fences, right?
+01:34:21.20 --> 01:34:23.04 And that is possible.
+01:34:23.04 --> 01:34:25.60 But Jiu Jitsu, when you can't really do that,
+01:34:25.60 --> 01:34:29.04 you can't really a new guy come in as a white belt
+01:34:29.04 --> 01:34:32.12 and just go real hard and say somehow catch someone.
+01:34:32.12 --> 01:34:34.68 Yeah, and this is one of these submissions.
+01:34:34.68 --> 01:34:37.28 So yeah, and once you learn that,
+01:34:37.28 --> 01:34:39.68 you and the other guy doesn't know it
+01:34:39.68 --> 01:34:41.68 and he hasn't learned it or hasn't learned it,
+01:34:41.68 --> 01:34:44.000 even close to how much you've learned it.
+01:34:44.000 --> 01:34:46.68 It's that, it's that easy, really.
+01:34:46.68 --> 01:34:49.32 It's the, and really the best way to say it is,
+01:34:49.32 --> 01:34:52.12 you have that much control over the fight you do.
+01:34:52.12 --> 01:34:55.64 Now, the thing is I don't wanna make like all of a sudden,
+01:34:57.24 --> 01:35:00.24 Jiu Jitsu by itself is the all powerful thing,
+01:35:00.24 --> 01:35:04.92 because you can't discount the dozens and dozens
+01:35:04.92 --> 01:35:08.16 and dozens of Jiu Jitsu people
+01:35:08.16 --> 01:35:09.32 that have been beaten in MMA.
+01:35:09.32 --> 01:35:10.32 They've been beaten down.
+01:35:10.32 --> 01:35:11.76 They've been knocked out that have been,
+01:35:11.76 --> 01:35:13.28 they're shot stuff.
+01:35:13.28 --> 01:35:18.28 So there's no doubt about that, but it's,
+01:35:21.84 --> 01:35:26.84 it is definitely the skill that you have to have
+01:35:27.000 --> 01:35:31.52 in this day and age for mixed martial arts for sure.
+01:35:31.52 --> 01:35:34.28 I mean, without it, you could beat.
+01:35:34.28 --> 01:35:36.20 And without it, you would you have as you have C1
+01:35:36.20 --> 01:35:37.20 and you have C2.
+01:35:37.20 --> 01:35:39.56 And Jiu Jitsu just beats the other martial arts,
+01:35:39.56 --> 01:35:41.56 whether it's wrestling or it's boxing, it doesn't matter.
+01:35:41.56 --> 01:35:46.56 You know, but you do have to train everything.
+01:35:46.56 --> 01:35:49.32 I mean, and Jiu Jitsu takes the longest to learn,
+01:35:49.32 --> 01:35:51.12 there's the most to learn, so you should start with it,
+01:35:51.12 --> 01:35:52.72 but you gotta know how to wrestle.
+01:35:52.72 --> 01:35:54.24 You know, you gotta know Moitai.
+01:35:57.04 --> 01:35:58.16 And that's the way it is.
+01:35:58.16 --> 01:36:00.44 Yeah, and when you have that much of a discrepancy
+01:36:00.44 --> 01:36:04.48 between like a certain element of people's game,
+01:36:04.48 --> 01:36:09.20 like in, and I think Jiu Jitsu tends to be the more prevalent,
+01:36:09.20 --> 01:36:11.000 because a lot of times people would be like,
+01:36:11.000 --> 01:36:13.40 oh, well, certain guys, let's say like a chocolate
+01:36:13.40 --> 01:36:16.52 or a clay guida, they're like, hey, these aren't,
+01:36:16.52 --> 01:36:18.84 well, actually, we'll just say chocolate del.
+01:36:18.84 --> 01:36:20.52 He's not necessarily a Jiu Jitsu Black belt,
+01:36:20.52 --> 01:36:21.48 and he was championing whatever,
+01:36:21.48 --> 01:36:23.64 but the thing is he had wrestling background,
+01:36:23.64 --> 01:36:26.24 so he had grappling, but he knew about Jiu Jitsu.
+01:36:26.24 --> 01:36:27.08 Yeah, for sure.
+01:36:27.08 --> 01:36:29.92 He knew about like where the arm bar comes from,
+01:36:29.92 --> 01:36:31.76 where the jokes come from, how to defend the joke,
+01:36:31.76 --> 01:36:33.60 how to dig in all these things.
+01:36:33.60 --> 01:36:37.36 So knowing Jiu Jitsu saying like you need to know Jiu Jitsu
+01:36:37.36 --> 01:36:40.04 doesn't necessarily mean you gotta be a black belt in Jiu Jitsu,
+01:36:40.04 --> 01:36:42.80 or you have to have the slickest sharpest submissions
+01:36:42.80 --> 01:36:43.88 necessarily.
+01:36:43.88 --> 01:36:45.88 You just have to know Jiu Jitsu,
+01:36:45.88 --> 01:36:49.08 and if you don't know it or know very little,
+01:36:49.08 --> 01:36:53.60 you, I'd say the chances of you getting exposed is really high.
+01:36:53.60 --> 01:36:54.44 Yeah.
+01:36:55.80 --> 01:36:56.64 I agree with you.
+01:36:56.64 --> 01:36:59.64 And I think these just so happened last night
+01:36:59.64 --> 01:37:02.76 that those fights exemplified that.
+01:37:02.76 --> 01:37:06.000 I agree with you.
+01:37:06.000 --> 01:37:07.60 Gotta know the Jiu Jitsu.
+01:37:08.80 --> 01:37:10.68 As I was listening to your recent podcast,
+01:37:10.68 --> 01:37:13.64 I thought that of a few topics you could discuss,
+01:37:13.64 --> 01:37:16.64 that would be good and helpful for your young guys.
+01:37:16.64 --> 01:37:19.08 I wanna join the military and go special ups.
+01:37:20.28 --> 01:37:22.72 I know that buds and other training
+01:37:22.72 --> 01:37:26.16 are just baseline entry level schools,
+01:37:26.16 --> 01:37:28.12 but in my experience,
+01:37:28.12 --> 01:37:30.88 those stories are what get guys excited and fired up.
+01:37:30.88 --> 01:37:35.88 So, you know, guy wants to hear about buds stories
+01:37:35.88 --> 01:37:40.88 and what it's like going through those stories.
+01:37:40.88 --> 01:37:42.76 Through those types of training
+01:37:42.76 --> 01:37:45.28 because it gets people excited and fired up.
+01:37:45.28 --> 01:37:51.20 Well, there's actually kind of a reason
+01:37:51.20 --> 01:37:56.000 why I don't sit around and talk about buds,
+01:37:56.000 --> 01:37:57.20 which is basic seal,
+01:37:57.20 --> 01:37:58.44 basic underwater demolitions,
+01:37:58.44 --> 01:37:59.28 you know, training.
+01:37:59.28 --> 01:38:00.20 There's reason I don't sit around
+01:38:00.20 --> 01:38:01.80 and talk about it a bunch.
+01:38:02.88 --> 01:38:07.64 One of those reasons is because buds is not the seal teams.
+01:38:07.64 --> 01:38:09.64 At all, and it doesn't mean anything.
+01:38:09.64 --> 01:38:12.60 And I try and say that as often as I can,
+01:38:12.60 --> 01:38:14.92 because I don't want people to get the impression
+01:38:14.92 --> 01:38:19.92 that the seal teams is the little initial training
+01:38:21.44 --> 01:38:24.72 that is barely even a fraction of your career
+01:38:24.72 --> 01:38:25.72 in the seal teams.
+01:38:25.72 --> 01:38:27.84 And it has nothing to do with what you actually do
+01:38:27.84 --> 01:38:30.44 when you get in the seal teams.
+01:38:30.44 --> 01:38:33.12 I also don't want,
+01:38:34.12 --> 01:38:35.08 and this is an intentional,
+01:38:35.08 --> 01:38:36.76 this is more a response to the question,
+01:38:36.76 --> 01:38:41.16 but I don't tell stories to get guys fired up
+01:38:41.16 --> 01:38:43.80 to join the military about buds
+01:38:43.80 --> 01:38:45.36 because that isn't what the seal teams is.
+01:38:45.36 --> 01:38:47.44 That's not what an SF ODA team is.
+01:38:47.44 --> 01:38:49.88 That's not what Ranger Battalion is.
+01:38:49.88 --> 01:38:54.60 Ranger Battalion and SF is not the selection course
+01:38:54.60 --> 01:38:56.64 to that you go through to get into them.
+01:38:56.64 --> 01:38:58.60 That's not what the job is.
+01:38:58.60 --> 01:39:02.96 And you shouldn't be joining the military
+01:39:02.96 --> 01:39:05.52 and shouldn't be trying to get into special operations
+01:39:05.52 --> 01:39:07.64 because you want to do that training.
+01:39:08.96 --> 01:39:10.64 You should do the training
+01:39:10.64 --> 01:39:12.32 because you want to do the job.
+01:39:14.32 --> 01:39:18.88 You want to do the actual job of being in special operations
+01:39:18.88 --> 01:39:21.40 and being in special forces and being in the Rangers
+01:39:21.40 --> 01:39:23.96 and being in Marsock and being in the seal teams.
+01:39:23.96 --> 01:39:26.20 You just want to do that job.
+01:39:29.44 --> 01:39:33.000 And if you want to do that job,
+01:39:34.000 --> 01:39:35.76 what it really boils down to
+01:39:35.76 --> 01:39:37.80 isn't running or rocking or pull ups
+01:39:37.80 --> 01:39:39.40 or swimming or any of that crap,
+01:39:39.40 --> 01:39:42.04 it boils down to whether you have the two wheels
+01:39:42.04 --> 01:39:45.68 that I talk about that war is determined by.
+01:39:49.56 --> 01:39:53.72 And that is the will to kill
+01:39:53.72 --> 01:39:56.80 because that is the entire premise of your job.
+01:39:57.80 --> 01:40:00.56 If you're in the military at all,
+01:40:01.96 --> 01:40:06.96 you may be somehow supporting that.
+01:40:07.72 --> 01:40:09.04 If you're in the military,
+01:40:09.04 --> 01:40:11.96 but the ultimate goal of the military
+01:40:11.96 --> 01:40:14.24 is to kill the bad guys.
+01:40:15.40 --> 01:40:17.68 And if you're going to be in special operations,
+01:40:17.68 --> 01:40:19.96 you're going to be on the tip of the spear of that.
+01:40:20.88 --> 01:40:23.04 So you absolutely have to make sure
+01:40:23.04 --> 01:40:25.20 that you have the will to kill.
+01:40:28.44 --> 01:40:30.88 And you also, obviously,
+01:40:30.88 --> 01:40:33.08 if you're going to join special operations
+01:40:33.08 --> 01:40:35.12 or you want to be in the seal teams,
+01:40:36.88 --> 01:40:40.56 you have to have the will to die.
+01:40:41.72 --> 01:40:45.40 Not that you want to die, not that you want to be a martyr,
+01:40:45.40 --> 01:40:49.36 not that you're freaking suicidal or anything like that.
+01:40:49.36 --> 01:40:51.92 But you absolutely have to make sure
+01:40:51.92 --> 01:40:56.92 that you have the williness to die.
+01:40:58.80 --> 01:41:00.48 And I would say put your life on the line,
+01:41:00.48 --> 01:41:01.84 but no, I'm going beyond that.
+01:41:01.84 --> 01:41:04.44 I'm talking about the williness to die.
+01:41:07.72 --> 01:41:10.16 Because if you join special operations
+01:41:10.16 --> 01:41:12.12 or you join the seal teams,
+01:41:13.20 --> 01:41:15.88 or you join any of the combat arms
+01:41:15.88 --> 01:41:18.04 in the army or in the Marine Corps,
+01:41:18.04 --> 01:41:23.04 you will be asked to put your life on the line.
+01:41:27.04 --> 01:41:30.04 And you've got to be ready to do that.
+01:41:32.20 --> 01:41:34.20 You've got to have that will.
+01:41:35.36 --> 01:41:38.24 You've got to be ready to make that commitment.
+01:41:42.96 --> 01:41:44.88 And I mean, the training,
+01:41:44.88 --> 01:41:49.88 if you have that will to kill and you have that will to die,
+01:41:51.24 --> 01:41:54.60 the training, Ron, Swim, DuPoosh,
+01:41:54.60 --> 01:41:55.56 upstupal, upstupal, upstip,
+01:41:55.56 --> 01:41:57.76 upstip, rope, climb, to do flutter kicks.
+01:41:58.76 --> 01:42:04.24 All that stuff is the easy part.
+01:42:08.64 --> 01:42:10.96 And so if you're sitting there and you see
+01:42:10.96 --> 01:42:13.52 seal training on TV and you think,
+01:42:13.52 --> 01:42:15.000 oh, that'd be cool.
+01:42:16.52 --> 01:42:19.84 Don't think about that as what being a seal is
+01:42:19.84 --> 01:42:21.40 because it is not.
+01:42:23.08 --> 01:42:24.64 That is just the selection.
+01:42:25.64 --> 01:42:27.92 It's just the weeding out of the week.
+01:42:31.84 --> 01:42:33.32 If you want to be a seal,
+01:42:33.32 --> 01:42:35.56 means you want to be a commando.
+01:42:35.56 --> 01:42:37.76 Means you want to go into arms away.
+01:42:37.76 --> 01:42:40.000 It means you want to meet the enemy
+01:42:40.000 --> 01:42:45.000 on the field of battle.
+01:42:45.000 --> 01:42:46.32 That's what being a seal is.
+01:42:52.84 --> 01:42:56.20 And that's why I really don't sit around
+01:42:56.20 --> 01:42:57.76 and tell bud stories.
+01:43:04.12 --> 01:43:06.80 I don't think I have too much more to say about that one.
+01:43:06.80 --> 01:43:07.76 I'm sure at some point,
+01:43:07.76 --> 01:43:10.000 I mean, there's funny things that happen in Buds.
+01:43:10.000 --> 01:43:13.04 I mean, of course, but there's just compared to
+01:43:13.04 --> 01:43:14.20 what happens in a seal.
+01:43:14.20 --> 01:43:15.76 But two and there's just no big deal.
+01:43:15.76 --> 01:43:16.60 Yeah.
+01:43:17.80 --> 01:43:18.80 Yeah, that's interesting.
+01:43:18.80 --> 01:43:21.20 You put it, don't, don't do it.
+01:43:21.20 --> 01:43:22.84 Because you want to go through that training.
+01:43:22.84 --> 01:43:23.84 Yeah.
+01:43:23.84 --> 01:43:24.64 Do it too.
+01:43:24.64 --> 01:43:25.40 You want to do it, Joe.
+01:43:25.40 --> 01:43:26.28 Yeah.
+01:43:26.28 --> 01:43:28.16 That's a big, that's a big mistake.
+01:43:28.16 --> 01:43:30.24 Maybe I can help some people out that are out there
+01:43:30.24 --> 01:43:32.48 right now thinking, oh, I'd really like to go through that training.
+01:43:33.60 --> 01:43:36.16 No, don't do it to go through the training.
+01:43:36.16 --> 01:43:38.88 Go do it because you want to do that job.
+01:43:41.44 --> 01:43:45.72 Is it true they take a pin and they stick it in your skin
+01:43:45.72 --> 01:43:48.36 and clip it on your skin.
+01:43:48.36 --> 01:43:49.48 Did you do that?
+01:43:49.48 --> 01:43:50.96 Well, when you get your try done,
+01:43:50.96 --> 01:43:55.80 yeah, it has like three little prongs that go out the back of it
+01:43:55.80 --> 01:43:58.12 to stick it under your uniform.
+01:43:58.12 --> 01:43:59.40 And when you get your try done, yeah,
+01:43:59.40 --> 01:44:01.000 they put it like into your skin.
+01:44:01.000 --> 01:44:01.52 Yeah.
+01:44:01.52 --> 01:44:03.20 It's like you're standing there with no shirt.
+01:44:03.20 --> 01:44:05.64 They're like, oh, like they're in and then they punch it in.
+01:44:05.64 --> 01:44:08.60 And then everybody, when I went, when I got my try,
+01:44:08.60 --> 01:44:12.36 I didn't the whole team lined up and everyone punch you right in the chest
+01:44:12.36 --> 01:44:13.20 until you just bleed.
+01:44:13.20 --> 01:44:14.88 Never learn a big bruise on your chest.
+01:44:18.88 --> 01:44:20.64 Next question.
+01:44:20.64 --> 01:44:24.92 Do you have experience with people telling you that you're too intense?
+01:44:29.76 --> 01:44:33.88 Or that you need to work on not being so upfront and straightforward?
+01:44:33.88 --> 01:44:37.24 Sometimes it's called working on your how.
+01:44:37.24 --> 01:44:41.64 I think it would be great to hear how you could apply this using extreme ownership.
+01:44:41.64 --> 01:44:45.000 In the business world, there is a big push on diversity,
+01:44:45.000 --> 01:44:46.40 which is wonderful.
+01:44:46.40 --> 01:44:51.80 But often it comes with also diversifying away from intensity
+01:44:51.80 --> 01:44:53.84 and male aggression, quote unquote.
+01:44:53.84 --> 01:44:54.72 I'd love your thoughts.
+01:44:58.36 --> 01:45:02.60 Well, this is, it's kind of interesting to get this question.
+01:45:02.60 --> 01:45:05.56 It's kind of strange to get this question because all the time,
+01:45:05.56 --> 01:45:11.72 when I talk about leadership, I talk about how often do you hear me say,
+01:45:11.72 --> 01:45:14.96 take the indirect approach to something?
+01:45:14.96 --> 01:45:18.12 I always talk about the indirect approach,
+01:45:18.12 --> 01:45:22.88 because the direct approach is not due to the direct approach
+01:45:22.88 --> 01:45:26.64 is beating your head and punching someone in the face.
+01:45:26.64 --> 01:45:29.48 So I'm always talking about using the indirect approach.
+01:45:29.48 --> 01:45:36.48 So it's very nature indirect is not straightforward.
+01:45:37.60 --> 01:45:40.60 It's not intense.
+01:45:40.60 --> 01:45:44.12 So no, I don't have people telling me I'm too intense
+01:45:44.12 --> 01:45:45.44 or I'm too straightforward.
+01:45:45.44 --> 01:45:47.16 Why don't I have them telling me that?
+01:45:47.16 --> 01:45:48.12 Because I'm not.
+01:45:50.60 --> 01:45:51.44 I'm not.
+01:45:51.44 --> 01:45:53.04 And I'm not saying that I'm not intense.
+01:45:53.04 --> 01:45:55.08 I'm not saying that I'm not straightforward.
+01:45:55.08 --> 01:46:00.84 But I'm very, very careful not to go too far with either.
+01:46:00.84 --> 01:46:04.04 This is like a fighter that's swinging too hard
+01:46:04.04 --> 01:46:06.52 or being too predictable or just will stand and trade
+01:46:06.52 --> 01:46:09.08 and take damage.
+01:46:09.08 --> 01:46:11.68 And do damage.
+01:46:11.68 --> 01:46:13.08 That's the direct approach.
+01:46:13.08 --> 01:46:16.12 The direct approach is I punch you in the face and you punch me
+01:46:16.12 --> 01:46:19.88 in the face and we play a war of attrition.
+01:46:19.88 --> 01:46:24.52 I don't want to enter into a war of attrition.
+01:46:24.52 --> 01:46:27.48 I do not want to enter into a war of attrition.
+01:46:27.48 --> 01:46:30.20 I want to use a maneuver warfare.
+01:46:30.20 --> 01:46:31.64 I want to move.
+01:46:31.64 --> 01:46:36.88 I want to slip unseen into the weak areas
+01:46:36.88 --> 01:46:39.48 and set my bombs and have them go off.
+01:46:42.28 --> 01:46:44.20 So I just got this ass this the other night
+01:46:44.20 --> 01:46:46.20 by a relatively new client of mine.
+01:46:46.20 --> 01:46:48.60 You know, are you going to get in their faces
+01:46:48.60 --> 01:46:51.44 and getting the faces of the leadership
+01:46:51.44 --> 01:46:53.64 and don't straight up that they need to get their act together.
+01:46:53.64 --> 01:46:56.16 And you could see that this person was very excited
+01:46:56.16 --> 01:46:58.32 by that idea.
+01:46:58.32 --> 01:47:00.24 And it was one of the senior leaders in that.
+01:47:00.24 --> 01:47:01.08 That was that.
+01:47:01.08 --> 01:47:03.12 You had this idea that I was going to come in
+01:47:03.12 --> 01:47:07.88 and just get in their faces and tell them how screwed up they were.
+01:47:07.88 --> 01:47:12.88 And I said, no, I likely will not do that.
+01:47:14.64 --> 01:47:15.96 And then I said, tell them, I said, look,
+01:47:15.96 --> 01:47:17.56 what if I told you that you were all screwed up
+01:47:17.56 --> 01:47:19.000 and you were a failure at your job
+01:47:19.000 --> 01:47:20.60 and you do your weak leader?
+01:47:20.60 --> 01:47:25.60 What would you then be feel like you really wanted to listen to me?
+01:47:27.76 --> 01:47:30.88 What would you, would you be open to my suggestions
+01:47:30.88 --> 01:47:31.72 at that point?
+01:47:31.72 --> 01:47:34.000 Do you think I'd be an efficient coach?
+01:47:34.000 --> 01:47:38.000 Do you think I would even appear as an intelligent human being?
+01:47:39.56 --> 01:47:42.60 If the best I could do to coach you
+01:47:42.60 --> 01:47:45.24 was to tell you that you sucked as a leader
+01:47:45.24 --> 01:47:46.72 and you were a failure at your job
+01:47:46.72 --> 01:47:48.000 and you're screwing everything up.
+01:47:48.000 --> 01:47:53.000 And obviously the answers were no, no, no, of course not.
+01:47:53.000 --> 01:47:55.000 I would be a horrible coach.
+01:47:55.000 --> 01:47:58.80 I would be a horrible leader myself
+01:47:58.80 --> 01:48:01.20 if that's what I resorted to.
+01:48:02.80 --> 01:48:06.48 And most importantly, if I want you to change
+01:48:07.48 --> 01:48:11.96 and the way I'm trying to get you to train
+01:48:11.96 --> 01:48:15.32 is by being abusive
+01:48:15.32 --> 01:48:19.72 and begging you to send up your defenses
+01:48:19.72 --> 01:48:22.88 and not listen to me, what the hell good am I doing?
+01:48:23.88 --> 01:48:28.88 Why would I do anything that's going to inhibit my goal?
+01:48:29.04 --> 01:48:30.84 Which my goal is to get you to change,
+01:48:30.84 --> 01:48:32.48 get you to be a better leader?
+01:48:34.08 --> 01:48:36.36 So if I slap you in the face
+01:48:38.20 --> 01:48:41.84 with aggression or with straight forwardness
+01:48:41.84 --> 01:48:45.84 that makes you defensive, how does that help me?
+01:48:48.44 --> 01:48:50.20 The answer is it doesn't, now again,
+01:48:50.20 --> 01:48:51.88 that doesn't mean that I'm never straight forward
+01:48:51.88 --> 01:48:53.80 and then I'm never aggressive
+01:48:53.80 --> 01:48:56.76 but I calculate those moments.
+01:48:59.72 --> 01:49:02.44 I calculate those moments.
+01:49:02.44 --> 01:49:07.44 There's a reason why we sugarcoat medicine
+01:49:07.44 --> 01:49:08.60 for a little children.
+01:49:09.92 --> 01:49:10.76 Right?
+01:49:10.76 --> 01:49:12.44 There is, why is it?
+01:49:12.44 --> 01:49:14.44 So they take it.
+01:49:14.44 --> 01:49:17.000 It's so they take it into their system.
+01:49:18.76 --> 01:49:21.80 And it's the same thing with adults.
+01:49:21.80 --> 01:49:23.92 And people say don't sugarcoat it don't,
+01:49:23.92 --> 01:49:26.40 you know, just tell me how it is, they don't mean it.
+01:49:29.04 --> 01:49:30.84 They want it sugarcoded
+01:49:32.20 --> 01:49:35.12 because they want to accept it into their body.
+01:49:35.12 --> 01:49:40.12 It's just like you, Jitsu, you need to use Jitsu,
+01:49:40.12 --> 01:49:44.12 you need to set things up, you need to manipulate.
+01:49:45.68 --> 01:49:48.48 To get people to do what you want to do,
+01:49:48.48 --> 01:49:51.48 especially if it has to do with them changing themselves.
+01:49:53.16 --> 01:49:55.88 One of the worst ways to get someone to change
+01:49:55.88 --> 01:49:58.76 is by telling them exactly how you want them to change.
+01:49:59.96 --> 01:50:01.44 I mean, of course, there's a situation
+01:50:01.44 --> 01:50:02.92 we have this beautiful relationship
+01:50:02.92 --> 01:50:04.56 and you've built it with someone you have this
+01:50:04.56 --> 01:50:07.44 intimate trust with another human being.
+01:50:08.44 --> 01:50:11.36 I don't think I have that with anybody.
+01:50:13.20 --> 01:50:15.52 But there have been situations in my life where I've had,
+01:50:15.52 --> 01:50:17.60 oh, just complete, utter trust with,
+01:50:17.60 --> 01:50:19.20 you know, maybe there's three or four people
+01:50:19.20 --> 01:50:21.72 that I have that with in my whole life
+01:50:21.72 --> 01:50:23.52 that I can just say, listen man, here's the deal.
+01:50:24.52 --> 01:50:26.08 Don't get defensive, here's what's going on,
+01:50:26.08 --> 01:50:28.16 here's what you need to do adjust.
+01:50:28.16 --> 01:50:31.56 Very few people, do you have that relationship in life?
+01:50:31.56 --> 01:50:32.56 So you gotta use that nuance and that maneuver warfare.
+01:50:43.84 --> 01:50:45.20 And it's the same thing with aggression.
+01:50:45.20 --> 01:50:48.28 It's the same thing that we just read in this article.
+01:50:48.28 --> 01:50:50.32 Don't yell at the Cheshire people,
+01:50:50.32 --> 01:50:52.92 you're not going to be able to get what you want from them.
+01:50:54.000 --> 01:50:56.36 And like I said, it doesn't just apply to those people
+01:50:56.36 --> 01:50:58.12 and applies to all people.
+01:50:58.12 --> 01:51:03.12 You gotta bring people in and you gotta manipulate them
+01:51:03.12 --> 01:51:05.32 and I know that again, that has negative connotations
+01:51:05.32 --> 01:51:07.56 but it's what you're doing, you're trying to get someone
+01:51:07.56 --> 01:51:09.68 to think a different way, that's manipulation.
+01:51:09.68 --> 01:51:11.36 You call it, influence, you call whatever you want,
+01:51:11.36 --> 01:51:13.24 but that's what you're trying to do.
+01:51:13.24 --> 01:51:15.28 And the most difficult way to manipulate someone
+01:51:15.28 --> 01:51:17.60 is to slap them in the face with aggression.
+01:51:21.56 --> 01:51:24.76 So there's a little dichotomy here, of course,
+01:51:24.76 --> 01:51:28.52 because I would say the default mode has to be aggressive,
+01:51:29.64 --> 01:51:33.84 but I don't mean necessarily overtly aggressive.
+01:51:33.84 --> 01:51:36.88 It means that you're aggressively forcing things
+01:51:36.88 --> 01:51:39.52 to go in your direction.
+01:51:39.52 --> 01:51:41.56 Through every means necessary,
+01:51:41.56 --> 01:51:45.000 through overt and covert and client-design.
+01:51:45.000 --> 01:51:50.000 And honestly, the preferred method of all is covert.
+01:51:50.76 --> 01:51:53.04 The preferred method for me to get echoed
+01:51:53.04 --> 01:51:56.32 and do something different is for echoed
+01:51:56.32 --> 01:51:59.76 to never even think I had an opinion on it.
+01:51:59.76 --> 01:52:02.60 It's for me just to sneak in there,
+01:52:02.60 --> 01:52:06.76 behind enemy lines, plant the seeds,
+01:52:06.76 --> 01:52:10.08 and let them grow and let echo come to the conclusion
+01:52:11.36 --> 01:52:13.08 that you're gonna change the way you're doing something,
+01:52:13.08 --> 01:52:16.84 you're gonna think differently about something.
+01:52:16.84 --> 01:52:21.84 That's leadership, that's real leadership.
+01:52:25.12 --> 01:52:28.96 So that's what you gotta work on.
+01:52:30.28 --> 01:52:34.56 If somebody is telling you you're two and 10s
+01:52:34.56 --> 01:52:38.40 and you're two aggressive, guess what, you are.
+01:52:38.40 --> 01:52:43.40 You're giving away your greatest weapon.
+01:52:48.12 --> 01:52:50.48 You're advertising your attack.
+01:52:51.84 --> 01:52:56.12 Surprise is one of the most key components
+01:52:57.36 --> 01:52:58.20 in a battle.
+01:52:59.20 --> 01:53:02.76 And when you tell people aggressively
+01:53:02.76 --> 01:53:08.76 and overtly what you're doing,
+01:53:08.76 --> 01:53:10.44 you're giving up that element.
+01:53:10.44 --> 01:53:12.08 Don't do it.
+01:53:12.08 --> 01:53:17.72 I'm asking you not to be a manipulative person
+01:53:17.72 --> 01:53:22.72 behind the scenes with weird plans.
+01:53:27.96 --> 01:53:29.92 But that is what I'm asking you to do.
+01:53:29.92 --> 01:53:33.76 That's is what I'm asking you to do,
+01:53:33.76 --> 01:53:36.16 because that is how you get things done.
+01:53:36.16 --> 01:53:38.32 That is how you get into people's minds.
+01:53:38.32 --> 01:53:40.24 That is how you lead.
+01:53:43.56 --> 01:53:48.24 Not by yelling, not by being overly aggressive,
+01:53:48.24 --> 01:53:52.28 not by being so intense that people don't want to listen
+01:53:52.28 --> 01:53:55.48 to you, because intensity is a form of emotion, right?
+01:53:55.48 --> 01:53:59.36 And the minute you come across as an emotional intense maniac,
+01:53:59.36 --> 01:54:02.60 people are questioning already your validity.
+01:54:03.68 --> 01:54:05.84 This guy should two intense.
+01:54:05.84 --> 01:54:07.36 Don't be that guy.
+01:54:09.36 --> 01:54:14.36 Manipulate influence, be clandestine, covert,
+01:54:16.24 --> 01:54:19.28 and that is how you win.
+01:54:22.12 --> 01:54:24.56 The reason that I was kind of laughing,
+01:54:25.80 --> 01:54:27.36 was reading this question is,
+01:54:27.36 --> 01:54:30.76 that it kind of makes sense from someone
+01:54:30.76 --> 01:54:31.92 who's kind of from the outside.
+01:54:31.92 --> 01:54:35.16 And the main times when me personally,
+01:54:35.16 --> 01:54:39.16 where I would view you as being intense or aggressive
+01:54:39.16 --> 01:54:43.96 or is like when you're just talking about something,
+01:54:43.96 --> 01:54:46.28 you're never doing it towards anybody.
+01:54:46.28 --> 01:54:48.60 You'll never lose it.
+01:54:48.60 --> 01:54:53.60 I've never, then I've known you since 06, I think,
+01:54:53.60 --> 01:54:56.60 something like that.
+01:54:56.60 --> 01:54:59.28 Yeah, and I've never seen you lose your temper,
+01:54:59.28 --> 01:55:00.12 get mad.
+01:55:00.12 --> 01:55:01.96 I mean, kind of one time,
+01:55:01.96 --> 01:55:03.76 this one I was talking to,
+01:55:03.76 --> 01:55:04.56 lay for about it.
+01:55:04.56 --> 01:55:06.36 We've never really seen you get mad,
+01:55:06.36 --> 01:55:08.28 but maybe one or two times.
+01:55:08.28 --> 01:55:11.16 You have this aggressive and intense persona,
+01:55:11.16 --> 01:55:12.000 for sure.
+01:55:12.000 --> 01:55:14.24 And when you talk about things for sure,
+01:55:14.24 --> 01:55:16.36 but yeah, when you're dealing with people,
+01:55:16.36 --> 01:55:23.36 it's real basically the way you'd want to be engaged.
+01:55:23.36 --> 01:55:24.60 You know, another human.
+01:55:24.60 --> 01:55:24.96 Yeah.
+01:55:24.96 --> 01:55:25.96 Yeah.
+01:55:25.96 --> 01:55:26.80 It's just,
+01:55:26.80 --> 01:55:29.48 who wants to have somebody get aggressive with them.
+01:55:29.48 --> 01:55:32.44 It's never, it never, the only time it works,
+01:55:32.44 --> 01:55:34.36 like if you're handling a prisoner,
+01:55:34.36 --> 01:55:37.56 like literally, if I'm handling a prisoner,
+01:55:37.56 --> 01:55:39.60 I'll be aggressive with them.
+01:55:39.60 --> 01:55:39.96 Yeah.
+01:55:39.96 --> 01:55:43.28 If I'm trying to get command of a,
+01:55:43.28 --> 01:55:47.08 of a chaotic situation, and there's a,
+01:55:47.08 --> 01:55:49.84 there's another aggressor in the situation,
+01:55:49.84 --> 01:55:52.92 I might have to be more aggressive than that person.
+01:55:52.92 --> 01:55:57.84 But any normal situation dealing with human beings,
+01:55:57.84 --> 01:56:01.84 aggression isn't a attribute.
+01:56:03.04 --> 01:56:07.40 It's a negative because all it does is make people defensive.
+01:56:07.40 --> 01:56:08.36 Now listen,
+01:56:08.36 --> 01:56:12.72 it doesn't mean that you're sitting back
+01:56:12.72 --> 01:56:17.16 in your shirking and shriveling up, no.
+01:56:17.16 --> 01:56:19.92 But it means that you're finding the balance
+01:56:19.92 --> 01:56:22.16 with another person and you're,
+01:56:22.16 --> 01:56:25.96 you're working with them and conversing with them
+01:56:25.96 --> 01:56:29.60 to bring them along into your way of thinking.
+01:56:29.60 --> 01:56:30.60 Yeah.
+01:56:30.60 --> 01:56:32.84 That's what it is.
+01:56:32.84 --> 01:56:37.84 And you know, when somebody asks me a question like this,
+01:56:39.32 --> 01:56:43.84 it really signifies to me that,
+01:56:45.16 --> 01:56:48.84 it makes me nervous because I think to myself,
+01:56:48.84 --> 01:56:50.48 I say this all the time.
+01:56:50.48 --> 01:56:52.36 I mean, I say use the indirect approach,
+01:56:52.36 --> 01:56:54.48 don't, you know, get people's defenses up.
+01:56:54.48 --> 01:56:55.64 I say this all the time.
+01:56:55.64 --> 01:56:58.56 And yet someone can still come back and say,
+01:56:58.56 --> 01:57:01.64 you know, people are telling me I'm being too aggressive.
+01:57:01.64 --> 01:57:03.76 Like they're not even taking ownership of the fact
+01:57:03.76 --> 01:57:05.52 that they're being too aggressive, right?
+01:57:05.52 --> 01:57:08.64 It's like the other people are weak.
+01:57:08.64 --> 01:57:11.000 And therefore, since they're weak,
+01:57:11.000 --> 01:57:12.24 they think I'm too aggressive.
+01:57:12.24 --> 01:57:14.64 I can't believe how pathetic they are.
+01:57:14.64 --> 01:57:15.48 Yeah.
+01:57:15.48 --> 01:57:16.32 That's the reality.
+01:57:16.32 --> 01:57:18.20 That's what's going through someone like this mind.
+01:57:18.20 --> 01:57:22.68 Like sometimes it's called working on your how.
+01:57:22.68 --> 01:57:24.04 You know, he's kind of saying,
+01:57:24.04 --> 01:57:26.40 oh, they've got a euphemism for it.
+01:57:26.40 --> 01:57:29.000 And in the business world,
+01:57:29.000 --> 01:57:30.52 there's a big push on diversity,
+01:57:30.52 --> 01:57:33.48 but it comes with diversifying away from intensity
+01:57:33.48 --> 01:57:35.92 and male aggression.
+01:57:35.92 --> 01:57:40.96 I mean, you can guarantee what this guy thought I was going to say.
+01:57:40.96 --> 01:57:43.28 Like, no, you've got to just stay the path.
+01:57:43.28 --> 01:57:44.84 You've got to, if people can't take it,
+01:57:44.84 --> 01:57:46.04 you've got to crush them.
+01:57:46.04 --> 01:57:48.28 No, actually, that's a complete wrong answer.
+01:57:48.28 --> 01:57:49.12 Yeah.
+01:57:49.12 --> 01:57:53.88 If people can't take it, it's because you are being too aggressive.
+01:57:53.88 --> 01:57:55.32 Yeah, the way you're giving it is wrong.
+01:57:55.32 --> 01:57:56.76 The way you're giving it is wrong.
+01:57:56.76 --> 01:57:57.88 The way you're giving it is wrong.
+01:57:57.88 --> 01:58:01.32 So that aggression needs to be channeled
+01:58:01.32 --> 01:58:03.48 in such a way that it's being utilized
+01:58:03.48 --> 01:58:07.60 to further the goal, to further the goal.
+01:58:07.60 --> 01:58:11.84 And you know who you get aggressive with yourself.
+01:58:13.16 --> 01:58:15.88 You get aggressive with yourself.
+01:58:15.88 --> 01:58:17.48 That's who I get aggressive with.
+01:58:17.48 --> 01:58:19.40 You don't want to be straightforward with.
+01:58:19.40 --> 01:58:21.72 I'm straightforward with myself.
+01:58:21.72 --> 01:58:23.88 That's who I'm straightforward with.
+01:58:23.88 --> 01:58:28.16 I'm the one guy that I'm allowed to get aggressive with,
+01:58:28.16 --> 01:58:31.32 to be straightforward with, to put things in,
+01:58:31.32 --> 01:58:33.84 to not sugarcoat anything.
+01:58:33.84 --> 01:58:36.12 I'm allowed to do that with me.
+01:58:37.60 --> 01:58:40.20 But I'm not allowed to do it with another human
+01:58:40.20 --> 01:58:43.72 because it's not an effective way of leadership.
+01:58:43.72 --> 01:58:45.12 It just is not.
+01:58:48.80 --> 01:58:50.80 Yeah, it's funny.
+01:58:50.80 --> 01:58:52.000 It's funny, I like.
+01:58:52.000 --> 01:58:53.96 That's absolutely true.
+01:58:53.96 --> 01:58:56.24 And with you what I said is absolutely true.
+01:58:56.24 --> 01:59:01.96 I don't think I've ever seen you get mad at someone else.
+01:59:01.96 --> 01:59:05.68 But at the same time, and I pick a lot of people
+01:59:05.68 --> 01:59:10.20 who may not know you good, but have experience being around you.
+01:59:10.20 --> 01:59:12.84 They all feel, I would say that they all feel the same way.
+01:59:12.84 --> 01:59:16.52 And that is that, yeah, I fucking juggle school or whatever.
+01:59:16.52 --> 01:59:19.80 But if he were to like lose his temper on me,
+01:59:19.80 --> 01:59:22.16 he probably died.
+01:59:22.16 --> 01:59:24.000 Yeah, good.
+01:59:24.000 --> 01:59:26.12 Good.
+01:59:26.12 --> 01:59:27.36 And they're right.
+01:59:27.36 --> 01:59:29.76 Like I'm glad I'm not losing my temper on school.
+01:59:29.76 --> 01:59:32.24 Yeah, that will be good at all.
+01:59:32.24 --> 01:59:33.16 That'd be bad.
+01:59:33.16 --> 01:59:36.96 I have, you know, that would not be good for people.
+01:59:36.96 --> 01:59:38.72 Oh, no, I don't think so.
+01:59:41.36 --> 01:59:42.96 That's that they caught me though.
+01:59:42.96 --> 01:59:47.40 That is that sense of safety, yet the sense of impending doom
+01:59:47.40 --> 01:59:48.92 is there at the same time.
+01:59:48.92 --> 01:59:49.92 Yeah.
+01:59:51.92 --> 01:59:56.08 Yeah, and, and, and I think it, I think it does genuinely
+01:59:56.08 --> 01:59:57.56 surprise people.
+01:59:57.56 --> 02:00:02.16 Yeah, because I look like a serial killer.
+02:00:02.16 --> 02:00:04.04 I'm a big guy, whatever.
+02:00:04.04 --> 02:00:09.60 And they expect that that I'm going to be aggressive
+02:00:09.60 --> 02:00:10.92 and implementing this.
+02:00:10.92 --> 02:00:13.84 And you know, you've got to get your shit together.
+02:00:13.84 --> 02:00:14.68 Right?
+02:00:14.68 --> 02:00:17.24 But it's just not, it's just an effective way of leadership.
+02:00:17.24 --> 02:00:20.32 If that was, if that was leadership, leadership would be easy.
+02:00:20.32 --> 02:00:21.32 It would be easy, right?
+02:00:21.32 --> 02:00:22.32 I'm just going to yell at everyone.
+02:00:22.32 --> 02:00:24.32 They're going to do what I say.
+02:00:24.32 --> 02:00:27.68 You know, I'm just going to yell at everyone and then they'll do what
+02:00:27.68 --> 02:00:28.68 I say.
+02:00:28.68 --> 02:00:30.20 That just does not work.
+02:00:30.20 --> 02:00:32.96 Yeah, it's crazy though, because just the way you talk a lot of
+02:00:32.96 --> 02:00:33.96 the times, not all the time.
+02:00:33.96 --> 02:00:36.52 But just the way, maybe it's like just how you saw it.
+02:00:36.52 --> 02:00:37.52 I don't know.
+02:00:37.52 --> 02:00:38.52 Your voice, I don't know.
+02:00:38.52 --> 02:00:41.56 It's probably everything really is you do sound intense, even though
+02:00:41.56 --> 02:00:44.72 you're not being intense, you know, you just kind of seem that way.
+02:00:44.72 --> 02:00:46.12 For all these reasons, of course.
+02:00:46.12 --> 02:00:49.32 So it's like you said earlier, when I'm talking about something that I
+02:00:49.32 --> 02:00:54.12 care about, yes, I am definitely going to be intense about it, especially
+02:00:54.12 --> 02:00:56.28 when it's something that is impactful to me.
+02:00:56.28 --> 02:00:57.28 Yeah.
+02:00:57.28 --> 02:01:01.24 And something that means something to me and to me, leadership does mean a lot
+02:01:01.24 --> 02:01:02.24 to me.
+02:01:02.24 --> 02:01:08.20 And trying to help people lead is an important thing to me.
+02:01:08.20 --> 02:01:09.32 I enjoy it.
+02:01:09.32 --> 02:01:10.76 And I like to see people succeed.
+02:01:10.76 --> 02:01:15.04 So therefore when I talk about it, sometimes I get a little bit fired up.
+02:01:15.04 --> 02:01:17.48 And I get intense with what I'm saying.
+02:01:17.48 --> 02:01:19.16 That isn't scary.
+02:01:19.16 --> 02:01:21.76 That just kind of, it's like indirectly scary.
+02:01:21.76 --> 02:01:23.48 So it's not, let me scare you.
+02:01:23.48 --> 02:01:25.20 OK, I'll just use word, scary.
+02:01:25.20 --> 02:01:26.28 It's indirectly scary.
+02:01:26.28 --> 02:01:28.72 When you do it, it's like, oh, I'm not scared of what you're doing.
+02:01:28.72 --> 02:01:30.20 But you kind of can imagine.
+02:01:30.20 --> 02:01:31.36 And you're like, all right.
+02:01:31.36 --> 02:01:34.24 What if, you know, you're kind of like, you're
+02:01:34.24 --> 02:01:37.64 like this raging hurricane that when it comes by, it turns into
+02:01:37.64 --> 02:01:40.04 like a warm gentle breeze.
+02:01:40.04 --> 02:01:40.64 You know what I mean?
+02:01:40.64 --> 02:01:43.40 You kind of like.
+02:01:43.40 --> 02:01:46.76 And maybe that's probably part of the advantage.
+02:01:46.76 --> 02:01:47.20 Yeah.
+02:01:47.20 --> 02:01:49.84 Part of the advantage is people, you know, I said this.
+02:01:49.84 --> 02:01:50.76 I think it was Tim Ferriss.
+02:01:50.76 --> 02:01:56.08 I said this to, you know, people are surprised when I can sit there
+02:01:56.08 --> 02:01:57.88 and have a conversation with them.
+02:01:57.88 --> 02:02:00.48 And I'm not aggressive with them.
+02:02:00.48 --> 02:02:04.40 And my mind is open to what they're saying.
+02:02:04.40 --> 02:02:05.40 Yeah.
+02:02:05.40 --> 02:02:07.40 That's part of the game.
+02:02:07.40 --> 02:02:08.40 Yeah.
+02:02:08.40 --> 02:02:11.40 All right.
+02:02:11.40 --> 02:02:13.40 Next question.
+02:02:13.40 --> 02:02:17.40 Okay, juggle.
+02:02:17.40 --> 02:02:20.40 You're reaction to Marsoc, right?
+02:02:20.40 --> 02:02:21.40 Marsoc.
+02:02:21.40 --> 02:02:22.40 Marsoc.
+02:02:22.40 --> 02:02:23.40 M.R.
+02:02:23.40 --> 02:02:25.40 S.O.C.
+02:02:25.40 --> 02:02:28.40 Performing Marine Corps Special Operations Command.
+02:02:28.40 --> 02:02:29.40 Yeah.
+02:02:29.40 --> 02:02:32.40 So that's a new thing.
+02:02:32.40 --> 02:02:35.40 So, and this is the question that he's asking.
+02:02:35.40 --> 02:02:38.84 Well, Marines think there's seals now.
+02:02:38.84 --> 02:02:46.64 Or yeah, we should have been Marines all along.
+02:02:46.64 --> 02:02:51.04 So this is a question about, like I said, the Marine Corps Special Operations Command.
+02:02:51.04 --> 02:02:59.84 It was formed in, I don't know, 2005, 2006 maybe.
+02:02:59.84 --> 02:03:05.36 And if you don't know, the Army has its own Special Operations Group.
+02:03:05.36 --> 02:03:08.80 The Navy has its own Special Operations Group.
+02:03:08.80 --> 02:03:11.60 The Air Force has its own Special Operations Group.
+02:03:11.60 --> 02:03:13.40 And the Marine Corps did not.
+02:03:13.40 --> 02:03:14.40 What is Force Recon?
+02:03:14.40 --> 02:03:15.40 Have you ever heard of it?
+02:03:15.40 --> 02:03:16.40 Yeah.
+02:03:16.40 --> 02:03:20.92 Force Recon was a part of the Marine Corps, but it wasn't broken off.
+02:03:20.92 --> 02:03:24.48 And it didn't get the extra money and the extra funding and it didn't fall into the chain
+02:03:24.48 --> 02:03:29.40 of command of Special Operations.
+02:03:29.40 --> 02:03:31.96 And so when they made Marsoc, it did.
+02:03:31.96 --> 02:03:38.08 So now they took a bunch of Force Recon guys and put them into a group and have their
+02:03:38.08 --> 02:03:39.20 own funding and everything else.
+02:03:39.20 --> 02:03:46.28 So the bottom line is on this is that the Marine Corps is awesome.
+02:03:46.28 --> 02:03:47.72 And I love the Marine Corps.
+02:03:47.72 --> 02:03:50.08 And I think that this was long overdue.
+02:03:50.08 --> 02:04:01.92 I think that the Marine Corps as a whole is likely the most key thing to do is to
+02:04:01.92 --> 02:04:04.36 make a bowl fighting unit.
+02:04:04.36 --> 02:04:06.40 The world is ever known to be honest with you.
+02:04:06.40 --> 02:04:13.56 I mean, maybe the in addition the airborne divisions from the Army are also just highly
+02:04:13.56 --> 02:04:15.44 capable.
+02:04:15.44 --> 02:04:21.16 But the Marine Corps with its air ground sea, it's got command and control, it's got integrated
+02:04:21.16 --> 02:04:23.40 intelligence, it's got everything.
+02:04:23.40 --> 02:04:24.84 And it can use it all together.
+02:04:24.84 --> 02:04:33.60 And so that makes it just an extremely effective and efficient fighting force.
+02:04:33.60 --> 02:04:36.52 And they are highly disciplined, they are highly motivated.
+02:04:36.52 --> 02:04:38.96 There's an incredible aspreet of corps.
+02:04:38.96 --> 02:04:44.08 So for me, this was long overdue.
+02:04:44.08 --> 02:04:54.80 And I think that I actually did a turnover with the initial kind of Marsoc group in 2004.
+02:04:54.80 --> 02:04:56.56 And back that.
+02:04:56.56 --> 02:05:00.68 And I'd work with the Marine Corps on I had more work with force recon on multiple deployments
+02:05:00.68 --> 02:05:03.12 when I was a younger seal.
+02:05:03.12 --> 02:05:09.08 And they took a bunch of those guys a bunch of just legendary force recon guys and put them
+02:05:09.08 --> 02:05:12.96 into this first Marsoc company.
+02:05:12.96 --> 02:05:14.56 And they were awesome.
+02:05:14.56 --> 02:05:17.76 Awesome warriors, awesome guys.
+02:05:17.76 --> 02:05:22.76 And I think I actually have one thing that that's a huge benefit to them is in the Marine
+02:05:22.76 --> 02:05:24.80 Corps, you're in the Marine Corps.
+02:05:24.80 --> 02:05:27.44 So every Marine Corps, every Marine is a rifleman.
+02:05:27.44 --> 02:05:33.32 They have the opportunity to work with big conventional infantry companies and platoons
+02:05:33.32 --> 02:05:34.32 and battalion.
+02:05:34.32 --> 02:05:38.20 So their guys will be very experienced.
+02:05:38.20 --> 02:05:43.60 And I think that they are going to be, I mean, I think that the Marine Corps special
+02:05:43.60 --> 02:05:50.40 operations command is going to be an extremely capable force in the future.
+02:05:50.40 --> 02:06:02.44 And I am glad to say the least that they will be defending our country and freedom around
+02:06:02.44 --> 02:06:06.08 the world for many, many years to come.
+02:06:06.08 --> 02:06:11.76 Yeah, that kind of goes along with what you were saying, or a lot of these points that
+02:06:11.76 --> 02:06:15.48 these books make about how the discipline and the training are so paramount.
+02:06:15.48 --> 02:06:20.36 You know, in success, now you have yet another division that's going to get some solid
+02:06:20.36 --> 02:06:22.36 training, you know, yeah, for sure.
+02:06:22.36 --> 02:06:25.92 There's no doubt the Marine Corps will put these guys through outstanding training.
+02:06:25.92 --> 02:06:26.92 Yeah.
+02:06:26.92 --> 02:06:37.24 Next question, do you consider shooting a martial art and how is your firearms training
+02:06:37.24 --> 02:06:40.08 been like or unlike martial arts training?
+02:06:40.08 --> 02:06:47.56 Well, shooting is absolutely a martial art.
+02:06:47.56 --> 02:06:52.52 I mean, maybe not the way people picture martial arts nowadays, because when you picture
+02:06:52.52 --> 02:06:57.40 martial art, people picture, you know, a guy with a guy doing karate.
+02:06:57.40 --> 02:06:58.40 That's right.
+02:06:58.40 --> 02:06:59.40 That's the generic picture.
+02:06:59.40 --> 02:07:02.24 To me, that's not martial arts, actually.
+02:07:02.24 --> 02:07:05.96 To me, martial arts is the art of war.
+02:07:05.96 --> 02:07:11.48 The individual warrior skills that it takes.
+02:07:11.48 --> 02:07:16.24 And firearms are absolutely a martial art because it's something that you train.
+02:07:16.24 --> 02:07:17.96 It's something that you get good at.
+02:07:17.96 --> 02:07:22.16 It's something that you need to maintain your skill at.
+02:07:22.16 --> 02:07:25.48 And it is absolutely a martial art.
+02:07:25.48 --> 02:07:32.48 And to me, it's another piece of the puzzle.
+02:07:32.48 --> 02:07:36.04 It's another thing that you shouldn't, you need to know how to do.
+02:07:36.04 --> 02:07:43.20 And just like tactics that go along with shooting are an important part of being a warrior,
+02:07:43.20 --> 02:07:44.48 you need to not shoot.
+02:07:44.48 --> 02:07:51.88 The training is very similar in my mind to martial arts training.
+02:07:51.88 --> 02:07:56.64 In that it takes, you know, repetition, you have to know what the basics are.
+02:07:56.64 --> 02:07:58.20 You have to repeat those basics.
+02:07:58.20 --> 02:08:01.20 And then you get more advanced.
+02:08:01.20 --> 02:08:10.52 And it's about movement and getting efficient with your movement.
+02:08:10.52 --> 02:08:16.20 And then you want to train it very similar to the way that you train mixed martial arts
+02:08:16.20 --> 02:08:17.56 or martial arts in general.
+02:08:17.56 --> 02:08:20.48 And that is, you're going to have different threat levels and how you're going to deal with
+02:08:20.48 --> 02:08:21.48 them.
+02:08:21.48 --> 02:08:22.68 And you want to deal with your weak side.
+02:08:22.68 --> 02:08:28.28 You know, you can shoot with your offhand in various environments in the low light, in
+02:08:28.28 --> 02:08:32.28 the dark, in the rain, and you want to mix it up.
+02:08:32.28 --> 02:08:33.28 So you're used to all of it.
+02:08:33.28 --> 02:08:35.44 You want to be used to people at close range.
+02:08:35.44 --> 02:08:39.16 You want to be used to people at further range.
+02:08:39.16 --> 02:08:46.16 And then once you get all those mechanical skills down, then you want to train your mind
+02:08:46.16 --> 02:08:47.72 around this thing.
+02:08:47.72 --> 02:08:55.96 You want to train your mind around this skill so that your mind knows how to utilize this
+02:08:55.96 --> 02:08:58.28 skill when things are unexpected.
+02:08:58.28 --> 02:09:02.20 And when there's chaos and when there's mayhem going on.
+02:09:02.20 --> 02:09:07.44 And that's one of the things that I really like about the simulation training or paint
+02:09:07.44 --> 02:09:16.16 ball training or laser tag training is it allows you to have somebody else shoot back
+02:09:16.16 --> 02:09:22.92 it to you, which is just like just like rolling in GJT or sparring more Thai or sparring
+02:09:22.92 --> 02:09:27.40 MMA is you have to react to the person it's no longer just a cata.
+02:09:27.40 --> 02:09:34.80 It's no longer just shooting paper targets that don't shoot back and don't move.
+02:09:34.80 --> 02:09:40.52 So I love to take it once you've got the skills down and then you learn you've got the
+02:09:40.52 --> 02:09:47.16 fundamentals down and then you take the advanced fundamentals and then you begin to train
+02:09:47.16 --> 02:09:49.56 to simulate combat.
+02:09:49.56 --> 02:09:58.40 And this is I'll tell you, I have these laser tag guns for my son.
+02:09:58.40 --> 02:10:03.28 And I just got two of them at first but that escalated very quickly because they were
+02:10:03.28 --> 02:10:04.28 awesome.
+02:10:04.28 --> 02:10:10.28 There are these little nerf laser tag guns and you could shoot each other at I don't
+02:10:10.28 --> 02:10:17.20 know maybe a hundred meters which is a pretty good shot as like a pistol.
+02:10:17.20 --> 02:10:21.72 And so when I got these and it seems I got two of them and I realized how good they
+02:10:21.72 --> 02:10:22.72 were.
+02:10:22.72 --> 02:10:25.60 I bought two more so I could go against my son and his friends and they could go against
+02:10:25.60 --> 02:10:30.36 each other and I taught my son like all the basic military maneuvers that he would
+02:10:30.36 --> 02:10:31.36 need to know.
+02:10:31.36 --> 02:10:39.000 And this is when he was maybe eight years old and we would play this game all the time
+02:10:39.000 --> 02:10:40.24 you know.
+02:10:40.24 --> 02:10:42.12 And so I taught him out of cover and move.
+02:10:42.12 --> 02:10:43.72 I taught him how to get elevated positions.
+02:10:43.72 --> 02:10:48.92 I taught him how to do individual movement techniques where you don't show your face at
+02:10:48.92 --> 02:10:54.16 the same spot like twice and row every time you get up you move a little bit.
+02:10:54.16 --> 02:10:58.80 And he realized that that's how you win in these little games and they're real those
+02:10:58.80 --> 02:11:00.76 are the real tactics.
+02:11:00.76 --> 02:11:05.64 And so I had a speaking of speaking of the Marine Corps.
+02:11:05.64 --> 02:11:19.48 I had a friend that was came over to the house one time and he was you know a Marine and
+02:11:19.48 --> 02:11:22.68 we got in the conversation and all of a sudden you know my son comes out with the laser
+02:11:22.68 --> 02:11:28.92 tag guns and my son's like oh you know do you want to go and the guys like you know
+02:11:28.92 --> 02:11:31.52 yeah of course let's do it.
+02:11:31.52 --> 02:11:36.84 So my son looks at him and says indoor or outdoor and he all of a sudden you could see
+02:11:36.84 --> 02:11:40.80 there was something going on and the guy goes out to or outdoor.
+02:11:40.80 --> 02:11:45.24 So my son you you press the button on the thing and it counts down for 10 seconds and
+02:11:45.24 --> 02:11:46.24 then it's on.
+02:11:46.24 --> 02:11:48.72 So wait so you go fight and cover or something like that.
+02:11:48.72 --> 02:11:53.28 So yeah so 10 seconds my son hits the thing my son takes off out the door.
+02:11:53.28 --> 02:11:58.12 So I'm watching a guy and I got this guy's doomed because you know you're going against
+02:11:58.12 --> 02:12:01.20 a train shooting the killer.
+02:12:01.20 --> 02:12:06.80 So the guy comes out and and it's dark right but the guy comes out of the door and
+02:12:06.80 --> 02:12:10.12 I'm watching me he's kind of grouched a little bit and all of a sudden his gun because
+02:12:10.12 --> 02:12:14.32 it all is in this one system it's all takes place inside the gun you don't wear
+02:12:14.32 --> 02:12:17.60 a helmet you don't wear anything you actually are shooting the other person's gun.
+02:12:17.60 --> 02:12:23.80 I want to shot when you when you get shot it goes and shakes and the red light flashes.
+02:12:23.80 --> 02:12:29.28 So he walks out and sure enough my son had run around the block gotten into that related
+02:12:29.28 --> 02:12:34.52 position and as soon as he came walking out my son sort of drilling him and the guy's like
+02:12:34.52 --> 02:12:38.60 he freezes it's interesting like he freezes he doesn't even think to myself oh I'll
+02:12:38.60 --> 02:12:44.08 take cover no he just froze and got drilled and then as soon as it's he stand there he's
+02:12:44.08 --> 02:12:48.16 kind of looking around looking around looking around finally he sees my son he starts
+02:12:48.16 --> 02:12:53.76 to point the weapon up towards my son my son just disappears and then the guys
+02:12:53.76 --> 02:12:59.16 start to kind of walking over in that direction and then 15 seconds later my son pops
+02:12:59.16 --> 02:13:03.32 up on his flank and drills him again from behind another fence and the whole the wall
+02:13:03.32 --> 02:13:07.84 and anyways he ends up killing him and then the guys okay let's go again and my son
+02:13:07.84 --> 02:13:14.20 beat him like three times in a row and it's because he had the basic the basic skills
+02:13:14.20 --> 02:13:19.84 basic infantryman skills is what it was you know he would shoot and then move and
+02:13:19.84 --> 02:13:26.64 that's what it boils down to so that kind of thing is is very important in as
+02:13:26.64 --> 02:13:32.72 far as being a martial art and you should train you know that's another thing
+02:13:32.72 --> 02:13:37.76 you know I said this to Sam Harris when I was on his podcast you know yeah
+02:13:37.76 --> 02:13:43.04 maybe there's a no chance because you live in a in the bubble and you live in a
+02:13:43.04 --> 02:13:45.92 great neighborhood and you're well protecting you have a long system your
+02:13:45.92 --> 02:13:50.36 house and all that and maybe you're never gonna have a problem and that's great
+02:13:50.36 --> 02:13:53.88 I mean there's always a chance I would never believe that you're never gonna have
+02:13:53.88 --> 02:13:57.32 a problem but there's always a chance that somebody's gonna confront you that's
+02:13:57.32 --> 02:14:02.84 evil is gonna enter your world and you want to be ready for that now if that
+02:14:02.84 --> 02:14:08.68 makes me sound paranoid okay let's just say you're not paranoid and you don't
+02:14:08.68 --> 02:14:15.20 think it's ever gonna happen but it is still highly valuable to train in these
+02:14:15.20 --> 02:14:19.56 situations because they make you a better person they make you sharper they
+02:14:19.56 --> 02:14:24.92 make you smarter they make you more prepared if something does happen it's just
+02:14:24.92 --> 02:14:29.32 good to know this stuff and it makes you a better person more reliable it's a real
+02:14:29.32 --> 02:14:36.68 skill set you know I was was kind of bummed out about basketball or football or
+02:14:36.68 --> 02:14:40.96 baseball because those are the there are life skills involved in my not
+02:14:40.96 --> 02:14:46.20 saying that but the skill itself of throwing the baseball of shooting a
+02:14:46.20 --> 02:14:53.76 basketball of throwing a football is not as valuable as a skill as number one
+02:14:53.76 --> 02:15:00.48 a martial artist you know moly tie boxing wrestling GJ2 because those are real
+02:15:00.48 --> 02:15:07.92 applicable to life 100% and this is the same thing with shooting a gut I mean
+02:15:07.92 --> 02:15:11.88 that is a real applicable skill that you may need at some point in your life and
+02:15:11.88 --> 02:15:22.20 you should have it you know what supplements do you and echo take what supplements
+02:15:22.20 --> 02:15:27.28 do you take well my number one supplement is steak
+02:15:27.28 --> 02:15:36.32 steak yes beautiful steak that's the number one well there there are a couple
+02:15:36.32 --> 02:15:41.000 things that I take number one I take krill oil I've taken it every day for
+02:15:41.000 --> 02:15:49.20 probably ten years maybe a little bit longer and I take glucose
+02:15:49.20 --> 02:15:57.52 mean and I've taken that every day for ten plus years I got I had when my
+02:15:57.52 --> 02:16:03.20 shoulder was bothering me many years ago and someone said hey take krill oil
+02:16:03.20 --> 02:16:08.56 take glucose mean and I said actually know what it wasn't krill oil it was
+02:16:08.56 --> 02:16:13.44 official all the time but at the same time I just started taking both and within a
+02:16:13.44 --> 02:16:17.16 short period of time my shoulder got better and it had been a nagging nine
+02:16:17.16 --> 02:16:22.40 month injury so I don't know which one of those two did it but I'm never gonna
+02:16:22.40 --> 02:16:29.48 find out if someone was gonna take them both yeah you know I eat a lot of
+02:16:29.48 --> 02:16:34.52 coconut oil whenever I get the chance I like dipping things in coconut oil
+02:16:34.52 --> 02:16:39.76 coconut oil is if you get a taste for it it's a really nice tasting thing yeah
+02:16:39.76 --> 02:16:46.36 yeah so that's that's the supplements that I take you know one thing that's been
+02:16:46.36 --> 02:16:52.72 really cool is is picking up a sponsorship from on it for the podcast you
+02:16:52.72 --> 02:16:59.000 know from Joe who's obviously been a big supporter he's actually the reason
+02:16:59.000 --> 02:17:02.12 that we're sitting here right now because Joe Rogan I mean Tim Ferriss had the
+02:17:02.12 --> 02:17:05.72 same thing with Joe Rogan said you need to have your own podcast and I said okay
+02:17:05.72 --> 02:17:12.48 here we are and he was you know real supportive so I definitely like
+02:17:12.48 --> 02:17:19.52 supporting him his company with on it but what's great is they make good quality
+02:17:19.52 --> 02:17:26.56 stuff and it's real simple yeah it's funny and I didn't really tell you about this
+02:17:26.56 --> 02:17:33.32 but if you go on on the on it on it on it website you can get stuck on there
+02:17:33.32 --> 02:17:37.16 for a long time just reading all the stuff about it you know like that the
+02:17:37.16 --> 02:17:41.72 krill oil was one and I know about krill oil from long time and they're
+02:17:41.72 --> 02:17:45.20 krill or like these little they're like little shrimp basically teeny
+02:17:45.20 --> 02:17:50.40 tanger you know so teeny tiny shrimp yeah for lack of that away putting it but
+02:17:50.40 --> 02:17:54.32 how they get it is like it's all eco friendly where it doesn't destroy the or
+02:17:54.32 --> 02:17:59.36 affect the ecosystem even the big ship the vessel that they used to to
+02:17:59.36 --> 02:18:04.68 to harvest the the krill is like low emissions specifically certified like
+02:18:04.68 --> 02:18:08.12 dang it's real in-depthing you get stuck on this real interesting too because
+02:18:08.12 --> 02:18:11.04 they tell you like what are the benefits you know how do they know that these
+02:18:11.04 --> 02:18:15.80 benefits are there because you can't just say hey take this little cure this you
+02:18:15.80 --> 02:18:20.68 can't just do that you got to go through this process yeah to be honest over
+02:18:20.68 --> 02:18:24.28 the krill oil I don't know maybe like seven years ago or something at some point
+02:18:24.28 --> 02:18:28.92 I went from fish oil to krill oil yeah apparently they're fun and it's like
+02:18:28.92 --> 02:18:32.72 little bit better some I think it's a lot better yeah wouldn't well at least
+02:18:32.72 --> 02:18:38.72 when you read about it but to me people ask me you know oh what do you do you
+02:18:38.72 --> 02:18:45.16 know because I'm 44 years old old man right but I don't feel 44 yeah I feel
+02:18:45.16 --> 02:18:50.16 24 you don't feel 44 yeah I feel I feel 24 and actually
+02:18:50.16 --> 02:18:55.28 the thing that originally turned me on to fish oil was there was a guy that
+02:18:55.28 --> 02:19:05.76 was a badass guy and he was 54 but he was a competitive power lifter when
+02:19:05.76 --> 02:19:10.12 he was younger and he was in really good shape and this is probably when I was
+02:19:10.12 --> 02:19:13.72 what was I at that that's 15 years ago or something like that I was like 30
+02:19:13.72 --> 02:19:19.48 years old and this guy looked young and healthy and I said you know hey well
+02:19:19.48 --> 02:19:23.56 what do you do like what your main thing to keep you so young and healthy and
+02:19:23.56 --> 02:19:30.32 he said I take fish oil every day okay cool let's try that yeah I will get on
+02:19:30.32 --> 02:19:37.60 board that train yeah so yeah to be honest for some today and no no
+02:19:37.60 --> 02:19:41.56 krill oil we'll get you some krill right on thank you yeah and you get
+02:19:41.56 --> 02:19:49.16 krill oil at on a dot com yeah the on a back slash jacco that's right forward
+02:19:49.16 --> 02:19:52.92 slash anything I don't know what it is forward slash jacco actually I put it
+02:19:52.92 --> 02:19:56.68 on the on the website on both websites the jacco store website and the
+02:19:56.68 --> 02:20:03.52 jacco podcast website so sweet yeah and oh and they give us a discount so or so
+02:20:03.52 --> 02:20:09.04 on it is giving our listeners a discount like 10% my people and what I did
+02:20:09.04 --> 02:20:12.96 find out on it regardless of whatever discount you get they you have free
+02:20:12.96 --> 02:20:18.08 shipping on everything except I want to say that the big oh I don't know
+02:20:18.08 --> 02:20:21.20 it's done cattle bells yeah but everything else like something you get free
+02:20:21.20 --> 02:20:24.88 shipping also which is kind of seems like a small deal and doing the
+02:20:24.88 --> 02:20:29.20 cuz I've sold things online and stuff before like insurance and that's
+02:20:29.20 --> 02:20:33.76 the none of the stuff is here and of course I bought things online but and
+02:20:33.76 --> 02:20:37.52 when you see that free shipping oh no it's just something it seems small real
+02:20:37.52 --> 02:20:40.80 like legit yeah you you kind of feel it you know what I mean
+02:20:40.80 --> 02:20:45.20 people probably want to know what supplements you take people mainly
+02:20:45.20 --> 02:20:48.24 would ask me that in college it's when everyone wants to hear what's
+02:20:48.24 --> 02:20:51.60 something because they think for some reason that supplements give you big
+02:20:51.60 --> 02:20:54.96 muscles or something they don't they don't think about that whole working out
+02:20:54.96 --> 02:20:59.36 yeah the whole working out thing I mean yeah that was secondary
+02:21:00.40 --> 02:21:05.52 but yeah and then in jacco they care less about muscles there they'll be like
+02:21:05.52 --> 02:21:09.28 you know it's actually you get kind of tease sometimes in jacco if you have big
+02:21:09.28 --> 02:21:14.40 muscles it's weird you don't get teased but you lose credit for your skills
+02:21:14.40 --> 02:21:17.76 yes on your side yeah that too but you kind of do get
+02:21:17.76 --> 02:21:23.44 every person ever roll with you know you get done rolling they're like man you're strong
+02:21:23.44 --> 02:21:30.40 yeah yeah yeah yeah yeah you're weak I've been training for 20 years too by the way
+02:21:30.40 --> 02:21:37.44 yeah that's nothing to do with us yeah I take the only supplement I take
+02:21:38.72 --> 02:21:45.60 alpha brain the instant one oh the instant alpha and I do take a pre workout which is
+02:21:45.60 --> 02:21:50.32 I mean I'm gonna be honest I don't know if I should take a pre workout pre workout is just
+02:21:50.32 --> 02:21:52.96 you know what that is right you just like a little powder it's like is a
+02:21:52.96 --> 02:22:01.44 stimulant it's caffeine in it typically in n02 nitric nitric oxide it basically makes
+02:22:01.44 --> 02:22:05.60 your it basil dilate to you so your vessels get dilated so it
+02:22:05.60 --> 02:22:09.92 you get more of a pompe gives you energy it's just like it's basically stimulant
+02:22:09.92 --> 02:22:14.80 energy so you know if you're not in the mood for working out but I found this little
+02:22:14.80 --> 02:22:20.32 sweet sweet little combo you put alpha brain instant with it or just with coffee
+02:22:20.32 --> 02:22:24.64 drink some coffee in the alpha brain instant it hits you at the same time but
+02:22:24.64 --> 02:22:32.24 if you didn't want to work out you'll want to work out with that check but yeah so yeah
+02:22:32.24 --> 02:22:36.64 that's it that's pretty much it it's funny because a lot of people they think that if you
+02:22:36.64 --> 02:22:40.16 take protein powder it'll make your muscles big like it'll help you get big muscles
+02:22:40.16 --> 02:22:49.12 but no like if you take your favorite supplement which is steak just eat normal you know
+02:22:49.12 --> 02:22:52.64 and if you're working out you're gonna eat a little bit more that's how you get big
+02:22:52.64 --> 02:22:57.20 muscles work out good and have the correct workout for muscles which is different kind of
+02:22:57.20 --> 02:23:01.68 work out then if you want to you know get conditioning or something like that and then eat it
+02:23:01.68 --> 02:23:06.24 enough that's what you got to do and eat right after you work out I mean you got to do that too I think
+02:23:06.24 --> 02:23:13.20 no actually I think I don't you go and somebody actually somebody put on Twitter that
+02:23:13.20 --> 02:23:20.64 I was right there's like some about you're not testosterone release or HGH there's some kind of
+02:23:22.000 --> 02:23:26.24 something happening your system will research that one yeah yeah I don't want to have an
+02:23:26.24 --> 02:23:33.68 uneducated argument right now yeah at all so you're looking at them call it bro science
+02:23:33.68 --> 02:23:40.000 yeah exactly I'm going down the bro science road right now that would be wrong but yes to answer
+02:23:40.000 --> 02:23:46.16 the question supplements that's like in every day supplement too I'll bring it by the way
+02:23:47.20 --> 02:23:55.92 and and a pre workout and oh no from stream tech and I've been taken even before we started
+02:23:55.92 --> 02:24:01.92 this podcast I took shoot no I remember you were in all fired up for the shoot tag yeah yeah
+02:24:01.92 --> 02:24:09.60 because it gave you the cardio yes that you'd win miss yeah so as we we have to kind of explain to people that you know
+02:24:11.84 --> 02:24:17.92 I don't need more I'm saying more I'm just saying echo in the past right I think it's safe to
+02:24:17.92 --> 02:24:23.28 say I don't feel uncomfortable by saying there was a little bit of a cardio deficit that would be
+02:24:23.28 --> 02:24:30.08 reached very quick I'll echo Charles on the mat so more accurately being tired was more of an issue
+02:24:30.08 --> 02:24:34.08 for me like dealing with being tired you know certain people will get tired but they just don't care
+02:24:34.08 --> 02:24:37.28 like Dan Henderson like you'll get tired but yeah I'll just keep fighting you sco
+02:24:37.28 --> 02:24:44.08 see I didn't have that no those opposite so yeah so I so when I take the stream tech sport you
+02:24:44.08 --> 02:24:49.84 could feel I could feel like it's like you almost like you'd expect to get more tired than you
+02:24:49.84 --> 02:24:54.88 really are that's what I felt so yeah I was taking that before but that's in specific cases only
+02:24:54.88 --> 02:24:59.60 with jujitsu like if I'm doing like conditioning like now like a matconner something I won't take
+02:24:59.60 --> 02:25:03.92 it because you don't want to give yourself the extra edge yeah it's like it seems like if I'm
+02:25:03.92 --> 02:25:12.48 free just for conditioning it's kind of like I want to do the mat yeah yeah yeah that's it that's
+02:25:12.48 --> 02:25:18.64 all the supplements right there I will take the krill oil though for sure because that's gonna help me
+02:25:20.08 --> 02:25:27.20 last question juggle I would enjoy hearing your thoughts on leading others to a strong finish in both
+02:25:27.20 --> 02:25:34.56 a deployment and in the civilian life this is this is something that I saw
+02:25:37.12 --> 02:25:41.76 in combat even on my first deployment to Iraq and it's something that I tried to train
+02:25:41.76 --> 02:25:50.80 out of people and that was a tendency to relax once a target was secure or the vehicles were loaded
+02:25:50.80 --> 02:26:00.72 and we were leaving the target area people would have a tendency to let their guard down
+02:26:03.28 --> 02:26:14.88 but you can't let your guard down then or ever really and in training when I was running training
+02:26:14.88 --> 02:26:23.52 we always hit the platoon's hard on target but we always we always hit him even harder after they
+02:26:23.52 --> 02:26:31.44 left the target once they were patroling back to base and their mind hit already gone home and then
+02:26:31.44 --> 02:26:39.36 turned off and that's when we bring it to him be hit him from multiple angles with all kinds of
+02:26:39.36 --> 02:26:53.04 man because I wanted to instill into them I wanted to instill that attitude the muscle memory
+02:26:55.20 --> 02:27:05.28 to always keep going and always stay focused because that's the mentality that you have to have
+02:27:05.28 --> 02:27:15.76 is that it's never finished it is never finished you always have to do more another mission
+02:27:15.76 --> 02:27:28.32 another task another goal and have that attitude that the enemy is always watching and waiting
+02:27:28.32 --> 02:27:40.40 and looking and studying you for that moment of weakness looking for you to exhale put your weapon
+02:27:40.40 --> 02:28:00.08 down and close your eyes that's when they attack so my rule is don't be finished be starting be
+02:28:00.08 --> 02:28:13.60 ready be attacking be relentless let the enemy stop let the enemy rest let the enemy finish but you
+02:28:16.08 --> 02:28:25.92 don't finish don't stop don't rest not until the enemy is completely destroyed
+02:28:25.92 --> 02:28:41.84 and even then even then when the enemy is gone that's when you turn that focus inward
+02:28:41.84 --> 02:28:50.48 on yourself and you take the opportunity not to rest but as always you take that
+02:28:50.48 --> 02:29:04.48 opportunity to make yourself better faster smarter stronger and with those goals nothing
+02:29:04.48 --> 02:29:20.08 is ever finished so thanks to everybody for tuning in to the podcast and listening to it
+02:29:22.48 --> 02:29:29.92 thanks for subscribing and reviewing and spreading the word tell another people about the podcast
+02:29:29.92 --> 02:29:41.60 thanks to on it dot com for the support and what do we got with amazon dot com for support
+02:29:43.84 --> 02:29:50.32 I put a little link again both the websites where you can like give you shop at amazon
+02:29:50.32 --> 02:29:56.16 it's like an affiliate it's like just a way to support this podcast if you shop on amazon you click
+02:29:56.16 --> 02:30:04.64 through there first and it kind of gives us a referral kind of fee you know so all these books that
+02:30:04.64 --> 02:30:10.40 people are buying from the podcast yeah that's awesome yeah so yeah if you click through the website
+02:30:10.40 --> 02:30:16.88 you get you know we get like a little percentage or whatever it's like a referral thing and your book
+02:30:16.88 --> 02:30:24.24 is actually on there as well extreme ownership nice nice like that but yeah that's a good way
+02:30:24.24 --> 02:30:30.16 good deal cool couple ways to support the podcast and the on it stuff is pretty obvious when you
+02:30:30.16 --> 02:30:36.000 go on there you can click on there click on that link to if you're going to shot if you're going to
+02:30:36.000 --> 02:30:42.80 get alphabraner or or a true attacker or krill or whatever whatever all the dope stuff on there
+02:30:42.80 --> 02:30:51.52 but if you click through there you'll get the 10% off nice or just go to on it on it on
+02:30:51.52 --> 02:31:02.000 nnt.com slash jockel same thing got it and appreciate all that support from everybody there's
+02:31:02.000 --> 02:31:12.64 uh i know echoes running this thing he's paying for server costs and all the stuff equipment
+02:31:12.64 --> 02:31:20.64 and whatnot me i'm just showing up and talking so appreciate the support so echoes not coming out
+02:31:20.64 --> 02:31:29.04 a pocket for the gig if you want to connect with us if you want to continue these conversations
+02:31:29.84 --> 02:31:36.24 if you want to ask questions and we got some great questions tonight for sure if you want to
+02:31:36.24 --> 02:31:47.68 roll up to you can connect to us through the interwebs on twitter um at jockel willink and of course echo
+02:31:47.68 --> 02:32:03.20 Charles is at echo Charles and i'm going to start a facebook page i think and echo Charles is going to start a facebook page
+02:32:03.20 --> 02:32:10.24 that'll be good i think and thanks for leaving reviews in the podcast on iTunes that's kind of
+02:32:10.24 --> 02:32:18.72 how another way that the word gets spread and of the book stream ownership on amazon.com that also helps us
+02:32:20.24 --> 02:32:30.08 and finally if you really want to help me get out there in the world in your car in the train
+02:32:31.28 --> 02:32:38.64 at your apartment at your house wherever you are at work or at play get out there
+02:32:38.64 --> 02:32:52.48 and get after it so until next time this is jockel and echo out
